@@ -1,0 +1,57 @@
+#┌────────┐
+#│ Browser│
+#└────────┘
+super + shift + w
+    qutebrowser
+
+mod1 + shift + w
+	firefox
+
+mod1 + w
+	badwolf
+
+#┌─────────┐
+#│Utilities│
+#└─────────┘
+mod1 + t 
+    telegram
+
+mod1 + f
+	thunar
+
+mod1 + shift + e
+    emacsclient -c -a emacs
+
+super + shift + e
+    powermenu
+
+super + Print
+	flameshot
+
+#┌─────┐
+#│ Misc│
+#└─────┘
+super + ctrl + o
+    xterm -e vim ~/.config/i3/config
+
+super + shift + End
+    xterm -sk -e htop
+
+super + shift + Home
+    xterm -sk -e ranger
+
+super + shift + Page_Down
+    xterm -e nmtui
+
+super + shift + Page_Up
+    xterm -sk -e w3m ddg.gg
+
+mod1 + d
+	dmenu_run
+
+mod1 + Return 
+	xterm -sk
+
+mod1 + ctrl + s
+	word-lookup
+

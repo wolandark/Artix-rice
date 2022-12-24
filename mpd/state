@@ -1,0 +1,52 @@
+sw_volume: 45
+audio_device_state:1:mpd alsamixer-output
+audio_device_state:1:toggle_visualizer
+audio_device_state:1:pulse audio
+state: pause
+current: 31
+time: 90.722000
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:stash/2.wav
+1:stash/3.mp3
+2:stash/4/aryana 256 kb-procc 4.mp3
+3:stash/6/aryana 256 kb-procc 6.mp3
+4:stash/6/aryana wave kb-procc 6.wav
+5:stash/4/aryana wave-procc 4.wav
+6:stash/blk dru.wav
+7:stash/blk222.wav
+8:stash/sweden.MP4
+9:stash/sweden.mp3
+10:stash/2.wav
+11:stash/3.mp3
+12:stash/4/aryana 256 kb-procc 4.mp3
+13:stash/6/aryana 256 kb-procc 6.mp3
+14:stash/6/aryana wave kb-procc 6.wav
+15:stash/4/aryana wave-procc 4.wav
+16:stash/blk dru.wav
+17:stash/blk222.wav
+18:stash/sweden.MP4
+19:stash/sweden.mp3
+20:stash/2.wav
+21:stash/3.mp3
+22:stash/4/aryana 256 kb-procc 4.mp3
+23:stash/6/aryana 256 kb-procc 6.mp3
+24:stash/6/aryana wave kb-procc 6.wav
+25:stash/4/aryana wave-procc 4.wav
+26:stash/blk dru.wav
+27:stash/blk222.wav
+28:stash/sweden.MP4
+29:stash/sweden.mp3
+30:Dungeon Synth/Fief-II/01. Dawnlight Warms The Castle Stone.mp3
+31:Dungeon Synth/Depressive Silence -Depressive Silence II/01. Forest Of Eternity.mp3
+32:Dungeon Synth/Depressive Silence -Depressive Silence II/02. Depths Of The Oceans.mp3
+33:Dungeon Synth/Depressive Silence -Depressive Silence II/03. Atmosphere.mp3
+34:Dungeon Synth/Depressive Silence -Depressive Silence II/04. Mourning.mp3
+35:Dungeon Synth/Depressive Silence -Depressive Silence II/05. Dreams.mp3
+playlist_end
