@@ -1,0 +1,388 @@
+**** BEGIN LOGGING AT Tue Nov 15 16:06:52 2022
+
+Nov 15 16:06:52 »»	Now talking on #i3
+Nov 15 16:06:52 »»	Topic for #i3 is: i3 v4.21.1 released | i3status 2.13 released | i3lock 2.14 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY | #i3-offtopic  
+Nov 15 16:06:52 »»	Topic for #i3 set by sECuRE!~sECuRE@2a02:168:4a00:0:dea6:32ff:fe02:ba14 at Mon Oct 24 23:08:37 2022
+**** ENDING LOGGING AT Tue Nov 15 17:23:23 2022
+
+**** BEGIN LOGGING AT Tue Nov 15 23:03:49 2022
+
+Nov 15 23:03:49 »»	Now talking on #i3
+Nov 15 23:03:49 »»	Topic for #i3 is: i3 v4.21.1 released | i3status 2.13 released | i3lock 2.14 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY | #i3-offtopic  
+Nov 15 23:03:49 »»	Topic for #i3 set by sECuRE!~sECuRE@2a02:168:4a00:0:dea6:32ff:fe02:ba14 at Mon Oct 24 23:08:37 2022
+**** ENDING LOGGING AT Tue Nov 15 23:08:37 2022
+
+**** BEGIN LOGGING AT Tue Nov 15 23:08:37 2022
+
+**** ENDING LOGGING AT Tue Nov 15 23:12:39 2022
+
+**** BEGIN LOGGING AT Tue Nov 15 23:12:39 2022
+
+**** ENDING LOGGING AT Tue Nov 15 23:12:41 2022
+
+**** BEGIN LOGGING AT Tue Nov 15 23:13:35 2022
+
+Nov 15 23:13:35 »»	Now talking on #i3
+Nov 15 23:13:35 »»	Topic for #i3 is: i3 v4.21.1 released | i3status 2.13 released | i3lock 2.14 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY | #i3-offtopic  
+Nov 15 23:13:35 »»	Topic for #i3 set by sECuRE!~sECuRE@2a02:168:4a00:0:dea6:32ff:fe02:ba14 at Mon Oct 24 23:08:37 2022
+**** ENDING LOGGING AT Wed Nov 16 01:07:14 2022
+
+**** BEGIN LOGGING AT Wed Nov 16 01:26:26 2022
+
+Nov 16 01:26:26 »»	Now talking on #i3
+Nov 16 01:26:26 »»	Topic for #i3 is: i3 v4.21.1 released | i3status 2.13 released | i3lock 2.14 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY | #i3-offtopic  
+Nov 16 01:26:26 »»	Topic for #i3 set by sECuRE!~sECuRE@2a02:168:4a00:0:dea6:32ff:fe02:ba14 at Mon Oct 24 23:08:37 2022
+**** ENDING LOGGING AT Wed Nov 16 01:40:42 2022
+
+**** BEGIN LOGGING AT Wed Nov 16 22:29:34 2022
+
+Nov 16 22:29:34 »»	Now talking on #i3
+Nov 16 22:29:34 »»	Topic for #i3 is: i3 v4.21.1 released | i3status 2.13 released | i3lock 2.14 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY | #i3-offtopic  
+Nov 16 22:29:34 »»	Topic for #i3 set by sECuRE!~sECuRE@2a02:168:4a00:0:dea6:32ff:fe02:ba14 at Mon Oct 24 23:08:37 2022
+Nov 16 23:06:55 .:jb1277976:.	Is there any point of having an external monitor for a laptop running i3 when i have 9 virtual desktops that can run whatever i want? just want to see the need for an external monitor. i would like one but i don't see if its even needed
+Nov 16 23:13:45 .:nimaje:.	a second monitor would mean more screen space, so more you can see at once, if you have use for that is something you have to decide yourself and you can have as many workspaces as you want
+Nov 16 23:14:43 .:nimaje:.	why do you ask basically the same question here and in #suckless?
+Nov 16 23:42:53 .:ForeverNoob[m]:.	Hi, in my i3 config I have `bindsym $mod+w exec "rofi -show windowcd"` and `bindsym $mod+e exec "rofi -show window"` respectively. That was fine for rofi 1.5.0 but apparently not for the current rofi stable release. On the latest stable, `windowcd` has same behavior as `window` (meaning, in both cases I get to see windows across all workspaces). Initiating `rofi -show windowcd` via terminal works as expected though. Did anyone else have this
+Nov 16 23:42:53 .:ForeverNoob[m]:.	issue?
+Nov 17 02:48:43 »»	Disconnected ().
+**** ENDING LOGGING AT Thu Nov 17 02:48:43 2022
+
+**** BEGIN LOGGING AT Thu Nov 17 02:51:24 2022
+
+Nov 17 02:51:24 »»	Now talking on #i3
+Nov 17 02:51:24 »»	Topic for #i3 is: i3 v4.21.1 released | i3status 2.13 released | i3lock 2.14 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY | #i3-offtopic  
+Nov 17 02:51:24 »»	Topic for #i3 set by sECuRE!~sECuRE@2a02:168:4a00:0:dea6:32ff:fe02:ba14 at Mon Oct 24 23:08:37 2022
+Nov 17 02:51:24 -Notice-	{from NickServ} This nickname is registered and protected.  If it is your nickname, you may
+Nov 17 02:51:24 -Notice-	{from NickServ} authenticate yourself to services with the IDENTIFY command.  You are
+Nov 17 02:51:24 -Notice-	{from NickServ} getting this message because you are not on the access list for the
+Nov 17 02:51:24 -Notice-	{from NickServ} woland nickname.
+Nov 17 02:51:24 »»	Received a CTCP VERSION from CTCPServ
+Nov 17 05:00:13 »»	Disconnected ().
+**** ENDING LOGGING AT Thu Nov 17 05:00:13 2022
+
+**** BEGIN LOGGING AT Thu Nov 17 05:03:29 2022
+
+Nov 17 05:03:29 »»	Now talking on #i3
+Nov 17 05:03:29 »»	Topic for #i3 is: i3 v4.21.1 released | i3status 2.13 released | i3lock 2.14 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY | #i3-offtopic  
+Nov 17 05:03:29 »»	Topic for #i3 set by sECuRE!~sECuRE@2a02:168:4a00:0:dea6:32ff:fe02:ba14 at Mon Oct 24 23:08:37 2022
+Nov 17 05:03:30 -Notice-	{from NickServ} This nickname is registered and protected.  If it is your nickname, you may
+Nov 17 05:03:30 -Notice-	{from NickServ} authenticate yourself to services with the IDENTIFY command.  You are
+Nov 17 05:03:30 -Notice-	{from NickServ} getting this message because you are not on the access list for the
+Nov 17 05:03:30 -Notice-	{from NickServ} woland nickname.
+Nov 17 05:03:30 »»	Received a CTCP VERSION from CTCPServ
+Nov 17 09:50:43 »»	Disconnected ().
+**** ENDING LOGGING AT Thu Nov 17 09:50:43 2022
+
+**** BEGIN LOGGING AT Thu Nov 17 09:57:34 2022
+
+Nov 17 09:57:34 »»	Now talking on #i3
+Nov 17 09:57:34 »»	Topic for #i3 is: i3 v4.21.1 released | i3status 2.13 released | i3lock 2.14 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY | #i3-offtopic  
+Nov 17 09:57:34 »»	Topic for #i3 set by sECuRE!~sECuRE@2a02:168:4a00:0:dea6:32ff:fe02:ba14 at Mon Oct 24 23:08:37 2022
+Nov 17 10:38:40 .:okraits:.	ForeverNoob[m]: Yes, I experience the same with rofi 1.7.3
+Nov 17 12:26:40 .:af:.	Hi, I am trying to bind something to $mod+button3 but it never executes. I have verified with xev that button 3 is triggered. Instead, i3 just snaps the pointer to the nearest window edge whenever I hit $mod+button3. Any ideas?
+Nov 17 12:27:34 .:af:.	(which by the way I think is a nice feature, but I still need my binding though)
+Nov 17 12:32:06 .:okraits:.	af: Please post your exact config line
+Nov 17 12:35:49 .:okraits:.	af: if you want it to work anywhere over a window, you need to specify '--border --whole-window'
+Nov 17 13:13:08 .:okraits:.	 [3~[4~[4~[4~fff5~[6;5~5~5~5~
+Nov 17 13:13:13 .:okraits:.	Sorry
+Nov 17 13:18:29 .:af:.	okraits: Ahh, adding --border made it work. Thank you! I'll re-read the docs to understand this now.
+Nov 17 13:27:14 »»	Disconnected (Connection reset by peer).
+**** ENDING LOGGING AT Thu Nov 17 13:27:14 2022
+
+**** BEGIN LOGGING AT Thu Nov 17 13:34:56 2022
+
+Nov 17 13:34:56 »»	Now talking on #i3
+Nov 17 13:34:56 »»	Topic for #i3 is: i3 v4.21.1 released | i3status 2.13 released | i3lock 2.14 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY | #i3-offtopic  
+Nov 17 13:34:56 »»	Topic for #i3 set by sECuRE!~sECuRE@2a02:168:4a00:0:dea6:32ff:fe02:ba14 at Mon Oct 24 23:08:37 2022
+Nov 17 13:48:06 .:okraits:.	af: You're welcome :)
+Nov 17 13:48:19 .:ForeverNoob[m]:.	@okraits: What version of i3 are you running it from? Check out a similar issue and what that user did to fix it: https://github.com/davatorium/rofi/issues/1539
+Nov 17 13:48:47 .:ForeverNoob[m]:.	Also, to what key combo did you bind `rofi -show windowcd` to?
+Nov 17 13:51:01 .:okraits:.	ForeverNoob[m]: $mod+x, 4.21-125-ga1e4b449
+Nov 17 13:51:35 .:ForeverNoob[m]:.	So `bindsym $mod+x exec "rofi -show windowcd"` ?
+Nov 17 13:52:23 .:okraits:.	ForeverNoob[m]: yes, but without the double quotes
+Nov 17 13:52:36 .:ForeverNoob[m]:.	Ah ok.
+Nov 17 13:52:59 .:okraits:.	it also shows windows from all workspaces if I run it from rofi itself. But it works if I run it from a terminal
+Nov 17 13:53:30 .:ForeverNoob[m]:.	Yeah same here from terminal. Really weird. What distro are you on?
+Nov 17 13:53:47 .:okraits:.	Debian Bullseye
+Nov 17 13:54:05 .:ForeverNoob[m]:.	I'm on 22.04 (VM for now)
+Nov 17 13:55:19 .:ForeverNoob[m]:.	I'm in #rofi:libera.chat right now trying to provide more info and hopefully narrow it down further.
+Nov 17 14:00:16 .:okraits:.	Yeah, strange issue
+Nov 17 14:25:23 .:woland:.	does rofi also take a few seconds to launch the first time for you too?
+Nov 17 14:28:09 <okraits>	woland: first time after boot or what do you mean?
+Nov 17 14:29:04 .:woland:.	yes first time as in first time after boot
+Nov 17 14:29:32 .:okraits:.	I don't know, I would have to reboot to try :)
+Nov 17 14:29:57 .:woland:.	had to switch to albert just because of this issue 
+Nov 17 14:29:58 .:ForeverNoob[m]:.	@okraits: Try adding `--no-startup-id` after exec.
+Nov 17 14:30:07 .:woland:.	ForeverNoob[m]:  I have
+Nov 17 14:30:31 <okraits>	woland: which issue? startup time?
+Nov 17 14:30:37 .:woland:.	yea
+Nov 17 14:30:41 <ForeverNoob[m]>	@woland: Was not referring to you :)
+Nov 17 14:30:52 .:woland:.	ForeverNoob[m]: my bad
+Nov 17 14:31:27 .:okraits:.	ForeverNoob[m]: to fix the windowcd mode?
+Nov 17 14:31:55 .:ForeverNoob[m]:.	Yes
+Nov 17 14:32:23 .:ForeverNoob[m]:.	Actual fix has just been added, so you might also test that: https://github.com/davatorium/rofi/commit/c82754307cd160e692b0892490849c11849f9ce4
+Nov 17 14:32:49 .:okraits:.	ForeverNoob[m]: Oh nice :)
+Nov 17 14:33:19 <okraits>	woland: This guy uses fzf in a terminal as a replacement: https://www.youtube.com/watch?v=kw2mnwhptjw
+Nov 17 14:34:18 .:ForeverNoob[m]:.	Maintainer says that it might not be a 100% fix lol, so I guess we'll have to see ¯\_(ツ)_/¯
+Nov 17 14:34:30 .:ForeverNoob[m]:.	But I'm glad it got patched so quickly.
+Nov 17 14:36:37 .:ForeverNoob[m]:.	@okraits: Re: fzf replacemtn. I've been working on that for quite a while now, but the fundamental roadblock is that i3 does not allow floating windows to spawn on top of fullscreen windows like rofi does atm: https://github.com/i3/i3/discussions/5263
+Nov 17 14:37:15 .:ForeverNoob[m]:.	...and Alacritty is unable to handle input / etc when direct_override is applied to it.
+Nov 17 14:37:31 .:okraits:.	ForeverNoob[m]: Ah, I remember that issue
+Nov 17 14:37:42 .:okraits:.	ForeverNoob[m]: But do you have fullscreen windows so often?
+Nov 17 14:38:29 .:ForeverNoob[m]:.	The main alacritty window I'm working in (running the main tmux session) is always fullscreen.
+Nov 17 14:38:30 .:okraits:.	ForeverNoob[m]: Oh, I already posted the video link in the original issue...
+Nov 17 14:38:38 .:ForeverNoob[m]:.	:D
+Nov 17 14:38:58 .:woland:.	okraits: thats interesting
+Nov 17 14:39:20 .:okraits:.	ForeverNoob[m]: And hiding window decorations and the bar is not an alternative to fullscreen?
+Nov 17 14:39:53 .:woland:.	rofi -show windowcd launches immediately but only shows windows in the workspace in which its launched not all open windows
+Nov 17 14:40:13 <okraits>	woland: that's intended
+Nov 17 14:40:36 .:woland:.	okraits: no work around then?
+Nov 17 14:40:37 <ForeverNoob[m]>	@woland: Use `rofi -show window` for that.
+Nov 17 14:40:41 .:okraits:.	windowcd = window current desktop
+Nov 17 14:41:05 .:woland:.	okraits: ah!
+Nov 17 14:41:12 <okraits>	woland: The issue was that it shows windows from all workspaces when launched by i3
+Nov 17 14:41:23 .:woland:.	ForeverNoob[m]: Thanks 
+Nov 17 14:42:02 .:ForeverNoob[m]:.	@okraits: That might be a solution for that main alacritty session, but not for other fullscreen windows that I occasionally have. Though I could try and replicate a faux-fullscreen (but then at that point it gets to be hacky really quickly)
+Nov 17 14:43:08 .:okraits:.	ForeverNoob[m]: yeah, but it's an option at least
+Nov 17 14:43:27 .:ForeverNoob[m]:.	Yeah I suppose.
+Nov 17 14:44:24 .:okraits:.	Or maybe it's possible to disable fullscreen, start your launcher, enable fullscreen again
+Nov 17 14:45:33 .:okraits:.	or in reality: get the fullscreen state (enabled or disabled), start your launcher, restore the fullscreen state
+Nov 17 14:56:04 .:okraits:.	Lunchtime
+Nov 17 15:13:19 .:nimaje:.	how about using tabbed layout, ForeverNoob[m]?
+Nov 17 15:14:41 .:woland:.	tabbed with font set to 0 is best
+Nov 17 18:01:47 .:ForeverNoob[m]:.	@nimaje: Oh I'm using tabbed layout on a couple of workspaces already, it's just that for some windows I prefer fullscreen. Especially for apps that maximize all the available screen real estate (in my case that being Bitwig Studio to name one from the top of my head). And with a resolution of 1366 x 768, screen real estate is definitely an asset :p
+Nov 17 18:08:43 .:woland:.	ForeverNoob[m]: this is how I use reaper DAW in i3
+Nov 17 18:08:46 .:woland:.	for_window [class="REAPER" instance="REAPER"] floating enable , border normal 2
+Nov 17 18:09:07 .:woland:.	maybe its useful to you
+Nov 17 18:09:37 .:ForeverNoob[m]:.	How do you manage its x/y placement though, manually?
+Nov 17 18:10:17 .:woland:.	it just spawns the dialogues (like eq or something) in the middle of the screen in floating mode
+Nov 17 18:10:26 .:woland:.	I can drag them around ofcourse
+Nov 17 18:10:51 .:woland:.	and if they spawn in the wrong display you can also specify an output for its class
+Nov 17 18:12:19 .:ForeverNoob[m]:.	What about spawning the main window though? Because if I make some windows floating, I have to manually resize them to my liking.
+Nov 17 18:12:53 .:woland:.	the main window spawns full screen for me by default 
+Nov 17 18:13:07 .:ForeverNoob[m]:.	Ah I see.
+Nov 17 18:13:24 .:woland:.	you specify size tho in i3 config
+Nov 17 18:13:35 .:woland:.	like this "resize set 1904 400, move position 1929px 681px"
+Nov 17 18:14:02 .:woland:.	you can use this syntax after the launch command or the class command
+Nov 17 18:14:59 .:ForeverNoob[m]:.	Yeah I have a special resize mode where I hit a key and it applies the size and x/y to windows. I could try making such customization for Bitwig Studio.
+Nov 17 18:15:30 .:woland:.	certainly 
+Nov 17 18:36:43 .:okraits:.	I wouldn't use floating windows for long existing windows
+Nov 17 18:37:18 .:okraits:.	Rather use tabbed layout and remove borders or even titles by setting the font size to 0 if needed
+Nov 17 19:30:14 »»	Disconnected ().
+**** ENDING LOGGING AT Thu Nov 17 19:30:14 2022
+
+**** BEGIN LOGGING AT Thu Nov 17 19:37:01 2022
+
+Nov 17 19:37:01 »»	Now talking on #i3
+Nov 17 19:37:01 »»	Topic for #i3 is: i3 v4.21.1 released | i3status 2.13 released | i3lock 2.14 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY | #i3-offtopic  
+Nov 17 19:37:01 »»	Topic for #i3 set by sECuRE!~sECuRE@2a02:168:4a00:0:dea6:32ff:fe02:ba14 at Mon Oct 24 23:08:37 2022
+**** ENDING LOGGING AT Thu Nov 17 19:59:54 2022
+
+**** BEGIN LOGGING AT Thu Nov 17 22:11:05 2022
+
+Nov 17 22:11:05 »»	Now talking on #i3
+Nov 17 22:11:05 »»	Topic for #i3 is: i3 v4.21.1 released | i3status 2.13 released | i3lock 2.14 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY | #i3-offtopic  
+Nov 17 22:11:05 »»	Topic for #i3 set by sECuRE!~sECuRE@2a02:168:4a00:0:dea6:32ff:fe02:ba14 at Mon Oct 24 23:08:37 2022
+Nov 17 23:22:44 »»	Disconnected ().
+**** ENDING LOGGING AT Thu Nov 17 23:22:44 2022
+
+**** BEGIN LOGGING AT Fri Nov 18 14:39:02 2022
+
+Nov 18 14:39:02 »»	Now talking on #i3
+Nov 18 14:39:02 »»	Topic for #i3 is: i3 v4.21.1 released | i3status 2.13 released | i3lock 2.14 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY | #i3-offtopic  
+Nov 18 14:39:02 »»	Topic for #i3 set by sECuRE!~sECuRE@2a02:168:4a00:0:dea6:32ff:fe02:ba14 at Mon Oct 24 23:08:37 2022
+Nov 18 15:30:38 .:kuhilas[m]:.	Is there a sleep command to run something in i3-msg?
+Nov 18 15:31:20 .:kuhilas[m]:.	I want to run two instances of qutebrowser at startup but it's inconsistantly opening them in wrong workspaces. Maybe it's because they happen too quickly in succession
+Nov 18 15:33:23 .:kuhilas[m]:.	exec_always --no-startup-id i3-msg 'workspace 2; exec qutebrowser; workspace 4; exec urxvt; workspace 3; exe    c qutebrowser;'
+Nov 18 15:33:50 .:kuhilas[m]:.	exec*
+Nov 18 15:34:04 .:woland:.	limit it to one workspace
+Nov 18 15:34:41 .:woland:.	for_window [class="ProgramClass"] move to workspace $ws1
+Nov 18 15:35:13 .:woland:.	then autostart with # exec --no-startup-id exec Program
+Nov 18 15:35:19 .:kuhilas[m]:.	I mean I want first instance in workspace 2 and 2nd one in workspace 3
+Nov 18 15:35:50 .:kuhilas[m]:.	but even if my i3-msg has me changing first to said workspace and then executing, it still executes them in wrong workspaces occasionally
+Nov 18 15:36:04 .:woland:.	udk if qutebrowser accepts assigned classe 
+Nov 18 15:36:11 .:woland:.	why use i3-msg?
+Nov 18 15:36:16 .:woland:.	just exec in config
+Nov 18 15:37:50 .:kuhilas[m]:.	exec --no-startup-id 'workspace 2; exec qutebrowser; workspace 3; exec qutebrowser;'
+Nov 18 15:37:57 .:kuhilas[m]:.	You mean this should do the same thing?
+Nov 18 15:38:01 .:kuhilas[m]:.	in config
+Nov 18 15:38:09 .:woland:.	it should
+Nov 18 15:38:27 .:woland:.	but move to workspace 2
+Nov 18 15:38:32 .:woland:.	should be better
+Nov 18 15:39:31 .:woland:.	I've never ran two instances of the same program tho. terminals that accept assigned class can do this easily but idk about qutebrowser. I auto start mine in ws1 and thats it for me
+Nov 18 15:40:06 .:kuhilas[m]:.	it doesn't work without i3-msg for me
+Nov 18 15:40:09 .:kuhilas[m]:.	just tried
+Nov 18 15:40:28 .:woland:.	did you login?
+Nov 18 15:40:32 .:kuhilas[m]:.	I have actually also assigned classes for qutebrowser too where the 2nd instance gets moved automatically
+Nov 18 15:40:38 .:kuhilas[m]:.	I reloaded with ctrl-r
+Nov 18 15:40:53 .:woland:.	you have to log out and log back in again to make sure
+Nov 18 15:41:07 .:woland:.	or startx from another tty if you can
+Nov 18 15:41:28 .:kuhilas[m]:.	hmm actually that old assigning messes things up a bit, I forgot I had that
+Nov 18 15:43:54 .:woland:.	if you have classes assigned to qutebrowser just assign each class to a different workspace
+Nov 18 15:44:17 .:woland:.	with for_window class syntax that I sent b4
+Nov 18 15:56:55 .:kuhilas[m]:.	thanks got it working now
+Nov 18 16:16:15 .:woland:.	kuhilas[m]: anytime
+**** BEGIN LOGGING AT Sun Nov 20 16:23:44 2022
+
+Nov 20 16:23:44 »»	Now talking on #i3
+Nov 20 16:23:44 »»	Topic for #i3 is: i3 v4.21.1 released | i3status 2.13 released | i3lock 2.14 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY | #i3-offtopic  
+Nov 20 16:23:44 »»	Topic for #i3 set by sECuRE!~sECuRE@2a02:168:4a00:0:dea6:32ff:fe02:ba14 at Mon Oct 24 23:08:37 2022
+**** ENDING LOGGING AT Sun Nov 20 17:52:19 2022
+
+**** BEGIN LOGGING AT Mon Nov 21 22:21:03 2022
+
+Nov 21 22:21:03 »»	Now talking on #i3
+Nov 21 22:21:03 »»	Topic for #i3 is: i3 v4.21.1 released | i3status 2.13 released | i3lock 2.14 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY | #i3-offtopic  
+Nov 21 22:21:03 »»	Topic for #i3 set by sECuRE!~sECuRE@2a02:168:4a00:0:dea6:32ff:fe02:ba14 at Mon Oct 24 23:08:37 2022
+**** ENDING LOGGING AT Mon Nov 21 22:33:07 2022
+
+**** BEGIN LOGGING AT Tue Nov 22 01:11:10 2022
+
+Nov 22 01:11:10 »»	Now talking on #i3
+Nov 22 01:11:10 »»	Topic for #i3 is: i3 v4.21.1 released | i3status 2.13 released | i3lock 2.14 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY | #i3-offtopic  
+Nov 22 01:11:10 »»	Topic for #i3 set by sECuRE!~sECuRE@2a02:168:4a00:0:dea6:32ff:fe02:ba14 at Mon Oct 24 23:08:37 2022
+**** ENDING LOGGING AT Tue Nov 22 02:17:11 2022
+
+**** BEGIN LOGGING AT Sat Nov 26 02:05:04 2022
+
+Nov 26 02:05:04 »»	Now talking on #i3
+Nov 26 02:05:04 »»	Topic for #i3 is: i3 v4.21.1 released | i3status 2.13 released | i3lock 2.14 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY | #i3-offtopic  
+Nov 26 02:05:04 »»	Topic for #i3 set by sECuRE!~sECuRE@2a02:168:4a00:0:dea6:32ff:fe02:ba14 at Mon Oct 24 23:08:37 2022
+Nov 26 02:05:04 -Notice-	{from NickServ} This nickname is registered and protected.  If it is your nickname, you may
+Nov 26 02:05:04 -Notice-	{from NickServ} authenticate yourself to services with the IDENTIFY command.  You are
+Nov 26 02:05:04 -Notice-	{from NickServ} getting this message because you are not on the access list for the
+Nov 26 02:05:04 -Notice-	{from NickServ} woland nickname.
+Nov 26 02:05:04 »»	Received a CTCP VERSION from CTCPServ
+**** ENDING LOGGING AT Sat Nov 26 02:20:36 2022
+
+**** BEGIN LOGGING AT Sat Nov 26 04:55:09 2022
+
+Nov 26 04:55:09 »»	Now talking on #i3
+Nov 26 04:55:09 »»	Topic for #i3 is: i3 v4.21.1 released | i3status 2.13 released | i3lock 2.14 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY | #i3-offtopic  
+Nov 26 04:55:09 »»	Topic for #i3 set by sECuRE!~sECuRE@2a02:168:4a00:0:dea6:32ff:fe02:ba14 at Mon Oct 24 23:08:37 2022
+Nov 26 04:55:09 -Notice-	{from NickServ} This nickname is registered and protected.  If it is your nickname, you may
+Nov 26 04:55:09 -Notice-	{from NickServ} authenticate yourself to services with the IDENTIFY command.  You are
+Nov 26 04:55:09 -Notice-	{from NickServ} getting this message because you are not on the access list for the
+Nov 26 04:55:09 -Notice-	{from NickServ} woland nickname.
+Nov 26 04:55:09 »»	Received a CTCP VERSION from CTCPServ
+**** ENDING LOGGING AT Sat Nov 26 05:38:25 2022
+
+**** BEGIN LOGGING AT Wed Nov 30 04:50:16 2022
+
+Nov 30 04:50:16 »»	Now talking on #i3
+Nov 30 04:50:16 »»	Topic for #i3 is: i3 v4.21.1 released | i3status 2.13 released | i3lock 2.14 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY | #i3-offtopic  
+Nov 30 04:50:16 »»	Topic for #i3 set by sECuRE!~sECuRE@2a02:168:4a00:0:dea6:32ff:fe02:ba14 at Mon Oct 24 23:08:37 2022
+**** ENDING LOGGING AT Wed Nov 30 05:06:07 2022
+
+**** BEGIN LOGGING AT Fri Dec  2 02:45:08 2022
+
+Dec 02 02:45:08 »»	Now talking on #i3
+Dec 02 02:45:08 »»	Topic for #i3 is: i3 v4.21.1 released | i3status 2.13 released | i3lock 2.14 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY | #i3-offtopic  
+Dec 02 02:45:08 »»	Topic for #i3 set by sECuRE!~sECuRE@2a02:168:4a00:0:dea6:32ff:fe02:ba14 at Mon Oct 24 23:08:37 2022
+Dec 02 02:45:08 -Notice-	{from NickServ} This nickname is registered and protected.  If it is your nickname, you may
+Dec 02 02:45:08 -Notice-	{from NickServ} authenticate yourself to services with the IDENTIFY command.  You are
+Dec 02 02:45:08 -Notice-	{from NickServ} getting this message because you are not on the access list for the
+Dec 02 02:45:08 -Notice-	{from NickServ} woland nickname.
+Dec 02 02:45:08 »»	Received a CTCP VERSION from CTCPServ
+Dec 02 02:48:33 »»	Disconnected ().
+**** ENDING LOGGING AT Fri Dec  2 02:48:33 2022
+
+**** BEGIN LOGGING AT Fri Dec  2 02:51:14 2022
+
+Dec 02 02:51:14 »»	Now talking on #i3
+Dec 02 02:51:14 »»	Topic for #i3 is: i3 v4.21.1 released | i3status 2.13 released | i3lock 2.14 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY | #i3-offtopic  
+Dec 02 02:51:14 »»	Topic for #i3 set by sECuRE!~sECuRE@2a02:168:4a00:0:dea6:32ff:fe02:ba14 at Mon Oct 24 23:08:37 2022
+Dec 02 02:51:14 -Notice-	{from NickServ} This nickname is registered and protected.  If it is your nickname, you may
+Dec 02 02:51:14 -Notice-	{from NickServ} authenticate yourself to services with the IDENTIFY command.  You are
+Dec 02 02:51:14 -Notice-	{from NickServ} getting this message because you are not on the access list for the
+Dec 02 02:51:14 -Notice-	{from NickServ} woland nickname.
+Dec 02 02:51:14 »»	Received a CTCP VERSION from CTCPServ
+Dec 02 02:57:33 »»	Disconnected ().
+**** ENDING LOGGING AT Fri Dec  2 02:57:33 2022
+
+**** BEGIN LOGGING AT Fri Dec  2 03:05:00 2022
+
+Dec 02 03:05:00 »»	Now talking on #i3
+Dec 02 03:05:00 »»	Topic for #i3 is: i3 v4.21.1 released | i3status 2.13 released | i3lock 2.14 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY | #i3-offtopic  
+Dec 02 03:05:00 »»	Topic for #i3 set by sECuRE!~sECuRE@2a02:168:4a00:0:dea6:32ff:fe02:ba14 at Mon Oct 24 23:08:37 2022
+**** ENDING LOGGING AT Fri Dec  2 03:25:13 2022
+
+**** BEGIN LOGGING AT Fri Dec  2 19:35:06 2022
+
+Dec 02 19:35:06 »»	Now talking on #i3
+Dec 02 19:35:06 »»	Topic for #i3 is: i3 v4.21.1 released | i3status 2.13 released | i3lock 2.14 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY | #i3-offtopic  
+Dec 02 19:35:06 »»	Topic for #i3 set by sECuRE!~sECuRE@2a02:168:4a00:0:dea6:32ff:fe02:ba14 at Mon Oct 24 23:08:37 2022
+**** ENDING LOGGING AT Fri Dec  2 19:36:22 2022
+
+**** BEGIN LOGGING AT Fri Dec  2 19:36:50 2022
+
+Dec 02 19:36:50 »»	Now talking on #i3
+Dec 02 19:36:50 »»	Topic for #i3 is: i3 v4.21.1 released | i3status 2.13 released | i3lock 2.14 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY | #i3-offtopic  
+Dec 02 19:36:50 »»	Topic for #i3 set by sECuRE!~sECuRE@2a02:168:4a00:0:dea6:32ff:fe02:ba14 at Mon Oct 24 23:08:37 2022
+**** ENDING LOGGING AT Fri Dec  2 20:03:02 2022
+
+**** BEGIN LOGGING AT Wed Dec  7 04:44:49 2022
+
+Dec 07 04:44:49 »»	Now talking on #i3
+Dec 07 04:44:49 »»	Topic for #i3 is: i3 v4.21.1 released | i3status 2.13 released | i3lock 2.14 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY | #i3-offtopic  
+Dec 07 04:44:49 »»	Topic for #i3 set by sECuRE!~sECuRE@2a02:168:4a00:0:dea6:32ff:fe02:ba14 at Mon Oct 24 23:08:37 2022
+**** ENDING LOGGING AT Wed Dec  7 04:48:54 2022
+
+**** BEGIN LOGGING AT Wed Dec  7 04:55:29 2022
+
+Dec 07 04:55:29 »»	Now talking on #i3
+Dec 07 04:55:29 »»	Topic for #i3 is: i3 v4.21.1 released | i3status 2.13 released | i3lock 2.14 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY | #i3-offtopic  
+Dec 07 04:55:29 »»	Topic for #i3 set by sECuRE!~sECuRE@2a02:168:4a00:0:dea6:32ff:fe02:ba14 at Mon Oct 24 23:08:37 2022
+**** ENDING LOGGING AT Wed Dec  7 04:56:16 2022
+
+**** BEGIN LOGGING AT Wed Dec  7 05:00:23 2022
+
+Dec 07 05:00:23 »»	Now talking on #i3
+Dec 07 05:00:23 »»	Topic for #i3 is: i3 v4.21.1 released | i3status 2.13 released | i3lock 2.14 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY | #i3-offtopic  
+Dec 07 05:00:23 »»	Topic for #i3 set by sECuRE!~sECuRE@2a02:168:4a00:0:dea6:32ff:fe02:ba14 at Mon Oct 24 23:08:37 2022
+**** ENDING LOGGING AT Wed Dec  7 06:21:57 2022
+
+**** BEGIN LOGGING AT Wed Dec  7 23:37:35 2022
+
+Dec 07 23:37:35 »»	Now talking on #i3
+Dec 07 23:37:35 »»	Topic for #i3 is: i3 v4.21.1 released | i3status 2.13 released | i3lock 2.14 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY | #i3-offtopic  
+Dec 07 23:37:35 »»	Topic for #i3 set by sECuRE!~sECuRE@2a02:168:4a00:0:dea6:32ff:fe02:ba14 at Mon Oct 24 23:08:37 2022
+Dec 07 23:49:55 .:merskot:.	I have a weird problem with an external monitor I occasionally use with my laptop: after suspending and waking up, it still shows up in xrandr, but it remains dark. When I reboot, it works fine until I suspend again. I'm not absolutely sure that it is a problem with i3, but it works flawlessly with xfce. When the screen is just locked with i3lock, it works too, so it must be an issue with the suspend somehow. Does anyone have an idea, even just about which p
+Dec 07 23:49:56 .:merskot:.	y system might be causing this?
+**** ENDING LOGGING AT Thu Dec  8 01:21:47 2022
+
+**** BEGIN LOGGING AT Thu Dec  8 17:18:16 2022
+
+Dec 08 17:18:16 »»	Now talking on #i3
+Dec 08 17:18:16 »»	Topic for #i3 is: i3 v4.21.1 released | i3status 2.13 released | i3lock 2.14 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY | #i3-offtopic  
+Dec 08 17:18:16 »»	Topic for #i3 set by sECuRE!~sECuRE@2a02:168:4a00:0:dea6:32ff:fe02:ba14 at Mon Oct 24 23:08:37 2022
+**** BEGIN LOGGING AT Thu Dec  8 17:38:42 2022
+
+Dec 08 17:38:42 »»	Now talking on #i3
+Dec 08 17:38:42 »»	Topic for #i3 is: i3 v4.21.1 released | i3status 2.13 released | i3lock 2.14 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY | #i3-offtopic  
+Dec 08 17:38:42 »»	Topic for #i3 set by sECuRE!~sECuRE@2a02:168:4a00:0:dea6:32ff:fe02:ba14 at Mon Oct 24 23:08:37 2022
+**** ENDING LOGGING AT Thu Dec  8 19:17:34 2022
+
+**** BEGIN LOGGING AT Fri Dec  9 05:41:31 2022
+
+Dec 09 05:41:31 »»	Now talking on #i3
+Dec 09 05:41:31 »»	Topic for #i3 is: i3 v4.21.1 released | i3status 2.13 released | i3lock 2.14 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY | #i3-offtopic  
+Dec 09 05:41:31 »»	Topic for #i3 set by sECuRE!~sECuRE@2a02:168:4a00:0:dea6:32ff:fe02:ba14 at Mon Oct 24 23:08:37 2022
+Dec 09 05:49:26 »»	Disconnected ().
+**** ENDING LOGGING AT Fri Dec  9 05:49:26 2022
+
+**** BEGIN LOGGING AT Fri Dec  9 05:56:20 2022
+
+Dec 09 05:56:20 »»	Now talking on #i3
+Dec 09 05:56:20 »»	Topic for #i3 is: i3 v4.21.1 released | i3status 2.13 released | i3lock 2.14 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY | #i3-offtopic  
+Dec 09 05:56:20 »»	Topic for #i3 set by sECuRE!~sECuRE@2a02:168:4a00:0:dea6:32ff:fe02:ba14 at Mon Oct 24 23:08:37 2022
+Dec 09 06:43:26 »»	Disconnected ().
+**** ENDING LOGGING AT Fri Dec  9 06:43:26 2022
+
+**** BEGIN LOGGING AT Fri Dec  9 06:50:24 2022
+
+Dec 09 06:50:24 »»	Now talking on #i3
+Dec 09 06:50:24 »»	Topic for #i3 is: i3 v4.21.1 released | i3status 2.13 released | i3lock 2.14 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY | #i3-offtopic  
+Dec 09 06:50:24 »»	Topic for #i3 set by sECuRE!~sECuRE@2a02:168:4a00:0:dea6:32ff:fe02:ba14 at Mon Oct 24 23:08:37 2022
+**** ENDING LOGGING AT Fri Dec  9 08:17:29 2022
+

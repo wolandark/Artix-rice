@@ -1,0 +1,4 @@
+T 1668515888 25»19»	19Now talking on #i3
+T 1668515888 29»22»	22Topic for #i3 is: freenode/#i3 is moving to OFTC: https://oftc.net/ -- https://www.freelists.org/post/i3-announce/i3-IRC-channel-moving-from-Freenode-to-OFTC -- see you there
+T 1668515888 29»22»	22Topic for #i3 set by sur5r!sur5r@x3650.sur5r.net at Fri May 21 12:07:08 2021
+T 1668515888 28-21Notice28-	21{28from ChanServ21} [#i3] freenode/#i3 is moving to OFTC: https://oftc.net/ -- see you there

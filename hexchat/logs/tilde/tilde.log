@@ -1,0 +1,469 @@
+**** BEGIN LOGGING AT Tue Nov 15 00:48:03 2022
+
+Nov 15 00:48:03 »»	*** Looking up your ident...
+Nov 15 00:48:03 »»	*** Looking up your hostname...
+Nov 15 00:48:03 »»	*** Found your hostname (static.247.176.55.162.clients.your-server.de)
+Nov 15 00:48:04 *	Capabilities supported: account-notify account-tag away-notify batch cap-notify chghost echo-message extended-join inspircd.org/poison inspircd.org/standard-replies invite-notify labeled-response message-tags multi-prefix sasl=EXTERNAL,PLAIN server-time setname tls userhost-in-names 
+Nov 15 00:48:04 *	Capabilities requested: account-notify account-tag away-notify cap-notify chghost extended-join invite-notify multi-prefix server-time setname userhost-in-names 
+Nov 15 00:48:05 »»	*** Ident lookup timed out, using ~woland instead.
+Nov 15 00:48:06 *	Capabilities acknowledged: account-notify account-tag away-notify cap-notify chghost extended-join invite-notify multi-prefix server-time setname userhost-in-names
+**** ENDING LOGGING AT Tue Nov 15 00:48:08 2022
+
+**** BEGIN LOGGING AT Tue Nov 15 00:48:08 2022
+
+Nov 15 00:53:21 »»	Welcome to the tilde.chat IRC Network woland!~woland@static.247.176.55.162.clients.your-server.de
+Nov 15 00:53:21 »»	Your host is cosmic.tilde.chat, running version InspIRCd-3
+Nov 15 00:53:21 »»	This server was created 12:15:13 May 23 2022
+Nov 15 00:53:21 »»	cosmic.tilde.chat InspIRCd-3 BILRSTWcghiorswz ABCEFHIJLMNOQRSTXYabcefghijklmnopqrstuvz :BEFHIJLXYabefghjkloqv
+Nov 15 00:53:21 »»	ACCEPT=30 AWAYLEN=200 BOT=B CALLERID=g CASEMAPPING=rfc1459 CHANLIMIT=#:120 CHANMODES=IXbeg,k,BEFHJLfjl,ACMNOQRSTcimnprstuz CHANNELLEN=64 CHANTYPES=# ELIST=CMNTU ESILENCE=CcdiNnPpTtx EXCEPTS=e :are supported by this server
+**** BEGIN LOGGING AT Tue Nov 15 16:09:38 2022
+
+Nov 15 16:14:54 »»	Welcome to the tilde.chat IRC Network woland!~woland@static.247.176.55.162.clients.your-server.de
+Nov 15 16:14:54 »»	Your host is club.tilde.chat, running version InspIRCd-3
+Nov 15 16:14:54 »»	This server was created 00:54:48 Sep 26 2022
+Nov 15 16:14:54 »»	club.tilde.chat InspIRCd-3 BILRSTWcghiorswz ABCEFHIJLMNOQRSTXYabcefghijklmnopqrstuvz :BEFHIJLXYabefghjkloqv
+Nov 15 16:14:54 »»	ACCEPT=30 AWAYLEN=200 BOT=B CALLERID=g CASEMAPPING=rfc1459 CHANLIMIT=#:120 CHANMODES=IXbeg,k,BEFHJLfjl,ACMNOQRSTcimnprstuz CHANNELLEN=64 CHANTYPES=# ELIST=CMNTU ESILENCE=CcdiNnPpTtx EXCEPTS=e :are supported by this server
+Nov 15 16:14:54 »»	EXTBAN=,ACNOQRSTUacmnprwz HOSTLEN=64 INVEX=I KEYLEN=32 KICKLEN=255 LINELEN=512 MAXLIST=I:100,X:100,b:100,e:100,g:100 MAXTARGETS=20 MODES=20 MONITOR=30 NAMELEN=128 NAMESX NETWORK=tilde.chat :are supported by this server
+Nov 15 16:14:54 »»	NICKLEN=31 PREFIX=(Yqaohv)!~&@%+ REMOVE SAFELIST SECURELIST=60 SILENCE=32 STATUSMSG=!~&@%+ TOPICLEN=307 UHNAMES USERIP USERLEN=11 USERMODES=,,s,BILRSTWcghiorwz WATCH=30 :are supported by this server
+Nov 15 16:14:54 »»	WHOX :are supported by this server
+Nov 15 16:14:54 »»	There are 723 users and 136 invisible on 12 servers
+Nov 15 16:14:54 »»	11 :operator(s) online
+Nov 15 16:14:54 »»	1 :unknown connections
+Nov 15 16:14:54 »»	459 :channels formed
+Nov 15 16:14:54 »»	I have 130 clients and 2 servers
+Nov 15 16:14:54 »»	Current local users: 130  Max: 130
+Nov 15 16:14:54 »»	Current global users: 859  Max: 876
+Nov 15 16:14:54 »»	club.tilde.chat message of the day
+Nov 15 16:14:54 »»	         __      __     __  _ __    __           __          __ 
+Nov 15 16:14:54 »»	   _____/ /_  __/ /_   / /_(_) /___/ /__   _____/ /_  ____ _/ /_
+Nov 15 16:14:54 »»	  / ___/ / / / / __ \ / __/ / / __  / _ \ / ___/ __ \/ __ `/ __/
+Nov 15 16:14:54 »»	 / /__/ / /_/ / /_/ // /_/ / / /_/ /  __// /__/ / / / /_/ / /_  
+Nov 15 16:14:54 »»	 \___/_/\__,_/_.___(_)__/_/_/\__,_/\___(_)___/_/ /_/\__,_/\__/  
+Nov 15 16:14:54 »»	                                                                
+Nov 15 16:14:54 »»	 welcome to tilde.chat
+Nov 15 16:14:54 »»	 this is the irc network for the tildeverse (https://tildeverse.org)
+Nov 15 16:14:54 »»	 
+Nov 15 16:14:54 »»	 check out the appropriate channel for your tilde:
+Nov 15 16:14:54 »»	 
+Nov 15 16:14:54 »»	   - aussies.space    ~> #aussie
+Nov 15 16:14:54 »»	   - breadpunk.club   ~> #bread
+Nov 15 16:14:54 »»	   - cosmic.voyage    ~> #cosmic
+Nov 15 16:14:54 »»	   - ctrl-c.club      ~> #ctrl-c
+Nov 15 16:14:54 »»	   - heathens.club    ~> #midgard
+Nov 15 16:14:54 »»	   - rw.rs            ~> #rw.rs
+Nov 15 16:14:54 »»	   - texto-plano.xyz  ~> #texto-plano
+Nov 15 16:14:54 »»	   - tilde.club       ~> #club
+Nov 15 16:14:54 »»	   - tilde.institute  ~> #institute
+Nov 15 16:14:54 »»	   - tilde.pink       ~> #pink
+Nov 15 16:14:54 »»	   - tilde.team       ~> #team
+Nov 15 16:14:54 »»	   - tilde.town       ~> #town
+Nov 15 16:14:54 »»	 
+Nov 15 16:14:54 »»	 the main lobby channel is #meta. you must log in with nickserv to speak there.
+Nov 15 16:14:54 »»	 to get registered, run /quote ns help register or read our wiki: https://tilde.chat/wiki/nicks
+Nov 15 16:14:54 »»	 check out https://tilde.chat/stats/ or run /list to find other channels
+Nov 15 16:14:54 »»	 /join #helpdesk if you need assistance
+Nov 15 16:14:54 »»	 
+Nov 15 16:14:54 »»	 check out #tilderadio for our internet radio station!
+Nov 15 16:14:54 »»	 
+Nov 15 16:14:54 »»	 please see our etiquette guidelines: https://tilde.chat/wiki/etiquette
+Nov 15 16:14:54 »»	 
+Nov 15 16:14:54 »»	   ~~ be excellent to each other ~~
+Nov 15 16:14:54 »»	End of message of the day.
+Nov 15 16:14:54 »»	*** You are connected to irc.tilde.chat using TLS (SSL) cipher 'TLS1.3-ECDHE-RSA-AES-256-GCM-AEAD'
+**** ENDING LOGGING AT Tue Nov 15 17:23:23 2022
+
+**** BEGIN LOGGING AT Wed Nov 16 11:37:23 2022
+
+Nov 16 11:42:41 »»	Welcome to the tilde.chat IRC Network woland!~woland@static.247.176.55.162.clients.your-server.de
+Nov 16 11:42:41 »»	Your host is club.tilde.chat, running version InspIRCd-3
+Nov 16 11:42:41 »»	This server was created 00:54:48 Sep 26 2022
+Nov 16 11:42:41 »»	club.tilde.chat InspIRCd-3 BILRSTWcghiorswz ABCEFHIJLMNOQRSTXYabcefghijklmnopqrstuvz :BEFHIJLXYabefghjkloqv
+Nov 16 11:42:41 »»	ACCEPT=30 AWAYLEN=200 BOT=B CALLERID=g CASEMAPPING=rfc1459 CHANLIMIT=#:120 CHANMODES=IXbeg,k,BEFHJLfjl,ACMNOQRSTcimnprstuz CHANNELLEN=64 CHANTYPES=# ELIST=CMNTU ESILENCE=CcdiNnPpTtx EXCEPTS=e :are supported by this server
+Nov 16 11:42:41 »»	EXTBAN=,ACNOQRSTUacmnprwz HOSTLEN=64 INVEX=I KEYLEN=32 KICKLEN=255 LINELEN=512 MAXLIST=I:100,X:100,b:100,e:100,g:100 MAXTARGETS=20 MODES=20 MONITOR=30 NAMELEN=128 NAMESX NETWORK=tilde.chat :are supported by this server
+Nov 16 11:42:41 »»	NICKLEN=31 PREFIX=(Yqaohv)!~&@%+ REMOVE SAFELIST SECURELIST=60 SILENCE=32 STATUSMSG=!~&@%+ TOPICLEN=307 UHNAMES USERIP USERLEN=11 USERMODES=,,s,BILRSTWcghiorwz WATCH=30 :are supported by this server
+Nov 16 11:42:41 »»	WHOX :are supported by this server
+Nov 16 11:42:41 »»	There are 709 users and 129 invisible on 12 servers
+Nov 16 11:42:41 »»	11 :operator(s) online
+Nov 16 11:42:41 »»	1 :unknown connections
+Nov 16 11:42:41 »»	446 :channels formed
+Nov 16 11:42:41 »»	I have 147 clients and 2 servers
+Nov 16 11:42:41 »»	Current local users: 147  Max: 155
+Nov 16 11:42:41 »»	Current global users: 838  Max: 876
+Nov 16 11:42:41 »»	club.tilde.chat message of the day
+Nov 16 11:42:41 »»	         __      __     __  _ __    __           __          __ 
+Nov 16 11:42:41 »»	   _____/ /_  __/ /_   / /_(_) /___/ /__   _____/ /_  ____ _/ /_
+Nov 16 11:42:41 »»	  / ___/ / / / / __ \ / __/ / / __  / _ \ / ___/ __ \/ __ `/ __/
+Nov 16 11:42:41 »»	 / /__/ / /_/ / /_/ // /_/ / / /_/ /  __// /__/ / / / /_/ / /_  
+Nov 16 11:42:41 »»	 \___/_/\__,_/_.___(_)__/_/_/\__,_/\___(_)___/_/ /_/\__,_/\__/  
+Nov 16 11:42:41 »»	                                                                
+Nov 16 11:42:41 »»	 welcome to tilde.chat
+Nov 16 11:42:41 »»	 this is the irc network for the tildeverse (https://tildeverse.org)
+Nov 16 11:42:41 »»	 
+Nov 16 11:42:41 »»	 check out the appropriate channel for your tilde:
+Nov 16 11:42:41 »»	 
+Nov 16 11:42:41 »»	   - aussies.space    ~> #aussie
+Nov 16 11:42:41 »»	   - breadpunk.club   ~> #bread
+Nov 16 11:42:41 »»	   - cosmic.voyage    ~> #cosmic
+Nov 16 11:42:41 »»	   - ctrl-c.club      ~> #ctrl-c
+Nov 16 11:42:41 »»	   - heathens.club    ~> #midgard
+Nov 16 11:42:41 »»	   - rw.rs            ~> #rw.rs
+Nov 16 11:42:41 »»	   - texto-plano.xyz  ~> #texto-plano
+Nov 16 11:42:41 »»	   - tilde.club       ~> #club
+Nov 16 11:42:41 »»	   - tilde.institute  ~> #institute
+Nov 16 11:42:41 »»	   - tilde.pink       ~> #pink
+Nov 16 11:42:41 »»	   - tilde.team       ~> #team
+Nov 16 11:42:41 »»	   - tilde.town       ~> #town
+Nov 16 11:42:41 »»	 
+Nov 16 11:42:41 »»	 the main lobby channel is #meta. you must log in with nickserv to speak there.
+Nov 16 11:42:41 »»	 to get registered, run /quote ns help register or read our wiki: https://tilde.chat/wiki/nicks
+Nov 16 11:42:41 »»	 check out https://tilde.chat/stats/ or run /list to find other channels
+Nov 16 11:42:41 »»	 /join #helpdesk if you need assistance
+Nov 16 11:42:41 »»	 
+Nov 16 11:42:41 »»	 check out #tilderadio for our internet radio station!
+Nov 16 11:42:41 »»	 
+Nov 16 11:42:41 »»	 please see our etiquette guidelines: https://tilde.chat/wiki/etiquette
+Nov 16 11:42:41 »»	 
+Nov 16 11:42:41 »»	   ~~ be excellent to each other ~~
+Nov 16 11:42:41 »»	End of message of the day.
+Nov 16 11:42:41 »»	*** You are connected to irc.tilde.chat using TLS (SSL) cipher 'TLS1.3-ECDHE-RSA-AES-256-GCM-AEAD'
+**** ENDING LOGGING AT Wed Nov 16 12:54:31 2022
+
+**** BEGIN LOGGING AT Thu Nov 17 09:54:20 2022
+
+Nov 17 09:59:40 »»	Welcome to the tilde.chat IRC Network woland!~woland@static.247.176.55.162.clients.your-server.de
+Nov 17 09:59:40 »»	Your host is club.tilde.chat, running version InspIRCd-3
+Nov 17 09:59:40 »»	This server was created 00:54:48 Sep 26 2022
+Nov 17 09:59:40 »»	club.tilde.chat InspIRCd-3 BILRSTWcghiorswz ABCEFHIJLMNOQRSTXYabcefghijklmnopqrstuvz :BEFHIJLXYabefghjkloqv
+Nov 17 09:59:40 »»	ACCEPT=30 AWAYLEN=200 BOT=B CALLERID=g CASEMAPPING=rfc1459 CHANLIMIT=#:120 CHANMODES=IXbeg,k,BEFHJLfjl,ACMNOQRSTcimnprstuz CHANNELLEN=64 CHANTYPES=# ELIST=CMNTU ESILENCE=CcdiNnPpTtx EXCEPTS=e :are supported by this server
+Nov 17 09:59:40 »»	EXTBAN=,ACNOQRSTUacmnprwz HOSTLEN=64 INVEX=I KEYLEN=32 KICKLEN=255 LINELEN=512 MAXLIST=I:100,X:100,b:100,e:100,g:100 MAXTARGETS=20 MODES=20 MONITOR=30 NAMELEN=128 NAMESX NETWORK=tilde.chat :are supported by this server
+Nov 17 09:59:40 »»	NICKLEN=31 PREFIX=(Yqaohv)!~&@%+ REMOVE SAFELIST SECURELIST=60 SILENCE=32 STATUSMSG=!~&@%+ TOPICLEN=307 UHNAMES USERIP USERLEN=11 USERMODES=,,s,BILRSTWcghiorwz WATCH=30 :are supported by this server
+Nov 17 09:59:40 »»	WHOX :are supported by this server
+Nov 17 09:59:40 »»	There are 727 users and 124 invisible on 11 servers
+Nov 17 09:59:40 »»	10 :operator(s) online
+Nov 17 09:59:40 »»	1 :unknown connections
+Nov 17 09:59:40 »»	443 :channels formed
+Nov 17 09:59:40 »»	I have 145 clients and 2 servers
+Nov 17 09:59:40 »»	Current local users: 145  Max: 155
+Nov 17 09:59:40 »»	Current global users: 851  Max: 876
+Nov 17 09:59:40 »»	club.tilde.chat message of the day
+Nov 17 09:59:40 »»	         __      __     __  _ __    __           __          __ 
+Nov 17 09:59:40 »»	   _____/ /_  __/ /_   / /_(_) /___/ /__   _____/ /_  ____ _/ /_
+Nov 17 09:59:40 »»	  / ___/ / / / / __ \ / __/ / / __  / _ \ / ___/ __ \/ __ `/ __/
+Nov 17 09:59:40 »»	 / /__/ / /_/ / /_/ // /_/ / / /_/ /  __// /__/ / / / /_/ / /_  
+Nov 17 09:59:40 »»	 \___/_/\__,_/_.___(_)__/_/_/\__,_/\___(_)___/_/ /_/\__,_/\__/  
+Nov 17 09:59:40 »»	                                                                
+Nov 17 09:59:40 »»	 welcome to tilde.chat
+Nov 17 09:59:40 »»	 this is the irc network for the tildeverse (https://tildeverse.org)
+Nov 17 09:59:40 »»	 
+Nov 17 09:59:40 »»	 check out the appropriate channel for your tilde:
+Nov 17 09:59:40 »»	 
+Nov 17 09:59:40 »»	   - aussies.space    ~> #aussie
+Nov 17 09:59:40 »»	   - breadpunk.club   ~> #bread
+Nov 17 09:59:40 »»	   - cosmic.voyage    ~> #cosmic
+Nov 17 09:59:40 »»	   - ctrl-c.club      ~> #ctrl-c
+Nov 17 09:59:40 »»	   - heathens.club    ~> #midgard
+Nov 17 09:59:40 »»	   - rw.rs            ~> #rw.rs
+Nov 17 09:59:40 »»	   - texto-plano.xyz  ~> #texto-plano
+Nov 17 09:59:40 »»	   - tilde.club       ~> #club
+Nov 17 09:59:40 »»	   - tilde.institute  ~> #institute
+Nov 17 09:59:40 »»	   - tilde.pink       ~> #pink
+Nov 17 09:59:40 »»	   - tilde.team       ~> #team
+Nov 17 09:59:40 »»	   - tilde.town       ~> #town
+Nov 17 09:59:40 »»	 
+Nov 17 09:59:40 »»	 the main lobby channel is #meta. you must log in with nickserv to speak there.
+Nov 17 09:59:40 »»	 to get registered, run /quote ns help register or read our wiki: https://tilde.chat/wiki/nicks
+Nov 17 09:59:40 »»	 check out https://tilde.chat/stats/ or run /list to find other channels
+Nov 17 09:59:40 »»	 /join #helpdesk if you need assistance
+Nov 17 09:59:40 »»	 
+Nov 17 09:59:40 »»	 check out #tilderadio for our internet radio station!
+Nov 17 09:59:40 »»	 
+Nov 17 09:59:40 »»	 please see our etiquette guidelines: https://tilde.chat/wiki/etiquette
+Nov 17 09:59:40 »»	 
+Nov 17 09:59:40 »»	   ~~ be excellent to each other ~~
+Nov 17 09:59:40 »»	End of message of the day.
+Nov 17 09:59:40 »»	*** You are connected to irc.tilde.chat using TLS (SSL) cipher 'TLS1.3-ECDHE-RSA-AES-256-GCM-AEAD'
+Nov 17 13:27:43 »»	No ping reply for 68 seconds, disconnecting.
+Nov 17 13:27:43 »»	Disconnected ().
+Nov 17 13:27:53 »»	Looking up irc.tilde.chat
+Nov 17 13:27:54 »»	Connecting to irc.tilde.chat (139.99.238.176) port 6697...
+Nov 17 13:27:55 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 17 13:27:55 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 17 13:27:55 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 17 13:27:55 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 17 13:27:55 *	* Subject: /CN=tilde.chat
+Nov 17 13:27:55 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 17 13:27:55 *	* Certification info:
+Nov 17 13:27:55 *	  Subject:
+Nov 17 13:27:55 *	    CN=tilde.chat
+Nov 17 13:27:55 *	  Issuer:
+Nov 17 13:27:55 *	    C=US
+Nov 17 13:27:55 *	    O=Let's Encrypt
+Nov 17 13:27:55 *	    CN=R3
+Nov 17 13:27:55 *	  Public key algorithm: rsaEncryption (2048 bits)
+Nov 17 13:27:55 *	  Sign algorithm sha256WithRSAEncryption
+Nov 17 13:27:55 *	  Valid since Oct  2 19:44:43 2022 GM to Dec 31 19:44:42 2022 GM
+Nov 17 13:27:55 *	* Cipher info:
+Nov 17 13:27:55 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 17 13:27:55 »»	Connected. Now logging in...
+Nov 17 13:27:56 »»	*** Looking up your ident...
+Nov 17 13:27:56 »»	*** Looking up your hostname...
+Nov 17 13:27:56 *	Capabilities supported: account-notify account-tag away-notify batch cap-notify chghost echo-message extended-join inspircd.org/poison inspircd.org/standard-replies invite-notify labeled-response message-tags multi-prefix sasl=EXTERNAL,PLAIN server-time setname tls userhost-in-names 
+Nov 17 13:27:56 *	Capabilities requested: account-notify account-tag away-notify cap-notify chghost extended-join invite-notify multi-prefix server-time setname userhost-in-names 
+Nov 17 13:27:56 »»	woland already in use. Retrying with ...
+Nov 17 13:27:57 »»	*** Found your hostname (ip217.ip-151-80-125.eu)
+Nov 17 13:27:57 *	Capabilities acknowledged: account-notify account-tag away-notify cap-notify chghost extended-join invite-notify multi-prefix server-time setname userhost-in-names
+Nov 17 13:33:17 »»	NICK :Not enough parameters.
+Nov 17 13:34:45 »»	Closing link: (woland@ip217.ip-151-80-125.eu) [Registration timeout]
+Nov 17 13:29:25 »»	Disconnected (Remote host closed socket).
+Nov 17 13:29:35 Cycling to next server in tilde...
+Nov 17 13:29:35 »»	Disconnected ().
+Nov 17 13:29:35 »»	Looking up irc.tilde.chat
+Nov 17 13:29:36 »»	Connecting to irc.tilde.chat (142.44.150.184) port 6697...
+Nov 17 13:29:37 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 17 13:29:37 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 17 13:29:37 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 17 13:29:37 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 17 13:29:37 *	* Subject: /CN=tilde.chat
+Nov 17 13:29:37 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 17 13:29:37 *	* Certification info:
+Nov 17 13:29:37 *	  Subject:
+Nov 17 13:29:37 *	    CN=tilde.chat
+Nov 17 13:29:37 *	  Issuer:
+Nov 17 13:29:37 *	    C=US
+Nov 17 13:29:37 *	    O=Let's Encrypt
+Nov 17 13:29:37 *	    CN=R3
+Nov 17 13:29:37 *	  Public key algorithm: rsaEncryption (2048 bits)
+Nov 17 13:29:37 *	  Sign algorithm sha256WithRSAEncryption
+Nov 17 13:29:37 *	  Valid since Oct  2 19:44:43 2022 GM to Dec 31 19:44:42 2022 GM
+Nov 17 13:29:37 *	* Cipher info:
+Nov 17 13:29:37 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 17 13:29:37 »»	Connected. Now logging in...
+Nov 17 13:29:38 »»	*** Looking up your ident...
+Nov 17 13:29:38 »»	*** Looking up your hostname...
+Nov 17 13:29:38 »»	*** Found your hostname (ip217.ip-151-80-125.eu)
+Nov 17 13:29:38 *	Capabilities supported: account-notify account-tag away-notify batch cap-notify chghost echo-message extended-join inspircd.org/poison inspircd.org/standard-replies invite-notify labeled-response message-tags multi-prefix sasl server-time setname tls userhost-in-names 
+Nov 17 13:29:38 *	Capabilities requested: account-notify account-tag away-notify cap-notify chghost extended-join invite-notify multi-prefix server-time setname userhost-in-names 
+Nov 17 13:29:38 »»	woland already in use. Retrying with ...
+Nov 17 13:29:38 *	Capabilities acknowledged: account-notify account-tag away-notify cap-notify chghost extended-join invite-notify multi-prefix server-time setname userhost-in-names
+Nov 17 13:34:58 »»	NICK :Not enough parameters.
+Nov 17 13:36:27 »»	Closing link: (woland@ip217.ip-151-80-125.eu) [Registration timeout]
+Nov 17 13:31:07 »»	Disconnected (Remote host closed socket).
+Nov 17 13:31:17 Cycling to next server in tilde...
+Nov 17 13:31:17 »»	Disconnected ().
+Nov 17 13:31:17 »»	Looking up irc.tilde.chat
+Nov 17 13:31:17 »»	Connecting to irc.tilde.chat (139.99.238.176) port 6697...
+Nov 17 13:31:19 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 17 13:31:19 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 17 13:31:19 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 17 13:31:19 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 17 13:31:19 *	* Subject: /CN=tilde.chat
+Nov 17 13:31:19 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 17 13:31:19 *	* Certification info:
+Nov 17 13:31:19 *	  Subject:
+Nov 17 13:31:19 *	    CN=tilde.chat
+Nov 17 13:31:19 *	  Issuer:
+Nov 17 13:31:19 *	    C=US
+Nov 17 13:31:19 *	    O=Let's Encrypt
+Nov 17 13:31:19 *	    CN=R3
+Nov 17 13:31:19 *	  Public key algorithm: rsaEncryption (2048 bits)
+Nov 17 13:31:19 *	  Sign algorithm sha256WithRSAEncryption
+Nov 17 13:31:19 *	  Valid since Oct  2 19:44:43 2022 GM to Dec 31 19:44:42 2022 GM
+Nov 17 13:31:19 *	* Cipher info:
+Nov 17 13:31:19 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 17 13:31:19 »»	Connected. Now logging in...
+Nov 17 13:31:19 »»	*** Looking up your ident...
+Nov 17 13:31:19 »»	*** Looking up your hostname...
+Nov 17 13:31:19 »»	*** Found your hostname (ip217.ip-151-80-125.eu) -- cached
+Nov 17 13:31:20 *	Capabilities supported: account-notify account-tag away-notify batch cap-notify chghost echo-message extended-join inspircd.org/poison inspircd.org/standard-replies invite-notify labeled-response message-tags multi-prefix sasl=EXTERNAL,PLAIN server-time setname tls userhost-in-names 
+Nov 17 13:31:20 *	Capabilities requested: account-notify account-tag away-notify cap-notify chghost extended-join invite-notify multi-prefix server-time setname userhost-in-names 
+Nov 17 13:31:20 *	Capabilities acknowledged: account-notify account-tag away-notify cap-notify chghost extended-join invite-notify multi-prefix server-time setname userhost-in-names
+Nov 17 13:36:40 »»	*** Could not find your ident, using ~woland instead.
+**** ENDING LOGGING AT Thu Nov 17 13:31:22 2022
+
+**** BEGIN LOGGING AT Thu Nov 17 13:31:22 2022
+
+Nov 17 13:36:41 »»	Welcome to the tilde.chat IRC Network woland!~woland@ip217.ip-151-80-125.eu
+Nov 17 13:36:41 »»	Your host is aussie.tilde.chat, running version InspIRCd-3
+Nov 17 13:36:41 »»	This server was created 09:24:30 Apr 19 2022
+Nov 17 13:36:41 »»	aussie.tilde.chat InspIRCd-3 BILRSTWcghiorswz ABCEFHIJLMNOQRSTXYabcefghijklmnopqrstuvz :BEFHIJLXYabefghjkloqv
+Nov 17 13:36:41 »»	ACCEPT=30 AWAYLEN=200 BOT=B CALLERID=g CASEMAPPING=rfc1459 CHANLIMIT=#:120 CHANMODES=IXbeg,k,BEFHJLfjl,ACMNOQRSTcimnprstuz CHANNELLEN=64 CHANTYPES=# ELIST=CMNTU ESILENCE=CcdiNnPpTtx EXCEPTS=e :are supported by this server
+Nov 17 13:36:41 »»	EXTBAN=,ACNOQRSTUacmnprwz HOSTLEN=64 INVEX=I KEYLEN=32 KICKLEN=255 LINELEN=512 MAXLIST=I:100,X:100,b:100,e:100,g:100 MAXTARGETS=20 MODES=20 MONITOR=30 NAMELEN=128 NAMESX NETWORK=tilde.chat :are supported by this server
+Nov 17 13:36:41 »»	NICKLEN=31 PREFIX=(Yqaohv)!~&@%+ REMOVE SAFELIST SECURELIST=60 SILENCE=32 STATUSMSG=!~&@%+ TOPICLEN=307 UHNAMES USERIP USERLEN=11 USERMODES=,,s,BILRSTWcghiorwz WATCH=30 :are supported by this server
+Nov 17 13:36:41 »»	WHOX :are supported by this server
+Nov 17 13:36:41 »»	There are 727 users and 125 invisible on 11 servers
+Nov 17 13:36:41 »»	10 :operator(s) online
+Nov 17 13:36:41 »»	2 :unknown connections
+Nov 17 13:36:41 »»	441 :channels formed
+Nov 17 13:36:41 »»	I have 52 clients and 1 servers
+Nov 17 13:36:41 »»	Current local users: 52  Max: 74
+Nov 17 13:36:41 »»	Current global users: 852  Max: 963
+Nov 17 13:36:41 »»	aussie.tilde.chat message of the day
+Nov 17 13:36:41 »»	                          _       __  _ __    __           __          __ 
+Nov 17 13:36:41 »»	   ____ ___  ____________(_)__   / /_(_) /___/ /__   _____/ /_  ____ _/ /_
+Nov 17 13:36:41 »»	  / __ `/ / / / ___/ ___/ / _ \ / __/ / / __  / _ \ / ___/ __ \/ __ `/ __/
+Nov 17 13:36:41 »»	 / /_/ / /_/ (__  |__  ) /  __// /_/ / / /_/ /  __// /__/ / / / /_/ / /_  
+Nov 17 13:36:41 »»	 \__,_/\__,_/____/____/_/\___(_)__/_/_/\__,_/\___(_)___/_/ /_/\__,_/\__/  
+Nov 17 13:36:41 »»	                                                                          
+Nov 17 13:36:41 »»	 welcome to tilde.chat
+Nov 17 13:36:41 »»	 this is the irc network for the tildeverse (https://tildeverse.org)
+Nov 17 13:36:41 »»	 
+Nov 17 13:36:41 »»	 check out the appropriate channel for your tilde:
+Nov 17 13:36:41 »»	 
+Nov 17 13:36:41 »»	   - aussies.space    ~> #aussie
+Nov 17 13:36:41 »»	   - breadpunk.club   ~> #bread
+Nov 17 13:36:41 »»	   - cosmic.voyage    ~> #cosmic
+Nov 17 13:36:41 »»	   - ctrl-c.club      ~> #ctrl-c
+Nov 17 13:36:41 »»	   - heathens.club    ~> #midgard
+Nov 17 13:36:41 »»	   - rw.rs            ~> #rw.rs
+Nov 17 13:36:41 »»	   - texto-plano.xyz  ~> #texto-plano
+Nov 17 13:36:41 »»	   - thunix           ~> #thunix
+Nov 17 13:36:41 »»	   - tilde.club       ~> #club
+Nov 17 13:36:41 »»	   - tilde.institute  ~> #institute
+Nov 17 13:36:41 »»	   - tilde.pink       ~> #pink
+Nov 17 13:36:41 »»	   - tilde.team       ~> #team
+Nov 17 13:36:41 »»	   - tilde.town       ~> #town
+Nov 17 13:36:41 »»	 
+Nov 17 13:36:41 »»	 the main lobby channel is #meta. you must log in with nickserv to speak there.
+Nov 17 13:36:41 »»	 to get registered, run /quote ns help register or read our wiki: https://tilde.chat/wiki/nicks
+Nov 17 13:36:41 »»	 check out https://tilde.chat/stats/ or run /list to find other channels
+Nov 17 13:36:41 »»	 /join #helpdesk if you need assistance
+Nov 17 13:36:41 »»	 
+Nov 17 13:36:41 »»	 check out #tilderadio for our internet radio station!
+Nov 17 13:36:41 »»	 
+Nov 17 13:36:41 »»	 please see our etiquette guidelines: https://tilde.chat/wiki/etiquette
+Nov 17 13:36:41 »»	 
+Nov 17 13:36:41 »»	   ~~ be excellent to each other ~~
+Nov 17 13:36:41 »»	End of message of the day.
+Nov 17 13:36:41 »»	*** You are connected to irc.tilde.chat using TLS (SSL) cipher 'TLS1.3-ECDHE-RSA-AES-256-GCM-AEAD'
+Nov 17 19:30:14 »»	No ping reply for 89 seconds, disconnecting.
+Nov 17 19:30:14 »»	Disconnected ().
+Nov 17 19:30:24 »»	Looking up irc.tilde.chat
+Nov 17 19:30:40 »»	Unknown host. Maybe you misspelled it?
+Nov 17 19:30:50 Cycling to next server in tilde...
+Nov 17 19:30:50 »»	Disconnected ().
+Nov 17 19:30:50 »»	Looking up irc.tilde.chat
+Nov 17 19:31:06 »»	Unknown host. Maybe you misspelled it?
+Nov 17 19:31:16 Cycling to next server in tilde...
+Nov 17 19:31:16 »»	Disconnected ().
+Nov 17 19:31:16 »»	Looking up irc.tilde.chat
+Nov 17 19:31:32 »»	Unknown host. Maybe you misspelled it?
+Nov 17 19:31:42 Cycling to next server in tilde...
+Nov 17 19:31:42 »»	Disconnected ().
+Nov 17 19:31:42 »»	Looking up irc.tilde.chat
+Nov 17 19:31:58 »»	Unknown host. Maybe you misspelled it?
+Nov 17 19:32:08 Cycling to next server in tilde...
+Nov 17 19:32:08 »»	Disconnected ().
+Nov 17 19:32:08 »»	Looking up irc.tilde.chat
+Nov 17 19:32:17 »»	Connecting to irc.tilde.chat (157.90.196.52) port 6697...
+Nov 17 19:32:20 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 17 19:32:20 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 17 19:32:20 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 17 19:32:20 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 17 19:32:20 *	* Subject: /CN=tilde.chat
+Nov 17 19:32:20 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 17 19:32:20 *	* Certification info:
+Nov 17 19:32:20 *	  Subject:
+Nov 17 19:32:20 *	    CN=tilde.chat
+Nov 17 19:32:20 *	  Issuer:
+Nov 17 19:32:20 *	    C=US
+Nov 17 19:32:20 *	    O=Let's Encrypt
+Nov 17 19:32:20 *	    CN=R3
+Nov 17 19:32:20 *	  Public key algorithm: rsaEncryption (2048 bits)
+Nov 17 19:32:20 *	  Sign algorithm sha256WithRSAEncryption
+Nov 17 19:32:20 *	  Valid since Oct  2 19:44:43 2022 GM to Dec 31 19:44:42 2022 GM
+Nov 17 19:32:20 *	* Cipher info:
+Nov 17 19:32:20 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 17 19:32:20 »»	Connected. Now logging in...
+Nov 17 19:32:22 »»	*** Looking up your ident...
+Nov 17 19:32:22 »»	*** Looking up your hostname...
+Nov 17 19:32:22 »»	*** Found your hostname (ip217.ip-151-80-125.eu)
+Nov 17 19:32:22 *	Capabilities supported: account-notify account-tag away-notify batch cap-notify chghost echo-message extended-join inspircd.org/poison inspircd.org/standard-replies invite-notify labeled-response message-tags multi-prefix sasl server-time setname tls userhost-in-names 
+Nov 17 19:32:22 *	Capabilities requested: account-notify account-tag away-notify cap-notify chghost extended-join invite-notify multi-prefix server-time setname userhost-in-names 
+Nov 17 19:32:23 *	Capabilities acknowledged: account-notify account-tag away-notify cap-notify chghost extended-join invite-notify multi-prefix server-time setname userhost-in-names
+Nov 17 19:37:43 »»	NICK :Not enough parameters.
+Nov 17 19:39:08 »»	Closing link: (woland@ip217.ip-151-80-125.eu) [Registration timeout]
+Nov 17 19:33:48 »»	Disconnected (Remote host closed socket).
+Nov 17 19:33:58 Cycling to next server in tilde...
+Nov 17 19:33:58 »»	Disconnected ().
+Nov 17 19:33:58 »»	Looking up irc.tilde.chat
+Nov 17 19:33:58 »»	Connecting to irc.tilde.chat (104.238.186.103) port 6697...
+Nov 17 19:34:00 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 17 19:34:00 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 17 19:34:00 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 17 19:34:00 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 17 19:34:00 *	* Subject: /CN=tilde.chat
+Nov 17 19:34:00 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 17 19:34:00 *	* Certification info:
+Nov 17 19:34:00 *	  Subject:
+Nov 17 19:34:00 *	    CN=tilde.chat
+Nov 17 19:34:00 *	  Issuer:
+Nov 17 19:34:00 *	    C=US
+Nov 17 19:34:00 *	    O=Let's Encrypt
+Nov 17 19:34:00 *	    CN=R3
+Nov 17 19:34:00 *	  Public key algorithm: rsaEncryption (2048 bits)
+Nov 17 19:34:00 *	  Sign algorithm sha256WithRSAEncryption
+Nov 17 19:34:00 *	  Valid since Oct  2 19:44:43 2022 GM to Dec 31 19:44:42 2022 GM
+Nov 17 19:34:00 *	* Cipher info:
+Nov 17 19:34:00 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 17 19:34:00 »»	Connected. Now logging in...
+Nov 17 19:34:00 »»	*** Looking up your ident...
+Nov 17 19:34:00 »»	*** Looking up your hostname...
+Nov 17 19:34:00 »»	*** Found your hostname (ip217.ip-151-80-125.eu)
+Nov 17 19:34:00 *	Capabilities supported: account-notify account-tag away-notify batch cap-notify chghost echo-message extended-join inspircd.org/poison inspircd.org/standard-replies invite-notify labeled-response message-tags multi-prefix sasl=EXTERNAL,PLAIN server-time setname tls userhost-in-names 
+Nov 17 19:34:00 *	Capabilities requested: account-notify account-tag away-notify cap-notify chghost extended-join invite-notify multi-prefix server-time setname userhost-in-names 
+Nov 17 19:34:00 *	Capabilities acknowledged: account-notify account-tag away-notify cap-notify chghost extended-join invite-notify multi-prefix server-time setname userhost-in-names
+Nov 17 19:39:21 »»	*** Could not find your ident, using ~woland instead.
+Nov 17 19:39:21 »»	Welcome to the tilde.chat IRC Network woland!~woland@ip217.ip-151-80-125.eu
+Nov 17 19:39:21 »»	Your host is cosmic.tilde.chat, running version InspIRCd-3
+Nov 17 19:39:21 »»	This server was created 12:15:13 May 23 2022
+Nov 17 19:39:21 »»	cosmic.tilde.chat InspIRCd-3 BILRSTWcghiorswz ABCEFHIJLMNOQRSTXYabcefghijklmnopqrstuvz :BEFHIJLXYabefghjkloqv
+Nov 17 19:39:21 »»	ACCEPT=30 AWAYLEN=200 BOT=B CALLERID=g CASEMAPPING=rfc1459 CHANLIMIT=#:120 CHANMODES=IXbeg,k,BEFHJLfjl,ACMNOQRSTcimnprstuz CHANNELLEN=64 CHANTYPES=# ELIST=CMNTU ESILENCE=CcdiNnPpTtx EXCEPTS=e :are supported by this server
+Nov 17 19:39:21 »»	EXTBAN=,ACNOQRSTUacmnprwz HOSTLEN=64 INVEX=I KEYLEN=32 KICKLEN=255 LINELEN=512 MAXLIST=I:100,X:100,b:100,e:100,g:100 MAXTARGETS=20 MODES=20 MONITOR=30 NAMELEN=128 NAMESX NETWORK=tilde.chat :are supported by this server
+Nov 17 19:39:21 »»	NICKLEN=31 PREFIX=(Yqaohv)!~&@%+ REMOVE SAFELIST SECURELIST=60 SILENCE=32 STATUSMSG=!~&@%+ TOPICLEN=307 UHNAMES USERIP USERLEN=11 USERMODES=,,s,BILRSTWcghiorwz WATCH=30 :are supported by this server
+Nov 17 19:39:21 »»	WHOX :are supported by this server
+Nov 17 19:39:21 »»	There are 730 users and 132 invisible on 11 servers
+Nov 17 19:39:21 »»	10 :operator(s) online
+Nov 17 19:39:21 »»	1 :unknown connections
+Nov 17 19:39:21 »»	440 :channels formed
+Nov 17 19:39:21 »»	I have 123 clients and 2 servers
+Nov 17 19:39:21 »»	Current local users: 123  Max: 173
+Nov 17 19:39:21 »»	Current global users: 862  Max: 963
+Nov 17 19:39:21 »»	cosmic.tilde.chat message of the day
+Nov 17 19:39:21 »»	                              _       __  _ __    __           __          __ 
+Nov 17 19:39:21 »»	   _________  _________ ___  (_)____ / /_(_) /___/ /__   _____/ /_  ____ _/ /_
+Nov 17 19:39:21 »»	  / ___/ __ \/ ___/ __ `__ \/ / ___// __/ / / __  / _ \ / ___/ __ \/ __ `/ __/
+Nov 17 19:39:21 »»	 / /__/ /_/ (__  ) / / / / / / /___/ /_/ / / /_/ /  __// /__/ / / / /_/ / /_  
+Nov 17 19:39:21 »»	 \___/\____/____/_/ /_/ /_/_/\___(_)__/_/_/\__,_/\___(_)___/_/ /_/\__,_/\__/  
+Nov 17 19:39:21 »»	                                                                              
+Nov 17 19:39:21 »»	 welcome to tilde.chat
+Nov 17 19:39:21 »»	 this is the irc network for the tildeverse (https://tildeverse.org)
+Nov 17 19:39:21 »»	 
+Nov 17 19:39:21 »»	 check out the appropriate channel for your tilde:
+Nov 17 19:39:21 »»	 
+Nov 17 19:39:21 »»	   - aussies.space    ~> #aussie
+Nov 17 19:39:21 »»	   - breadpunk.club   ~> #bread
+Nov 17 19:39:21 »»	   - cosmic.voyage    ~> #cosmic
+Nov 17 19:39:21 »»	   - ctrl-c.club      ~> #ctrl-c
+Nov 17 19:39:21 »»	   - heathens.club    ~> #midgard
+Nov 17 19:39:21 »»	   - rw.rs            ~> #rw.rs
+Nov 17 19:39:21 »»	   - texto-plano.xyz  ~> #texto-plano
+Nov 17 19:39:21 »»	   - tilde.club       ~> #club
+Nov 17 19:39:21 »»	   - tilde.institute  ~> #institute
+Nov 17 19:39:21 »»	   - tilde.pink       ~> #pink
+Nov 17 19:39:21 »»	   - tilde.team       ~> #team
+Nov 17 19:39:21 »»	   - tilde.town       ~> #town
+Nov 17 19:39:21 »»	 
+Nov 17 19:39:21 »»	 the main lobby channel is #meta. you must log in with nickserv to speak there.
+Nov 17 19:39:21 »»	 to get registered, run /quote ns help register or read our wiki: https://tilde.chat/wiki/nicks
+Nov 17 19:39:21 »»	 check out https://tilde.chat/stats/ or run /list to find other channels
+Nov 17 19:39:21 »»	 /join #helpdesk if you need assistance
+Nov 17 19:39:21 »»	 
+Nov 17 19:39:21 »»	 check out #tilderadio for our internet radio station!
+Nov 17 19:39:21 »»	 
+Nov 17 19:39:21 »»	 please see our etiquette guidelines: https://tilde.chat/wiki/etiquette
+Nov 17 19:39:21 »»	 
+Nov 17 19:39:21 »»	   ~~ be excellent to each other ~~
+Nov 17 19:39:21 »»	End of message of the day.
+Nov 17 19:39:21 »»	*** You are connected to irc.tilde.chat using TLS (SSL) cipher 'TLS1.3-ECDHE-RSA-AES-256-GCM-AEAD'
+**** ENDING LOGGING AT Thu Nov 17 19:59:54 2022
+

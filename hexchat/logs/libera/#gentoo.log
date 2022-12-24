@@ -1,0 +1,29 @@
+**** BEGIN LOGGING AT Fri Nov 18 15:01:01 2022
+
+Nov 18 15:06:22 »»	Now talking on #gentoo
+Nov 18 15:06:22 »»	Topic for #gentoo is: Gentoo Linux Support | packages.g.o is down for maintenance! | Can't speak? /j #gentoo-ops | Don't ask if anyone can help; just ask your question | long pastes: wgetpaste -s sprunge | Perl conflicts? https://goo.gl/7Miost | Be nice! https://wiki.gentoo.org/wiki/Project:Ops#Channel_Policy
+Nov 18 15:06:22 »»	Topic for #gentoo set by sam_!~sam@gentoo/developer/sam at Mon Oct 31 03:43:20 2022
+Nov 18 15:06:22 -Notice-	{from ChanServ} [#gentoo] Welcome to #gentoo || Code of Conduct @ https://wiki.gentoo.org/wiki/Project:Council/Code_of_conduct || Read /topic! || Keep the language clean || For social talk try #gentoo-chat || Google is your friend || No bots or scripts that talk || Turn off public away messages
+Nov 18 15:06:22 *	Channel #gentoo url: https://www.gentoo.org
+Nov 18 15:02:19 .:woland:.	can you recommend a nice gentoo based distro with an easy installer that hasnt stayed too far off from real gentoo?
+Nov 18 15:11:03 .:duxsco:.	hm, dunno, but you can look at https://en.wikipedia.org/wiki/List_of_Gentoo_Linux_derivatives and https://distrowatch.com/search.php?ostype=All&category=All&origin=All&basedon=Gentoo&notbasedon=None&desktop=All&architecture=All&package=All&rolling=All&isosize=All&netinstall=All&language=All&defaultinit=All&status=Active#simple
+Nov 18 15:12:13 .:woland:.	does funtoo have GUI installer?
+Nov 18 15:18:35 .:thelinuxuser:.	Funtoo does not have a gui installer
+Nov 18 15:18:41 .:thelinuxuser:.	see https://www.funtoo.org/Funtoo_Linux_First_Steps/Installing_a_Graphical_Environment
+Nov 18 15:16:03 .:woland:.	will get exgeny
+Nov 18 15:16:06 .:woland:.	exgent
+Nov 18 15:26:29 .:duxsco:.	exgent? ugh, they use sourceforge with install media from jan. 2021...
+Nov 18 15:27:23 .:duxsco:.	no, gpg signing of install media and only md5 hash. absolute no-go
+Nov 18 15:23:54 .:woland:.	is that important for vm?
+Nov 18 15:29:48 .:duxsco:.	you have to decide for yourself
+Nov 18 15:30:57 .:duxsco:.	they can use sourceforge, but should provide a better way to verify the install media
+Nov 18 15:31:52 .:hangint3n:.	good morning
+Nov 18 15:36:18 .:duxsco:.	and, if they start with the install media that way, i don't want to know the distro internals look like
+Nov 18 15:36:29 .:duxsco:.	s/know/know how/
+Nov 18 15:45:48 .:woland:.	ok redcore then
+Nov 18 15:47:00 .:woland:.	s/exgent/redcore
+Nov 18 15:52:42 .:+username234:.	let's keep the off-topic chatter to a minimum. Thanks.
+Nov 18 15:49:01 .:woland:.	gentoo is offtopic is gentoo? lol youre a joke
+Nov 18 15:49:10 »»	woland leaves in pitty
+**** ENDING LOGGING AT Fri Nov 18 15:49:14 2022
+

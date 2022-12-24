@@ -1,0 +1,18 @@
+**** BEGIN LOGGING AT Mon Nov 14 03:06:38 2022
+
+Nov 14 03:06:38 »»	*** Looking up your ident...
+Nov 14 03:06:38 »»	*** Looking up your hostname...
+Nov 14 03:06:38 »»	*** Found your hostname (ip217.ip-151-80-125.eu)
+Nov 14 03:06:39 *	Capabilities supported: account-notify account-tag away-notify batch cap-notify chghost echo-message extended-join inspircd.org/poison inspircd.org/standard-replies invite-notify labeled-response message-tags multi-prefix sasl=EXTERNAL,PLAIN server-time setname tls userhost-in-names 
+Nov 14 03:06:39 *	Capabilities requested: account-notify account-tag away-notify cap-notify chghost extended-join invite-notify multi-prefix server-time setname userhost-in-names 
+Nov 14 03:06:39 »»	*** Could not find your ident, using ~woland instead.
+Nov 14 03:06:40 *	Capabilities acknowledged: account-notify account-tag away-notify cap-notify chghost extended-join invite-notify multi-prefix server-time setname userhost-in-names
+**** ENDING LOGGING AT Mon Nov 14 03:06:40 2022
+
+**** BEGIN LOGGING AT Mon Nov 14 03:06:40 2022
+
+Nov 14 03:11:52 »»	Welcome to the tilde.chat IRC Network woland!~woland@ip217.ip-151-80-125.eu
+Nov 14 03:11:52 »»	Your host is texto-plano.tilde.chat, running version InspIRCd-3
+Nov 14 03:11:52 »»	This server was created 23:01:53 May 15 2022
+Nov 14 03:11:52 »»	texto-plano.tilde.chat InspIRCd-3 BILRSTWcghiorswz ABCEFHIJLMNOQRSTXYabcefghijklmnopqrstuvz :BEFHIJLXYabefghjkloqv
+Nov 14 03:11:52 »»	ACCEPT=30 AWAYLEN=200 BOT=B CALLERID=g CASEMAPPING=rfc1459 CHANLIMIT=#:120 CHANMODES=IXbeg,k,BEFHJLfjl,ACMNOQRSTcimnprstuz CHANNELLEN=64 CHANTYPES=# ELIST=CMNTU ESILENCE=CcdiNnPpTtx EXCEPTS=e :are supported by this server

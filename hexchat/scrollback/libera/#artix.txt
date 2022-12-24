@@ -1,0 +1,495 @@
+T 1668365132 19*	Now talking on 22#artix
+T 1668365132 22*	Topic for 22#artix is: Artix Linux - https://artixlinux.org
+T 1668365132 22*	Topic for 22#artix set by 26konimex (24Fri May 20 21:06:09 2022)
+T 1668365284 19*	Now talking on 22#artix
+T 1668365284 22*	Topic for 22#artix is: Artix Linux - https://artixlinux.org
+T 1668365284 22*	Topic for 22#artix set by 26konimex (24Fri May 20 21:06:09 2022)
+T 1668366071 24*	lucasta has quit (Ping timeout: 256 seconds)
+T 1668365843 20*	Disconnected (20)
+T 1668366181 19*	Now talking on 22#artix
+T 1668366181 22*	Topic for 22#artix is: Artix Linux - https://artixlinux.org
+T 1668366181 22*	Topic for 22#artix set by 26konimex (24Fri May 20 21:06:09 2022)
+T 1668366415 25»19»	19Now talking on #artix
+T 1668366415 29»22»	22Topic for #artix is: Artix Linux - https://artixlinux.org
+T 1668366415 29»22»	22Topic for #artix set by konimex at Fri May 20 21:06:09 2022
+T 1668366511 19*	19Now talking on #artix
+T 1668366511 29*	29Topic for #artix 29is: Artix Linux - https://artixlinux.org
+T 1668366511 29*	29Topic for #artix 29set by konimex 29at Fri May 20 21:06:09 2022
+T 1668366626 25»19»	19Now talking on #artix
+T 1668366626 29»22»	22Topic for #artix is: Artix Linux - https://artixlinux.org
+T 1668366626 29»22»	22Topic for #artix set by konimex at Fri May 20 21:06:09 2022
+T 1668368111 31-31-19-19»	19squirrel (uid529456@user/squirrel19) has Joined #artix
+T 1668368648 31-31-19-19»	19lucasta (~lucasta@177.181.2.6319) has Joined #artix
+T 1668369974 26«26-31-31-	26lucasta (~lucasta@177.181.2.6326) has Quit (Ping timeout: 268 seconds26)
+T 1668371713 31-31-19-19»	19lucasta (~lucasta@177.181.2.6319) has Joined #artix
+T 1668375448 28»18»	Disconnected ().
+T 1668375518 28»18»	Disconnected (Remote host closed socket).
+T 1668375575 28»18»	Disconnected (Remote host closed socket).
+T 1668375618 28»18»	Disconnected (Remote host closed socket).
+T 1668375950 25»19»	19Now talking on #artix
+T 1668375950 29»22»	22Topic for #artix is: Artix Linux - https://artixlinux.org
+T 1668375950 29»22»	22Topic for #artix set by konimex at Fri May 20 21:06:09 2022
+T 1668376278 25»19»	19Now talking on #artix
+T 1668376278 29»22»	22Topic for #artix is: Artix Linux - https://artixlinux.org
+T 1668376278 29»22»	22Topic for #artix set by konimex at Fri May 20 21:06:09 2022
+T 1668376450 28»18»	Disconnected ().
+T 1668376604 28»18»	Disconnected (Remote host closed socket).
+T 1668376672 28»18»	Disconnected (Remote host closed socket).
+T 1668377004 25»19»	19Now talking on #artix
+T 1668377004 29»22»	22Topic for #artix is: Artix Linux - https://artixlinux.org
+T 1668377004 29»22»	22Topic for #artix set by konimex at Fri May 20 21:06:09 2022
+T 1668377329 28.:192428n00b28:.	SGOrava: they have cases that have BT keyboards
+T 1668377346 28.:192422SGOrava28:.	n00b: what ?
+T 1668377364 28.:192428n00b28:.	they have cases with slide out keyboards for phones
+T 1668377391 28.:192422SGOrava28:.	I will rather go with keyboard for pinephone which is WIRED
+T 1668377398 28.:192428n00b28:.	sure
+T 1668377403 28.:192422SGOrava28:.	these wireless tricks keep away from me
+T 1668377427 28.:192422SGOrava28:.	n00b: the biggest problem I see with modern phones is that they are all the same and way too big
+T 1668377436 28.:192422SGOrava28:.	that is why I want a small slider phone
+T 1668377443 28.:192428n00b28:.	meh. they make bid and small
+T 1668377452 28.:192422SGOrava28:.	I do not like the flip-flop ones, the slider is the best
+T 1668377484 28.:192428n00b28:.	I had a sprint ... something with the slide out keyboard
+T 1668377496 28.:192422SGOrava28:.	provide an example of modern phone you are talking about, which has a proper sliding keys (NOT the qwerty mess)
+T 1668377537 28.:192422SGOrava28:.	I spent a bit of time searching and I was unable to find one
+T 1668377552 28.:192422SGOrava28:.	I know of the chinese "restored" phones, but that is not it
+T 1668377577 28.:192428n00b28:.	https://www.boxwave.com/apple-iphone-6-cases-and-covers/keyboard-buddy-apple-iphone-6-case/bwpdd/pkz-pkgw/
+T 1668377587 28.:192422SGOrava28:.	As a part of my research I used this site: https://www.gsmarena.com/
+T 1668377589 28.:192428n00b28:.	is that what you mean?
+T 1668377626 28.:192422SGOrava28:.	n00b: that is exactly what I do NOT want :D
+T 1668377646 28.:192422SGOrava28:.	with that example you probably checked all checkmarks for what I do not want :D
+T 1668377716 28.:192428n00b28:.	what part of that is undesired? 
+T 1668377813 28.:192422SGOrava28:.	- apple iphone device: these devices will not cross my house
+T 1668377850 28.:192422SGOrava28:.	- bluetooth keyboard: why should I use bluetooth for something which will be PERMANENTLYT attached to the device?
+T 1668377887 28.:192428n00b28:.	oh. because they do not make a device like you want. so only way is BT
+T 1668377889 28.:192422SGOrava28:.	- keyboard: I want an old style keyboard normal 123 456 789 #0*
+T 1668377924 28.:192428n00b28:.	ah, 4 row
+T 1668377931 28.:192428n00b28:.	my sprint had that
+T 1668377951 28.:192422SGOrava28:.	the normal phone which can be used normally with newer technology.
+T 1668377962 28.:192428n00b28:.	I guess a usb connection could have value.
+T 1668377990 28.:192422SGOrava28:.	It is shame that when you want to buy a normal phone you need to either buy an old used one or yo buy some cheap thing for seniors 
+T 1668378001 28.:192428n00b28:.	interesting. ingogo a phone addon that fills usb, is a 4 row slide out
+T 1668378020 28.:192422SGOrava28:.	pinephone has pohopins on the back, this kind of sliding keyboord might work there
+T 1668378028 28.:192428n00b28:.	sur
+T 1668378054 28.:192422SGOrava28:.	I do not want a "phone addon" for which phone would that be? do they make a small phones like that? 
+T 1668378077 28.:192422SGOrava28:.	the modern phones look more like "attach a long handle and go row the water on a boat"
+T 1668378094 28.:192419VelvetVoodoo28:.	https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2Fhdcfo3Wis3PJDj4KbZtpVf.jpg&imgrefurl=https%3A%2F%2Fwww.tomshardware.com%2Fnews%2Fraspberry-pi-mutantc-v2-project&tbnid=YbVKfGX3n7XQiM&vet=12ahUKEwib5NnSmKz7AhXMoI4IHTgpD_sQMygGegUIARDkAQ..i&docid=iKc1IH6kB7rFmM&w=1152&h=648&q=pi%20phone%20sliding%20keyboard&ved=2ahUKEwib5NnSmKz7AhXMoI4IHTgpD_sQMygGegUIARDkAQ
+T 1668378119 28.:192422SGOrava28:.	what is this spoam?
+T 1668378132 28.:192419VelvetVoodoo28:.	a phone idea?
+T 1668378138 28.:192419VelvetVoodoo28:.	tom's hardware
+T 1668378153 28.:192419VelvetVoodoo28:.	pi
+T 1668378161 28.:192422SGOrava28:.	send a normal link, the google is 3 rows long, not gonna to copy it
+T 1668378185 28.:192419VelvetVoodoo28:.	ffs
+T 1668378188 28.:192419VelvetVoodoo28:.	https://www.tomshardware.com/news/raspberry-pi-mutantc-v2-project
+T 1668378227 28.:192422SGOrava28:.	if that hand is from normal sized man, it is sized as handheld game consoles and not like a phone
+T 1668378254 28.:192422SGOrava28:.	the things I want are not made anymore... very sad. There is only this junk
+T 1668378265 28.:192419VelvetVoodoo28:.	so make something?
+T 1668378269 28.:192419VelvetVoodoo28:.	3d print
+T 1668378317 28.:192422SGOrava28:.	that is impossible
+T 1668378396 28.:192422SGOrava28:.	I want a small device, that is hard to make. If I wanted a big one I would not bother searching 
+T 1668378671 28.:192419VelvetVoodoo28:.	https://hackaday.io/project/168387-physical-keyboard-for-any-android-phone
+T 1668378723 28.:192422SGOrava28:.	that is still a paddle phone
+T 1668378786 28.:192422SGOrava28:.	it is not about attaching some keyboard to a paddle. It is about having a normal phone with normal keys and small like at most 3inch screen size. so that is can be small
+T 1668378823 28.:192422SGOrava28:.	who wants to go on internet with a phone ? use a tablet or laptop. the modern phones are far too big because they are not phones but a tablets
+T 1668378854 28.:192419VelvetVoodoo28:.	i had a sanyo 9000 candybar phone i liked a lot
+T 1668378882 28.:192422SGOrava28:.	yeah, I could create something which I would like but I do not want to play with all of that, I just want to have it and throw it into the corner to forget it
+T 1668378907 28.:192422SGOrava28:.	like a phone should be, forgotten in the dark corner used only when needed
+T 1668378939 28.:192422SGOrava28:.	use a device which fits the purpose you want to do; the smartphone can do nothing properly and is a huge mess.
+T 1668378964 28.:192422SGOrava28:.	I know, this turned iunto a "rant" but that is how it is
+T 1668379026 28.:192422SGOrava28:.	VelvetVoodoo: I had Samsung C3050 in the past and I realyt like the form factor, it was nice to use. it has fallen apart after that
+T 1668379157 28.:192419VelvetVoodoo28:.	https://www.ebay.com/itm/175369250957?chn=ps&mkevt=1&mkcid=28&var=474626257751&srsltid=AYJSbAc04VH9bM-xT8uZCb7EdAENLzf7-7aiII97W1Zc_LCWW5qkYe_vGyg
+T 1668379677 28.:192422SGOrava28:.	still it is not a sliding one.
+T 1668379693 28.:192422SGOrava28:.	and they are out of stock
+T 1668379697 28.:192419VelvetVoodoo28:.	i prefer that to sliding tbh...but i get it
+T 1668379802 28.:192422SGOrava28:.	you can call it obsession or my mulfunction
+T 1668379869 28.:192419VelvetVoodoo28:.	lol
+T 1668379939 28.:192422SGOrava28:.	yeah, I might be too old already
+T 1668380297 28.:192422SGOrava28:.	VelvetVoodoo: like this one https://bestdumbphones.com/samsung-sgh-a777-att/
+T 1668380305 28.:192422SGOrava28:.	even the site is nice :D
+T 1668380397 28.:192419VelvetVoodoo28:.	:D
+T 1668380682 28.:192419VelvetVoodoo28:.	samsung sgh-t429 looks kinda similar
+T 1668380736 28.:192422SGOrava28:.	they all kinda look similar, it is from samsung after all.
+T 1668380764 28.:192422SGOrava28:.	at the moment I do not want to hunt for an old device
+T 1668380786 28.:192422SGOrava28:.	I can only hope I will find a new old stock
+T 1668380802 28.:192419VelvetVoodoo28:.	i'm just looking for morbid curiousity
+T 1668381003 28.:192419VelvetVoodoo28:.	https://www.alibaba.com/pla/Free-Shipping-For-Nokia-N96-Hot_11000002409941.html?mark=google_shopping&biz=pla&searchText=mobile+phones&product_id=11000002409941&language=en
+T 1668381147 28.:192422SGOrava28:.	yeah, nokia serries also caught my eye
+T 1668381169 28.:192422SGOrava28:.	the N95 or N91 it was? are good but also too old
+T 1668381171 28.:192419VelvetVoodoo28:.	the unihertz titan is kinda interesting
+T 1668381217 28.:192419VelvetVoodoo28:.	nokia n86
+T 1668381251 28.:192419VelvetVoodoo28:.	n95
+T 1668381277 28.:192419VelvetVoodoo28:.	sony/ericsson w595
+T 1668381344 28.:192422SGOrava28:.	this uniherts with small models looks interesting
+T 1668381350 28.:192419VelvetVoodoo28:.	ya
+T 1668381354 28.:192422SGOrava28:.	but a bit expensive... well good stuff are expensive
+T 1668381425 28.:192422SGOrava28:.	I will realy consider this one to gert alongside the portable computer (pinephone)
+T 1668381543 28.:192422SGOrava28:.	https://www.unihertz.com/products/atom
+T 1668381560 28.:192422SGOrava28:.	this one is realy interesting. should be able to take a bad mood
+T 1668381592 28.:192422SGOrava28:.	I mean should withstand the harsh environment
+T 1668381662 28.:192422SGOrava28:.	but is also a bit pricy.... hard to decide, will ponder over it during work
+T 1668381550 28»18»	Disconnected ().
+T 1668381612 28»18»	Disconnected (Remote host closed socket).
+T 1668381686 28»18»	Disconnected (Remote host closed socket).
+T 1668381738 28»18»	Disconnected (Remote host closed socket).
+T 1668381806 28»18»	Disconnected (Remote host closed socket).
+T 1668382138 25»19»	19Now talking on #artix
+T 1668382138 29»22»	22Topic for #artix is: Artix Linux - https://artixlinux.org
+T 1668382138 29»22»	22Topic for #artix set by konimex at Fri May 20 21:06:09 2022
+T 1668382090 28»18»	Disconnected ().
+T 1668382146 28»18»	Disconnected (Remote host closed socket).
+T 1668382205 28»18»	Disconnected (Remote host closed socket).
+T 1668382267 28»18»	Disconnected (Remote host closed socket).
+T 1668382599 25»19»	19Now talking on #artix
+T 1668382599 29»22»	22Topic for #artix is: Artix Linux - https://artixlinux.org
+T 1668382599 29»22»	22Topic for #artix set by konimex at Fri May 20 21:06:09 2022
+T 1668382689 28.:192419VelvetVoodoo28:.	the titan reminds me of my treo
+T 1668382743 28.:192422SGOrava28:.	yeah, no keyboard but in this size I might forgive it...
+T 1668382750 28.:192419VelvetVoodoo28:.	:)
+T 1668382763 28.:192419VelvetVoodoo28:.	i do like the paddles if they are durable and clicky
+T 1668382838 28.:192422SGOrava28:.	it depoends on the usecase. I almost do not use the additional features... but it is very hard to find a good phone
+T 1668382855 28.:192419VelvetVoodoo28:.	hotspot is super handy
+T 1668382872 28.:192419VelvetVoodoo28:.	especially if you wanna use maps or something on tablet
+T 1668382887 28.:192419VelvetVoodoo28:.	or bt for car stereo
+T 1668382915 28.:192422SGOrava28:.	you should have offline pams
+T 1668382919 28.:192422SGOrava28:.	*maps
+T 1668382950 28.:192422SGOrava28:.	maps are great but you realy need offline maps, the online ones are only a gimmick
+T 1668382970 28.:192419VelvetVoodoo28:.	i use google maps every time i drive
+T 1668382982 28.:192422SGOrava28:.	I walk
+T 1668382986 28.:192419VelvetVoodoo28:.	i wish
+T 1668382996 28.:192419VelvetVoodoo28:.	you can't do that easily in us
+T 1668382998 28.:192422SGOrava28:.	step by step
+T 1668383014 28.:192419VelvetVoodoo28:.	not convenient at all here
+T 1668383027 28.:192422SGOrava28:.	yeah, I saw the streets in the US on some videos and the whole desing is like post-apocaliptic ..
+T 1668383047 28.:192422SGOrava28:.	so empty, people nowhere, only robots .. sorry cars
+T 1668383117 28.:192422SGOrava28:.	I can walk here just fine, it is great to free your mind. Step by step, it feels so natural
+T 1668383121 28.:192419VelvetVoodoo28:.	this explains it well   https://youtu.be/ORzNZUeUHAM
+T 1668383141 28.:192422SGOrava28:.	saw that a while ago, that is why I know
+T 1668383167 28.:192422SGOrava28:.	I think someone in US thought: How to make people lives miserable while they will feel happy?
+T 1668383205 28.:192419VelvetVoodoo28:.	lol
+T 1668383239 28.:192422SGOrava28:.	should it be lifes or lives? I lost it there.
+T 1668383275 28.:192419VelvetVoodoo28:.	lives
+T 1668383283 28.:192422SGOrava28:.	Thank you
+T 1668383344 28.:192419VelvetVoodoo28:.	if you get the atom i wanna know what you think irl   :)
+T 1668383357 28.:192419VelvetVoodoo28:.	my next might be a pinephone
+T 1668383364 28.:192419VelvetVoodoo28:.	are you happy with it?
+T 1668383368 28.:192422SGOrava28:.	pinephone is very big
+T 1668383386 28.:192419VelvetVoodoo28:.	i have an lg v20 atm
+T 1668383394 28.:192422SGOrava28:.	I dont know, I seemsed to have a faulty sim card which was from time to time not working...
+T 1668383402 28.:192419VelvetVoodoo28:.	:/
+T 1668383414 28.:192422SGOrava28:.	it is not very "fast" and I did not play with it a lot.
+T 1668383430 28.:192419VelvetVoodoo28:.	aww
+T 1668383452 28.:192422SGOrava28:.	I bought it with some manjaro kde thing and later I put postmarket os woth posh on it
+T 1668383469 28.:192419VelvetVoodoo28:.	convergence is convenient...but i like separate devices too if they are designed well
+T 1668383472 28.:192422SGOrava28:.	it runs fine I would say. the basics are there but I truly do not use the advanced features
+T 1668383524 28.:192422SGOrava28:.	to clarify I also like when the device can do more things but I like more when device is built for some purpose. I have my music player, ebook reader, laptop, pc and "smartphone"
+T 1668383552 28.:192422SGOrava28:.	it may sound crazy but phones are not great. it is just mean to track you
+T 1668383598 28.:192419VelvetVoodoo28:.	and you pay through the nose for the priviledge   :)
+T 1668383661 28.:192422SGOrava28:.	it count the number of bees you got :D
+T 1668383710 28.:192422SGOrava28:.	well, I told everyone that my "mobile" phone is actualy fixed and rarely moves and thus I will often miss the calls :D
+T 1668383839 28.:192422SGOrava28:.	VelvetVoodoo: I am not a good man to ask if pinephone is great or not. I mostl play with my PC, I use it rarely
+T 1668383864 28.:192419VelvetVoodoo28:.	anecdata is good though   :)
+T 1668383875 28.:192419VelvetVoodoo28:.	thanks for sharing
+T 1668384037 28.:192422SGOrava28:.	at least it is mostly free opensource device and software so much better than the android mess out there
+T 1668384076 28.:192422SGOrava28:.	the smartphones.. each one is totally unique
+T 1668384092 28.:192422SGOrava28:.	while they all look the smae
+T 1668384762 28.:192422SGOrava28:.	*same
+T 1668423147 25»19»	19Now talking on #artix
+T 1668423147 29»22»	22Topic for #artix is: Artix Linux - https://artixlinux.org
+T 1668423147 29»22»	22Topic for #artix set by konimex at Fri May 20 21:06:09 2022
+T 1668425983 28»18»	Disconnected ().
+T 1668426042 28»18»	Disconnected (Remote host closed socket).
+T 1668426114 28»18»	Disconnected (Remote host closed socket).
+T 1668426170 28»18»	Disconnected (Remote host closed socket).
+T 1668426226 28»18»	Disconnected (Remote host closed socket).
+T 1668426564 25»19»	19Now talking on #artix
+T 1668426564 29»22»	22Topic for #artix is: Artix Linux - https://artixlinux.org
+T 1668426564 29»22»	22Topic for #artix set by konimex at Fri May 20 21:06:09 2022
+T 1668460949 25»19»	19Now talking on #artix
+T 1668460949 29»22»	22Topic for #artix is: Artix Linux - https://artixlinux.org
+T 1668460949 29»22»	22Topic for #artix set by konimex at Fri May 20 21:06:09 2022
+T 1668461401 25»19»	19Now talking on #artix
+T 1668461401 29»22»	22Topic for #artix is: Artix Linux - https://artixlinux.org
+T 1668461401 29»22»	22Topic for #artix set by konimex at Fri May 20 21:06:09 2022
+T 1668467938 28»18»	Disconnected ().
+T 1668468273 25»19»	19Now talking on #artix
+T 1668468273 29»22»	22Topic for #artix is: Artix Linux - https://artixlinux.org
+T 1668468273 29»22»	22Topic for #artix set by konimex at Fri May 20 21:06:09 2022
+T 1668470458 28»18»	Disconnected ().
+T 1668470510 28»18»	Disconnected (Remote host closed socket).
+T 1668470578 28»18»	Disconnected (Remote host closed socket).
+T 1668470646 28»18»	Disconnected (Remote host closed socket).
+T 1668515292 25»19»	19Now talking on #artix
+T 1668515292 29»22»	22Topic for #artix is: Artix Linux - https://artixlinux.org
+T 1668515292 29»22»	22Topic for #artix set by konimex at Fri May 20 21:06:09 2022
+T 1668515526 25»19»	19Now talking on #artix
+T 1668515526 29»22»	22Topic for #artix is: Artix Linux - https://artixlinux.org
+T 1668515526 29»22»	22Topic for #artix set by konimex at Fri May 20 21:06:09 2022
+T 1668515638 25»19»	19Now talking on #artix
+T 1668515638 29»22»	22Topic for #artix is: Artix Linux - https://artixlinux.org
+T 1668515638 29»22»	22Topic for #artix set by konimex at Fri May 20 21:06:09 2022
+T 1668515813 25»19»	19Now talking on #artix
+T 1668515813 29»22»	22Topic for #artix is: Artix Linux - https://artixlinux.org
+T 1668515813 29»22»	22Topic for #artix set by konimex at Fri May 20 21:06:09 2022
+T 1668541141 25»19»	19Now talking on #artix
+T 1668541141 29»22»	22Topic for #artix is: Artix Linux - https://artixlinux.org
+T 1668541141 29»22»	22Topic for #artix set by konimex at Fri May 20 21:06:09 2022
+T 1668541689 25»19»	19Now talking on #artix
+T 1668541689 29»22»	22Topic for #artix is: Artix Linux - https://artixlinux.org
+T 1668541689 29»22»	22Topic for #artix set by konimex at Fri May 20 21:06:09 2022
+T 1668550124 25»19»	19Now talking on #artix
+T 1668550124 29»22»	22Topic for #artix is: Artix Linux - https://artixlinux.org
+T 1668550124 29»22»	22Topic for #artix set by konimex at Fri May 20 21:06:09 2022
+T 1668585819 25»19»	19Now talking on #artix
+T 1668585819 29»22»	22Topic for #artix is: Artix Linux - https://artixlinux.org
+T 1668585819 29»22»	22Topic for #artix set by konimex at Fri May 20 21:06:09 2022
+T 1668585864 25»19»	19Now talking on #artix
+T 1668585864 29»22»	22Topic for #artix is: Artix Linux - https://artixlinux.org
+T 1668585864 29»22»	22Topic for #artix set by konimex at Fri May 20 21:06:09 2022
+T 1668585962 25»19»	19Now talking on #artix
+T 1668585962 29»22»	22Topic for #artix is: Artix Linux - https://artixlinux.org
+T 1668585962 29»22»	22Topic for #artix set by konimex at Fri May 20 21:06:09 2022
+T 1668586362 25»19»	19Now talking on #artix
+T 1668586362 29»22»	22Topic for #artix is: Artix Linux - https://artixlinux.org
+T 1668586362 29»22»	22Topic for #artix set by konimex at Fri May 20 21:06:09 2022
+T 1668593543 28.:192426ruben_28:.	libunistring.so library is too new for openshott
+T 1668593553 28.:192426ruben_28:.	I had to create a link
+T 1668593566 28.:192426ruben_28:.	 sudo ln /usr/lib/libunistring.so /usr/lib/libunistring.so.2
+T 1668593683 28.:192426ruben_28:.	libunistring.so library is too new for openshott
+T 1668593713 28.:192426ruben_28:.	libunistring.so library is too new for openshott
+T 1668593767 28.:192429mrbrklyn28:.	libunistring.so library is too new for openshot
+T 1668593780 28.:192429mrbrklyn28:.	I had to create a link
+T 1668593789 28.:192429mrbrklyn28:.	 sudo ln /usr/lib/libunistring.so /usr/lib/libunistring.so.2
+T 1668604395 28.:192428n00b28:.	openshot works fine for me
+T 1668604405 28.:192428n00b28:.	mrbrklyn: 
+T 1668633759 28.:192424haZ-28:.	if i idle for some time and try to login back with correct password, i get "wrong password" msg... all i can do is reboot pc to login again
+T 1668633766 28.:192424haZ-28:.	anyone has same issue?
+T 1668633794 28.:192427VelvetBlueEyes28:.	i had that happen in terminal once
+T 1668633810 28.:192427VelvetBlueEyes28:.	not in sddm ...it was always caps lock or something
+T 1668634606 28.:192424haZ-28:.	its not cpslock or anything like that
+T 1668634621 28.:192424haZ-28:.	it's like something is corrupted if i idle for too long
+T 1668634982 28.:192427VelvetBlueEyes28:.	i get all kinds of random stuff...usually fixed by reboot
+T 1668634993 28.:192427VelvetBlueEyes28:.	updates are...glitchy sometimes
+T 1668634998 28.:192427VelvetBlueEyes28:.	for whatever reason
+T 1668635013 28.:192427VelvetBlueEyes28:.	i still have no idea why wayland won't work
+T 1668635022 28.:192427VelvetBlueEyes28:.	manjaro does it just fine
+T 1668635037 28.:192427VelvetBlueEyes28:.	my guess is systemd related somehow
+T 1668635056 28.:192427VelvetBlueEyes28:.	on nvidia side or whatever
+T 1668635195 28.:192427VelvetBlueEyes28:.	moving my monitor above the laptop and orienting it that way in display manager causes wierd glitches in plasma because my panel is at the top of my laptop screen
+T 1668635209 28.:192427VelvetBlueEyes28:.	...dumb stuff like that
+T 1668635264 28.:192427VelvetBlueEyes28:.	also sddm login has 2 overlays...i have to use a script to fix...intead of it just using what i already set in display manager
+T 1668635492 28.:192424haZ-28:.	nvidia always sucked at linux
+T 1668635507 28.:192424haZ-28:.	dont have it thankfully
+T 1668635572 28.:192427VelvetBlueEyes28:.	my next device will either be amd or arm probably
+T 1668635633 28.:192427VelvetBlueEyes28:.	a phone+drawing tablet+steamdeck would be ideal if i could run my games from a valve server
+T 1668635648 28.:192427VelvetBlueEyes28:.	i'd likely ditch laptop
+T 1668635683 28.:192427VelvetBlueEyes28:.	it is handy for home media stuff though
+T 1668635768 28.:192424haZ-28:.	dont fall for that davos crap
+T 1668635782 28.:192427VelvetBlueEyes28:.	davos?
+T 1668635783 28.:192424haZ-28:.	'youll own nothing and youll be happy'
+T 1668635801 28.:192424haZ-28:.	buy a laptop like a real man 
+T 1668635836 28.:192427VelvetBlueEyes28:.	i don't understand
+T 1668635916 28.:192424haZ-28:.	wait, lemme read about this steamdeck first
+T 1668636329 28.:192424haZ-28:.	i assumed it was some cloud shit
+T 1668636343 28.:192424haZ-28:.	seems legit, but i would still go for a laptop
+T 1668636343 28.:192429vanacity28:.	it's a handheld computer
+T 1668636355 28.:192427VelvetBlueEyes28:.	i do like mine
+T 1668636371 28.:192427VelvetBlueEyes28:.	i'm also not a man...if that's what you were implkying  :)
+T 1668636374 28.:192429vanacity28:.	purposed for games
+T 1668636378 28.:192427VelvetBlueEyes28:.	implying*
+T 1668636410 28.:192424haZ-28:.	there are no women on the internet
+T 1668636422 28.:192427VelvetBlueEyes28:.	right
+T 1668636502 28.:192424haZ-28:.	i dont play games anymore
+T 1668636514 28.:192424haZ-28:.	used to play dota a lot
+T 1668636522 28.:192424haZ-28:.	what do you play?
+T 1668636524 28.:192427VelvetBlueEyes28:.	i play Go more than anything
+T 1668636534 28.:192424haZ-28:.	go, like chinese chess?
+T 1668636543 28.:192427VelvetBlueEyes28:.	i like portal 2 and talos principle user maps a lot though
+T 1668636543 28.:192424haZ-28:.	or smth like that
+T 1668636556 28.:192427VelvetBlueEyes28:.	a way to think of it...sorta ya
+T 1668636596 28.:192429vanacity28:.	i have a question for artix devs: what is hdparm-runit for?
+T 1668636655 28.:192429vanacity28:.	i see it runs hdparm on every block device at startup, but actually does like nothing to them by default
+T 1668636713 28.:192424haZ-28:.	i bought a go set but still didn't learn the rules
+T 1668636725 28.:192424haZ-28:.	also no one knows how to play it irl
+T 1668636741 28.:192427VelvetBlueEyes28:.	i can give a good link if you like
+T 1668636753 28.:192424haZ-28:.	pls do
+T 1668636765 28.:192429vanacity28:.	the rules are very simple i hear
+T 1668636814 28.:192427VelvetBlueEyes28:.	https://youtu.be/eNpJF0BzUig     rules
+T 1668636820 28.:192424haZ-28:.	i watched one video and lost interest halfway
+T 1668636859 28.:192427VelvetBlueEyes28:.	this site has a ton of puzzles, tutorials, chat, and general help   https://online-go.com/observe-games
+T 1668636861 28.:192424haZ-28:.	gonna check that one out
+T 1668636890 28.:192424haZ-28:.	im already addicted to chess, dont wanna become go fiend aswell
+T 1668636902 28.:192427VelvetBlueEyes28:.	heh...chess is fun too
+T 1668636923 28.:192427VelvetBlueEyes28:.	also still play tetris a good bit  xD
+T 1668636934 28.:192424haZ-28:.	kek
+T 1668636971 28.:192427VelvetBlueEyes28:.	need to run...bbl   o/
+T 1668636982 28.:192424haZ-28:.	take care
+T 1668638098 28.:192429vanacity28:.	i ask because the package's url itself points to artixlinux.org
+T 1668640723 28»18»	Disconnected ().
+T 1668641062 25»19»	19Now talking on #artix
+T 1668641062 29»22»	22Topic for #artix is: Artix Linux - https://artixlinux.org
+T 1668641062 29»22»	22Topic for #artix set by konimex at Fri May 20 21:06:09 2022
+T 1668648613 28»18»	Disconnected ().
+T 1668648711 28»18»	Disconnected (Remote host closed socket).
+T 1668648771 28»18»	Disconnected (Remote host closed socket).
+T 1668648831 28»18»	Disconnected (Remote host closed socket).
+T 1668649169 25»19»	19Now talking on #artix
+T 1668649169 29»22»	22Topic for #artix is: Artix Linux - https://artixlinux.org
+T 1668649169 29»22»	22Topic for #artix set by konimex at Fri May 20 21:06:09 2022
+T 1668666043 28»18»	Disconnected ().
+T 1668666090 28»18»	Disconnected (Remote host closed socket).
+T 1668666160 28»18»	Disconnected (Remote host closed socket).
+T 1668666230 28»18»	Disconnected (Remote host closed socket).
+T 1668666568 25»19»	19Now talking on #artix
+T 1668666568 29»22»	22Topic for #artix is: Artix Linux - https://artixlinux.org
+T 1668666568 29»22»	22Topic for #artix set by konimex at Fri May 20 21:06:09 2022
+T 1668677410 28.:192427VelvetBlueEyes28:.	SGOrava: did you get that atom?
+T 1668677583 28.:192427VelvetBlueEyes28:.	also wanted to show you this   https://www.amazon.com/Punkt-MP02-Factory-Unlocked-Smartphone/dp/B07ML3ZHT4/ref=sr_1_1?keywords=punkt+phone&qid=1668677555&sr=8-1&ufe=app_do%3Aamzn1.fos.08f69ac3-fd3d-4b88-bca2-8997e41410bb
+T 1668677592 28.:192427VelvetBlueEyes28:.	..headed to bed...nini
+T 1668679064 28»18»	Disconnected ().
+T 1668679125 28»18»	Disconnected (Remote host closed socket).
+T 1668679189 28»18»	Disconnected (Remote host closed socket).
+T 1668679231 28»18»	Disconnected (Remote host closed socket).
+T 1668679284 28»18»	Disconnected (Remote host closed socket).
+T 1668679629 25»19»	19Now talking on #artix
+T 1668679629 29»22»	22Topic for #artix is: Artix Linux - https://artixlinux.org
+T 1668679629 29»22»	22Topic for #artix set by konimex at Fri May 20 21:06:09 2022
+T 1668700814 28»18»	Disconnected ().
+T 1668700983 28»18»	Disconnected (Remote host closed socket).
+T 1668701040 28»18»	Disconnected (Remote host closed socket).
+T 1668701379 25»19»	19Now talking on #artix
+T 1668701379 29»22»	22Topic for #artix is: Artix Linux - https://artixlinux.org
+T 1668701379 29»22»	22Topic for #artix set by konimex at Fri May 20 21:06:09 2022
+T 1668710755 25»19»	19Now talking on #artix
+T 1668710755 29»22»	22Topic for #artix is: Artix Linux - https://artixlinux.org
+T 1668710755 29»22»	22Topic for #artix set by konimex at Fri May 20 21:06:09 2022
+T 1668714764 28»18»	Disconnected ().
+T 1668714864 28»18»	Disconnected (Remote host closed socket).
+T 1668760863 25»19»	19Now talking on #artix
+T 1668760863 29»22»	22Topic for #artix is: Artix Linux - https://artixlinux.org
+T 1668760863 29»22»	22Topic for #artix set by konimex at Fri May 20 21:06:09 2022
+T 1668764809 19.:2823woland19:.	v2ray-runit service galaxy wont start, any ideas? 
+T 1668764986 19.:2823woland19:.	https://0x0.st/oI5o.sh
+T 1668767438 28.:192420hoel28:.	Any error log?
+T 1668767515 19.:2823woland19:.	hoel: the log is empty
+T 1668768279 28.:192420hoel28:.	Does the v2ray command exist?
+T 1668768310 28.:192420hoel28:.	Most probably that’s a shell issue (or your executable exits without a word, which wouldn’t be nice of him).
+T 1668768001 19.:2823woland19:.	yes v2ray exists
+T 1668768012 19.:2823woland19:.	shellchecker is actually complaining
+T 1668768023 19.:2823woland19:.	run|2 col 18 warning| Not following: ./conf was not specified as input (se    e shellcheck -x). [SC1091]    
+T 1668768363 28.:192420hoel28:.	Yeah, it does not know what happens in that conf file.
+T 1668768369 28.:192420hoel28:.	What’s its content?
+T 1668768080 19.:2823woland19:.	https://0x0.st/oIRi.txt
+T 1668768465 28.:192420hoel28:.	Oh, I meant the ./conf file, not the /etc/v2ray/config.json file.
+T 1668768164 19.:2823woland19:.	where is that?
+T 1668768533 28.:192420hoel28:.	In the same directory as the run file you uploaded earlier.
+T 1668768537 28.:192420hoel28:.	It may not exist.
+T 1668768310 19.:2823woland19:.	it doesnt exists 
+T 1668768665 28.:192420hoel28:.	What happens if you run the command manually as root?
+T 1668768422 19.:2823woland19:.	it says that its runing using config from stdin
+T 1668768433 19.:2823woland19:.	but doesnt actually do anything
+T 1668768837 28.:192420hoel28:.	It says it uses config from stdin when you run /usr/bin/v2ray -config /etc/v2ray/config.json?
+T 1668768609 19.:2823woland19:.	oh like that
+T 1668768611 19.:2823woland19:.	it says
+T 1668768613 19.:2823woland19:.	flag provided but not defined: -config
+T 1668769018 28.:192420hoel28:.	And if you run /usr/bin/v2ray -config=/etc/v2ray/config.json?
+T 1668769026 28.:192420hoel28:.	(Note the equal sign)
+T 1668768725 19.:2823woland19:.	same 
+T 1668769214 28.:192420hoel28:.	Uh
+T 1668769221 28.:192420hoel28:.	I don’t know then, sorry.
+T 1668768920 19.:2823woland19:.	hoel: thanks for you help <3
+T 1668769246 28.:192420hoel28:.	np :)
+T 1668949156 25»19»	19Now talking on #artix
+T 1668949156 29»22»	22Topic for #artix is: Artix Linux - https://artixlinux.org
+T 1668949156 29»22»	22Topic for #artix set by konimex at Fri May 20 21:06:09 2022
+T 1669056996 25»19»	19Now talking on #artix
+T 1669056996 29»22»	22Topic for #artix is: Artix Linux - https://artixlinux.org
+T 1669056996 29»22»	22Topic for #artix set by konimex at Fri May 20 21:06:09 2022
+T 1669067138 25»19»	19Now talking on #artix
+T 1669067138 29»22»	22Topic for #artix is: Artix Linux - https://artixlinux.org
+T 1669067138 29»22»	22Topic for #artix set by konimex at Fri May 20 21:06:09 2022
+T 1669416041 25»19»	19Now talking on #artix
+T 1669416041 29»22»	22Topic for #artix is: Artix Linux - https://artixlinux.org
+T 1669416041 29»22»	22Topic for #artix set by konimex at Fri May 20 21:06:09 2022
+T 1669426246 25»19»	19Now talking on #artix
+T 1669426246 29»22»	22Topic for #artix is: Artix Linux - https://artixlinux.org
+T 1669426246 29»22»	22Topic for #artix set by konimex at Fri May 20 21:06:09 2022
+T 1669771556 25»19»	19Now talking on #artix
+T 1669771556 29»22»	22Topic for #artix is: Artix Linux - https://artixlinux.org
+T 1669771556 29»22»	22Topic for #artix set by konimex at Fri May 20 21:06:09 2022
+T 1669936850 25»19»	19Now talking on #artix
+T 1669936850 29»22»	22Topic for #artix is: Artix Linux - https://artixlinux.org
+T 1669936850 29»22»	22Topic for #artix set by konimex at Fri May 20 21:06:09 2022
+T 1669936713 28»18»	Disconnected ().
+T 1669937071 25»19»	19Now talking on #artix
+T 1669937071 29»22»	22Topic for #artix is: Artix Linux - https://artixlinux.org
+T 1669937071 29»22»	22Topic for #artix set by konimex at Fri May 20 21:06:09 2022
+T 1669937253 28»18»	Disconnected ().
+T 1669937306 28»18»	Disconnected (Remote host closed socket).
+T 1669938046 25»19»	19Now talking on #artix
+T 1669938046 29»22»	22Topic for #artix is: Artix Linux - https://artixlinux.org
+T 1669938046 29»22»	22Topic for #artix set by konimex at Fri May 20 21:06:09 2022
+T 1669997436 25»19»	19Now talking on #artix
+T 1669997436 29»22»	22Topic for #artix is: Artix Linux - https://artixlinux.org
+T 1669997436 29»22»	22Topic for #artix set by konimex at Fri May 20 21:06:09 2022
+T 1669997555 25»19»	19Now talking on #artix
+T 1669997555 29»22»	22Topic for #artix is: Artix Linux - https://artixlinux.org
+T 1669997555 29»22»	22Topic for #artix set by konimex at Fri May 20 21:06:09 2022
+T 1669997630 28.:192422peetaur28:.	her tabs opened up again...so must be same profile
+T 1670376043 25»19»	19Now talking on #artix
+T 1670376043 29»22»	22Topic for #artix is: Artix Linux - https://artixlinux.org
+T 1670376043 29»22»	22Topic for #artix set by konimex at Fri May 20 21:06:09 2022
+T 1670375777 28»18»	Disconnected ().
+T 1670376129 25»19»	19Now talking on #artix
+T 1670376129 29»22»	22Topic for #artix is: Artix Linux - https://artixlinux.org
+T 1670376129 29»22»	22Topic for #artix set by konimex at Fri May 20 21:06:09 2022
+T 1670375842 28»18»	Disconnected (Remote host closed socket).
+T 1670375903 28»18»	Disconnected (Remote host closed socket).
+T 1670376264 28.:192420sn00p28:.	pacman -S artix-archlinux-support
+T 1670376264 28.:192420sn00p28:.	error: target not found: artix-archlinux-support
+T 1670376268 28.:192420sn00p28:.	why do I get this error
+T 1670375934 FiSHLiM plugin unloaded
+T 1670376979 25»19»	19Now talking on #artix
+T 1670376979 29»22»	22Topic for #artix is: Artix Linux - https://artixlinux.org
+T 1670376979 29»22»	22Topic for #artix set by konimex at Fri May 20 21:06:09 2022
+T 1670378446 28.:192428axreios28:.	I saw someone in the forum wrote about a notice while booting that included \-\-.  I think this is coming from /etc/init.d/hwclock.  I have the same notice at boot.  FWIW
+T 1670378671 28.:192428axreios28:.	I don't know who manages the openrc package so I thought I would mention this here.  Adios!
+T 1670381723 28.:192429mrbrklyn28:.	why not use ntp for the clock?  Hardware clocks tend to be unreliable over time
+T 1670444010 25»19»	19Now talking on #artix
+T 1670444010 29»22»	22Topic for #artix is: Artix Linux - https://artixlinux.org
+T 1670444010 29»22»	22Topic for #artix set by konimex at Fri May 20 21:06:09 2022
+T 1670507652 25»19»	19Now talking on #artix
+T 1670507652 29»22»	22Topic for #artix is: Artix Linux - https://artixlinux.org
+T 1670507652 29»22»	22Topic for #artix set by konimex at Fri May 20 21:06:09 2022
+T 1670508877 25»19»	19Now talking on #artix
+T 1670508877 29»22»	22Topic for #artix is: Artix Linux - https://artixlinux.org
+T 1670508877 29»22»	22Topic for #artix set by konimex at Fri May 20 21:06:09 2022
+T 1670552244 25»19»	19Now talking on #artix
+T 1670552244 29»22»	22Topic for #artix is: Artix Linux - https://artixlinux.org
+T 1670552244 29»22»	22Topic for #artix set by konimex at Fri May 20 21:06:09 2022
+T 1670552366 28»18»	Disconnected ().
+T 1670552441 28»18»	Disconnected (Remote host closed socket).
+T 1670552515 28»18»	Disconnected (Remote host closed socket).
+T 1670552561 28»18»	Disconnected (Remote host closed socket).
+T 1670552928 25»19»	19Now talking on #artix
+T 1670552928 29»22»	22Topic for #artix is: Artix Linux - https://artixlinux.org
+T 1670552928 29»22»	22Topic for #artix set by konimex at Fri May 20 21:06:09 2022
+T 1670552666 28»18»	Disconnected ().
+T 1670553034 25»19»	19Now talking on #artix
+T 1670553034 29»22»	22Topic for #artix is: Artix Linux - https://artixlinux.org
+T 1670553034 29»22»	22Topic for #artix set by konimex at Fri May 20 21:06:09 2022
+T 1670554993 28.:192428n00b28:.	pacman -Si code says https://github.com/microsoft/vscode . how do i find the actual git?
+T 1670555058 28.:192428n00b28:.	also says Massimiliano Torromeo
+T 1670555606 28»18»	Disconnected ().
+T 1670555676 28»18»	Disconnected (Remote host closed socket).
+T 1670555736 28»18»	Disconnected (Remote host closed socket).
+T 1670555809 28»18»	Disconnected (Remote host closed socket).
+T 1670556178 25»19»	19Now talking on #artix
+T 1670556178 29»22»	22Topic for #artix is: Artix Linux - https://artixlinux.org
+T 1670556178 29»22»	22Topic for #artix set by konimex at Fri May 20 21:06:09 2022
+T 1670556056 28»18»	Disconnected ().
+T 1670556119 28»18»	Disconnected (Remote host closed socket).
+T 1670556183 28»18»	Disconnected (Remote host closed socket).
+T 1670556375 28»18»	Disconnected (Remote host closed socket).
+T 1670556568 28»18»	Disconnected (Remote host closed socket).
+T 1670556937 25»19»	19Now talking on #artix
+T 1670556937 29»22»	22Topic for #artix is: Artix Linux - https://artixlinux.org
+T 1670556937 29»22»	22Topic for #artix set by konimex at Fri May 20 21:06:09 2022

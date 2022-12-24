@@ -1,0 +1,6 @@
+T 1668712378 25»19»	19Now talking on ##general
+T 1668712378 29»22»	22Topic for ##general is: Welcome to ##general | Channel Guidelines: https://bit.ly/3Q02qx0 | Bridged to Matrix: ##general:libera.chat and XMPP[via matrix]: xmpp:##general#libera.chat@aria-net.org | register or use a bridge to talk https://libera.chat/guides/registration | chanops can always read you
+T 1668712378 29»22»	22Topic for ##general set by rber!~raphael@user/rber at Fri Sep  2 20:35:00 2022
+T 1668714910 24»23»23	ChanServ sets modes (##general +v MerchantOfVenice)
+T 1668714764 28»18»	Disconnected ().
+T 1668714864 28»18»	Disconnected (Remote host closed socket).

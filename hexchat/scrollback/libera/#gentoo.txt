@@ -1,0 +1,25 @@
+T 1668771382 25»19»	19Now talking on #gentoo
+T 1668771382 29»22»	22Topic for #gentoo is: Gentoo Linux Support | packages.g.o is down for maintenance! | Can't speak? /j #gentoo-ops | Don't ask if anyone can help; just ask your question | long pastes: wgetpaste -s sprunge | Perl conflicts? https://goo.gl/7Miost | Be nice! https://wiki.gentoo.org/wiki/Project:Ops#Channel_Policy
+T 1668771382 29»22»	22Topic for #gentoo set by sam_!~sam@gentoo/developer/sam at Mon Oct 31 03:43:20 2022
+T 1668771382 28-21Notice28-	21{28from ChanServ21} [#gentoo] Welcome to #gentoo || Code of Conduct @ https://wiki.gentoo.org/wiki/Project:Council/Code_of_conduct || Read /topic! || Keep the language clean || For social talk try #gentoo-chat || Google is your friend || No bots or scripts that talk || Turn off public away messages
+T 1668771382 22*	Channel 22#gentoo url: 24https://www.gentoo.org
+T 1668771139 19.:2823woland19:.	can you recommend a nice gentoo based distro with an easy installer that hasnt stayed too far off from real gentoo?
+T 1668771663 28.:192426duxsco28:.	hm, dunno, but you can look at https://en.wikipedia.org/wiki/List_of_Gentoo_Linux_derivatives and https://distrowatch.com/search.php?ostype=All&category=All&origin=All&basedon=Gentoo&notbasedon=None&desktop=All&architecture=All&package=All&rolling=All&isosize=All&netinstall=All&language=All&defaultinit=All&status=Active#simple
+T 1668771733 19.:2823woland19:.	does funtoo have GUI installer?
+T 1668772115 28.:192426thelinuxuser28:.	Funtoo does not have a gui installer
+T 1668772121 28.:192426thelinuxuser28:.	see https://www.funtoo.org/Funtoo_Linux_First_Steps/Installing_a_Graphical_Environment
+T 1668771963 19.:2823woland19:.	will get exgeny
+T 1668771966 19.:2823woland19:.	exgent
+T 1668772589 28.:192426duxsco28:.	exgent? ugh, they use sourceforge with install media from jan. 2021...
+T 1668772643 28.:192426duxsco28:.	no, gpg signing of install media and only md5 hash. absolute no-go
+T 1668772434 19.:2823woland19:.	is that important for vm?
+T 1668772788 28.:192426duxsco28:.	you have to decide for yourself
+T 1668772857 28.:192426duxsco28:.	they can use sourceforge, but should provide a better way to verify the install media
+T 1668772912 28.:192427hangint3n28:.	good morning
+T 1668773178 28.:192426duxsco28:.	and, if they start with the install media that way, i don't want to know the distro internals look like
+T 1668773189 28.:192426duxsco28:.	s/know/know how/
+T 1668773748 19.:2823woland19:.	ok redcore then
+T 1668773820 19.:2823woland19:.	s/exgent/redcore
+T 1668774162 28.:19+2419username23428:.	let's keep the off-topic chatter to a minimum. Thanks.
+T 1668773941 19.:2823woland19:.	gentoo is offtopic is gentoo? lol youre a joke
+T 1668773950 29»22»22	woland leaves in pitty

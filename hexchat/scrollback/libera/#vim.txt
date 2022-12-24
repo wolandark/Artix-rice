@@ -1,0 +1,747 @@
+T 1668365284 19*	Now talking on 22#vim
+T 1668365284 22*	Topic for 22#vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1668365284 22*	Topic for 22#vim set by 26phy1729 (24Tue Jun 28 19:48:55 2022)
+T 1668365339 24*	terminalpusher has quit (Remote host closed the connection)
+T 1668365459 24*	Lyude has quit (Read error: Connection reset by peer)
+T 1668365521 24*	i0e has quit (Quit: WeeChat 3.6)
+T 1668365573 24*	kuri22 has quit (Ping timeout: 268 seconds)
+T 1668365599 23*	kuri22 (~quassel@101.87.152.18123) has joined
+T 1668365648 24*	rsl1337 has quit (Quit: WeeChat 3.7.1)
+T 1668365663 23*	rsl1337 (~rsl@111-163-191-90.dyn.estpak.ee23) has joined
+T 1668365697 24*	28rsl1337 is now known as 18rsl_
+T 1668366090 24*	habamax has quit (Ping timeout: 240 seconds)
+T 1668365843 20*	Disconnected (20)
+T 1668366181 19*	Now talking on 22#vim
+T 1668366181 22*	Topic for 22#vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1668366181 22*	Topic for 22#vim set by 26phy1729 (24Tue Jun 28 19:48:55 2022)
+T 1668366207 23*	phinxy (~Phinxy@user/phinxy23) has joined
+T 1668366233 23*	habamax (~habamax@user/habamax23) has joined
+T 1668366415 25»19»	19Now talking on #vim
+T 1668366415 29»22»	22Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1668366415 29»22»	22Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+T 1668366440 31-26-25-18»	18qq44[m] (~qq44matri@2001:470:69fc:105::2:2ab2) has Joined #vim
+T 1668366488 31-26-25-18»	18jkwnki (~jkwnki@p2e579b27.dip0.t-ipconnect.de) has Joined #vim
+T 1668366495 31-26-25-18»	18Lyude (~lyudess@2600:4040:5c6c:9200:22c9:6274:5673:172a) has Joined #vim
+T 1668366511 19*	19Now talking on #vim
+T 1668366511 29*	29Topic for #vim 29is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1668366511 29*	29Topic for #vim 29set by phy1729 29at Tue Jun 28 19:48:55 2022
+T 1668366626 25»19»	19Now talking on #vim
+T 1668366626 29»22»	22Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1668366626 29»22»	22Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+T 1668366837 26«26-31-31-	26rindolf (~shlomif@inkscape/dev/shlomif26) has Quit (Read error: Connection reset by peer26)
+T 1668367029 31-31-19-19»	19aborazmeh (~aborazmeh@88.246.196.10019) has Joined #vim
+T 1668367067 26«26-31-31-	26mattf1n (~matthewf@c-73-193-122-149.hsd1.wa.comcast.net26) has Quit (Ping timeout: 260 seconds26)
+T 1668367215 26«26-31-31-	26igemnace (~ian@user/igemnace26) has Quit (Remote host closed the connection26)
+T 1668367245 31-31-19-19»	19e8v92golf (~e8v92golf@75-35-193-117.lightspeed.nsvltn.sbcglobal.net19) has Joined #vim
+T 1668367320 31-31-19-19»	19mattf1n (~matthewf@c-73-193-122-149.hsd1.wa.comcast.net19) has Joined #vim
+T 1668367414 26«26-31-31-	26Elodin (~elodin@user/elodin26) has Quit (Read error: Connection reset by peer26)
+T 1668367635 26«26-31-31-	26jkwnki (~jkwnki@p2e579b27.dip0.t-ipconnect.de26) has Quit (Ping timeout: 256 seconds26)
+T 1668367722 26«26-31-31-	26catman (~catman@user/catman26) has Quit (Remote host closed the connection26)
+T 1668367748 31-31-19-19»	19Elodin (~elodin@user/elodin19) has Joined #vim
+T 1668367763 31-31-19-19»	19catman (~catman@user/catman19) has Joined #vim
+T 1668367877 31-31-19-19»	19rindolf (~shlomif@inkscape/dev/shlomif19) has Joined #vim
+T 1668367879 26«26-31-31-	26e8v92golf (~e8v92golf@75-35-193-117.lightspeed.nsvltn.sbcglobal.net26) has Quit (Ping timeout: 260 seconds26)
+T 1668368105 31-31-19-19»	19jazzy (~jaziz@user/jaziz19) has Joined #vim
+T 1668368274 26«26-31-31-	26kuri22_ (~quassel@101.87.152.18126) has Quit (Ping timeout: 268 seconds26)
+T 1668368289 31-31-19-19»	19kuri22 (~quassel@101.87.152.18119) has Joined #vim
+T 1668368375 31-31-19-19»	19zer0bitz_ (~zer0bitz@196.244.192.5419) has Joined #vim
+T 1668368451 26«26-31-31-	26zer0bitz (~zer0bitz@196.244.192.5626) has Quit (Ping timeout: 256 seconds26)
+T 1668368975 31-31-19-19»	19jkwnki (~jkwnki@p2e579b27.dip0.t-ipconnect.de19) has Joined #vim
+T 1668369218 26«26-31-31-	26cvmn (~caveman@gateway/tor-sasl/caveman26) has Quit (Quit: cvmn26)
+T 1668369268 31-31-19-19»	19caveman (~caveman@gateway/tor-sasl/caveman19) has Joined #vim
+T 1668369275 26«26-31-31-	26coot (~coot@2a02:a310:e241:1b00:ec1a:e9df:79ac:66ba26) has Quit (Quit: coot26)
+T 1668369400 31-31-19-19»	19scan (~scan@host159.181-4-174.telecom.net.ar19) has Joined #vim
+T 1668369433 31-31-19-19»	19werneta (~werneta@70-142-214-115.lightspeed.irvnca.sbcglobal.net19) has Joined #vim
+T 1668369604 31-31-19-19»	19zeenk (~zeenk@188.25.233.17219) has Joined #vim
+T 1668369693 26«26-31-31-	26user_____ (~user_____@199-17-95-178.pool.ukrtel.net26) has Quit (Ping timeout: 260 seconds26)
+T 1668369781 26«26-31-31-	26caveman (~caveman@gateway/tor-sasl/caveman26) has Quit (Remote host closed the connection26)
+T 1668369845 26«26-31-31-	26habamax (~habamax@user/habamax26) has Quit (Ping timeout: 256 seconds26)
+T 1668369892 26«26-31-31-	26jetchisel (~jetchisel@user/jetchisel26) has Quit (Quit: Unfortunately time is always against us -- [Morpheus]26)
+T 1668369900 26«26-31-31-	26zeenk (~zeenk@188.25.233.17226) has Quit (Ping timeout: 268 seconds26)
+T 1668369981 31-31-19-19»	19caveman (~caveman@gateway/tor-sasl/caveman19) has Joined #vim
+T 1668370067 31-31-19-19»	19theoceaniscool (~theoceani@207.188.139.4519) has Joined #vim
+T 1668370276 31-31-19-19»	19goldfish (~goldfish@user/goldfish19) has Joined #vim
+T 1668370338 31-31-19-19»	19jetchisel (~jetchisel@user/jetchisel19) has Joined #vim
+T 1668370381 26«26-31-31-	26jkwnki (~jkwnki@p2e579b27.dip0.t-ipconnect.de26) has Quit (Ping timeout: 268 seconds26)
+T 1668370729 26«26-31-31-	26mattf1n (~matthewf@c-73-193-122-149.hsd1.wa.comcast.net26) has Quit (Ping timeout: 256 seconds26)
+T 1668370831 26«26-31-31-	26impulse (~impulse@cpea84e3fe992d3-cma84e3fe992d0.sdns.net.rogers.com26) has Quit (Ping timeout: 256 seconds26)
+T 1668370846 31-31-19-19»	19impulse (~impulse@cpea84e3fe992d3-cma84e3fe992d0.sdns.net.rogers.com19) has Joined #vim
+T 1668371115 31-31-19-19»	19mattf1n (~matthewf@c-73-193-122-149.hsd1.wa.comcast.net19) has Joined #vim
+T 1668371273 26«26-31-31-	26f_ (~f@fases/developer/vitali6426) has Quit (Ping timeout: 256 seconds26)
+T 1668371406 26«26-31-31-	26aJJa__ (~aJJa@2a0a:e340:1001:300::8:326) has Quit (Quit: Leaving26)
+T 1668371546 31-31-19-19»	19jkwnki (~jkwnki@p2e579b27.dip0.t-ipconnect.de19) has Joined #vim
+T 1668371750 26«26-31-31-	26Enitin (Enitin@gateway/vpn/protonvpn/enitin26) has Quit (Ping timeout: 268 seconds26)
+T 1668371787 26«26-31-31-	26mattf1n (~matthewf@c-73-193-122-149.hsd1.wa.comcast.net26) has Quit (Ping timeout: 268 seconds26)
+T 1668371910 31-31-19-19»	19Enitin (Enitin@gateway/vpn/protonvpn/enitin19) has Joined #vim
+T 1668372050 26«26-31-31-	26randm (~randm@user/randm26) has Quit (Remote host closed the connection26)
+T 1668372051 26«26-31-31-	26grobi (~grobi@user/grobi26) has Quit (Ping timeout: 260 seconds26)
+T 1668372085 31-31-19-19»	19randm (~randm@user/randm19) has Joined #vim
+T 1668375448 28»18»	Disconnected ().
+T 1668375518 28»18»	Disconnected (Remote host closed socket).
+T 1668375575 28»18»	Disconnected (Remote host closed socket).
+T 1668375618 28»18»	Disconnected (Remote host closed socket).
+T 1668375950 25»19»	19Now talking on #vim
+T 1668375950 29»22»	22Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1668375950 29»22»	22Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+T 1668376278 25»19»	19Now talking on #vim
+T 1668376278 29»22»	22Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1668376278 29»22»	22Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+T 1668376450 28»18»	Disconnected ().
+T 1668376566 28»18»	woland already in use. Retrying with ...
+T 1668376604 28»18»	Disconnected (Remote host closed socket).
+T 1668376616 28»18»	woland already in use. Retrying with ...
+T 1668376672 28»18»	Disconnected (Remote host closed socket).
+T 1668376998 24»23»23	woland sets mode +Z woland
+T 1668376998 24»23»23	woland sets mode +i woland
+T 1668376998 24»23»23	woland sets mode +w woland
+T 1668376998 28-21Notice28-	21{28from SaslServ21} Last login from: ~woland@static.45.214.12.49.clients.your-server.de on Nov 13 22:02:30 2022 +0000.
+T 1668377004 25»19»	19Now talking on #vim
+T 1668377004 29»22»	22Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1668377004 29»22»	22Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+T 1668377389 28.:192420Kaedenn28:.	is it possible to have different colors for different colorcolumns?
+T 1668377436 28.:192428romainl28:.	no, there is only one highlight group
+T 1668377478 28.:192420Kaedenn28:.	kk thanks
+T 1668378306 21»20»	nstrs5 is now known as nstrs
+T 1668381550 28»18»	Disconnected ().
+T 1668381612 28»18»	Disconnected (Remote host closed socket).
+T 1668381686 28»18»	Disconnected (Remote host closed socket).
+T 1668381738 28»18»	Disconnected (Remote host closed socket).
+T 1668381806 28»18»	Disconnected (Remote host closed socket).
+T 1668382138 25»19»	19Now talking on #vim
+T 1668382138 29»22»	22Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1668382138 29»22»	22Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+T 1668382090 28»18»	Disconnected ().
+T 1668382102 28»18»	woland already in use. Retrying with ...
+T 1668382146 28»18»	Disconnected (Remote host closed socket).
+T 1668382158 28»18»	woland already in use. Retrying with ...
+T 1668382205 28»18»	Disconnected (Remote host closed socket).
+T 1668382220 28»18»	woland already in use. Retrying with ...
+T 1668382267 28»18»	Disconnected (Remote host closed socket).
+T 1668382593 24»23»23	woland sets mode +Z woland
+T 1668382593 24»23»23	woland sets mode +i woland
+T 1668382593 24»23»23	woland sets mode +w woland
+T 1668382593 28-21Notice28-	21{28from SaslServ21} Last login from: ~woland@188.121.140.34 on Nov 13 23:36:31 2022 +0000.
+T 1668382599 25»19»	19Now talking on #vim
+T 1668382599 29»22»	22Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1668382599 29»22»	22Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+T 1668423147 25»19»	19Now talking on #vim
+T 1668423147 29»22»	22Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1668423147 29»22»	22Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+T 1668423514 19.:2823woland19:.	is there a way to justify text without par or fmt ?
+T 1668423544 19.:2823woland19:.	like in emacs you can do M-3 M-x fill-paragragh 
+T 1668423872 28.:192426lopid28:.	do you mean "is there a built in way?"?
+T 1668423577 19.:2823woland19:.	or an external command that is not par or fmt
+T 1668425983 28»18»	Disconnected ().
+T 1668425996 28»18»	woland already in use. Retrying with ...
+T 1668426042 28»18»	Disconnected (Remote host closed socket).
+T 1668426068 28»18»	woland already in use. Retrying with ...
+T 1668426114 28»18»	Disconnected (Remote host closed socket).
+T 1668426135 28»18»	woland already in use. Retrying with ...
+T 1668426170 28»18»	Disconnected (Remote host closed socket).
+T 1668426184 28»18»	woland already in use. Retrying with ...
+T 1668426226 28»18»	Disconnected (Remote host closed socket).
+T 1668426558 24»23»23	woland sets mode +Z woland
+T 1668426558 24»23»23	woland sets mode +i woland
+T 1668426558 24»23»23	woland sets mode +w woland
+T 1668426558 28-21Notice28-	21{28from SaslServ21} Last login from: ~woland@static.247.176.55.162.clients.your-server.de on Nov 14 11:49:07 2022 +0000.
+T 1668426564 25»19»	19Now talking on #vim
+T 1668426564 29»22»	22Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1668426564 29»22»	22Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+T 1668426371 FiSHLiM plugin unloaded
+T 1668460949 25»19»	19Now talking on #vim
+T 1668460949 29»22»	22Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1668460949 29»22»	22Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+T 1668461401 25»19»	19Now talking on #vim
+T 1668461401 29»22»	22Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1668461401 29»22»	22Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+T 1668462179 28.:192426lopid28:.	i (lopid) visually select a big block of text, larger than the windows size. i want to do a :s/foo/bar on it whilst viewing the top of the block, but as soon as i type ":", the view jumps to the bottom of the block, even when i purposefully had put the cursor at the top. howto?
+T 1668464077 28.:192427jmcantrell28:.	lopid: i don't see that behavior. i tried visually selecting starting at the top and bottom
+T 1668463806 19.:2823woland19:.	I think you need to scroll way up while selecting a text from bottom to the top
+T 1668464223 28.:192426lopid28:.	oh, right. it may be a side effect of traces.vim
+T 1668464090 19.:2823woland19:.	yes traces would do that
+T 1668465360 28.:192424NorrinRadd28:.	https://www.youtube.com/watch?v=3TX3kV3TICU
+T 1668465271 19.:2823woland19:.	Ah I remember this
+T 1668467938 28»18»	Disconnected ().
+T 1668468267 24»23»23	woland sets modes (woland :+Ziw)
+T 1668468267 28-21Notice28-	21{28from SaslServ21} Last login from: ~woland@static.247.176.55.162.clients.your-server.de on Nov 14 23:23:26 2022 +0000.
+T 1668468273 25»19»	19Now talking on #vim
+T 1668468273 29»22»	22Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1668468273 29»22»	22Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+T 1668470458 28»18»	Disconnected ().
+T 1668470510 28»18»	Disconnected (Remote host closed socket).
+T 1668470578 28»18»	Disconnected (Remote host closed socket).
+T 1668470646 28»18»	Disconnected (Remote host closed socket).
+T 1668515292 25»19»	19Now talking on #vim
+T 1668515292 29»22»	22Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1668515292 29»22»	22Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+T 1668515526 25»19»	19Now talking on #vim
+T 1668515526 29»22»	22Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1668515526 29»22»	22Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+T 1668515638 25»19»	19Now talking on #vim
+T 1668515638 29»22»	22Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1668515638 29»22»	22Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+T 1668515813 25»19»	19Now talking on #vim
+T 1668515813 29»22»	22Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1668515813 29»22»	22Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+T 1668516721 28.:192425BluesBoy28:.	check with the hex editor what those chars are
+T 1668519709 28.:192427otisolsen7028:.	BluesBoy, so can I have vim search for a specific byte specified in hex?
+T 1668519730 28.:192429mgedmin28:.	no, because vim deals with characters
+T 1668519821 28.:192427otisolsen7028:.	So not sure why finding the bytes in a hexeditor would help.
+T 1668519824 28.:192429mgedmin28:.	you can search for a specific character using \%x12, or \%u1234, or \%U12345678
+T 1668519858 28.:192427otisolsen7028:.	mgedmin, \%xNN isnt that exactly what I asked for? If not, whats the difference?
+T 1668519863 28.:192429mgedmin28:.	you can use ga on top of a character in vim to discover its code
+T 1668519893 28.:192427otisolsen7028:.	So it says: <<94>> 148, Hex 0094, Oct 224, Digr CC
+T 1668519906 28.:192427otisolsen7028:.	So does this mean I should be able to find it on \%x94 ?
+T 1668519918 28.:192429mgedmin28:.	the difference is 0x85 might be in the UTF-8 representation of a particular character 'ą', but searching for /\%x85 will not let you find ą in Vim
+T 1668519919 28.:192427otisolsen7028:.	Seems like it
+T 1668519957 28.:192427otisolsen7028:.	Ah. I see. So in UTF8 a character might be several bytes. And specifying the byte might only match part of a char?
+T 1668519983 28.:192429mgedmin28:.	vim can't do partial matches on a single character
+T 1668520005 28.:192429mgedmin28:.	tl;dr a hex editor is useless if you want to find specific weird characters in vim
+T 1668520014 28.:192429mgedmin28:.	I'm not sure why people suggested it
+T 1668520269 28.:192425BluesBoy28:.	so he can see what exactly is in the file, he can use sed or something elese to replace the chars if he's unable to replace them in vim
+T 1668520328 28.:192429mgedmin28:.	I'm not sure sed is going to be easier tbh
+T 1668520356 28.:192429mgedmin28:.	line drawing becoming triplets of high chars is a sign you have UTF-8 misinterpreted as some 8-bit encoding (latin1 traditioally)
+T 1668520426 28.:192429mgedmin28:.	this is the point where I'd start debugging vim's idea of &fileencoding (and maybe &encoding and &termencoding, just to safely make sure they're both utf-8)
+T 1668520477 28.:192429mgedmin28:.	vim usually detects UTF-8 very nicely, but it might refuse to do that if you have a file with an ill-formed (e.g. truncated) UTF-8 character
+T 1668520675 28.:192427otisolsen7028:.	I think there are other ill-formed chars in this file.
+T 1668520689 28.:192427otisolsen7028:.	Problem is this file has been edited on several versions of Windows, Linux and MacOS.
+T 1668520714 28.:192429mgedmin28:.	I think you can fix just the tree line art sections by filtering them through iconv
+T 1668520403 FiSHLiM plugin unloaded
+T 1668541141 25»19»	19Now talking on #vim
+T 1668541141 29»22»	22Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1668541141 29»22»	22Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+T 1668541689 25»19»	19Now talking on #vim
+T 1668541689 29»22»	22Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1668541689 29»22»	22Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+T 1668545022 28.:192420mags28:.	does vim use ncurses?
+T 1668545077 28.:192427LeoNerd28:.	I don't believe so; I think it does its own thing
+T 1668545081 28.:192427derjanni28:.	Good evening! I am currently editing a Macintosh System 7 Think C source file (just plain C). The file has the line breaks with ^M shown in vi. How do I properly switch?
+T 1668545623 28.:192422tirnanog28:.	probably easier to use the tr(1) utility from the shell. tr '\r' '\n' < infile > outfile
+T 1668545776 28.:192427derjanni28:.	tirnanog: I want to retain the file format and just be able to properly display it in vi and on Macintosh System 7. I'm using Think C 5.0 from 1991 to write the code and would like to be able to view the files in vi as well :)
+T 1668545797 28.:192427derjanni28:.	If I would change the file format I could no longer compile it with Think C :)
+T 1668545849 28.:192424NorrinRadd28:.	make a copy first so you do not accidentally overwrite it? 
+T 1668545858 28.:192424NorrinRadd28:.	then you can do whatever you want with the copy 
+T 1668545912 28.:192427derjanni28:.	Did that already. But do I need to convert the file whenever I transfer it between my macOS Ventura (2022) and my Macintosh System 7 (1989)?
+T 1668546011 28.:192424NorrinRadd28:.	only thhe s7 modifies it?
+T 1668546019 28.:192429nickspoon28:.	Are you sure that the ^M is displayed on _every_ line? Vim is normally pretty good at working out the fileformat, if you're seeing the ^M characters it often means that the line endings are inconsistent, some lines end in /n and some in /r/n
+T 1668546035 28.:192422tirnanog28:.	you can incorporate mac into fileformats or do something like :edit ++ff=mac
+T 1668546039 28.:192424NorrinRadd28:.	if so, the "transfer" would only happen in one direction 
+T 1668546054 28.:192424NorrinRadd28:.	so yeah, you'd have to convert after the transfer 
+T 1668546055 28.:192427derjanni28:.	It's on every line.
+T 1668546067 28.:192422tirnanog28:.	nickspoon: yeah, but mac isn't defined by fileformats by default. this is a classic mac file, where the line endings are just \r.
+T 1668546101 28.:192429nickspoon28:.	ah ok, I'll shush :D
+T 1668546122 28.:192427derjanni28:.	Here's a screenshot of it: https://imgur.com/a/VGhtzNb
+T 1668546138 28.:192422tirnanog28:.	yeah, I know what it is.
+T 1668546178 28.:192422tirnanog28:.	as noted, mac is not in the fileformats list by default. that's why vim's auto-detection fails.
+T 1668546209 28.:192427derjanni28:.	Here's the file on Macintosh System 7 with Think C: https://imgur.com/a/9tBScxn
+T 1668546210 28.:192422tirnanog28:.	and yes, macos Ventura is OSX. that's "unix".
+T 1668546215 28.:192422tirnanog28:.	instead of "mac".
+T 1668546271 28.:192422tirnanog28:.	ye, there is no need to clarify the file format any further. classic macs use \r and macOS (the OS formerly known as OS X) use \n, unix style.
+T 1668546306 28.:192427derjanni28:.	Any chance to get vim to switch to \r ?
+T 1668546326 28.:192422tirnanog28:.	by scrolling up and re-reading?
+T 1668546346 28.:192422tirnanog28:.	"you can incorporate mac into fileformats or do something like :edit ++ff=mac"
+T 1668546384 28.:192422tirnanog28:.	the :edit method should be fine if you just want to do it for the current buffer on an ad-hoc basis.
+T 1668546412 28.:192422tirnanog28:.	whereas adding it to ff in your .vimrc should make the auto-detection work (hopefully).
+T 1668546448 28.:192427derjanni28:.	tirnanog: awesome thanks. 
+T 1668546473 28.:192427derjanni28:.	tirnanog: what's the £ at the beginning of the file?
+T 1668546473 28.:192422tirnanog28:.	I suppose you could also use an autocommand if the mac-format files are in a particular location.
+T 1668546500 28.:192422tirnanog28:.	I don't know. what does the head of it look like if you run it through od -a?
+T 1668546556 28.:192427derjanni28:.	0000000       #   d   e   f   i   n   e  ht   k   B   a   s   e   R   e
+T 1668546564 28.:192422tirnanog28:.	hmm.
+T 1668546582 28.:192422tirnanog28:.	I don't understand. it begins with an ascii hash/pound.
+T 1668546623 28.:192422tirnanog28:.	truly, I have no idea.
+T 1668546654 28.:192427derjanni28:.	any board/forum/tracker I got post this to?
+T 1668546658 28.:192427derjanni28:.	*could*
+T 1668546695 28.:192422tirnanog28:.	are you able to share this file in its raw form? something like termbin.com would be good.
+T 1668546781 28.:192422tirnanog28:.	or, indeed, any file that results in the £ being shown.
+T 1668546785 28.:192427derjanni28:.	Here it is: https://termbin.com/qtuu
+T 1668546825 28.:192422tirnanog28:.	how curious. it happens here also.
+T 1668546836 28.:192422tirnanog28:.	ah.
+T 1668546844 28.:192429nickspoon28:.	is it a BOM?
+T 1668546854 28.:192422tirnanog28:.	I don't know why but your od dump wasn't correct.
+T 1668546941 28.:192427derjanni28:.	just did a "od -a TalkinTosh.c"
+T 1668546956 28.:192427derjanni28:.	and then a "cat TalkinTosh.c | nc termbin.com 9999"
+T 1668547016 28.:192422tirnanog28:.	it starts with 0xA3, according to my dump of your termbin.com paste. that's the pound sterling in iso-8859-1, among others.
+T 1668547149 28.:192422tirnanog28:.	the genuine encoding of the file might be MacRoman, as it was known.
+T 1668547171 28.:192422tirnanog28:.	but, even in MacRoman, 0xA3 would the pound sterling. I can't say why it's present in your source file.
+T 1668547184 28.:192422tirnanog28:.	could even be an accident.
+T 1668547276 28.:192422tirnanog28:.	sorry, I should have suggested something other than -a. -a strips the high bit, which wasn't helpful.
+T 1668547288 28.:192429nickspoon28:.	It doesn't show up in on the mac though. But perhaps that's just the mac ignoring non-ascii characters?
+T 1668547379 28.:192422tirnanog28:.	when you say mac, are you testing it yourself? you'd need something older than OS X to determine such.
+T 1668547385 28.:192429nickspoon28:.	I'm not
+T 1668547390 28.:192429nickspoon28:.	Just looking at the screenshots
+T 1668547402 28.:192422tirnanog28:.	oh. I missed it. let's see.
+T 1668547469 28.:192422tirnanog28:.	I can't see anything other than this one, which is a screenshot of vim running in macOS: https://imgur.com/a/VGhtzNb. was there another?
+T 1668547490 28.:192429nickspoon28:.	https://imgur.com/a/9tBScxn
+T 1668547496 28.:192422tirnanog28:.	aha. thanks.
+T 1668547564 28.:192422tirnanog28:.	it's curious, to be sure. I wonder what it would look like if opened in TextEdit (or whatever the editor is called in System 7).
+T 1668547629 28.:192422tirnanog28:.	assuming that's not it. I can't tell what application that is.
+T 1668547634 28.:192427derjanni28:.	tirnanog: I think the pound sign dropped in during a conversion.
+T 1668547646 28.:192422tirnanog28:.	ah. well, that would certainly clarify the matter.
+T 1668547648 28.:192427derjanni28:.	Just did a fresh transfer from System7 to OSX and the GBP is gone now
+T 1668547664 28.:192422tirnanog28:.	that makes a good deal more sense.
+T 1668547670 28.:192429nickspoon28:.	Ah well. It was a fun mystery while it lasted.
+T 1668547684 28.:192422tirnanog28:.	I think that it would also have shown up as a pound, if present.
+T 1668547732 28.:192422tirnanog28:.	this begets an interesting question, though. will vim need to be told to use MacRoman? can it, even? the 'high' characters are not the same as iso-8859-1.
+T 1668547768 28.:192422tirnanog28:.	(hoping for an actual vim wizard to step in at this point)
+T 1668547789 28.:192428romainl28:.	:h encoding-values
+T 1668547790 28.:192425digmbot28:.	:help encoding-values -> http://vimhelp.appspot.com/mbyte.txt.html#encoding-values
+T 1668547812 28.:192422tirnanog28:.	it's supported then. good.
+T 1668547860 28.:192427derjanni28:.	I just added a comment like /* this was written with vim */ into the C source file, transfered it to the Unix fileshare, opened it on System7 with Think C and the machine shutsdown with a critical fault *lol*
+T 1668547872 28.:192427derjanni28:.	It still can be opened in SimpleText though :D
+T 1668547895 28.:192427derjanni28:.	How on earth did Macintosh System7 programmers get their stuff properly onto Unix machines in 1989?
+T 1668547901 28-21Notice28-	21{28from SaslServ21} woland_!~woland@static.247.176.55.162.clients.your-server.de has just authenticated as you (woland)
+T 1668547915 28.:192428romainl28:.	they didn't care
+T 1668548011 28.:192427derjanni28:.	Probably one of the thousands of reasons they killed the Macintosh System and replaced it with BSD OSX
+T 1668548013 28.:192428romainl28:.	no one did
+T 1668548074 28.:192422tirnanog28:.	there's no memory protection, which doesn't help matters.
+T 1668548090 28.:192422tirnanog28:.	even windows 3.1 had better memory management.
+T 1668548118 28.:192428romainl28:.	and yet it was very successful
+T 1668548130 28.:192428romainl28:.	not in every market, of course
+T 1668548212 28.:192427derjanni28:.	I know it sounds silly and this is from a vintage programming enthusiast: how do we maintain old Macintosh code bases?
+T 1668548236 28.:192428romainl28:.	the system still works
+T 1668548238 28.:192427derjanni28:.	I committed the stuff into a Git repository and it's essentially a oneliner :D
+T 1668548241 28.:192428romainl28:.	the apps still work
+T 1668548278 28.:192427derjanni28:.	So if I write new "old apps" like I do at the moment, I would probably have to convert them with a pre-commit hook
+T 1668548335 28-21Notice28-	21{28from SaslServ21} woland1!~woland@static.247.176.55.162.clients.your-server.de has just authenticated as you (woland)
+T 1668548342 28.:192428romainl28:.	If I were to write apps for system 7 I would use the hardware and the software of the era
+T 1668548402 28.:192428romainl28:.	and also the programming paradigms, etc.
+T 1668548408 28.:192427derjanni28:.	I have the hw and sw of that era and programming works fine in Basilisk II (68k emu) on my macOS Ventura host system. But I would like to be able to share it with the outside world :)
+T 1668548436 28.:192428romainl28:.	do it like in the old days
+T 1668548446 28.:192427derjanni28:.	Plus, although I have a lot of love for vintage machines, I refuse to version my code with v1_final_final_final file patterns ;)
+T 1668548449 28.:192429nickspoon28:.	inb4 romainl suggests mailing floppies...
+T 1668548476 28.:192427derjanni28:.	nickspoon: people could also dial in to my machine with their modem ;)
+T 1668548496 28.:192427derjanni28:.	But they need to ensure that their VoIP provider allows modem/fax which only a few do.
+T 1668550124 25»19»	19Now talking on #vim
+T 1668550124 29»22»	22Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1668550124 29»22»	22Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+T 1668550253 28.:192419mehwork28:.	in the case of fugitive i'm not seeing a difference between using :bw or :bd but :q can be annoying if i'm in a location list or something
+T 1668550297 28.:192429nickspoon28:.	mehwork: the difference is that after :bd the buffer will still show up in  :ls!
+T 1668550482 28.:192419mehwork28:.	ah, i usually use :ls without the ! 
+T 1668550493 28.:192429nickspoon28:.	Yeah that's the idea
+T 1668550508 28.:192429nickspoon28:.	But deleted buffers which haven't been wiped can still be found with ls!
+T 1668550518 28.:192419mehwork28:.	i see
+T 1668585819 25»19»	19Now talking on #vim
+T 1668585819 29»22»	22Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1668585819 29»22»	22Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+T 1668585864 25»19»	19Now talking on #vim
+T 1668585864 29»22»	22Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1668585864 29»22»	22Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+T 1668585962 25»19»	19Now talking on #vim
+T 1668585962 29»22»	22Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1668585962 29»22»	22Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+T 1668586362 25»19»	19Now talking on #vim
+T 1668586362 29»22»	22Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1668586362 29»22»	22Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+T 1668593302 28.:192419moshe28:.	habamax: romainl: hey can one of you guys look something up for me ? using quiet on files that don't have a syntax file, the terminal's fg color bleeds through until [insert even that forces vim to repaint part or all of the screen]. I'm seeing this with both xterm and urxvt. Doesn't happen with tmux in between.
+T 1668593619 28.:192422habamax28:.	exact steps to do?
+T 1668593788 28.:192422habamax28:.	moshe: I don't get it, works just fine in st and gnome-terminal and xterm
+T 1668593940 28.:192422habamax28:.	I can see urxvt is bad with termguicolors where light background is half-painted
+T 1668594912 28.:192419moshe28:.	habamax: xterm -fg red then open up a random file
+T 1668594935 28.:192419moshe28:.	vim reports t_Co=256 in both cases
+T 1668595011 28.:192422habamax28:.	http://0x0.st/oIe_.png
+T 1668595066 28.:192422habamax28:.	works fine
+T 1668595091 28.:192422habamax28:.	what I do: vim -Nu NONE, start typing -- see it red
+T 1668595105 28.:192422habamax28:.	then do :colo quiet and it turns white
+T 1668595385 28.:192422habamax28:.	also works fine with vim -Nu NONE +"colo quiet" somefile
+T 1668595470 28.:192419moshe28:.	vim -u NONE file = foreground color leaks through
+T 1668595476 28.:192419moshe28:.	let me check in xterm
+T 1668595501 28.:192419moshe28:.	same
+T 1668595550 28.:192422habamax28:.	with default colorscheme -- it is for sure
+T 1668595560 28.:192419moshe28:.	yeah not sure if that's right tho, but probably is
+T 1668595574 28.:192422habamax28:.	it has Normal defined as ctermfg=NONE ctermbg=NONE
+T 1668595590 28.:192419moshe28:.	thanks OBrama
+T 1668595596 28.:192428romainl28:.	hehe
+T 1668595632 28.:192419moshe28:.	I'm on 9.0.887 btw
+T 1668595651 28.:192422habamax28:.	same
+T 1668595683 28.:192422habamax28:.	quiet works as expected, default works as expected too :)
+T 1668595717 28.:192419moshe28:.	time to crawul my .vimrc, I already checked scriptnames
+T 1668595779 28.:192422habamax28:.	moshe: check your colors override
+T 1668595882 28.:192419moshe28:.	String, Special, helpHyperTextJump
+T 1668595999 28.:192419moshe28:.	literally everything is commented out except colorscheme quiet, still doing it
+T 1668596311 28.:192422habamax28:.	moshe: https://i.imgur.com/2sKsk6n.mp4
+T 1668597133 28.:192424jmosco28:.	darn it, kept getting dissed all night and dont have history
+T 1668597413 28.:192419moshe28:.	habamax: only happens on files that already exist
+T 1668597451 28.:192419moshe28:.	and doesn't happen loading quiet manually
+T 1668597530 28.:192422habamax28:.	moshe: I did it with existing file
+T 1668597611 28.:192424jmosco28:.	is there a way to extend gf to add a prefix to the file that I want to open ?  I asked last night but don't know if there were any responses since I got booted all night :(
+T 1668597634 28.:192428romainl28:.	see :h includeexpr
+T 1668597634 28.:192425digmbot28:.	:help includeexpr -> http://vimhelp.appspot.com/options.txt.html#%27includeexpr%27
+T 1668597899 28.:192424jmosco28:.	ah nice!  Ok, this is a good start.  I need to have a way to take a var, say $var, and expand that to a path and add it to the file to be opened
+T 1668600460 28.:192424jmosco28:.	im trying to do a substitute, but no matter where I am in the project, it needs to add a directory that is at the top level
+T 1668600466 28.:192424jmosco28:.	E116: Invalid arguments for function substitute(substitute(v:fname,‘^$var: ’,’value’,‘’)
+T 1668600466 28.:192424jmosco28:.	E447: Can’t find file “/cloud/data/test.yml” in path
+T 1668600490 28.:192424jmosco28:.	the line looks like this: $var: /cloud/data/test.yml
+T 1668600568 28.:192424jmosco28:.	trying to get gf to open the file starting at the root of the project, ex: prepend value to the file to create value/cloud/data/test.yml
+T 1668600572 28.:192424jmosco28:.	seems tricky
+T 1668601618 28.:192420osse28:.	jmosco: :h includeexpr
+T 1668601618 28.:192425digmbot28:.	:help includeexpr -> http://vimhelp.appspot.com/options.txt.html#%27includeexpr%27
+T 1668601690 28.:192424jmosco28:.	trying that, just confusing when trying to start at the root of the project im working in
+T 1668601736 28.:192420osse28:.	what is confusing?
+T 1668601800 28.:192424jmosco28:.	well, when I need the expression to substitute to the root of the project, how would that look?  Sometimes its a few dirs in, so '../../value' would not work, so it would have to start at the project root
+T 1668602075 28.:192424jmosco28:.	hopefully I am explaining this correctly
+T 1668602432 28.:192420osse28:.	jmosco: includeexpr doesn't have to be just a substitute(). It can be your own function where can look for files, cd up, search, whatever. 
+T 1668602443 28.:192420osse28:.	*where you can
+T 1668602464 28.:192420osse28:.	you can even return the correct file name as an absolute path, AFAIK
+T 1668602593 28.:192424jmosco28:.	ok, I think I follow.  I have 2 places where I need to look that are defined by a variable, so $var1 would need to expand to the project root, and $var2 would be another repo/project to look in
+T 1668602599 28.:192424jmosco28:.	sounds like a function I guess
+T 1668604458 28.:192419moshe28:.	habamax: still working on figuring the  exact conditions, but it could be similar to the bg thing we reported a while ago
+T 1668606532 19.:2823woland19:.	is there an advantage in select-mode vs visual-mode ? Im reading the :h select-mode and dont see what the point is
+T 1668606850 28.:192425digmbot28:.	:help select-mode -> http://vimhelp.appspot.com/visual.txt.html#Select-mode
+T 1668607022 28.:192427LeoNerd28:.	It's to simulate what Windows apps tend to do with selected text
+T 1668606819 19.:2823woland19:.	LeoNerd: they behave the same tho, you can also use S-arrow keys to select test in visual-mode
+T 1668606835 19.:2823woland19:.	text*
+T 1668607154 28.:192427LeoNerd28:.	Try typing over the text
+T 1668606878 19.:2823woland19:.	ah ok so it replaces the highlighted text
+T 1668607144 19.:2823woland19:.	on another note, can someone tell me what is that gibberish I see after #! in my shell scripts in vim?
+T 1668607146 19.:2823woland19:.	https://0x0.st/oI_-.png
+T 1668607791 04<moshe04>04	woland: escape sequences related to 24bit colors.
+T 1668607586 19.:2823woland19:.	moshe: is there a way to make them go away?
+T 1668607607 19.:2823woland19:.	is it because of my terminal or vim's colorscheme?
+T 1668607971 28.:192419m_ben28:.	does it show up when you open the file with vim --clean?
+T 1668607977 04<m_ben04>04	woland: ^
+T 1668607687 19.:2823woland19:.	m_ben: no it doesn't 
+T 1668608069 28.:192419m_ben28:.	have you set termguicolors in your vimrc? does your terminal even support true colors? which one do you use? do you run vim inside tmux?
+T 1668608010 19.:2823woland19:.	m_ben: I have this bit in my vimrc https://0x0.st/oI_N.txt
+T 1668608020 19.:2823woland19:.	using xterm 
+T 1668608022 19.:2823woland19:.	no tmux
+T 1668608042 19.:2823woland19:.	its the same in xfce terminal
+T 1668608086 19.:2823woland19:.	but its ok in konsole, ig because its truecolor 
+T 1668608613 28.:192419moshe28:.	assuming truecolor is going to work because TERM contains 256color is dumb
+T 1668608709 28.:192419moshe28:.	both because it's just dumb in and of itself, and because you basically can't trust half of the emulators out there to report themselves properly anyway
+T 1668608428 19.:2823woland19:.	moshe: I took this bit from a vim conference, I didn't write it. 
+T 1668608750 28.:192419moshe28:.	xterm doesn't do truecolor, konsole seems to.
+T 1668608761 04<moshe04>04	that was my assumption woland 
+T 1668608779 28.:192427LeoNerd28:.	xterm doesn't actually do 24bit colour but I think recent ones will parse the SGR sequence anyway and try to pick the closest match in the palette
+T 1668608467 19.:2823woland19:.	how can I work around this tho? cause without it the colors become weird
+T 1668608971 28.:192419moshe28:.	either use a terminal emulator that can actually deal with 24 bit colors, or rip this out of your .vimrc and get used to 256c
+T 1668609020 28.:192419moshe28:.	I did the latter a few years ago myself
+T 1668608719 19.:2823woland19:.	or ignore escape sequence :} 
+T 1668609048 28.:192419moshe28:.	that is not a possibility
+T 1668609071 28.:192419moshe28:.	this is eventually going to spam your display in random places
+T 1668608773 19.:2823woland19:.	alacritty seems to display it alright too. 
+T 1668608815 19.:2823woland19:.	moshe: yea all my shell scripts have this garbage all around them now that I checked 
+T 1668610184 04<m_ben04>04	woland: you could add a check if $COLORTERM is set to 'truecolor' before enabling 'termguicolors'. both xfce4-terminal and alacritty set COLORTERM
+T 1668610266 28.:192419m_ben28:.	LeoNerd: what happened to pangoterm, is it still being developed?
+T 1668610736 19.:2823woland19:.	m_ben: thanks
+T 1668611435 28.:192427LeoNerd28:.	m_ben: nothing "happened" to it.. it's exactly where it's always been. it's current, yes.
+T 1668611780 28.:192419m_ben28:.	LeoNerd: any chance you will switch to git in the future? my distro's package manager doesn't even provide bazaar anymore
+T 1668612506 19.:2823woland19:.	right! adding this XTerm.termName: xterm-truecolor to .Xresources solved the problem
+T 1668612519 19.:2823woland19:.	no more gibberish 
+T 1668616276 28.:192427LeoNerd28:.	(bah m_ben has disappeared so I can't reply)
+T 1668616327 28.:192427igemnace28:.	argh. was gonna ask what distro as well, breezy looks to be fairly active still
+T 1668616468 28.:192419mehwork28:.	a plugin i use says you should disable netrw, but if i do it breaks fugitive's :GBrowse. Are there common workarounds. Why does :GBrowse even care about netrw?
+T 1668616697 28.:192425dza28:.	mehwork: which plugin? mby it overrides url patterns, it is possible to override patterns in netrw by redefining the BufRead autocmd events, but its not straight-forward and you need to create regex exclusion
+T 1668624747 28.:192419mangoman28:.	How can I bind 'K' to open a manual page for the word under the cursor in a vertical split?  At the moment it opens it up in a horizontal split.  I've been trying to map 'K' to `:vert Man <manual>` but I'm not sure how to get the text under the cursor via the command-line thingy
+T 1668624857 28.:192425dza28:.	mangoman: :h cword
+T 1668624857 28.:192425digmbot28:.	:help cword -> http://vimhelp.appspot.com/cmdline.txt.html#%3Ccword%3E
+T 1668624917 28.:192425dza28:.	:vs | :h works
+T 1668624917 28.:192425digmbot28:.	:help works -> http://vimhelp.appspot.com/workshop.txt.html#workshop
+T 1668624957 28.:192419mangoman28:.	dza: I saw cword, but I'm not sure how to use it.  I tried the following but I'm not really familiar with vim command stuff: `:vert Man =expand('<cword>')`
+T 1668624993 28.:192425dza28:.	:vs | :h expand('<cword>')
+T 1668625325 28.:192419mangoman28:.	I'm not quite sure what you're getting at.  Maybe I'm not reading it properly but the help page isn't really helping me
+T 1668625346 28.:192419mangoman28:.	I know I can use expand() to get the word under the cursor, but I'm not familiar with the syntax enough to know how to pass it as an argument to Man
+T 1668626499 28.:192425dza28:.	you can press <c-r> and use =expand but as I understood you wanted to create a mapping?
+T 1668627685 28.:192424jmosco28:.	trying to get gf to work opening a file from a file that has '$var: /path/to/file', so I tried this: set includeexpr=substitute(v:fname,'\$var:\ ','info','')
+T 1668627702 28.:192424jmosco28:.	hoping it would create: info/path/to/file
+T 1668628066 28.:192427igemnace28:.	jmosco: look into :h 'isfname
+T 1668628066 28.:192425digmbot28:.	:help 'isfname -> http://vimhelp.appspot.com/options.txt.html#%27isfname%27
+T 1668628082 28.:192427igemnace28:.	have to go, good luck
+T 1668628537 28.:192424jmosco28:.	ok, thanks
+T 1668640723 28»18»	Disconnected ().
+T 1668641062 25»19»	19Now talking on #vim
+T 1668641062 29»22»	22Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1668641062 29»22»	22Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+T 1668641109 28.:192420Kaedenn28:.	I'm trying to write a script that'll fold Lua functions, which begin with `\(local \)\?function[ ]\?(.*)` and end with `end`. Unfortunately, several other statements end with `end`. However! The `end` I'm after has the `luaFunction` highlight group. How do I fold based on a highlight group?
+T 1668641164 28.:192420Kaedenn28:.	Basically, find every instance of `\<function\>` and fold until the matching instance of `\<end\>` with highlight group `luaFunction`
+T 1668641189 28.:192420Kaedenn28:.	Functions _can_ be nested, but I never deal with code that leverages that.
+T 1668641252 28.:192420Kaedenn28:.	The syntax file does not define proper { } regions for these functions though
+T 1668641307 28.:192420Kaedenn28:.	...I mean % support, not { and } support, sorry
+T 1668642436 28.:192420Kaedenn28:.	...I just had to add `fold` to some of the regions
+T 1668642464 28.:192420Kaedenn28:.	Does `syn region luaFunction fold` add folding to an existing region, or can regions not be modified?
+T 1668642505 28.:192420Kaedenn28:.	That gives me "not enough arguments"; is there a way to add an attribute to an existing region?
+T 1668642993 28.:192429nickspoon28:.	Kaedenn: set foldmethod=syntax
+T 1668643011 28.:192420Kaedenn28:.	yeah I added `fold` to the regions I care about in lua.vim and set that
+T 1668648613 28»18»	Disconnected ().
+T 1668648711 28»18»	Disconnected (Remote host closed socket).
+T 1668648771 28»18»	Disconnected (Remote host closed socket).
+T 1668648831 28»18»	Disconnected (Remote host closed socket).
+T 1668649169 25»19»	19Now talking on #vim
+T 1668649169 29»22»	22Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1668649169 29»22»	22Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+T 1668652692 28.:192419mehwork28:.	Any idea why this has a delay before switching windows:  nnoremap <Leader>w <C-w>w
+T 1668652796 28.:192419mehwork28:.	oh probably because i had one other map that did  <Leader>wz  and having to characters waits
+T 1668652842 28.:192429nickspoon28:.	yeah
+T 1668652851 28.:192419mehwork28:.	yeah that's why. It's fine if i change it to <Leader>W but i don't wanna :[ hmm
+T 1668652871 28.:192419mehwork28:.	guess this is a good case for that secondary , mapping we talked about yesterday
+T 1668652876 28.:192429nickspoon28:.	You can generally find out by running  :nmap <Leader>   or   :nmap <Leader>w   in a vim session to see what mappings start with that
+T 1668652965 28.:192429nickspoon28:.	I have a few mappings "namespaces" I use for different things. Like all language server mappings (go to implementation, hover, format etc) all start with <space>l and all highlighting mappings start with <space>h
+T 1668653245 28.:192419mehwork28:.	what do you mean by (go to implementation, hover, format etc)?
+T 1668656915 28.:192429nickspoon28:.	mehwork: I just meant various functionality that language services give you. go-to-definition, find-usages, code-actions/fixes, that kind of thing
+T 1668657513 28.:192425boey8928:.	:help
+T 1668662418 28.:192419moldorcoder728:.	hi what does this regex mean i vim : \v<\d%(_?\d)*
+T 1668662428 28.:192419moldorcoder728:.	i dont undrestand this super magic part : \v
+T 1668663056 28.:192428emanuele628:.	moldorcoder7: it means that all characters after it except '0'-'9', 'a'-'z', 'A'-'Z' and '_' have special meaning ... VERY MAGIC!
+T 1668663078 28.:192428emanuele628:.	in other words, it is equivalent to  \<\d\%\(_\?\d\)*
+T 1668663133 28.:192422habamax28:.	matches digits like 9 or 9_9 or 9999_99 etc
+T 1668663186 28.:192428emanuele628:.	and it is probably missing a > at the end
+T 1668663253 28.:192419moldorcoder728:.	emanuele6, the < and % becomes something special right  in vim syntax when using \v
+T 1668663323 28.:192428emanuele628:.	say you have a regex like    foo_\(bar\|zab\)    that is a vim regex that matches either foo_bar or foo_zab
+T 1668663342 28.:192428emanuele628:.	using \v, you can write it as   \vfoo_(bar|zab)
+T 1668663402 28.:192419moldorcoder728:.	yes i understood that part , but < and % still mean only < and % or something special ala vim 
+T 1668663428 28.:192428emanuele628:.	% doesn't, i added that backslash by mistake
+T 1668663444 28.:192422habamax28:.	% is to not capture the ()
+T 1668663444 28.:192428emanuele628:.	in vim regexp, \< indicates the start of a word
+T 1668663464 28.:192419moldorcoder728:.	habamax, ha ok :)
+T 1668663473 28.:192419moldorcoder728:.	im used to (?:
+T 1668663476 28.:192428emanuele628:.	oh, nevermind \% is special in vim yes
+T 1668663479 28.:192419moldorcoder728:.	ok thanks a lot  
+T 1668663495 28.:192422habamax28:.	moldorcoder7: that's python, here it is vim :)
+T 1668663580 28.:192419moldorcoder728:.	yeah :)
+T 1668663618 28.:192428emanuele628:.	so it is equivalent to \<\d\%(_\?\d\)*   (which you would write in python/perl regexps as  \b\d(?:_?\d)*  )
+T 1668663638 28.:192419moldorcoder728:.	yes got it thanks 
+T 1668663721 28.:192419moldorcoder728:.	dunno how i missed that vim had so much custom regexp for so long :)
+T 1668664482 28.:192424Nintendo28:.	Anyone know how long bash has been a filetype?  It always used to be sh... so is it OK to put ft=bash in a modeline?  (It's not distro-specific, for example, right?)
+T 1668664552 28.:192420no_gravity28:.	Is there a way to colorize all css values? So that in "display: flex" and "padding: 10px" the color of "flex" and "10px" is both orange?
+T 1668664780 28.:192428emanuele628:.	Nintendo: that is a weird question. the sh syntax file is used for many shells (generic POSIX sh shell, bash shell, ksh shell). the bash, and ksh filetypes are wrappers around the sh syntax file that set a configuration that tells the sh syntax file it should highlight bash extensions, etc (same for the ksh file). here is the bash syntax file for example http://0x0.st/oIJh.txt
+T 1668664822 28.:192428emanuele628:.	i am quite sure that the bash syntax file is not a new addition, and the sh syntax files have been factored this way for a long time
+T 1668664842 28.:192424Nintendo28:.	Good.  Thank you!
+T 1668664879 28.:192422habamax28:.	no_gravity, https://github.com/vim/colorschemes/wiki/How-to-override-a-colorscheme%3F
+T 1668664984 28.:192420no_gravity28:.	habamax: I know how to override a single one. Like ":hi cssValueLength ctermfg=254". But there are trilllions of these css value types. I wonder if I set them *all* to orange in one go.
+T 1668665003 28.:192422habamax28:.	https://asciinema.org/a/BxzmuXDdvvlQ3YubBanYfQsP4
+T 1668665019 28.:192424Nintendo28:.	no_gravity, it actually already looks that way on 9.0 for me.
+T 1668665053 28.:192420no_gravity28:.	Nintendo: Well, I want to change the color. My values are all magentaish which looks ugly.
+T 1668665100 28.:192424Nintendo28:.	Ahh, then what habamax said.  Start by running :hi to see the groups.
+T 1668665108 28.:192420no_gravity28:.	habamax: Cool video! Yes, I did the same. But it would take ages to do it for all types of values.
+T 1668665126 28.:192420no_gravity28:.	Nintendo: But there are an insane number of these value types. It would take ages.
+T 1668665166 28.:192424Nintendo28:.	More than 300?
+T 1668665167 28.:192422habamax28:.	no_gravity: I have changed all of them in the end of the vid
+T 1668665178 28.:192420no_gravity28:.	habamax: Oh, let me check ...
+T 1668665183 28.:192422habamax28:.	they seem to be linked to a Constant
+T 1668665288 28.:192420no_gravity28:.	habamax: Nice. I wonder if that will have side effects in other languages?
+T 1668665325 28.:192422habamax28:.	all constants would be of that color you will define
+T 1668665332 28.:192422habamax28:.	"constants"
+T 1668665434 28.:192420no_gravity28:.	habamax: Yes, turns out it colorizes PHP_VERSION in PHP :) Which is good, because it also was magenta befre.
+T 1668665437 28.:192420no_gravity28:.	before
+T 1668665443 28.:192420no_gravity28:.	habamax: Thanks a lot! Very cool!
+T 1668665524 28.:192420no_gravity28:.	habamax: How did you find out it is "constant"?
+T 1668665536 28.:192422habamax28:.	that is in the vid
+T 1668665558 28.:192424Nintendo28:.	Lol, if you don't like your magenta, change it in terminal settings.
+T 1668665590 28.:192422habamax28:.	just did :hi css
+T 1668665595 28.:192422habamax28:.	:hi cssColor
+T 1668665643 28.:192420no_gravity28:.	habamax: I see. Thanks!
+T 1668665785 28.:192420no_gravity28:.	I have the feeling I will colorize it the same as "Statement".
+T 1668665808 28.:192420no_gravity28:.	Both signalling to me "The language recognizes this thing"
+T 1668666043 28»18»	Disconnected ().
+T 1668666090 28»18»	Disconnected (Remote host closed socket).
+T 1668666160 28»18»	Disconnected (Remote host closed socket).
+T 1668666230 28»18»	Disconnected (Remote host closed socket).
+T 1668666568 25»19»	19Now talking on #vim
+T 1668666568 29»22»	22Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1668666568 29»22»	22Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+T 1668679064 28»18»	Disconnected ().
+T 1668679125 28»18»	Disconnected (Remote host closed socket).
+T 1668679189 28»18»	Disconnected (Remote host closed socket).
+T 1668679231 28»18»	Disconnected (Remote host closed socket).
+T 1668679284 28»18»	Disconnected (Remote host closed socket).
+T 1668679629 25»19»	19Now talking on #vim
+T 1668679629 29»22»	22Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1668679629 29»22»	22Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+T 1668687325 19.:2823woland19:.	compiling vim, cant find "CONF_OPT_PYTHON3 = --enable-python3interp" in the Makefile
+T 1668689787 28.:192428romainl28:.	habamax: do you still have access to a windows machine with windows terminal?
+T 1668700814 28»18»	Disconnected ().
+T 1668700983 28»18»	Disconnected (Remote host closed socket).
+T 1668701040 28»18»	Disconnected (Remote host closed socket).
+T 1668701379 25»19»	19Now talking on #vim
+T 1668701379 29»22»	22Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1668701379 29»22»	22Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+T 1668710755 25»19»	19Now talking on #vim
+T 1668710755 29»22»	22Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1668710755 29»22»	22Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+T 1668713525 28.:192429nickspoon28:.	dza: hey are you about?
+T 1668713610 28.:192429nickspoon28:.	https://github.com/vim/vim/pull/11562  <-  Should this translation be  "patchet af"  or  "patched af"?
+T 1668714797 28.:192425dza28:.	nickspoon: sure
+T 1668714896 28.:192425dza28:.	patched would definetily be what danes opt for .. lol @scooterpig username
+T 1668714913 28.:192429nickspoon28:.	Ah OK good to know, cheers
+T 1668714949 28.:192429nickspoon28:.	Yeah scootergrisen was in here discussing it when they went through a couple of years ago and added all the translations
+T 1668714764 28»18»	Disconnected ().
+T 1668714864 28»18»	Disconnected (Remote host closed socket).
+T 1668760863 25»19»	19Now talking on #vim
+T 1668760863 29»22»	22Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1668760863 29»22»	22Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+T 1668761841 28.:192422habamax28:.	romainl: I have windows, but you already know it :-)
+T 1668761889 28.:192428romainl28:.	yeah, wasn't sure if the switch to some linux distro was a "no turning back" thing or not
+T 1668761930 28.:192422habamax28:.	the switch is on my own laptop, corp is on win
+T 1668761946 28.:192428romainl28:.	OK
+T 1668762034 28.:192422habamax28:.	I wonder where those gvim came from -- it didn't show patchlevel in :version
+T 1668762139 28.:192428romainl28:.	hmm there is a compiled by string IIRC
+T 1668762228 28.:192428romainl28:.	but it was the same as yours
+T 1668762247 28.:192428romainl28:.	no idea
+T 1668949156 25»19»	19Now talking on #vim
+T 1668949156 29»22»	22Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1668949156 29»22»	22Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+T 1669056996 25»19»	19Now talking on #vim
+T 1669056996 29»22»	22Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1669056996 29»22»	22Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+T 1669067138 25»19»	19Now talking on #vim
+T 1669067138 29»22»	22Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1669067138 29»22»	22Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+T 1669416041 25»19»	19Now talking on #vim
+T 1669416041 29»22»	22Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1669416041 29»22»	22Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+T 1669426246 25»19»	19Now talking on #vim
+T 1669426246 29»22»	22Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1669426246 29»22»	22Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+T 1669771556 25»19»	19Now talking on #vim
+T 1669771556 29»22»	22Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1669771556 29»22»	22Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+T 1669936850 25»19»	19Now talking on #vim
+T 1669936850 29»22»	22Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1669936850 29»22»	22Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+T 1669936713 28»18»	Disconnected ().
+T 1669937071 25»19»	19Now talking on #vim
+T 1669937071 29»22»	22Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1669937071 29»22»	22Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+T 1669937253 28»18»	Disconnected ().
+T 1669937306 28»18»	Disconnected (Remote host closed socket).
+T 1669938046 25»19»	19Now talking on #vim
+T 1669938046 29»22»	22Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1669938046 29»22»	22Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+T 1669997436 25»19»	19Now talking on #vim
+T 1669997436 29»22»	22Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1669997436 29»22»	22Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+T 1669997555 25»19»	19Now talking on #vim
+T 1669997555 29»22»	22Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1669997555 29»22»	22Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+T 1669999061 28.:192422choice11228:.	Hello I am using nvim with omnisharp-vim and I am not getting warned on some errors such as not returning a value in a non-void func or setting a string value in an int variable. how can I fix this?
+T 1669999096 28.:192426lopid28:.	#neovim
+T 1670376043 25»19»	19Now talking on #vim
+T 1670376043 29»22»	22Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1670376043 29»22»	22Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+T 1670375777 28»18»	Disconnected ().
+T 1670376129 25»19»	19Now talking on #vim
+T 1670376129 29»22»	22Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1670376129 29»22»	22Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+T 1670375842 28»18»	Disconnected (Remote host closed socket).
+T 1670375853 28»18»	woland already in use. Retrying with ...
+T 1670375903 28»18»	Disconnected (Remote host closed socket).
+T 1670375915 28»18»	woland already in use. Retrying with ...
+T 1670376979 25»19»	19Now talking on #vim
+T 1670376979 29»22»	22Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1670376979 29»22»	22Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+T 1670376694 19.:2823woland19:.	is there a way to make highlighted text persistent after quit when using something like [match Search /\%'.line('.').'l/] ?
+T 1670444010 25»19»	19Now talking on #vim
+T 1670444010 29»22»	22Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1670444010 29»22»	22Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+T 1670444307 28.:192427Silenced28:.	Hi, can someone suggest me how to make copy and paste accross terminals in vim ? 
+T 1670444335 28.:192428romainl28:.	do :echo has('clipboard')
+T 1670444339 28.:192428romainl28:.	0 or 1
+T 1670444352 28.:192427Silenced28:.	romainl: 0
+T 1670444377 28.:192428romainl28:.	next step, install a Vim built with clipboard support
+T 1670444382 28.:192428romainl28:.	what OS?
+T 1670444397 28.:192427Silenced28:.	romainl: Archlinux 
+T 1670444443 28.:192428romainl28:.	what "vim" packages can you install?
+T 1670444596 28.:192429nickspoon28:.	On arch (as with various others) afair the simplest is just to install gvim. That also gets you a fully-featured terminal vim.
+T 1670444602 28.:192428romainl28:.	apparently $ pacman -Ss '^vim-'
+T 1670444636 28.:192428romainl28:.	that's what I was getting at, nickspoon, just wanted the actual package name
+T 1670444649 28.:192427Silenced28:.	But they say that I can't use vim in my terminal 
+T 1670444651 28.:192429nickspoon28:.	right. It's "gvim" in this case
+T 1670444669 28.:192428romainl28:.	"they say"?
+T 1670444672 28.:192429nickspoon28:.	?
+T 1670444678 28.:192427Silenced28:.	Does installing gvim let me use vim in my terminal ?
+T 1670444682 28.:192429nickspoon28:.	yes
+T 1670444684 28.:192427Silenced28:.	ok 
+T 1670444688 28.:192427Silenced28:.	let me try that out 
+T 1670444721 28.:192429nickspoon28:.	the arch "gvim" package includes both the gvim gtk app, and the fully featured vim terminal app
+T 1670444773 28.:192428romainl28:.	on executable as in debian or two as in (fedora I think)?
+T 1670444797 28.:192427Silenced28:.	Yeah got it working 
+T 1670444801 28.:192427Silenced28:.	Thanks 
+T 1670444817 28.:192427Silenced28:.	Any way to seperate only vim based clipboard operations ?
+T 1670444819 28.:192429nickspoon28:.	romainl: I think it's 2 - how does that work with one executable in debian?
+T 1670444834 28.:192428romainl28:.	vim -g or gvim -v
+T 1670444489 19.:2823woland19:.	Silenced:  you can use vim-system-copy plugin, it uses xsel and doesnt require you to install gvim which you probably will never use
+T 1670444856 28.:192428romainl28:.	already installed :-)
+T 1670444880 28.:192428romainl28:.	what do you mean by "Any way to seperate only vim based clipboard operations ?" Silenced
+T 1670444898 28.:192419moshe28:.	romainl: register-like behaviour outsode vim
+T 1670444918 28.:192427Silenced28:.	Ok what do I do now ? Should I go back to vim and install vim-system-copy or Is there any work around that ?
+T 1670444926 28.:192428romainl28:.	moshe: not clearer
+T 1670444939 28.:192419moshe28:.	long answer : probably no, I don't think vim can address fancy system clipboard with that much granularity
+T 1670444951 28.:192428romainl28:.	Silenced: you have installed the gvim package? now you have clipboard support
+T 1670444961 28.:192419moshe28:.	Silenced: actually, if you run X you can target either the x11 selection or the system clipboard independtely
+T 1670444969 28.:192428romainl28:.	use "+y and "+p
+T 1670444973 28.:192419moshe28:.	so that *could*  work if your needs are basic
+T 1670444980 28.:192428romainl28:.	or "*y and "*p
+T 1670445006 28.:192428romainl28:.	Silenced: ^
+T 1670445046 28.:192427Silenced28:.	romainl: those are keystrokes for yank and paste between vim windows only ? 
+T 1670445068 28.:192419moshe28:.	no
+T 1670445075 28.:192428romainl28:.	just try, we'll explain later
+T 1670445105 28.:192428romainl28:.	do "+y in one Vim/terminal and "+p in another vim/terminal
+T 1670445273 28.:192427Silenced28:.	Works for my usecase. But too complex of a keystroke. 
+T 1670445285 28.:192428romainl28:.	:h 'clipboard
+T 1670445285 28.:192425digmbot28:.	:help 'clipboard -> http://vimhelp.appspot.com/options.txt.html#%27clipboard%27
+T 1670445347 28.:192429nickspoon28:.	Silenced: so map it
+T 1670445380 28.:192429nickspoon28:.	http://vpaste.net/dzD6s  for example
+T 1670445403 28.:192419moshe28:.	or learn about registers and realize it's an idiom and not a shortcut, but I guess I'm going to be told I'm being a grumpy old man
+T 1670445463 28.:192428romainl28:.	:-)
+T 1670445573 28.:192427Silenced28:.	moshe: Noted ! Will read about it 
+T 1670445590 28.:192427Silenced28:.	nickspoon: thanks 
+T 1670445599 28.:192427Silenced28:.	romainl: Thanks a lot ! 
+T 1670446455 28.:192424hackinghorn28:.	uh oh, you need to build your own vim too have clipboard
+T 1670446463 28.:192428romainl28:.	no
+T 1670446484 28.:192424hackinghorn28:.	oh, I mean, build from source
+T 1670446490 28.:192428romainl28:.	no
+T 1670446507 28.:192424hackinghorn28:.	oh what is the case?
+T 1670446524 28.:192428romainl28:.	what case?
+T 1670446562 28.:192424hackinghorn28:.	I mean, how do you get clipboard working?
+T 1670446584 28.:192428romainl28:.	by getting a proper build
+T 1670446593 28.:192424hackinghorn28:.	ah, got it!
+T 1670446611 28.:192428romainl28:.	did you?
+T 1670446628 28.:192424hackinghorn28:.	I didn't but I don't need them so its okay!
+T 1670446640 28.:192424hackinghorn28:.	there is a command that show what features you get +clipboard or -clipboard but I forgot
+T 1670446652 28.:192428romainl28:.	:version
+T 1670446676 28.:192424hackinghorn28:.	ha correct, thanks! romainl 
+T 1670446939 28.:192424hackinghorn28:.	sometimes I do "q:" and vim tells me "You discovered the command-line window! You can close it with ":q"." but sometimes it doesn't. why is that?
+T 1670446962 28.:192428romainl28:.	to keep you on your toes
+T 1670446973 28.:192428romainl28:.	routine is a trap
+T 1670446992 28.:192424hackinghorn28:.	ha, nice!
+T 1670448727 28.:192420mags28:.	jj/1
+T 1670507652 25»19»	19Now talking on #vim
+T 1670507652 29»22»	22Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1670507652 29»22»	22Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+T 1670508877 25»19»	19Now talking on #vim
+T 1670508877 29»22»	22Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1670508877 29»22»	22Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+T 1670552244 25»19»	19Now talking on #vim
+T 1670552244 29»22»	22Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1670552244 29»22»	22Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+T 1670552366 28»18»	Disconnected ().
+T 1670552378 28»18»	woland already in use. Retrying with ...
+T 1670552441 28»18»	Disconnected (Remote host closed socket).
+T 1670552453 28»18»	woland already in use. Retrying with ...
+T 1670552515 28»18»	Disconnected (Remote host closed socket).
+T 1670552527 28»18»	woland already in use. Retrying with ...
+T 1670552561 28»18»	Disconnected (Remote host closed socket).
+T 1670552922 24»23»23	woland sets modes (woland :+Ziw)
+T 1670552922 28-21Notice28-	21{28from SaslServ21} Last login from: ~woland@188.121.139.69 on Dec 09 02:28:03 2022 +0000.
+T 1670552928 25»19»	19Now talking on #vim
+T 1670552928 29»22»	22Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1670552928 29»22»	22Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+T 1670552666 28»18»	Disconnected ().
+T 1670553034 25»19»	19Now talking on #vim
+T 1670553034 29»22»	22Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1670553034 29»22»	22Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+T 1670555606 28»18»	Disconnected ().
+T 1670555676 28»18»	Disconnected (Remote host closed socket).
+T 1670555736 28»18»	Disconnected (Remote host closed socket).
+T 1670555809 28»18»	Disconnected (Remote host closed socket).
+T 1670556178 25»19»	19Now talking on #vim
+T 1670556178 29»22»	22Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1670556178 29»22»	22Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+T 1670556056 28»18»	Disconnected ().
+T 1670556119 28»18»	Disconnected (Remote host closed socket).
+T 1670556183 28»18»	Disconnected (Remote host closed socket).
+T 1670556375 28»18»	Disconnected (Remote host closed socket).
+T 1670556568 28»18»	Disconnected (Remote host closed socket).
+T 1670556937 25»19»	19Now talking on #vim
+T 1670556937 29»22»	22Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+T 1670556937 29»22»	22Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022

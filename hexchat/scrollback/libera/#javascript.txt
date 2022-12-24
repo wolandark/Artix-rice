@@ -1,0 +1,741 @@
+T 1668587601 25»19»	19Now talking on #javascript
+T 1668587601 29»22»	22Topic for #javascript is: RIP GreenJello https://git.io/J2m1C | JavaScript is *not* Java | Just ask your question | Don't paste code in the channel | Can't talk? Get registered ( https://git.io/vaTS2 )
+T 1668587601 29»22»	22Topic for #javascript set by theskillwithin!theskillwi@user/theskillwithin at Tue Aug  2 15:33:56 2022
+T 1668593782 28.:192422fweht28:.	i keep forgetting why `Array(n).fill(0)` is worse than `Array.from({length: n}, () => 0)`, is there some article on this, which i can bookmark?  maybe https://dev.to/mayankav/array-fill-is-secretly-broken-28k4 ?
+T 1668594851 28.:192422systemfault28:.	I've read the article, it doesn't seem broken to me... the opposite would have been broken
+T 1668596686 28.:192422fweht28:.	why is prettier formatting  `[-1 + 2 * x / y, -1 * 2 * x / y]`to `[-1 + (2 * x) / y, (-1 * 2 * x) / y]`?  seems inconsistent...
+T 1668596710 28.:192422fweht28:.	aah nevermind sorry!  my typo!
+T 1668598414 28.:192422jafarlihi28:.	Hello, how do I flatten an array like this: [{id: 1}, {id: 2}, {id: 3}]? I want to get [1, 2, 3]
+T 1668598578 28.:192422jafarlihi28:.	nvm map((e) => e.id) works
+T 1668605817 28.:192424jwpapi28:.	I’m trying to get my terminology right:
+T 1668605817 28.:192424jwpapi28:.	A worker thread in node is process that runs  simultaneously to other processes.
+T 1668605817 28.:192424jwpapi28:.	A worker dyno on heroku is a server that runs continually.
+T 1668605818 28.:192424jwpapi28:.	Are these statements correct?
+T 1668605870 28.:192424jwpapi28:.	When I want to have a server that listens to events and writes them into a database. I would need a worker dyno and not a worker thread? I could achieve the same thing with running my own environment on aws for example and use `forever` package?
+T 1668607785 24»23»23	ChanServ sets modes (#javascript +b *!*@user/Intelo)
+T 1668607785 24»23»	23ChanServ has kicked Intelo from #javascript (Banned: unwilling to stop cross-posting23)
+T 1668607785 24»23»23	ChanServ sets modes (#javascript +o litharge)
+T 1668607796 24»23»23	litharge sets modes (#javascript -o litharge)
+T 1668608170 28.:192425lf9428:.	rip that guy
+T 1668608185 28.:192425lf9428:.	what would you call a number input or a text input? Is there some general term?
+T 1668608207 28.:192425lf9428:.	Both use a textbox
+T 1668609628 28.:192428Sircle28:.	Hi
+T 1668609641 28.:192428Sircle28:.	There is no way to run puppeteer in freebsd?
+T 1668610045 28.:192428Sircle28:.	Is this the only solution ? https://github.com/puppeteer/puppeteer/issues/5034#issuecomment-1236913615
+T 1668610383 28.:192426johnny28:.	Sircle, you're not gonna find many (or any) freebbsd users here. You'd probably be best off asking freebsd folks
+T 1668610429 28.:192428Sircle28:.	ok but they are not node/js devs
+T 1668610529 28.:192426johnny28:.	but that's actually referring to chromium not node
+T 1668610727 28.:192426johnny28:.	a specific build of chromium too with specific ./configure options. so it's up to the projects that need such things to do any fixing. it's nothing we can help with
+T 1668610800 28.:192426johnny28:.	it seems like a pretty simple workaround though, so i'm not sure why you're objecting to it
+T 1668610908 28.:192424realies28:.	any ideas on how to debug a timing out dependabot?
+T 1668611563 28.:192426austincheney_28:.	realies, if the bot worked in the past then progressively remove features one step at a time until it stops timing out.
+T 1668611801 28.:192427Talon28:.	is it possible to get an elements true background/text color if the style is either undefined or value of 'inherit' ?
+T 1668612070 28.:192426austincheney_28:.	Talon, try this https://developer.mozilla.org/en-US/docs/Web/API/Window/getComputedStyle
+T 1668612107 28.:192427Talon28:.	awesome austincheney_ thank you
+T 1668616253 28.:192426twiclo128:.	I'm using HTMLImageElement.src to set the URL for an image on my website. The image sometimes 404s and I want to fall back on another URL in that case. I don't want to do something like checking the image, seeing it's valid, then doing another call to display it. I'd rather get it once and fall back if it fails
+T 1668616257 28.:192426twiclo128:.	What can I do there?
+T 1668616334 28.:192419Alexendoo28:.	You could listen for the error event twiclo1
+T 1668616381 28.:192426twiclo128:.	I'm not very well versed with JS. What would that look like?
+T 1668616389 28.:192426twiclo128:.	Is there some .on_err function?
+T 1668616582 28.:192419Alexendoo28:.	img.addEventListener("error", event => { ... });
+T 1668616726 28.:192426twiclo128:.	Arent event listeners discouraged now?
+T 1668616739 28.:192426twiclo128:.	I thought they were supplanted by something
+T 1668616984 28.:192419Alexendoo28:.	onevent properties (e.g. here that would be img.onerror = ...) and inline event handlers (<img onerror="..">) are discouraged, addEventListener being the thing to use instead
+T 1668617251 28.:192426twiclo128:.	Alexendoo: How's this? https://p.twil.cx/lox.js
+T 1668617288 28.:192426twiclo128:.	Doesn't look like it's working
+T 1668617295 28.:192426twiclo128:.	(maxres is the one that often fails)
+T 1668617533 28.:192420asteele28:.	does the error event fire?
+T 1668617674 28.:192426twiclo128:.	Not sure why I didn't think of that haha
+T 1668617677 28.:192426twiclo128:.	Let me see
+T 1668617773 28.:192426twiclo128:.	No it is not
+T 1668617799 28.:192426twiclo128:.	I must be subscribing to the wrong event. How can I see the list of possible events
+T 1668617844 28.:192426twiclo128:.	https://developer.mozilla.org/en-US/docs/Web/API/HTMLImageElement#errors
+T 1668617886 28.:192426twiclo128:.	So I guess onerror instead of error
+T 1668617905 28.:192426twiclo128:.	Still nothing
+T 1668617996 28.:192426twiclo128:.	https://developer.mozilla.org/en-US/docs/Web/API/Element/error_event
+T 1668618004 28.:192426twiclo128:.	Okay it is 'error' but my event still isn't firing
+T 1668618887 28.:192420asteele28:.	twiclo1 is the 404 not returning the proper way or something
+T 1668618907 28.:192420asteele28:.	a quick look shows that the error event should trigger on 404, but if it isnt, i would look into why not
+T 1668618935 28.:192424leptone28:.	My reducer is not setting the state correctly when strict mode is set. Anyone know what could be going on? https://stackoverflow.com/questions/74463125/reducer-sets-wrong-state-in-reacts-strict-mode
+T 1668619125 28.:192426twiclo128:.	asteele: It definitely returns a 404. Here's the url: https://i.ytimg.com/vi/lD4qujGZiLw/maxresdefault.jpg
+T 1668619168 28.:192424velix28:.	Can sessionStorage be read from another website, e.g. be abused for tracking?
+T 1668619318 28.:192420asteele28:.	velix no it functions like localStorage, except it clears on every page load
+T 1668619331 28.:192420asteele28:.	so each storage area is restricted by origin
+T 1668619353 28.:192420asteele28:.	or sorry when the 'page session' ends, not necessarily every page load
+T 1668619417 28.:192424velix28:.	I thought localStorage *can* be abused for tracking.
+T 1668619428 28.:192424velix28:.	That was the badness of localStorage.
+T 1668619445 28.:192424velix28:.	YOu can set a cookie to a single domain only, but you can't do with localStorage.
+T 1668619532 28.:192419Alexendoo28:.	That is not the case
+T 1668619533 28.:192424velix28:.	Oh, you seem to be right:" Let's talk about something more fun, localStorage! In contrast to the pesky sessionStorage, it persists application wide, the application being your browser. As a security measure, your browser will automatically file the saved values by domain (just like with the sessionStorage), so you can kind of put secret stuff in there."
+T 1668619540 28.:192424velix28:.	I HATE OUR FRONTEND GUY!
+T 1668619544 28.:192424velix28:.	He said: both can be tracked.
+T 1668619551 28.:192424velix28:.	Really, I have to talk with the professor to get him fired.
+T 1668619593 28.:192420asteele28:.	velix my quick research shows that the main problem with localstorage would be that a third party library you load, could be malicious, and it would have access to the localstorage/sessionstorage, and can ship that data out obviously
+T 1668619632 28.:192424velix28:.	asteele: yeah. but that's the problem with cookies, too. But you can access to scripts.
+T 1668619647 28.:192424velix28:.	but you can BLOCK cookies' access to tscripts
+T 1668619720 28.:192428naeluh28:.	Hey does nvm provide a way to remove node modules ? haha
+T 1668619791 28.:192420asteele28:.	naeluh not sure i follow, which modules? nvm will switch your node version, then on each version you have global packages that can be removed as normal, or within a project it would be normal and not nvm related?
+T 1668619836 28.:192419earthToAdam28:.	Hello-hello-hello
+T 1668619854 28.:192420asteele28:.	hi
+T 1668619906 28.:192428naeluh28:.	I was just looking to clean up my computer and realized that I have multiple versions of node and multiple local and global versions of node modules and was thinking it would be interesting if nvm could manage some of that I know it doesn't do that I was just seeing what others thought
+T 1668619914 28.:192428naeluh28:.	earthToAdam: hello ~
+T 1668619925 28.:192419earthToAdam28:.	Hi naeluh
+T 1668619931 28.:192419earthToAdam28:.	hi asteele
+T 1668619958 28.:192420asteele28:.	hmm not to my knowledge naeluh, maybe someone else is aware
+T 1668619979 28.:192419earthToAdam28:.	asteele don't suppose one of those versions was installed with home brew?
+T 1668619993 28.:192420asteele28:.	i assume wrong ping earthToAdam
+T 1668620017 28.:192420blahboybaz28:.	I don't understand why this doesn't work. Is it just that I'm not printing the right thing to the console? Or is my code not worlking as intended. I pasted my little code here:  https://dpaste.org/ApAkt  My intended result is to use this useReducer hook to manage an array of objects. Its just a test case / learning experience now. I've read the docs on events and on the hook I"m using and on forms
+T 1668620018 28.:192428naeluh28:.	earthToAdam: you can manage node through home brew
+T 1668620023 28.:192420blahboybaz28:.	and forms with react (sometimes more than once) and forum posts where similar questions are asked and I've tried the few things I could think of to make it work - but to no avail. It APPEARS to be storing an empty object rather than an object with one property storing a string. Why?
+T 1668620025 28.:192419earthToAdam28:.	oh versions of node (modules!)
+T 1668620030 28.:192420blahboybaz28:.	https://dpaste.org/ApAkt
+T 1668620039 28.:192428naeluh28:.	or its version you installed
+T 1668620082 28.:192419earthToAdam28:.	naeluh just manage them using package.json. Delete the node_modules folder and npm install
+T 1668620135 28.:192424KevinX28:.	access token goes in memory and expires every 15m (or less), refresh token goes in a cookie and expires when you want (90 days?). Your server should be set up to invalidate a refresh token which would then revoke the access token
+T 1668620137 28.:192428naeluh28:.	blahboybaz: on change on an input type of text maybe ?
+T 1668620150 28.:192419earthToAdam28:.	Hi KevinX
+T 1668620163 28.:192424KevinX28:.	hi
+T 1668620173 28.:192424KevinX28:.	naeluh there's a cli tool for that. let me find it
+T 1668620173 28.:192420blahboybaz28:.	naeluh: There is that going on, yes. Is that wrong?
+T 1668620291 28.:192424realies28:.	austincheney, it worked a while ago and there has been a lot of changes since then
+T 1668620355 28.:192428naeluh28:.	actually blahboybaz does state.data does state actually have the data object on it ?
+T 1668620372 28.:192428naeluh28:.	KevinX: cool thanks !
+T 1668620504 28.:192419earthToAdam28:.	Has anyone used Supabase inside Docker (self hosted). Or even cloud hosted? I am looking for a PaaS RDBMS that comes pre-packages with GraphQL... SupabaseDB looked good...?
+T 1668620517 28.:192424KevinX28:.	naeluh for deleting node versions I believe you would use nvm directly
+T 1668620521 28.:192420blahboybaz28:.	naeluh: After entering text into the fild and pressing enter or clicking the button - the console shows an array of length 1 that (seems to) contain an empty object. I say 'seems to' bc maybe I'm not interpreting it right. It looks like this in the console output: [{...}]  and it does that for every succeeding entry (array of size 1)
+T 1668620523 28.:192424KevinX28:.	But for finding stuff, https://github.com/voidcosmos/npkill
+T 1668620542 28.:192420blahboybaz28:.	fild\field
+T 1668620557 28.:192419earthToAdam28:.	Or maybe CockroachDB + Hasura?
+T 1668620667 28.:192428naeluh28:.	blahboybaz: maybe this helps ?
+T 1668620668 28.:192428naeluh28:.	https://beta.reactjs.org/apis/react/useReducer#examples-basic
+T 1668620682 28.:192420blahboybaz28:.	Thanks I'll take a look
+T 1668620808 28.:192424KevinX28:.	put the code somewhere where it executes and you will have an answer in 30 seconds
+T 1668620816 28.:192424KevinX28:.	Why keep just sharing a paste?
+T 1668620845 28.:192424KevinX28:.	By doing that you're asking others to copy/paste it into codesandbox or elsewhere
+T 1668620852 28.:192420blahboybaz28:.	naeluh: I've looked at that page a thousand times (not that I couldn't miss something - that's now what I'm saying). Its just that example is using an object in state not an array and that's where this struggle began. I had decided to use it as a learning exercise to try and manage an array of objects with that hook (and it does seem to be possible from what others are saying). I'm just not seeing
+T 1668620858 28.:192420blahboybaz28:.	where the problem lies.
+T 1668620861 28.:192420blahboybaz28:.	I will go over that example again though
+T 1668620953 28.:192420blahboybaz28:.	Actually, I can write the code to manage an object in state with that hook - I've done that
+T 1668621070 28.:192420blahboybaz28:.	For some reason I keep looking at line 23 in that paste and wondering if event.target.value is being set on that input property. Then I look at my input element's value attribut and wonder if it's value is correct
+T 1668621118 28.:192428dob128:.	using this console.log(new Intl.DateTimeFormat(some_locale, { dateStyle: 'full', timeStyle: 'long' }).format(new Date()));   can I be sure that it will be printed if locale is valid?  I mean every browser supports every locale ?
+T 1668621228 28.:192428naeluh28:.	blahboybaz: maybe try naming your state objects instead of doing spread
+T 1668621276 28.:192428naeluh28:.	so like `case 'ADD': { return { name: state.name }; }`
+T 1668621291 28.:192428naeluh28:.	I am not sure state.data exists
+T 1668621415 28.:192428dob128:.	I need to specify a valid/supported locale
+T 1668621464 28.:192420blahboybaz28:.	naeluh: I'm not sure what you mean.. Its an array that I'm trying to have in state; and, if I'm not mistaken, I should be able to put whatever I want into the array.   btw - If I change `type={state.data}` to `type={state}` I get `[object Object]`as the placeholder in my input field on the page
+T 1668621604 28.:192428naeluh28:.	bl
+T 1668621626 28.:192427redcat28:.	I am adding a console.log to a node_modules file, and using yarn build; yarn start but that change does not apply to the outputted file
+T 1668621633 28.:192428naeluh28:.	blahboybaz: ok go back to your older code where you were getting [{...}]
+T 1668621642 28.:192428naeluh28:.	and use this to console log
+T 1668621669 28.:192428naeluh28:.	console.log(JSON.stringify(YOUR_VALUE_HERE, null, 2))
+T 1668621692 28.:192428naeluh28:.	see if that gives you more info
+T 1668621812 28.:192420blahboybaz28:.	naeluh: Yeah.. I spend nours doing these same tweaks last night and getting various problems..  Its just getting difficult and frustrating to try to describe each different problem that is created when trying differnt things
+T 1668621827 28.:192420blahboybaz28:.	I came here at the end of my rope with this thing
+T 1668622025 28.:192428Sircle28:.	There is no way to run puppeteer in freebsd? this does not works even  https://github.com/puppeteer/puppeteer/issues/5034#issuecomment-1236913615
+T 1668622188 28.:192420blahboybaz28:.	yeah, using that console log just verifies it is an array with a single empty object in it even for every succeeding entry
+T 1668622221 28.:192428naeluh28:.	blahboybaz: what is supposed to happen when I click add ?
+T 1668622375 28.:192428naeluh28:.	Add the name to an array?
+T 1668622405 28.:192420blahboybaz28:.	naeluh: Suppose you enter 'something' into the field and click the ADD button. The state should be changed to  [{data: 'something'}]
+T 1668622451 28.:192420blahboybaz28:.	And if you then type 'else' into the fild and click the ADD button you should get [{data: 'something'}, {data: 'else'}]
+T 1668622459 28.:192420blahboybaz28:.	and so on
+T 1668622523 28.:192419earthToAdam28:.	Ahha!
+T 1668622679 28.:192419earthToAdam28:.	It's amazing how I can stare at an error for 20 minutes, totally confused. Then I figure it out on my own and realize, if I had just READ the damn error message, it would have told me exactly what was wrong!
+T 1668622823 28.:192429onosendi28:.	earthToAdam: heh, that's happened to me too.
+T 1668622847 28.:192420blahboybaz28:.	Somehow the value of my value attribute is bothering me. If state is an array of objects then `value={state}` would be an array of objects in the succeeding entries to that field? And I'm not sure that `value={state.data}` is valid
+T 1668622857 28.:192419earthToAdam28:.	aggravating!
+T 1668622980 28.:19@2427ljharb28:.	naeluh: nvm only manages node, so you can certainly remove node versions with it
+T 1668623023 28.:192419earthToAdam28:.	Hi ljharb
+T 1668623177 28.:192419earthToAdam28:.	I am looking for an SQL equivalent to Firebase. Something with GraphQL already pre-configured. Supabase seems to be getting a lot of attention. And I like the idea of being able to self-host. Has anyone given this a test-drive yet?
+T 1668623219 28.:192419earthToAdam28:.	I also like that it's open source and runs PostgreSQL under the hood...
+T 1668623289 28.:192420blahboybaz28:.	I have to go to an appointment. I'll have to deal with it later on
+T 1668623292 28.:192419earthToAdam28:.	I'm also looking at Cockroach DB... but that's just because I like the name :D
+T 1668623295 28.:192420blahboybaz28:.	naeluh: ^
+T 1668623401 28.:192428naeluh28:.	ljharb: word yeah I was just trying to find a way to manage the mess I have created thanks !
+T 1668623417 28.:192428naeluh28:.	blahboybaz: ok I think I almost have something for you
+T 1668623432 28.:192419earthToAdam28:.	Hmm... should also be ACID compliant.
+T 1668623476 28.:192420blahboybaz28:.	naeluh: oh ok.. I wasn't sure what was going on. I'll be here another 20 min getting ready. I just wanted to let know before the last minute came
+T 1668623482 28.:19@2427ljharb28:.	earthToAdam: how about an actual sql server
+T 1668623500 28.:192419earthToAdam28:.	ljharb Azure SQL?
+T 1668623510 28.:19@2427ljharb28:.	lol no
+T 1668623513 28.:19@2427ljharb28:.	like host your own
+T 1668623518 28.:19@2427ljharb28:.	mysql or postgres
+T 1668623520 28.:192419earthToAdam28:.	ljharb ah like node + express
+T 1668623523 28.:19@2427ljharb28:.	yes
+T 1668623524 28.:19@2427ljharb28:.	normal stuff
+T 1668623570 28.:192419earthToAdam28:.	ljharb in the future, I would love to. But I'm trying to keep it simple, as my current experience is 99.9999% on the front-end.
+T 1668623620 28.:192419earthToAdam28:.	I'm working on a CRM, so needs to be SQL. But I thought if I could find a DB-as-a-service option, I could tip-toe into it...
+T 1668623635 28.:19@2427ljharb28:.	then look for a service that's standard mysql or postgres and lets you easily export the entire db
+T 1668623657 28.:192420blahboybaz28:.	I would imagine its difficult for others to grasp just how much effort has been put into trying to solve this before I came here. I just looked at my git history and my last commit was on the 10th (6 days ago). I started on this just minutes after making that commit. If I had to guess I'm sure I've spent a solid 20 hrs on this thing and tried everything I could think of, read everything I could
+T 1668623662 28.:192419earthToAdam28:.	ljharb ah, I like that. Yeah, I don't want to get stuck is some proprietary platform.
+T 1668623663 28.:192420blahboybaz28:.	think to look at.. I'm disgusted with it at this point but I can't let it go. I can't let it beat me
+T 1668623786 28.:192419earthToAdam28:.	ljharb any that you can recommend?
+T 1668623802 28.:192426johnny28:.	a lot of providers offer one these days
+T 1668623808 28.:192426johnny28:.	liek if you're using digitalocean they have them
+T 1668623835 28.:192426johnny28:.	you would probably want it as close to where your web app is acutally hosted
+T 1668623878 28.:192419earthToAdam28:.	johnny ah that's interesting. Was thinking Netlify.
+T 1668623910 28.:192426johnny28:.	well think about it.. do you want your database calls to cross the entire internet?
+T 1668623924 28.:192419earthToAdam28:.	johnny No! Good call.
+T 1668623948 28.:192428naeluh28:.	blahboybaz:
+T 1668623949 28.:192426johnny28:.	having them in the same network is best unitl you get fancy with replication and stuff
+T 1668623957 28.:192426johnny28:.	and cross region stuff
+T 1668623973 28.:192419earthToAdam28:.	CDN/edge computing?
+T 1668623974 28.:192426johnny28:.	it is kind of a single point of failure .. but it's probably worth it in the short term until you go fancy
+T 1668623993 28.:192419earthToAdam28:.	johnny i like that... kiss
+T 1668623995 28.:192428naeluh28:.	you need to change this event: "ADD" to  type: "ADD" and then that should start working in your dispatch function
+T 1668624002 28.:192428naeluh28:.	blahboybaz: ^
+T 1668624029 28.:192420blahboybaz28:.	naeluh: I'm here
+T 1668624030 28.:192426johnny28:.	we're gonna have to dispatch the police to blahboybaz due to noise complaints of throwing computers against the wall
+T 1668624037 28.:192419earthToAdam28:.	ljharb johnny thanks!
+T 1668624054 28.:192426johnny28:.	blahboybaz, but 20 hours on this sort of thing isn't abnormal though :(
+T 1668624060 28.:192426johnny28:.	i've spent hours on the stupidest stuff
+T 1668624083 28.:192428naeluh28:.	action.type was undefined
+T 1668624100 28.:192428naeluh28:.	blahboybaz: in your reducer function
+T 1668624110 28.:192420blahboybaz28:.	johnny: I suppose that's comforting
+T 1668624122 28.:192420blahboybaz28:.	naeluh: I'll look
+T 1668624156 28.:192428naeluh28:.	blahboybaz: https://codepen.io/team/codepen/pen/WNvZoxd
+T 1668624167 28.:192420blahboybaz28:.	naeluh: what do you mean change event to type? I'm not seeing this
+T 1668624202 28.:192428naeluh28:.	whoops that link didn't work at all hahaa
+T 1668624250 28.:192428naeluh28:.	https://codepen.io/naeluh/pen/xxzXgpx?editors=0011
+T 1668624276 28.:192428naeluh28:.	blahboybaz: in your original post
+T 1668624289 28.:192428naeluh28:.	you had this dispatch function
+T 1668624334 28.:192420blahboybaz28:.	naeluh: Really appreciate. I'm sorry but I'll have to look at it when I get back in a couple hrs. I have the tab open to that link so its there for me. If you're around later I'll let you know it worked and what I learned. Thank you
+T 1668624336 28.:192428naeluh28:.	` dispatch({ event: "ADD", payload: { data: event.target.value }});`
+T 1668624361 28.:192428naeluh28:.	event doesn't exist but type does
+T 1668624379 28.:192428naeluh28:.	action.type is what your switch uses not action.event
+T 1668624401 28.:192428naeluh28:.	this is what your want
+T 1668624402 28.:192428naeluh28:.	  dispatch({ type: "ADD", payload: { data: event.target.value }});
+T 1668624427 28.:192428naeluh28:.	blahboybaz: no prob you will get it !
+T 1668624435 28.:192420blahboybaz28:.	thanks man
+T 1668624441 28.:192420blahboybaz28:.	catch you next time
+T 1668628218 28.:192426Uhfgood28:.	is setTimeout the only way I can delay a callback from firing?
+T 1668628324 28.:192428Sircle28:.	There is no way to run puppeteer in freebsd? this does not works even  https://github.com/puppeteer/puppeteer/issues/5034#issuecomment-1236913615
+T 1668628992 28.:192419austincheney28:.	Sircle, does your test automation have to be puppeteer?  I have a test automation approach that is just TypeScript and Node.js if you are interested
+T 1668629013 28.:192428Sircle28:.	austincheney we have written a lot of code in puppeteer already
+T 1668629212 28.:192428Sircle28:.	ljharb are you one of puppeteer maintainers?
+T 1668630007 28.:19@2427ljharb28:.	nope
+T 1668631683 28.:192429buu28:.	Is there a way to get eslint to throw an error on `foo.forEach( async(bar) => await flibble(bar) )` type code?
+T 1668631701 28.:192429buu28:.	I have the 'no-unhandled-promises' plugin but this one slips by it
+T 1668631875 28.:192425joepie9128:.	buu: from a quick search, https://eslint.org/docs/latest/rules/no-return-await
+T 1668631891 28.:192425joepie9128:.	that looks closest?
+T 1668631913 28.:192419austincheney28:.	buu, you can make custom rules using their parsing rules
+T 1668632022 28.:192422systemfault28:.	It's not what buu is asking if I understand properly.
+T 1668632030 28.:192422systemfault28:.	The problem is the usage of .forEach
+T 1668632069 28.:192422systemfault28:.	.forEach discards its return value, it means that you'll get an unhandled promise rejection on failure.
+T 1668632229 28.:192425joepie9128:.	oh, I misread
+T 1668632290 28.:192429buu28:.	yeah, that
+T 1668632292 28.:192419austincheney28:.	this is the ESLint selector to identify an async keyword: "FunctionDeclaration[id.name='asyncCall']"
+T 1668632295 28.:192429buu28:.	also it blows up this stupid orm
+T 1668632335 28.:192419austincheney28:.	you will need a separate similar rule to identify forEach and then if the former resides as an argument of the later
+T 1668632413 28.:192419austincheney28:.	forEach might be: "ExpressionStatement[expression.callee.property.name='forEach']"
+T 1668632424 28.:192429buu28:.	hmm
+T 1668632426 28.:192429buu28:.	"Eslint: Promise returned in function argument where a void return was expected."
+T 1668632438 28.:192429buu28:.	That sounds promising
+T 1668632482 28.:192419austincheney28:.	buu, that will only work if the function passed into the forEach returns a promise.  You don't want any promise at all in your forEach
+T 1668632533 28.:192429buu28:.	austincheney: er, yes, an async function returns a promise
+T 1668632543 28.:192429buu28:.	and you can't use await without declaring it async
+T 1668632924 28.:192419blueagain28:.	buu: https://typescript-eslint.io/rules/no-misused-promises/#checksvoidreturn
+T 1668632944 28.:192419blueagain28:.	I don't use typescript, but that's the thing that popped up for me
+T 1668633819 28.:192429buu28:.	blueagain: Yeah, that's where I ended up, it looks solid
+T 1668633946 28.:192429buu28:.	n> async function foo(){ return false } if(foo()) { console.log("promises are always true, I assume") }
+T 1668633948 28.:19+2425jellobot28:.	(okay) promises are always true, I assume
+T 1668633952 28.:192429buu28:.	yep
+T 1668634284 28.:19@2427ljharb28:.	promises are objects, so yes
+T 1668634440 28.:192419austincheney28:.	where I work nobody has any idea what async logic is for so they abuse promise all the time just for error handling.  It really makes me want to implement rules that ban the use of promises and async functions so that async logic is more expensive for them to write, because really most of the code instances are only convenience to avoid writing proper logic
+T 1668634604 28.:192429buu28:.	austincheney: I'm still fighting with this stupid orm which has no idea if a socket is currently inside a transaction so if you don't await everything just right or call two separate database calls in the wrong order it explodes
+T 1668634608 28.:192429buu28:.	violently
+T 1668634641 28.:192419austincheney28:.	what do you mean inside a transaction?
+T 1668634645 28.:192419austincheney28:.	and what is an orm?
+T 1668634711 28.:192429buu28:.	austincheney: transactions are database concepts where you perform several operations inside a single.. batch
+T 1668634718 28.:192429buu28:.	so you can apply or rollback all of them at once
+T 1668634723 28.:192429buu28:.	sort of like a git commit
+T 1668634730 28.:192419austincheney28:.	sounds like a sql sproc
+T 1668634765 28.:192429buu28:.	sprocs typically run inside transactions, but are technically orthogonal
+T 1668634842 28.:192419austincheney28:.	the way I would do it is to set a property on the socket object to indicate the socket is currently busy (awaiting the DB to finish) and then the db call a node event which reverts that socket status property to something like "open"
+T 1668634884 28.:192419austincheney28:.	a single socket should only be handling a single message at a single time from a queue unless you have special logic in place for message interlacing
+T 1668635050 28.:192419austincheney28:.	or really, you shouldnt have to wait on the DB at all.  You can write to the DB in one direction with a message id and have the DB write a response to the socket containing that message id.  That way everything is event driven and your message queue is only congested by message traffic instead of long DB operations
+T 1668635175 28.:192419austincheney28:.	the primary benefit of sockets is that you are not bottlenecked by round trips the way http is
+T 1668635408 28.:192426primitivMedia28:.	my .trigger() is not working
+T 1668635409 28.:192426primitivMedia28:.	why
+T 1668635423 28.:192419austincheney28:.	what is .trigger?
+T 1668635479 28.:192426primitivMedia28:.	oh wait it might be jquery
+T 1668635644 28.:192420jazzy28:.	so you know how you can do
+T 1668635650 28.:192420jazzy28:.	n> Array.from({length: 10})
+T 1668635651 28.:19+2425jellobot28:.	(okay) [ undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined ]
+T 1668635660 28.:192420jazzy28:.	what are some other props you can use in that object to customize?
+T 1668635695 28.:192420jazzy28:.	n> Array.from({}, (_, i, a) => a)
+T 1668635696 28.:19+2425jellobot28:.	(okay) []
+T 1668635720 28.:192420jazzy28:.	^didn't mean to do that in here
+T 1668635803 28.:192419Alexendoo28:.	jazzy:
+T 1668635805 28.:192419Alexendoo28:.	Oops
+T 1668635830 28.:192419Alexendoo28:.	It takes an iterator or an array-like, {length: 10} is a way to provide an array-like, it's not like a configuration option
+T 1668635842 28.:192420jazzy28:.	what the
+T 1668635906 28.:192420jazzy28:.	Alexendoo, do you know of any resources that illustrate most of the useful things you can do with this?
+T 1668635928 28.:192420jazzy28:.	!Array.from
+T 1668635932 28.:192420jazzy28:.	welp
+T 1668635950 28.:192425fffuuuL28:.	n> ({length: 10}).length
+T 1668635951 28.:19+2425jellobot28:.	(okay) 10
+T 1668636022 28.:192420jazzy28:.	oh wait I guess the defining characteristic of an arrayLike is an object with a length prop?
+T 1668636055 28.:192420jazzy28:.	n> Array.prototype.slice({length: 10})
+T 1668636055 28.:19+2425jellobot28:.	(okay) []
+T 1668636083 28.:192420jazzy28:.	n> Array.prototype.slice({0: 'a', 1: 'b', 5: 'c'})
+T 1668636084 28.:19+2425jellobot28:.	(okay) []
+T 1668636090 28.:192425fffuuuL28:.	yeh, i think length property is most important
+T 1668636092 28.:192420jazzy28:.	n> Array.prototype.slice.call({0: 'a', 1: 'b', 5: 'c'})
+T 1668636092 28.:19+2425jellobot28:.	(okay) []
+T 1668636187 28.:192420jazzy28:.	n> Array.from({length: 'invalid'})
+T 1668636188 28.:19+2425jellobot28:.	(okay) []
+T 1668636195 28.:192420jazzy28:.	n> Array.from({length: 'invalid'}).length
+T 1668636196 28.:19+2425jellobot28:.	(okay) 0
+T 1668636209 28.:19@2427ljharb28:.	jazzy: doesn't even have to have a length prop
+T 1668636218 28.:19@2427ljharb28:.	n> Array.from({})
+T 1668636218 28.:19+2425jellobot28:.	(okay) []
+T 1668636228 28.:192420jazzy28:.	I see
+T 1668636230 28.:192425fffuuuL28:.	🙄
+T 1668636237 28.:19@2427ljharb28:.	what's most useful is `Array.from`'s mapper argument
+T 1668636249 28.:192420jazzy28:.	Array.from({length: 10}, (_, i) => i + 1)
+T 1668636253 28.:19@2427ljharb28:.	indeed
+T 1668636256 28.:192420jazzy28:.	n> Array.from({length: 10}, (_, i) => i + 1)
+T 1668636257 28.:19+2425jellobot28:.	(okay) [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 ]
+T 1668636261 28.:192420jazzy28:.	yea das nice
+T 1668636278 28.:192420jazzy28:.	can do evens, odds, all kinds of stuff
+T 1668636386 28.:192429buu28:.	austincheney: Yes, they should have done that, but did not in fact do that, and now I am suffering
+T 1668636436 28.:192429buu28:.	austincheney: Or rather, they actually made that assumption that you can write multiple things and wait on the responses which works fine until you introduce transactions
+T 1668636484 28.:192419austincheney28:.	they were treating like http
+T 1668636497 28.:192429buu28:.	Once you start a transaction everything you write on that socket is now part of that transaction
+T 1668636507 28.:192419austincheney28:.	http will open a new socket per request, which is why messages work in parallel there
+T 1668636523 28.:192429buu28:.	Well, http doesn't have any state
+T 1668636534 28.:192429buu28:.	so you can interlace requests/responses over a single socket
+T 1668636547 28.:192429buu28:.	aka keepalive and http2 and so forth
+T 1668636558 28.:192429buu28:.	db sockets have state
+T 1668636589 28.:192419austincheney28:.	keepalive keeps a socket open to maintain a connection, which has nothing to do with multiple sockets for parallel requests
+T 1668636633 28.:192419austincheney28:.	you can only interlace messages over a single socket if you have logic in place to demux the message frames on the remote end
+T 1668639759 28.:192427ThePendulum28:.	anyone else struggle to get the Vue chrome dev tools to show up? sometimes they do, sometimes they don't, on the same site
+T 1668639904 28.:192427ThePendulum28:.	seems like after a crash it just won't reload itself automatically, need to re-enable it in the browser settings
+T 1668640757 28.:192426johnny28:.	you won't get much vue help here
+T 1668640776 28.:192426johnny28:.	they do have discord. i know that
+T 1668640723 28»18»	Disconnected ().
+T 1668641062 25»19»	19Now talking on #javascript
+T 1668641062 29»22»	22Topic for #javascript is: RIP GreenJello https://git.io/J2m1C | JavaScript is *not* Java | Just ask your question | Don't paste code in the channel | Can't talk? Get registered ( https://git.io/vaTS2 )
+T 1668641062 29»22»	22Topic for #javascript set by theskillwithin!theskillwi@user/theskillwithin at Tue Aug  2 15:33:56 2022
+T 1668641158 28.:192422theskillwithin28:.	the devtools might be set to not show up on production builds
+T 1668641194 28.:192422theskillwithin28:.	try uninstalling the extension and re-installing
+T 1668642909 28.:192424velix28:.	good night
+T 1668646061 28.:192424trafficjam28:.	can fs.readJson() even return an object? (from 'fs-extra')
+T 1668646103 28.:192424trafficjam28:.	I can log the object, but if I try to return it and set a variable to that value, it gives me undefined
+T 1668647790 28.:192420blahboybaz28:.	naeluh: I see what you were referring to. I had a wrong property name in my dispatch function. I also saw a new hook you were showing me in the paste:  https://codepen.io/blahboybaz/pen/gOKGxzQ?editors=0011  the useRef hook. I read the beta doc on that. How come multiple objects are created for one submit though? Is that something to do with how the input element takes in its data?
+T 1668647796 28.:192420blahboybaz28:.	https://imgur.com/a/HCqrA0Y
+T 1668647960 28.:192420blahboybaz28:.	I'd be happy to look it up/reasearch it but I'm not sure what to even look for - don't know what to even call that
+T 1668648030 28.:192420blahboybaz28:.	Its like it accumulates the characters adding the next one to the previous set until it reaches the end
+T 1668648589 28.:192429buu28:.	blahboybaz: er, isn't that what your action ADD does?
+T 1668648595 28.:192429buu28:.	return [...state, action.payload];
+T 1668648625 28.:192429buu28:.	blahboybaz: "onChange" is triggered every time the value changes
+T 1668648651 28.:192429buu28:.	It has nothing to do with submit and everything to do with how you implemented ADD and onChange
+T 1668648613 28»18»	Disconnected ().
+T 1668648711 28»18»	Disconnected (Remote host closed socket).
+T 1668648771 28»18»	Disconnected (Remote host closed socket).
+T 1668648831 28»18»	Disconnected (Remote host closed socket).
+T 1668649169 25»19»	19Now talking on #javascript
+T 1668649169 29»22»	22Topic for #javascript is: RIP GreenJello https://git.io/J2m1C | JavaScript is *not* Java | Just ask your question | Don't paste code in the channel | Can't talk? Get registered ( https://git.io/vaTS2 )
+T 1668649169 29»22»	22Topic for #javascript set by theskillwithin!theskillwi@user/theskillwithin at Tue Aug  2 15:33:56 2022
+T 1668649299 28.:192420blahboybaz28:.	no, that obviously makes no difference to the outcome
+T 1668649974 28.:192429buu28:.	> People would certainly want it to only store the data after it is submitted
+T 1668649996 28.:192429buu28:.	Not exactly, you generally want a "backing object" that stores all the values currently contained in your form fields
+T 1668650042 28.:192429buu28:.	Obviously this isn't exactly required but it's generally easier to have your UI, in this case the input fields, reflect your data object, rather than vice versa
+T 1668650098 28.:192429buu28:.	In very broad terms, you say something like let mydata ={field1: 42}; then you tell react that mydata.field1 should be the value that input id=field1 shows
+T 1668650121 28.:192429buu28:.	Then when you want to submit the data, you just have to look at what is currently in mydata
+T 1668650124 28.:192429buu28:.	For example.
+T 1668650191 28.:192429buu28:.	A slightly more useful example is if you want a field to only allow numbers in it, and you want it stored in `mydata.numberfield`, you don't want `.numberfield` to ever contain a letter, so you write an onchange listener that checks the new current value of your input field and if it contains a letter you revert to whatever is currently in `mydata.numberfield`
+T 1668650262 28.:192424trafficjam28:.	What determines whether I should use sync/async for serverless functions?
+T 1668650402 28.:192420blahboybaz28:.	buu: forms are confusing
+T 1668650501 28.:192429buu28:.	trafficjam: do you ever need to wait on some network or filesystem operation to finish?
+T 1668650507 28.:192429buu28:.	blahboybaz: this is true
+T 1668650513 28.:192429buu28:.	and react is also confusing
+T 1668650543 28.:192424trafficjam28:.	buu: yeah ill be reading from potentially multiple s3 files, but the result is returned via my api, is that fine?
+T 1668650582 28.:192420blahboybaz28:.	So I can see what you're saying - I can see the suefulness of knowing what each new input is into the field; but, what seems like a really legitimate need (to just obtain the completed input) eludes me. I don't know why it would be made so difficult to find information on. I guess if I had a name for what the goal is I would see information about how to do that all over the place though.
+T 1668650591 28.:192429buu28:.	trafficjam: so you want to 'await' your s3 reads
+T 1668650601 28.:192429buu28:.	oh
+T 1668650605 28.:192429buu28:.	that's not what you're asking
+T 1668650641 28.:192429buu28:.	trafficjam: my view is that making code 'async' is, generally speaking, an optimization, so.. keep everything as 'sync' as possible until you can't
+T 1668650647 28.:192429buu28:.	your life will be considerably simpler
+T 1668650702 28.:192429buu28:.	blahboybaz: I mean, instead of doing 'ADD': return [...state, etc]; just do '
+T 1668650717 28.:192429buu28:.	'ADD': return action.payload;
+T 1668650770 28.:192429buu28:.	blahboybaz: I mean, I'm not sure where you started or where you're going, but maybe just start over here: https://reactjs.org/docs/forms.html
+T 1668650808 28.:192429buu28:.	https://dmitripavlutin.com/controlled-inputs-using-react-hooks/
+T 1668650949 28.:192424trafficjam28:.	buu: yeah that's reasonable, async/await stuff can certainly get complicated, thanks man
+T 1668650967 28.:192420blahboybaz28:.	buu: Won't that just replace each subsequent entry with the new one? In other words I will never have an array with more than one object in it (just an object with a different value in its data field every time).
+T 1668651025 28.:192420blahboybaz28:.	buu: yeah I've done a lot of reading in those docs and other things and for some reason just feel like I'm spinning in circles
+T 1668651047 28.:192429buu28:.	blahboybaz: er, you want to store the previous values of the field?
+T 1668651052 28.:192429buu28:.	I thought you were objecting to that
+T 1668651106 28.:192420blahboybaz28:.	The ultimate gaol was to store an array of objects in/as state (using the useReducer hook) - where each object stored a string consisting of the complets/total input in its property.
+T 1668651143 28.:192420blahboybaz28:.	[{data: }, {}, {}]
+T 1668651147 28.:192420blahboybaz28:.	hang on
+T 1668651163 28.:192429buu28:.	Also day 42 of FUCKING PRISMA
+T 1668651178 28.:192420blahboybaz28:.	[{data: "my string"}, {data: "another"}, {data: "string"}]
+T 1668651196 28.:192429buu28:.	blahboybaz: does that mean you have 3 input fields?
+T 1668651221 28.:192420blahboybaz28:.	buu: no 1 input field executed 3 times
+T 1668651230 28.:192420blahboybaz28:.	in that example
+T 1668651242 28.:192429buu28:.	oh
+T 1668651260 28.:192420blahboybaz28:.	piling up a list of inputs (so to say)
+T 1668651269 28.:192429buu28:.	For the record that's kinda weird, but in that case instead of doing onChange do onSubmit or similar
+T 1668651294 28.:192420blahboybaz28:.	I realize there's probably a much better way to do this but I took it as a challenge to see if it could be done in state with the useReducer hook
+T 1668651319 28.:192429buu28:.	just trigger your ADD action onSubmit then?
+T 1668651347 28.:192420blahboybaz28:.	If I eliminate the onChange/handleChange and move my dispatch() to the onSubmit it fails
+T 1668651360 28.:192420blahboybaz28:.	using a temp variable makes no difference
+T 1668651386 28.:192420blahboybaz28:.	I'mna have to go to a dinner in a minute anyway
+T 1668651399 28.:192420blahboybaz28:.	just was seeing if I could get this sorted out before I left
+T 1668651591 28.:192429buu28:.	blahboybaz: 'fails' is a tad vague
+T 1668651608 28.:192429buu28:.	You probably need to get the value of the input more explicitly
+T 1668653516 28.:192424trafficjam28:.	buu: if I have a bunch of functions and I want to add shared additional functionality to each, what's the proper abstraction to do this?
+T 1668653546 28.:192424trafficjam28:.	e.g. say each function makes a request, and I want to write the response to a file (without interrupting the normal execution)
+T 1668653599 28.:192424trafficjam28:.	so instead of `foo()` returning a json object, the "new" version will first write the json object to a file, and then return it
+T 1668653631 28.:192424trafficjam28:.	should I create a class for this?
+T 1668655402 28.:192427ThePendulum28:.	trafficjam: just either create a function that takes the output from the request functions as the input, and then either do writeToFile(requestData()) or requestData({ writeToFile: true }) that calls that function internally?
+T 1668655758 28.:192420jazzy28:.	Question about some useEffect behavior I'm not understanding. I'm assigning to a variable using useSelector and tracking it with useEffect
+T 1668655781 28.:192420jazzy28:.	state is empty to start with, so the variable in question is initialized as undefined
+T 1668655822 28.:192420jazzy28:.	when a change to state is dispatched in the useEffect, however, the useEffect doesn't run again even though the useSelector variable has been updated
+T 1668655958 28.:192420jazzy28:.	here's the code snippet in question: https://bpa.st/MVVA
+T 1668655993 28.:192424Rockwood28:.	jazzy, is react question?
+T 1668656014 28.:192420jazzy28:.	yeah
+T 1668659591 28.:192424KevinX28:.	i dont see anything wrong with the code
+T 1668659605 28.:192424KevinX28:.	Put it online though if you want the 30 second fix
+T 1668659638 28.:192424KevinX28:.	jazzy ^
+T 1668659679 28.:192420jazzy28:.	KevinX, the code I had there was incomplete, this is the current stuff: https://bpa.st/4VWA
+T 1668659686 28.:192420jazzy28:.	(dispatch on line 41)
+T 1668659700 28.:192420jazzy28:.	but apparently the delete on line 11 was breaking things
+T 1668659703 28.:192420jazzy28:.	which I don't understand at all
+T 1668659760 28.:192424KevinX28:.	you can just filter numResults from items at the end
+T 1668659773 28.:192420jazzy28:.	yeah that's what I'll end up doing
+T 1668659791 28.:192420jazzy28:.	but why does that make it so useEffect doesn't detect the change?
+T 1668659822 28.:192424KevinX28:.	im not sure. Id have to see it and tweak it to try and understand the behavior
+T 1668659834 28.:192424KevinX28:.	could be delete + something else
+T 1668659857 28.:192420jazzy28:.	I see
+T 1668659980 28.:192424KevinX28:.	maybe has with how react does update comparison? If you're deleting a prop it might act weird
+T 1668660004 28.:192420jazzy28:.	Yeah maybe
+T 1668660021 28.:192420jazzy28:.	but I don't see hwo that'd work since useEffect is set to track the variable that I assigned to an integer
+T 1668660033 28.:192420jazzy28:.	should be independent from whatever I end up doing with the object
+T 1668661367 28.:19@2427ljharb28:.	jazzy: never ever mutate when using react
+T 1668661382 28.:19@2427ljharb28:.	don't do it regardless, but react's behavior is unpredictable if you do
+T 1668661419 28.:192420jazzy28:.	ljharb, I see
+T 1668661428 28.:192420jazzy28:.	this mentality would've saved me a great deal of trouble
+T 1668661443 28.:192420jazzy28:.	when you say that, though, do you mean not mutate *anything* or just stuff related to state
+T 1668661451 28.:192420jazzy28:.	and/or hooks
+T 1668661452 28.:19@2427ljharb28:.	in general i mean anything
+T 1668661460 28.:19@2427ljharb28:.	but especially anything related to props or state or hook values
+T 1668661462 28.:192420jazzy28:.	wow I see
+T 1668661472 28.:192420jazzy28:.	is that not a bit inefficient?
+T 1668661480 28.:19@2427ljharb28:.	a) no, b) it doesn't matter
+T 1668661486 28.:19@2427ljharb28:.	performance/efficiency are the least important things
+T 1668661492 28.:192420jazzy28:.	wow haha
+T 1668661495 28.:19@2427ljharb28:.	worry about making your code clean, explicit, maintainable, etc
+T 1668661504 28.:19@2427ljharb28:.	jazzy: lol we've been telling you this same stuff for years at this point
+T 1668661514 28.:192420jazzy28:.	I trust you since you're a longtime professional, but I thought that was a foremost concern at big companies
+T 1668661515 28.:19@2427ljharb28:.	are you like the guy in memento?
+T 1668661527 28.:192420jazzy28:.	hahaha I guess I just have these innate instincts
+T 1668661531 28.:192420jazzy28:.	most of the coding I do is algorithmic
+T 1668661536 28.:19@2427ljharb28:.	jazzy: big companies have to worry about it, but should do so *second* to writing clean, correct code
+T 1668661546 28.:192420jazzy28:.	really hard to break the habit
+T 1668661572 28.:192420jazzy28:.	I'm also slightly alarmed that you've recalled years back, I gotta be on my toes now
+T 1668661673 28.:19@2427ljharb28:.	not just years back, i mean that's the advice in this channel pretty constantly :-)
+T 1668661702 28.:192420jazzy28:.	yeah I'll start taking up the habit out of shame alone haha
+T 1668661730 28.:192420jazzy28:.	will have to somehow decouple that from algorithm practice
+T 1668661777 28.:192424KevinX28:.	lol @ momento. love that movie
+T 1668661806 28.:192420jazzy28:.	was a good one
+T 1668661830 28.:192420jazzy28:.	prestige is one of my favs also
+T 1668661836 28.:192420jazzy28:.	nolan made good stuff
+T 1668661857 28.:192424KevinX28:.	havent seen that one
+T 1668661859 28.:192420asteele28:.	just watched the prestige a couple weeks ago, it held up well
+T 1668661862 28.:192420jazzy28:.	whaaaaaaaat
+T 1668661869 28.:192420jazzy28:.	KevinX, *The Prestige*?? haven't seen??
+T 1668661878 28.:192420jazzy28:.	put that on the list
+T 1668661886 28.:192424KevinX28:.	yeah just added it to the watchlist :)
+T 1668661906 28.:192420jazzy28:.	like top 2 all time movies for me
+T 1668662029 28.:19@2427ljharb28:.	the prestige is *amazing*
+T 1668662034 28.:19@2427ljharb28:.	highly underrated and eternally holds up
+T 1668662064 28.:192420jazzy28:.	so good
+T 1668662074 28.:192420jazzy28:.	and I hadn't thought about it, but it is strange no one seems to ever bring it up
+T 1668662095 28.:192420jazzy28:.	thought it was just a given everyone thought it was incredible
+T 1668662101 28.:192420asteele28:.	yeah i would agree its underrated, it never seems like it was that popular, but it is very good
+T 1668662131 28.:192420asteele28:.	almost 0 boringness to it, engaging the whole way through
+T 1668662137 28.:192420asteele28:.	and a killer ending like any great movie
+T 1668662153 28.:192420jazzy28:.	yeah don't spoil for KevinX though
+T 1668662160 28.:192420asteele28:.	yeah thats the limit of what ill say ;p
+T 1668662172 28.:192424KevinX28:.	thanks :)
+T 1668662180 28.:192420jazzy28:.	I guess I kind of like when things I love are generally underrated haha
+T 1668662187 28.:192420jazzy28:.	makes me feel like it's my little secret
+T 1668662220 28.:192420jazzy28:.	the inner hipster in me
+T 1668664682 28.:192424KevinX28:.	thats why you like javascript eh
+T 1668665340 28.:192420jazzy28:.	I consider javascript more an emotional abuser
+T 1668665372 28.:192420jazzy28:.	I need to get to know it a little better before I can like it
+T 1668666043 28»18»	Disconnected ().
+T 1668666090 28»18»	Disconnected (Remote host closed socket).
+T 1668666160 28»18»	Disconnected (Remote host closed socket).
+T 1668666230 28»18»	Disconnected (Remote host closed socket).
+T 1668666562 24»23»23	woland sets modes (woland :+Ziw)
+T 1668666562 28-21Notice28-	21{28from SaslServ21} Last login from: ~woland@188.75.110.239 on Nov 17 06:29:00 2022 +0000.
+T 1668666568 25»19»	19Now talking on #javascript
+T 1668666568 29»22»	22Topic for #javascript is: RIP GreenJello https://git.io/J2m1C | JavaScript is *not* Java | Just ask your question | Don't paste code in the channel | Can't talk? Get registered ( https://git.io/vaTS2 )
+T 1668666568 29»22»	22Topic for #javascript set by theskillwithin!theskillwi@user/theskillwithin at Tue Aug  2 15:33:56 2022
+T 1668666784 28.:192420blahboybaz28:.	What are some ways to obtain only the final result of a text input field? Not each character getting combined as it is typed in but just whatever the final and complete input as a string? I'm drawing a blank
+T 1668666827 28.:192424KevinX28:.	debounce, onBlur, or form submit event
+T 1668666921 28.:192420blahboybaz28:.	KevinX: thanks I'll look at that
+T 1668666946 28.:192420EdFletcher28:.	the `change` event is effectively `onBlur` for text inputs https://jsfiddle.net/
+T 1668666963 28.:192420EdFletcher28:.	https://jsfiddle.net/5cuy7q6a/
+T 1668666983 28.:192420EdFletcher28:.	but even better: "When the element loses focus after its value was changed"
+T 1668666987 28.:192420EdFletcher28:.	https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/change_event
+T 1668667114 28.:192424KevinX28:.	yeah that sounds better
+T 1668667122 28.:192424KevinX28:.	typically though you just let react handle it
+T 1668667401 28.:192420jazzy28:.	is this the right way to organize long nasty component declarations?
+T 1668667403 28.:192420jazzy28:.	https://i.snipboard.io/S43xH0.jpg
+T 1668667464 28.:19@2427ljharb28:.	jazzy: why is it long
+T 1668667476 28.:19@2427ljharb28:.	oh, elements
+T 1668667479 28.:19@2427ljharb28:.	jazzy: yeah that's fine
+T 1668667494 28.:19@2427ljharb28:.	jazzy: altho handlers (onClick) should never use the concise arrow form
+T 1668667494 28.:192420jazzy28:.	yeah guess wrong vocab there
+T 1668667503 28.:192420jazzy28:.	hm
+T 1668667506 28.:192420jazzy28:.	why's that
+T 1668667508 28.:192420blahboybaz28:.	KevinX: I'm not sure how react handles it. I was taking a basic approach just using native html elements and what's getting stored is the cumulation of each new character as it is added (rather than the final result).. Maybe I didn't choose the best way to implement what I'm doing. I was just screwing around trying to learn some new stuff and just cooking up ridiculous ideas to try. That being said
+T 1668667514 28.:192420blahboybaz28:.	I guess I'm stubborn. I kinda want to see if I can get this to work with what I have going on an put this bitch to rest forever.  The onBlur thing SEEMS the most straightforward approach to me. What, you just substitute onChance/handleChange with onBlur/handleBlur and then it fires when you click the button?
+T 1668667515 28.:19@2427ljharb28:.	jazzy: because event handlers shouldn't return a value. so you want `() => { setPage(pageNum); }`
+T 1668667530 28.:19@2427ljharb28:.	jazzy: also use String(x) instead of x.toString()
+T 1668667543 28.:19@2427ljharb28:.	jazzy: also, since it's in a template literal, you don't need either.
+T 1668667559 28.:192420jazzy28:.	oh wow did not consider that
+T 1668667571 28.:192420jazzy28:.	this makes sense, didn't know js implicitly converted
+T 1668667591 28.:192420blahboybaz28:.	oh EdFletcher I didn't realize you were directing that at me. I'll have to take some time to go over that
+T 1668667594 28.:192420blahboybaz28:.	thanks
+T 1668667634 28.:192420EdFletcher28:.	blahboybaz: ah that would be partly my fault, i thought i highlighted you but clearly i did not. my bad!
+T 1668667663 28.:192424trafficjam28:.	does it make sense to use an api wrapper class in an aws lambda function?
+T 1668667688 28.:192424KevinX28:.	> what's getting stored is the cumulation of each new character as it is added --- whats wrong with this? blahboybaz
+T 1668667834 28.:192427madprops28:.	what's the easiest way to get an  obj from an array of objects, that has the lowest x int property?
+T 1668667927 28.:192420blahboybaz28:.	yeah.. while I've never actually been to hell.. I imagine it must be very much like dealing with form inputs
+T 1668667930 28.:192420blahboybaz28:.	:p
+T 1668667945 28.:192420jazzy28:.	madprops, prob reduce
+T 1668667952 28.:192420blahboybaz28:.	EdFletcher: you're awesome man!
+T 1668667960 28.:192425stagas28:.	madprops: slice sort and pop
+T 1668668014 28.:192420jazzy28:.	madprops, arr.reduce((acc, obj) => {if (obj.prop < acc.prop) return obj})
+T 1668668042 28.:192420jazzy28:.	uh
+T 1668668075 28.:192420jazzy28:.	madprops, arr.reduce((acc, obj) => obj.prop < acc.prop ? obj : acc)
+T 1668668115 28.:192420blahboybaz28:.	KevinX: Because the very goal itself is to store the final result as a string.. in an object.. in an array  eg: [{data: "my input"}] not like 8 objects each containing the cumulation leading up to the result.
+T 1668668140 28.:192424trafficjam28:.	anyone?
+T 1668668174 28.:192424KevinX28:.	no clue trafficjam
+T 1668668178 28.:192420blahboybaz28:.	[{data: "my input"}, {data: "my"}, {data: "other"}, {data: "input"}]
+T 1668668183 28.:192420EdFletcher28:.	blahboybaz: 😊🙇
+T 1668668186 28.:192424trafficjam28:.	thanks anyway kev
+T 1668668204 28.:192424KevinX28:.	blahboybaz yeah but you can use useState and let react control it, then get the value later when you need it
+T 1668668214 28.:192424KevinX28:.	look up controlled component (i think thats the name)
+T 1668668419 28.:192420blahboybaz28:.	KevinX: I know I know.. :)  This started as exercises to learn useReducer hook. I mad a couple other simple examples (one where it was an object in state). Then I got this bright idea I wanted to make useReducer manage an array of objects in state (bad idea it seems). I probalby could have thought up a lot easier way to do it than involving forms too. But no - my hard headed ass had to go this
+T 1668668425 28.:192420blahboybaz28:.	direction: https://codepen.io/blahboybaz/pen/gOKGxzQ?editors=0011
+T 1668668438 28.:192420blahboybaz28:.	mad\made
+T 1668668481 28.:192424KevinX28:.	i know you're just trying to learn but there are better things to learn than useReducer
+T 1668668505 28.:192420blahboybaz28:.	EdFletcher: Is that the puke emoji?
+T 1668668511 28.:192420blahboybaz28:.	lol
+T 1668668529 28.:192424KevinX28:.	like useState, useRef, useEffect - even useLayoutEffect I use way more than useReducer
+T 1668668600 28.:192420blahboybaz28:.	I'm seariously tempted to just delete that shit and move on but I don't think I could live with myself; if, after making this big of an investment, and coming this far, I just gave up.
+T 1668668627 28.:192424KevinX28:.	come back to it after you master the others and you'll be like.. oh.. yeah duh
+T 1668668629 28.:192420blahboybaz28:.	Its just now I'm not even dealing wtih useReducer learning anymore. Now I'm having to learn about form input
+T 1668668653 28.:192420blahboybaz28:.	for sure
+T 1668668688 28.:192424KevinX28:.	I use .reduce() on arrays often though.
+T 1668668693 28.:192420blahboybaz28:.	Call me a masochist but I've been feeling pulled toward learning forms
+T 1668668696 28.:192419han-solo28:.	> ([{ x: 5, y: 'foo' }, { x: 2, y: 'bar' }].sort((a, b) => a.x - b.x).values().next().value)
+T 1668668700 28.:192424KevinX28:.	Yeah but do forms the react way
+T 1668668701 28.:192419han-solo28:.	n> ([{ x: 5, y: 'foo' }, { x: 2, y: 'bar' }].sort((a, b) => a.x - b.x).values().next().value)
+T 1668668702 28.:19+2425jellobot28:.	(okay) { x: 2, y: 'bar' }
+T 1668668733 28.:192420EdFletcher28:.	blahboybaz: haha classic emojis, always looking wrong to the other person! it was \😊 \:bowing: haha
+T 1668668734 28.:192420blahboybaz28:.	KevinX: What is the react way?
+T 1668668738 28.:192420EdFletcher28:.	oh ffs
+T 1668668738 28.:192420blahboybaz28:.	Forms?
+T 1668668741 28.:192420EdFletcher28:.	blushing
+T 1668668758 28.:192420blahboybaz28:.	EdFletcher: lol
+T 1668668760 28.:192420blahboybaz28:.	right on
+T 1668668817 28.:192420EdFletcher28:.	i'm an "Old" and just learned the other day that the youngsters apparently interpret 👍 in all sorts of contextual ways, some completely negative. i cannot keep up.
+T 1668668846 28.:192420blahboybaz28:.	I hear that
+T 1668668856 28.:192420blahboybaz28:.	This is not the world I grew up in
+T 1668668874 28.:192420EdFletcher28:.	INDEED
+T 1668668932 28.:192424KevinX28:.	the react way is using useState to let react control the inputs, and then handle the data on a form submit event
+T 1668668940 28.:192420blahboybaz28:.	I use a lot of phrases from the 60's and 70's. I just like them and the folks that raised me used them when I was young.
+T 1668669015 28.:192420blahboybaz28:.	KevinX: In that case (and considering that useReducer is just an overgrown useState) - learning about forms the react way should make what I'm trying to do now make perfect sense
+T 1668669019 28.:192420blahboybaz28:.	:p
+T 1668669099 28.:192424KevinX28:.	yeah but you're struggling. I'm offering you an out
+T 1668669112 28.:192424KevinX28:.	come back to it in 2 weeks. set an alarm
+T 1668669192 28.:192420blahboybaz28:.	KevinX: I know my friend. I appreciate that and that is exactly what I intend to do. Gonna put what I have in a named stash and just work on forms
+T 1668669205 28.:192420blahboybaz28:.	Didn't mean to joke when I shouldn't have (my earlier comment)
+T 1668669399 28.:192424KevinX28:.	i missed the joke
+T 1668669438 28.:192420blahboybaz28:.	I wish there was a way to tell you guys how much I appreciate you without it sounding too corny.. ljharb, theskillwithin, buu, EdFletcher, KevinX. I don't know what I'd do without you
+T 1668669470 28.:192420blahboybaz28:.	KevinX: Just a kind of sarcastic tone followed by  :p
+T 1668669500 28.:192420blahboybaz28:.	I was serious though. Lerning forms should make what I been struggling with now easy after that
+T 1668669506 28.:192424KevinX28:.	:P
+T 1668669662 28.:192424KevinX28:.	helping others helps solidify the information too, so I think most people are happy to help here if they can
+T 1668669778 28.:192420blahboybaz28:.	I think I prefer kindness in others. I try to be that way but sometimes fail miserably at it
+T 1668669999 28.:192424trafficjam28:.	anyone here used dynamodb?
+T 1668670376 28.:192419sickdyd28:.	hey guys what is "productivity porn" in a few words?
+T 1668670541 28.:19@2427ljharb28:.	never heard that term before
+T 1668670679 28.:192419ashnur28:.	lol
+T 1668670695 28.:192419ashnur28:.	sickdyd, is it like perseverance porn?
+T 1668671152 28.:192419ashnur28:.	https://fair.org/home/medias-grim-addiction-to-perseverance-porn/
+T 1668671683 28.:192419sickdyd28:.	my CTO told me to beware of productivity porn
+T 1668671701 28.:192419sickdyd28:.	so basically is getting sorta obsessed in improving productivity by doing things that actually don't add much to the final result
+T 1668671739 28.:192419sickdyd28:.	we shortly discussed about it, and he had a point
+T 1668671765 28.:192419sickdyd28:.	if something can be worded as a problem that requires an improvement, then yes, it makes sense, otherwise why do it? the change has a cost
+T 1668671774 28.:192419sickdyd28:.	requires a fix *
+T 1668671794 28.:192419sickdyd28:.	this is for the development team processes
+T 1668671984 28.:19@2427ljharb28:.	sickdyd: seems pretty work-inappropriate to use the term "porn" to describe it, especially when it's by no means a universally used term. but ok
+T 1668672501 28.:192419hmw[at]28:.	The suffix -porn has become common parlour. Food*, Cable*, Tech*
+T 1668672535 28.:192419hmw[at]28:.	Unix*
+T 1668672562 28.:192419hmw[at]28:.	Language. We bette watch it.
+T 1668672569 28.:192419hmw[at]28:.	*better
+T 1668672574 28.:192420jazzy28:.	nice
+T 1668672604 28.:192419ashnur28:.	yeah, agree with hmw, there is nothing work-inappropriate in the word porn if it's not actual porn
+T 1668672622 28.:192419ashnur28:.	would think before I use it though, some people take issue with it apparently :D
+T 1668672697 28.:192419hmw[at]28:.	I wouldnt't use or recommend its use it either
+T 1668674932 28.:192419ashnur28:.	some of the toxic stuff i heard about in the past 1.5 year is so much beyond something like this, i can't not compare the lack of focus on the worse stuff with the focus on language policing
+T 1668675566 28.:192428Sircle28:.	ljharb freebsd has no nvm support, no puppeteer support. I wonder
+T 1668677888 28.:192425stagas28:.	Sircle: why are you using freebsd?
+T 1668677908 28.:192428Sircle28:.	stagas its a better OS?
+T 1668677915 28.:192428Sircle28:.	stagas I like it
+T 1668677923 28.:192425stagas28:.	Sircle: what is better about it
+T 1668677935 28.:192428Sircle28:.	stagas uses less resources and does more , more stable but assume I am bias
+T 1668677955 28.:192428Sircle28:.	let's talk about nvm and puppeteer support for it
+T 1668677972 28.:192425stagas28:.	why is there no support for it
+T 1668677981 28.:192428Sircle28:.	ya, thats my question
+T 1668678030 28.:192425stagas28:.	i have no idea what is freebsd or what is different from an ubuntu for example
+T 1668678035 28.:192422systemfault28:.	FreeBSD was my first "Unix" love, at the time I found the linux system bloated and confusing. FreeBSD was so clean, respected the conventions... Ports were annoying though (I always hated compiling things) (That was 20 years ago)
+T 1668678040 28.:192428Sircle28:.	stagas thats great;
+T 1668678063 28.:192428Sircle28:.	systemfault you don't use it now?
+T 1668678095 28.:192422systemfault28:.	Sircle: No, pretty much moved to macs ever since I started working in webdev..
+T 1668678110 28.:192428Sircle28:.	how do you find linux, mac and fbsd
+T 1668678113 28.:192428Sircle28:.	compared
+T 1668678116 28.:192428Sircle28:.	as a dev
+T 1668678119 28.:192428Sircle28:.	and tech guy
+T 1668678251 28.:192422systemfault28:.	FBSD feels cleaner to me because the it's not just a kernel and a bunch some gnu utilities developed separately... I'm sure that there are alternatives to ports in 2022 but I haven't looked. Beside that, there's the obvious problem that while FBSD has something to run Linux binaries, it doesn't work all the time...
+T 1668678311 28.:192422systemfault28:.	Linux is great, always has the latest and greatest... it's much more popular than FBSD so more things are made to work with it. When I mean that linux is a mess, just install a clean system and start exploring what was installed.. and where.
+T 1668678367 28.:192422systemfault28:.	As for OSX... I get a decent unix-style terminal experience and I can easily run proprietary softwares that are sometimes need by my job and that aren't available on Linux and FBSD.
+T 1668678685 28.:192419Artfaith28:.	Marvelous day! ^^
+T 1668678824 28.:192428Sircle28:.	systemfault I see. I wish fbsd had more support for things
+T 1668678863 28.:192422systemfault28:.	Yeah... but some people don't need these things, so they use FBSD or OpenBSD or something else
+T 1668679063 28»18»	Disconnected ().
+T 1668679125 28»18»	Disconnected (Remote host closed socket).
+T 1668679189 28»18»	Disconnected (Remote host closed socket).
+T 1668679231 28»18»	Disconnected (Remote host closed socket).
+T 1668679284 28»18»	Disconnected (Remote host closed socket).
+T 1668679629 25»19»	19Now talking on #javascript
+T 1668679629 29»22»	22Topic for #javascript is: RIP GreenJello https://git.io/J2m1C | JavaScript is *not* Java | Just ask your question | Don't paste code in the channel | Can't talk? Get registered ( https://git.io/vaTS2 )
+T 1668679629 29»22»	22Topic for #javascript set by theskillwithin!theskillwi@user/theskillwithin at Tue Aug  2 15:33:56 2022
+T 1668679651 28.:192428Sircle28:.	I think bsd will be much stable, faster and consume less resources than linux
+T 1668679700 28.:192422systemfault28:.	Generally, I develop on the same platform as prod when possible (That's why docker can be a good thing)
+T 1668680029 28.:192428Sircle28:.	systemfault so i can run anything on fbsd inside docker?
+T 1668680062 28.:192422systemfault28:.	"containers" require OS support... and I seriously have no idea of what that support is like on FBSD
+T 1668680126 28.:192422systemfault28:.	Why don't you simply develop/deploy on Linux since vital parts of your applications only works on it?
+T 1668680165 28.:192428Sircle28:.	systemfault system stability, performance, etc concerns onl inux
+T 1668680229 28.:192429GhostOfTheCoast28:.	@Sircle , facebook marketplace... $50 will get you a machine good enough to do most dev tasks. $200 and have something made within the last five years.
+T 1668680332 28.:192428Sircle28:.	ya I already have heavy data processing machines
+T 1668680350 28.:192429GhostOfTheCoast28:.	@Sircle ---Thomas had never seen such b^%$*#^t.
+T 1668680377 28.:192419Artfaith28:.	Interesting...
+T 1668680421 28.:192429GhostOfTheCoast28:.	All good man, you do you.
+T 1668680475 28.:192419Artfaith28:.	Two scripts... both are inlcuded into webpack.min.js as mix.js('A','a').js('B','b') for example. Both have console.log(), yet only the second outputs, and the first is like ignored ,yet is compiled by webpack!
+T 1668680520 28.:192419Artfaith28:.	The first built file exists, but has no console.log in it. The second has.
+T 1668680541 28.:192419Artfaith28:.	Already wasted 5 or 6 hours finding the source of this nonsense.
+T 1668680999 28.:192429GhostOfTheCoast28:.	I am mostly a back end person. I have a "factory object", an object where each instance of new Slider is a set of frontend elements that are a slider that looks like the specifications I was given. The markup and styling and addeventlistener is good--
+T 1668681029 28.:192429GhostOfTheCoast28:.	Except when I try to call the object methods with the events.
+T 1668681063 28.:192429GhostOfTheCoast28:.	Clicking the things results in an error that the method/function is not defined.
+T 1668681093 28.:192429GhostOfTheCoast28:.	I don't necessarily need help with the code, I could use help with googling.
+T 1668681126 28.:192429GhostOfTheCoast28:.	My search "javascript object addeventlistener" seemed like the best bet-- no joy.
+T 1668681200 28.:192429GhostOfTheCoast28:.	...Probably this linux machine I am on that has stability, performance, etc. concerns.
+T 1668681267 28.:192422systemfault28:.	GhostOfTheCoast: Generally happens when you pass "methods" as callback... their `this` become unbound and you get something like `Cannot read whatever of undefined`
+T 1668681276 28.:192429GhostOfTheCoast28:.	Right!
+T 1668681299 28.:192429GhostOfTheCoast28:.	What should I be googling to learn this gap in my knowledge.
+T 1668681341 28.:192422systemfault28:.	GhostOfTheCoast: So, make sure that when you pass a method as a callback, bind it using the .bind function: example: setTimeout(myObject.method, 1000); will crash but setTimeout(myObject.method.bind(myObject), 1000) won't
+T 1668681369 28.:192422systemfault28:.	Just how "this" works in JS I guess..
+T 1668681390 28.:192429GhostOfTheCoast28:.	I will do a deep dive into bind.
+T 1668681482 28.:192422systemfault28:.	The TL;DR is... the `this` inside a function is whatever what at the left side of the . or ['methodName'] AT THE MOMENT ITS CALLED
+T 1668681574 28.:192429GhostOfTheCoast28:.	Thanks. Always happy to add a new thing to my bag of tricks.
+T 1668681709 28.:192422systemfault28:.	s/whatever what/whatever was (A bit sick... sorry)
+T 1668681724 28.:192419Artfaith28:.	Hey all
+T 1668681742 28.:192419Artfaith28:.	Oh. I was here already. Perhaps it's the sleep need. I am sorry ^^
+T 1668681756 28.:192419Artfaith28:.	Where may I ask a question regarding webpack?
+T 1668681771 28.:192419Artfaith28:.	I literally don't have a single idea...
+T 1668681862 28.:192427Talon28:.	when making custom elements, in the disconnectedCallback() is there a way to reference what element it was removed from?
+T 1668682053 28.:192429GhostOfTheCoast28:.	Artfaith: ...I would double check for syntax errors in my webpack config, especially if files to be crunched are specified individually and possibly not globbed. Then similarly check the syntax of the JS file. Those are the first two things I would do. Aaaaand doing that may not help anything.
+T 1668682106 28.:192429GhostOfTheCoast28:.	Still, the first thing I would do.
+T 1668682132 28.:192419Artfaith28:.	GhostOfTheCoast, no syntax errors
+T 1668682139 28.:192419Artfaith28:.	9-time checked
+T 1668682158 28.:192419Artfaith28:.	Literally copy-pasted both scripts, rules, and just changed the locations in webpack
+T 1668682184 28.:192419Artfaith28:.	In host: Two scripts... both are inlcuded into webpack.min.js as mix.js('A','a').js('B','b') for example. Both have console.log(), yet only the second outputs, and the first is like ignored, yet is compiled by webpack! Both built scripts exist in built and are included into the index page, but the second has console.log, and the first - does not.
+T 1668682191 28.:192419Artfaith28:.	It's like Laravel Mix or something removes the console.log from the file entirely before building!
+T 1668682242 28.:192429GhostOfTheCoast28:.	This looks really weird to me... mix.js('A','a').js('B','b')
+T 1668682258 28.:192429GhostOfTheCoast28:.	What or why...?
+T 1668682272 28.:192419Artfaith28:.	It's Laravel Mix
+T 1668682290 28.:192429GhostOfTheCoast28:.	...okay. I am unfamiliar with Laravel Mix.
+T 1668682475 28.:192419Artfaith28:.	It's a great addition to Webpack I believe but this issue...
+T 1668686970 28.:192427derjanni28:.	:)
+T 1668691539 28.:192427ccapndave28:.	Is it allowed to ask a Typescript question here?
+T 1668694116 28.:192422theskillwithin28:.	ccapndave yes
+T 1668694185 24»23»23	ChanServ sets modes (#javascript +o litharge)
+T 1668694186 24»23»23	litharge sets modes (#javascript -bo *!*@user/Intelo litharge)
+T 1668694544 28.:192427ccapndave28:.	I think the answer is no, but is there any way to write `const value = parseInt(element.getAttribute("data-value"))` in Typescript so that it typechecks without using either an extra reference or a helper function?
+T 1668694752 28.:192422systemfault28:.	ccapndave: Well... since getAttribute can return a string or null. There isn't much you can do: 1) Tell the compiler to shut up by using a non-null assertion 2) use ?? and a default ('0' ?)
+T 1668694765 28.:192422systemfault28:.	1) const value = parseInt(element.getAttribute("data-value")!)
+T 1668694774 28.:192422systemfault28:.	2) const value = parseInt(element.getAttribute("data-value") ?? '0')
+T 1668694783 28.:192427ccapndave28:.	What's the exclamation mark about?
+T 1668694806 28.:192422systemfault28:.	It tells the compiler, "trust me, the value is not null or undefined"
+T 1668694809 28.:192427ccapndave28:.	Oh!  I didn't know about that (just FTFM)
+T 1668694828 28.:192427ccapndave28:.	However, the value can be `null`
+T 1668694835 28.:192427ccapndave28:.	So I guess a helper function is it
+T 1668694845 28.:192429deltab28:.	btw you can use  element.dataset.value
+T 1668694937 28.:192427ccapndave28:.	deltab: I don't know about this either
+T 1668694964 28.:192427ccapndave28:.	Shut the front door!
+T 1668694975 28.:192429deltab28:.	all data-* attributes are reflected in element.dataset
+T 1668695013 28.:192427ccapndave28:.	I did not know that
+T 1668695017 28.:192427ccapndave28:.	Thanks!
+T 1668695028 28.:192429deltab28:.	you're welcome
+T 1668695034 28.:192427ccapndave28:.	I've been `getAttribute("data-`ing all this time
+T 1668697513 28.:192422Buoy17228:.	hhi
+T 1668697525 28.:192422Buoy17228:.	What would you recommend for a rich-text editor?
+T 1668697581 28.:192422Buoy17228:.	Should a use one or make one from scratch?
+T 1668697700 28.:192427ThePendulum28:.	there's quill.js
+T 1668697726 28.:192427ThePendulum28:.	a rich text editor is probably the last thing I'd try and make from scratch, lol
+T 1668697879 28.:192428Sircle28:.	I am on freebsd and it does not supports puppeteer. What are my choices now?
+T 1668697891 28.:192427ThePendulum28:.	linux
+T 1668697897 28.:192428Sircle28:.	any other?
+T 1668697922 28.:192427ThePendulum28:.	selenium doesn't seem to be well supported either
+T 1668697947 28.:192428Sircle28:.	docker?
+T 1668697971 28.:192427ThePendulum28:.	does docker generally work well for linux applications on freebsd?
+T 1668697986 29»22»22	28Sircle has no idea
+T 1668698008 28.:192427ThePendulum28:.	and that would essentially be my "linux" answer then :P a bsd docker probably wouldn't help much
+T 1668698026 28.:192427ThePendulum28:.	playwright, cypress, none of them seem to have freebsd support
+T 1668698036 28.:192427ThePendulum28:.	you could try all of them and see which one is the least broken
+T 1668698078 28.:192428Sircle28:.	my app is already made in puppeteer
+T 1668698082 28.:192428Sircle28:.	I wonder why they don't support fbsd
+T 1668698298 28.:192427ThePendulum28:.	probably the ratio between popularity and available resources
+T 1668698450 28.:192426johnny28:.	just like why they didn't used to support linux in a lot of places they do now :)
+T 1668699025 28.:19@2427ljharb28:.	Sircle: does node even have FreeBSD support?
+T 1668699087 28.:19@2427ljharb28:.	Sircle: also why would nvm need to “support” puppeteer? nvm only manages node.
+T 1668699088 28.:192428cstml28:.	Hello!
+T 1668699911 28.:192422Buoy17228:.	Does anyone have an opinion on Facebook's Lexical? https://lexical.dev/
+T 1668699929 28.:192422Buoy17228:.	For a rich-text editor
+T 1668700814 28»18»	Disconnected ().
+T 1668700983 28»18»	Disconnected (Remote host closed socket).
+T 1668701040 28»18»	Disconnected (Remote host closed socket).
+T 1668701379 25»19»	19Now talking on #javascript
+T 1668701379 29»22»	22Topic for #javascript is: RIP GreenJello https://git.io/J2m1C | JavaScript is *not* Java | Just ask your question | Don't paste code in the channel | Can't talk? Get registered ( https://git.io/vaTS2 )
+T 1668701379 29»22»	22Topic for #javascript set by theskillwithin!theskillwi@user/theskillwithin at Tue Aug  2 15:33:56 2022
+T 1668701422 28.:192428Sircle28:.	ljharb my question about nvm and puppeteer are separate questions. I can forget nvm but puppeteer is critical for me . I see you were participant in this discussion https://bugs.freebsd.org/bugzilla/show_bug.cgi?id=5034  and I am not the first/only one raising this
+T 1668701449 28.:19@2427ljharb28:.	ok but how is it a better os if a bunch of stuff doesn’t work in it
+T 1668701482 28.:19@2427ljharb28:.	and no i don’t see any comments from me in that discussion
+T 1668701528 28.:192419blueagain28:.	that is an old.... bug
+T 1668701581 28.:192428Sircle28:.	ljharb consider I am bias (for sake of argument). Secondly, few things not working on an OS cannot quantify all other things working great on the OS. That's not the topic though.
+T 1668701614 28.:19@2427ljharb28:.	lol then i guess puppeteer isn’t critical for you
+T 1668701639 28.:19@2427ljharb28:.	because “critical” outranks “bias”
+T 1668701786 28.:192428Sircle28:.	ljharb yes the link does not have you. Second: "Bias" was for OS assumption for you for sake of discussion. "Critical" is for getting it working as of time.
+T 1668701809 28.:192428Sircle28:.	ljharb should we move to the topic on how to get puppeteer working on freebsd?
+T 1668702250 28.:192426johnny28:.	Sircle, i think if you want help with that, you won't find it here
+T 1668702356 28.:192428Sircle28:.	johnny somehow I believe you
+T 1668702364 28.:192428Sircle28:.	johnny which place you suggest?
+T 1668702384 28.:192419austincheney28:.	it does not look like there is a binary on the nodejs.org site for freebsd but that freebsd is a supported platform in the docs.  Does that mean to get node running on freebsd you must build from source?
+T 1668702433 28.:192426johnny28:.	Sircle, i don't use bsd, so i couldn't tell you
+T 1668702469 28.:192428Sircle28:.	ya, thats the issue here. Bsd guys say "ask node guys" and node guys say "ask bsd guys". Nothing on you; just sharing
+T 1668702497 28.:192426johnny28:.	you need to mabye ask freebsd people who care about node i guess
+T 1668702501 28.:192428Sircle28:.	austincheney bsd's pkg manager has node and npm. no need to build
+T 1668702509 28.:192419austincheney28:.	awesome
+T 1668702511 28.:192428Sircle28:.	johnny hard to find :)
+T 1668702519 28.:192428Sircle28:.	austincheney do yo use/plan to use bsd?
+T 1668702523 28.:192426johnny28:.	then you get to be that person
+T 1668702629 28.:192428Sircle28:.	ya :)

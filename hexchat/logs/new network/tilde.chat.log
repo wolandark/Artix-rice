@@ -1,0 +1,55 @@
+**** BEGIN LOGGING AT Mon Nov 14 03:06:40 2022
+
+Nov 14 03:11:52 »»	EXTBAN=,ACNOQRSTUacmnprwz HOSTLEN=64 INVEX=I KEYLEN=32 KICKLEN=255 LINELEN=512 MAXLIST=I:100,X:100,b:100,e:100,g:100 MAXTARGETS=20 MODES=20 MONITOR=30 NAMELEN=128 NAMESX NETWORK=tilde.chat :are supported by this server
+Nov 14 03:11:52 »»	NICKLEN=31 PREFIX=(Yqaohv)!~&@%+ REMOVE SAFELIST SECURELIST=60 SILENCE=32 STATUSMSG=!~&@%+ TOPICLEN=307 UHNAMES USERIP USERLEN=11 USERMODES=,,s,BILRSTWcghiorwz WATCH=30 :are supported by this server
+Nov 14 03:11:52 »»	WHOX :are supported by this server
+Nov 14 03:11:52 »»	There are 728 users and 127 invisible on 12 servers
+Nov 14 03:11:52 »»	11 :operator(s) online
+Nov 14 03:11:52 »»	1 :unknown connections
+Nov 14 03:11:52 »»	451 :channels formed
+Nov 14 03:11:52 »»	I have 59 clients and 1 servers
+Nov 14 03:11:52 »»	Current local users: 59  Max: 69
+Nov 14 03:11:52 »»	Current global users: 855  Max: 963
+Nov 14 03:11:52 »»	texto-plano.tilde.chat message of the day
+Nov 14 03:11:52 »»	    __            __                    __                   __  _ __    __           __          __ 
+Nov 14 03:11:52 »»	   / /____  _  __/ /_____        ____  / /___ _____  ____   / /_(_) /___/ /__   _____/ /_  ____ _/ /_
+Nov 14 03:11:52 »»	  / __/ _ \| |/_/ __/ __ \______/ __ \/ / __ `/ __ \/ __ \ / __/ / / __  / _ \ / ___/ __ \/ __ `/ __/
+Nov 14 03:11:52 »»	 / /_/  __/>  </ /_/ /_/ /_____/ /_/ / / /_/ / / / / /_/ // /_/ / / /_/ /  __// /__/ / / / /_/ / /_  
+Nov 14 03:11:52 »»	 \__/\___/_/|_|\__/\____/     / .___/_/\__,_/_/ /_/\____(_)__/_/_/\__,_/\___(_)___/_/ /_/\__,_/\__/  
+Nov 14 03:11:52 »»	                             /_/                                                                     
+Nov 14 03:11:52 »»	 welcome to tilde.chat
+Nov 14 03:11:52 »»	 this is the irc network for the tildeverse (https://tildeverse.org)
+Nov 14 03:11:52 »»	 
+Nov 14 03:11:52 »»	 check out the appropriate channel for your tilde:
+Nov 14 03:11:52 »»	 
+Nov 14 03:11:52 »»	   - aussies.space    ~> #aussie
+Nov 14 03:11:52 »»	   - breadpunk.club   ~> #bread
+Nov 14 03:11:52 »»	   - cosmic.voyage    ~> #cosmic
+Nov 14 03:11:52 »»	   - ctrl-c.club      ~> #ctrl-c
+Nov 14 03:11:52 »»	   - heathens.club    ~> #midgard
+Nov 14 03:11:52 »»	   - rw.rs            ~> #rw.rs
+Nov 14 03:11:52 »»	   - texto-plano.xyz  ~> #texto-plano
+Nov 14 03:11:52 »»	   - tilde.club       ~> #club
+Nov 14 03:11:52 »»	   - tilde.institute  ~> #institute
+Nov 14 03:11:52 »»	   - tilde.pink       ~> #pink
+Nov 14 03:11:52 »»	   - tilde.team       ~> #team
+Nov 14 03:11:52 »»	   - tilde.town       ~> #town
+Nov 14 03:11:52 »»	 
+Nov 14 03:11:52 »»	 the main lobby channel is #meta. you must log in with nickserv to speak there.
+Nov 14 03:11:52 »»	 to get registered, run /quote ns help register or read our wiki: https://tilde.chat/wiki/nicks
+Nov 14 03:11:52 »»	 check out https://tilde.chat/stats/ or run /list to find other channels
+Nov 14 03:11:52 »»	 /join #helpdesk if you need assistance
+Nov 14 03:11:52 »»	 
+Nov 14 03:11:52 »»	 check out #tilderadio for our internet radio station!
+Nov 14 03:11:52 »»	 
+Nov 14 03:11:52 »»	 please see our etiquette guidelines: https://tilde.chat/wiki/etiquette
+Nov 14 03:11:52 »»	 
+Nov 14 03:11:52 »»	   ~~ be excellent to each other ~~
+Nov 14 03:11:52 »»	End of message of the day.
+Nov 14 03:11:52 »»	*** You are connected to irc.tilde.chat using TLS (SSL) cipher 'TLS1.3-ECDHE-RSA-AES-256-GCM-AEAD'
+Nov 14 03:12:03 »»	*** You cannot view the channel list right now. Please try again in 45s.
+Nov 14 03:12:20 »»	*** You cannot view the channel list right now. Please try again in 28s.
+Nov 14 03:12:25 »»	*** You cannot view the channel list right now. Please try again in 23s.
+Nov 14 03:13:16 »»	#midgard :You need to be identified to a registered account to join this channel
+**** ENDING LOGGING AT Mon Nov 14 03:47:09 2022
+

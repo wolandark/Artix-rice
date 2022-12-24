@@ -1,0 +1,73 @@
+**** BEGIN LOGGING AT Mon Nov 14 03:05:25 2022
+
+Nov 14 03:05:25 »»	Looking up newserver
+**** BEGIN LOGGING AT Mon Nov 14 03:05:35 2022
+
+Nov 14 03:05:35 »»	Looking up newserver
+Nov 14 03:05:35 »»	Unknown host. Maybe you misspelled it?
+Nov 14 03:05:45 Cycling to next server in New Network...
+Nov 14 03:05:45 »»	Disconnected ().
+**** ENDING LOGGING AT Mon Nov 14 03:05:45 2022
+
+**** BEGIN LOGGING AT Mon Nov 14 03:05:45 2022
+
+Nov 14 03:05:45 »»	Looking up newserver
+Nov 14 03:05:46 »»	Unknown host. Maybe you misspelled it?
+Nov 14 03:05:56 Cycling to next server in New Network...
+Nov 14 03:05:56 »»	Disconnected ().
+**** ENDING LOGGING AT Mon Nov 14 03:05:56 2022
+
+**** BEGIN LOGGING AT Mon Nov 14 03:05:56 2022
+
+Nov 14 03:05:56 »»	Looking up newserver
+Nov 14 03:05:56 »»	Unknown host. Maybe you misspelled it?
+Nov 14 03:06:06 Cycling to next server in New Network...
+Nov 14 03:06:06 »»	Disconnected ().
+**** ENDING LOGGING AT Mon Nov 14 03:06:06 2022
+
+**** BEGIN LOGGING AT Mon Nov 14 03:06:06 2022
+
+Nov 14 03:06:06 »»	Looking up newserver
+Nov 14 03:06:06 »»	Unknown host. Maybe you misspelled it?
+Nov 14 03:06:16 Cycling to next server in New Network...
+Nov 14 03:06:16 »»	Disconnected ().
+**** ENDING LOGGING AT Mon Nov 14 03:06:16 2022
+
+**** BEGIN LOGGING AT Mon Nov 14 03:06:16 2022
+
+Nov 14 03:06:16 »»	Looking up ircs:/
+Nov 14 03:06:16 »»	Unknown host. Maybe you misspelled it?
+Nov 14 03:06:26 Cycling to next server in New Network...
+Nov 14 03:06:26 »»	Disconnected ().
+**** ENDING LOGGING AT Mon Nov 14 03:06:26 2022
+
+**** BEGIN LOGGING AT Mon Nov 14 03:06:26 2022
+
+Nov 14 03:06:26 »»	Looking up ircs:/
+Nov 14 03:06:26 »»	Unknown host. Maybe you misspelled it?
+Nov 14 03:06:35 »»	Disconnected ().
+**** ENDING LOGGING AT Mon Nov 14 03:06:35 2022
+
+**** BEGIN LOGGING AT Mon Nov 14 03:06:35 2022
+
+Nov 14 03:06:35 »»	Looking up irc.tilde.chat
+Nov 14 03:06:35 »»	Connecting to irc.tilde.chat (129.151.107.153) port 6697...
+Nov 14 03:06:37 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 14 03:06:37 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 14 03:06:37 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 14 03:06:37 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 14 03:06:37 *	* Subject: /CN=tilde.chat
+Nov 14 03:06:37 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 14 03:06:37 *	* Certification info:
+Nov 14 03:06:37 *	  Subject:
+Nov 14 03:06:37 *	    CN=tilde.chat
+Nov 14 03:06:37 *	  Issuer:
+Nov 14 03:06:37 *	    C=US
+Nov 14 03:06:37 *	    O=Let's Encrypt
+Nov 14 03:06:37 *	    CN=R3
+Nov 14 03:06:37 *	  Public key algorithm: rsaEncryption (2048 bits)
+Nov 14 03:06:37 *	  Sign algorithm sha256WithRSAEncryption
+Nov 14 03:06:37 *	  Valid since Oct  2 19:44:43 2022 GM to Dec 31 19:44:42 2022 GM
+Nov 14 03:06:37 *	* Cipher info:
+Nov 14 03:06:37 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 14 03:06:37 »»	Connected. Now logging in...

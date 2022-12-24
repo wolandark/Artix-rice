@@ -1,0 +1,99 @@
+T 1668461013 25»19»	19Now talking on #team
+T 1668461013 29»22»	22Topic for #team is: tilde.team stuff: https://tilde.team/wiki ~ https://tildegit.org/team ~ read/follow the https://tilde.team/wiki/code-of-conduct & UPDATED 2022-07-06 https://tilde.chat/wiki/etiquette ~ no politics, rms talk, covid, or cryptocurrency ~ PSA disk quotas will now be enforced 1gb soft / 3gb hard
+T 1668461013 29»22»	22Topic for #team set by demure!demure@demu.red at Tue Aug  9 09:14:36 2022
+T 1668516294 25»19»	19Now talking on #team
+T 1668516294 29»22»	22Topic for #team is: tilde.team stuff: https://tilde.team/wiki ~ https://tildegit.org/team ~ read/follow the https://tilde.team/wiki/code-of-conduct & UPDATED 2022-07-06 https://tilde.chat/wiki/etiquette ~ no politics, rms talk, covid, or cryptocurrency ~ PSA disk quotas will now be enforced 1gb soft / 3gb hard
+T 1668516294 29»22»	22Topic for #team set by demure!demure@demu.red at Tue Aug  9 09:14:36 2022
+T 1668517126 28.:192422Dr-WaSabi28:.	your traverse city 5 day forcast --> https://ttm.sh/0Zw.png
+T 1668517131 28.:192422Dr-WaSabi28:.	yucky
+T 1668517178 28.:192422Dr-WaSabi28:.	but at least the coffee is good
+T 1668518859 28.:19@2419cmccabe28:.	can't go wrong with coffee
+T 1668519059 28.:192428hackintech28:.	Dr-WaSabi: its literally snowing right now
+T 1668520395 29»22»22	22Dr-WaSabi leaves the FLSA Exempt vs. Non-Exempt - computer profesionals section on his screen when his boss walks in
+T 1668520509 28.:192422Dr-WaSabi28:.	hackintech: same her
+T 1668586361 25»19»	19Now talking on #team
+T 1668586361 29»22»	22Topic for #team is: tilde.team stuff: https://tilde.team/wiki ~ https://tildegit.org/team ~ read/follow the https://tilde.team/wiki/code-of-conduct & UPDATED 2022-07-06 https://tilde.chat/wiki/etiquette ~ no politics, rms talk, covid, or cryptocurrency ~ PSA disk quotas will now be enforced 1gb soft / 3gb hard
+T 1668586361 29»22»	22Topic for #team set by demure!demure@demu.red at Tue Aug  9 09:14:36 2022
+T 1668606569 28.:192425puffbar28:.	does anyone have any tips for good data/file tree organization
+T 1668606663 28.:192429xwindows28:.	For (which kind of work)?
+T 1668606881 28.:192420tomasino28:.	hash table
+T 1668606886 28.:192420tomasino28:.	without any context. :)
+T 1668606961 28.:192425puffbar28:.	for personal data
+T 1668607082 28.:192429xwindows28:.	Well, there are many kinds of personal data (composed document, photos, finance, classified infos, etc).
+T 1668607138 28.:192429xwindows28:.	And I use different scheme for storing them [for quick retreival] with minimal software requirement.
+T 1668607185 28.:192429xwindows28:.	I'll leave that for others to answer, I have to run now.
+T 1668611317 29»22»22	22Dr-WaSabi snickers  --> https://ttm.sh/0LT.png
+T 1668612824 28.:192425brendo28:.	wait, it's over already!?
+T 1668612830 29»22»22	25brendo has graduated
+T 1668613152 28.:192424desertmouse28:.	umm.. I started using vimwiki for notes recently? The format is simple and although I'm still exploring it, seems better than the notes apps I have tried till now (Joplin, Notable, Obsidian)
+T 1668613319 28.:192420tomasino28:.	are you using the default format or markdown?
+T 1668613323 28.:192420tomasino28:.	i use it via markdown
+T 1668613420 28.:192424desertmouse28:.	tomasino: I'm using the default one for now. The formats can be used interchangeably right? Or do I have to enable markdown? 
+T 1668613536 28.:192424desertmouse28:.	btw, everyone, what's your favorite sci-fi tech asthetic if you have one? I really like the one from Oblivion.
+T 1668614732 28.:192422konomo28:.	bbj, or old-school bbs menus in general
+T 1668616727 28.:192420tomasino28:.	sorry, meetings called
+T 1668616734 28.:192420tomasino28:.	I think you have to enable markdown
+T 1668616737 28.:192420tomasino28:.	or at least I did
+T 1668616790 28.:192420tomasino28:.	https://github.com/jamestomasino/dotfiles-minimal/blob/master/.config/vim/vimrc#L287-L292
+T 1668616822 28.:192420tomasino28:.	my most recent fav aesthetic is solarpunk, but that's probably because i'm living and breathing it every minute of the day with the podcast
+T 1668616873 28.:192420tomasino28:.	i like realistic future aesthetics, where things are worn and smudged, a little reused... but not decrepit and trashed. the way they've been handling the vibe in Andor has been great
+T 1668625304 28.:192422Dr-WaSabi28:.	ugh.. hackintech can't you keep this weather over on your side of the lake? https://ttm.sh/0LC.png
+T 1668625312 28.:192428hackintech28:.	no
+T 1668631011 28.:19@2419cmccabe28:.	i'll take some of that snow, hackintech. send it this way
+T 1668640723 28»18»	Disconnected ().
+T 1668640736 28»18»	woland already in use. Retrying with ...
+T 1668640825 28»18»	Disconnected (Remote host closed socket).
+T 1668641157 25»19»	19Now talking on #team
+T 1668641157 29»22»	22Topic for #team is: tilde.team stuff: https://tilde.team/wiki ~ https://tildegit.org/team ~ read/follow the https://tilde.team/wiki/code-of-conduct & UPDATED 2022-07-06 https://tilde.chat/wiki/etiquette ~ no politics, rms talk, covid, or cryptocurrency ~ PSA disk quotas will now be enforced 1gb soft / 3gb hard
+T 1668641157 29»22»	22Topic for #team set by demure!demure@demu.red at Tue Aug  9 09:14:36 2022
+T 1668648613 28»18»	Disconnected ().
+T 1668648667 28»18»	woland already in use. Retrying with ...
+T 1668648758 28»18»	Disconnected (Remote host closed socket).
+T 1668649089 25»19»	19Now talking on #team
+T 1668649089 29»22»	22Topic for #team is: tilde.team stuff: https://tilde.team/wiki ~ https://tildegit.org/team ~ read/follow the https://tilde.team/wiki/code-of-conduct & UPDATED 2022-07-06 https://tilde.chat/wiki/etiquette ~ no politics, rms talk, covid, or cryptocurrency ~ PSA disk quotas will now be enforced 1gb soft / 3gb hard
+T 1668649089 29»22»	22Topic for #team set by demure!demure@demu.red at Tue Aug  9 09:14:36 2022
+T 1668654619 28.:192426ideclon28:.	Hi!
+T 1668661510 28.:192429xwindows28:.	Lo|
+T 1668666043 28»18»	Disconnected ().
+T 1668666146 28»18»	Disconnected (Remote host closed socket).
+T 1668666247 28»18»	Disconnected (Remote host closed socket).
+T 1668666580 25»19»	19Now talking on #team
+T 1668666580 29»22»	22Topic for #team is: tilde.team stuff: https://tilde.team/wiki ~ https://tildegit.org/team ~ read/follow the https://tilde.team/wiki/code-of-conduct & UPDATED 2022-07-06 https://tilde.chat/wiki/etiquette ~ no politics, rms talk, covid, or cryptocurrency ~ PSA disk quotas will now be enforced 1gb soft / 3gb hard
+T 1668666580 29»22»	22Topic for #team set by demure!demure@demu.red at Tue Aug  9 09:14:36 2022
+T 1668679296 28.:192426DemolitionMan28:.	hi
+T 1668679063 28»18»	Disconnected ().
+T 1668679165 28»18»	Disconnected (Remote host closed socket).
+T 1668679267 28»18»	Disconnected (Remote host closed socket).
+T 1668679602 25»19»	19Now talking on #team
+T 1668679602 29»22»	22Topic for #team is: tilde.team stuff: https://tilde.team/wiki ~ https://tildegit.org/team ~ read/follow the https://tilde.team/wiki/code-of-conduct & UPDATED 2022-07-06 https://tilde.chat/wiki/etiquette ~ no politics, rms talk, covid, or cryptocurrency ~ PSA disk quotas will now be enforced 1gb soft / 3gb hard
+T 1668679602 29»22»	22Topic for #team set by demure!demure@demu.red at Tue Aug  9 09:14:36 2022
+T 1668681144 28.:192429xwindows28:.	"please help", about what? Finding where and who asked that?
+T 1668681727 28.:192429xwindows28:.	Or is this about `wall`-ed message inside ~team? (Which I think first time someone mentioned it in here was around 2022-04-02T18:31Z)
+T 1668681738 28.:192429xwindows28:.	In the latter case, I cannot help you.
+T 1668681805 28.:192429xwindows28:.	You might try asking (b)en, of course.
+T 1668681941 28.:192422konomo28:.	ahoi ideclon 
+T 1668682274 28.:19@2419cmccabe28:.	good morning
+T 1668682286 28.:19@2419cmccabe28:.	the word of the day is, nugatory
+T 1668684411 28.:192426ideclon28:.	@cmccabe: that sounds nugatory
+T 1668684421 28.:192426ideclon28:.	Hi konomo
+T 1668688489 28.:192422konomo28:.	:3
+T 1668689284 28.:192422Dr-WaSabi28:.	,w
+T 1668689285 28.:192419tildebot28:.	[03Weather] (Dr-WaSabi) Traverse City, Michigan, United States | -1C/29F/271K | Snow | Humidity: 94% | Wind: 7.4km/h/4.6mi/h
+T 1668689352 28.:192422Dr-WaSabi28:.	yay... :(  Not
+T 1668689357 28.:192422Dr-WaSabi28:.	...WINTER WEATHER ADVISORY REMAINS IN EFFECT FROM 7 AM THIS
+T 1668689357 28.:192419tildebot28:.	Dr-WaSabi: ALSO THERE ARE PEOPLE ON TWITTER COMPLAINING ABOUT TTWITTER ALSO
+T 1668689359 28.:192422Dr-WaSabi28:.	MORNING TO 7 AM EST FRIDAY...
+T 1668689359 28.:192419tildebot28:.	Dr-WaSabi: xfnw: BBBBBBBBBBBBBBBBBBBBBBBB
+T 1668689361 28.:192422Dr-WaSabi28:.	* WHAT...Lake effect snow expected. Total snow accumulations of 3
+T 1668689363 28.:192422Dr-WaSabi28:.	  to 5 inches with locally higher amounts.
+T 1668689465 28.:192422Dr-WaSabi28:.	got to love Michigan... supposed to be back in the 40's early next week
+T 1668699047 28.:192428hackintech28:.	,w
+T 1668699048 28.:192419tildebot28:.	[03Weather] (hackintech) Madison, Wisconsin, United States | -3C/25F/269K | Overcast Clouds | Humidity: 85% | Wind: 22.2km/h/13.8mi/h
+T 1668699053 28.:192428hackintech28:.	frick frack
+T 1668699957 24»23»23	ChanServ sets modes (#team +qo benharri :benharri)
+T 1668700814 28»18»	Disconnected ().
+T 1668700942 28»18»	woland already in use. Retrying with ...
+T 1668701028 28»18»	Disconnected (Remote host closed socket).
+T 1668701362 25»19»	19Now talking on #team
+T 1668701362 29»22»	22Topic for #team is: tilde.team stuff: https://tilde.team/wiki ~ https://tildegit.org/team ~ read/follow the https://tilde.team/wiki/code-of-conduct & UPDATED 2022-07-06 https://tilde.chat/wiki/etiquette ~ no politics, rms talk, covid, or cryptocurrency ~ PSA disk quotas will now be enforced 1gb soft / 3gb hard
+T 1668701362 29»22»	22Topic for #team set by demure!demure@demu.red at Tue Aug  9 09:14:36 2022

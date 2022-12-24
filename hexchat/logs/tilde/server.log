@@ -1,0 +1,67 @@
+**** BEGIN LOGGING AT Tue Nov 15 00:47:52 2022
+
+Nov 15 00:47:52 »»	Looking up irc.tilde.chat
+**** BEGIN LOGGING AT Tue Nov 15 16:09:35 2022
+
+Nov 15 16:09:35 »»	Looking up irc.tilde.chat
+Nov 15 16:09:35 »»	Connecting to irc.tilde.chat (142.44.150.184) port 6697...
+Nov 15 16:09:36 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 15 16:09:36 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 15 16:09:36 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 15 16:09:36 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 15 16:09:36 *	* Subject: /CN=tilde.chat
+Nov 15 16:09:36 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 15 16:09:36 *	* Certification info:
+Nov 15 16:09:36 *	  Subject:
+Nov 15 16:09:36 *	    CN=tilde.chat
+Nov 15 16:09:36 *	  Issuer:
+Nov 15 16:09:36 *	    C=US
+Nov 15 16:09:36 *	    O=Let's Encrypt
+Nov 15 16:09:36 *	    CN=R3
+Nov 15 16:09:36 *	  Public key algorithm: rsaEncryption (2048 bits)
+Nov 15 16:09:36 *	  Sign algorithm sha256WithRSAEncryption
+Nov 15 16:09:36 *	  Valid since Oct  2 19:44:43 2022 GM to Dec 31 19:44:42 2022 GM
+Nov 15 16:09:36 *	* Cipher info:
+Nov 15 16:09:36 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 15 16:09:36 »»	Connected. Now logging in...
+Nov 15 16:09:37 »»	*** Looking up your ident...
+Nov 15 16:09:37 »»	*** Looking up your hostname...
+Nov 15 16:09:37 »»	*** Found your hostname (static.247.176.55.162.clients.your-server.de)
+Nov 15 16:09:37 *	Capabilities supported: account-notify account-tag away-notify batch cap-notify chghost echo-message extended-join inspircd.org/poison inspircd.org/standard-replies invite-notify labeled-response message-tags multi-prefix sasl server-time setname tls userhost-in-names 
+Nov 15 16:09:37 *	Capabilities requested: account-notify account-tag away-notify cap-notify chghost extended-join invite-notify multi-prefix server-time setname userhost-in-names 
+Nov 15 16:09:37 *	Capabilities acknowledged: account-notify account-tag away-notify cap-notify chghost extended-join invite-notify multi-prefix server-time setname userhost-in-names
+Nov 15 16:14:54 »»	*** Could not find your ident, using ~woland instead.
+**** ENDING LOGGING AT Tue Nov 15 16:09:38 2022
+
+**** BEGIN LOGGING AT Wed Nov 16 11:37:20 2022
+
+Nov 16 11:37:20 »»	Looking up irc.tilde.chat
+Nov 16 11:37:20 »»	Connecting to irc.tilde.chat (159.69.146.152) port 6697...
+Nov 16 11:37:21 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 16 11:37:21 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 16 11:37:21 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 16 11:37:21 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 16 11:37:21 *	* Subject: /CN=tilde.chat
+Nov 16 11:37:21 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 16 11:37:21 *	* Certification info:
+Nov 16 11:37:21 *	  Subject:
+Nov 16 11:37:21 *	    CN=tilde.chat
+Nov 16 11:37:21 *	  Issuer:
+Nov 16 11:37:21 *	    C=US
+Nov 16 11:37:21 *	    O=Let's Encrypt
+Nov 16 11:37:21 *	    CN=R3
+Nov 16 11:37:21 *	  Public key algorithm: rsaEncryption (2048 bits)
+Nov 16 11:37:21 *	  Sign algorithm sha256WithRSAEncryption
+Nov 16 11:37:21 *	  Valid since Oct  2 19:44:43 2022 GM to Dec 31 19:44:42 2022 GM
+Nov 16 11:37:21 *	* Cipher info:
+Nov 16 11:37:21 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 16 11:37:21 »»	Connected. Now logging in...
+Nov 16 11:37:22 »»	*** Looking up your ident...
+Nov 16 11:37:22 »»	*** Looking up your hostname...
+Nov 16 11:37:22 »»	*** Found your hostname (static.247.176.55.162.clients.your-server.de)
+Nov 16 11:37:22 *	Capabilities supported: account-notify account-tag away-notify batch cap-notify chghost echo-message extended-join inspircd.org/poison inspircd.org/standard-replies invite-notify labeled-response message-tags multi-prefix sasl server-time setname tls userhost-in-names 
+Nov 16 11:37:22 *	Capabilities requested: account-notify account-tag away-notify cap-notify chghost extended-join invite-notify multi-prefix server-time setname userhost-in-names 
+Nov 16 11:37:22 *	Capabilities acknowledged: account-notify account-tag away-notify cap-notify chghost extended-join invite-notify multi-prefix server-time setname userhost-in-names
+Nov 16 11:42:40 »»	*** Could not find your ident, using ~woland instead.
+**** ENDING LOGGING AT Wed Nov 16 11:37:23 2022
+

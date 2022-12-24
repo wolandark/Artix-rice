@@ -1,0 +1,52 @@
+T 1668365829 19*	Now talking on 22#privacy
+T 1668365829 22*	Topic for 22#privacy is: Information privacy is the relationship between the collection and dissemination of data, technology, the public expectation of privacy, and the legal and political issues surrounding them. See also - #ux, #accessibility.
+T 1668365829 22*	Topic for 22#privacy set by 26matiss!~matiss@almalinux/web/matiss (24Mon May 31 20:07:40 2021)
+T 1668365843 20*	Disconnected (20)
+T 1668371376 25»19»	19Now talking on #privacy
+T 1668371376 29»22»	22Topic for #privacy is: Information privacy is the relationship between the collection and dissemination of data, technology, the public expectation of privacy, and the legal and political issues surrounding them. See also - #ux, #accessibility.
+T 1668371376 29»22»	22Topic for #privacy set by matiss!~matiss@almalinux/web/matiss at Mon May 31 20:07:40 2021
+T 1668372089 26«26-31-31-	26Kaylah (~Kaylah@185.187.168.18626) has Quit (Quit: Client closed26)
+T 1668373255 19.:2823woland19:.	hi there, is tutanota really as good as the hype?
+T 1668375448 28»18»	Disconnected ().
+T 1668375518 28»18»	Disconnected (Remote host closed socket).
+T 1668375575 28»18»	Disconnected (Remote host closed socket).
+T 1668375618 28»18»	Disconnected (Remote host closed socket).
+T 1668375950 25»19»	19Now talking on #privacy
+T 1668375950 29»22»	22Topic for #privacy is: Information privacy is the relationship between the collection and dissemination of data, technology, the public expectation of privacy, and the legal and political issues surrounding them. See also - #ux, #accessibility.
+T 1668375950 29»22»	22Topic for #privacy set by matiss!~matiss@almalinux/web/matiss at Mon May 31 20:07:40 2021
+T 1668376069 28.:192424NorrinRadd28:.	this room is named what on matrix? 
+T 1668587538 25»19»	19Now talking on #privacy
+T 1668587538 29»22»	22Topic for #privacy is: Information privacy is the relationship between the collection and dissemination of data, technology, the public expectation of privacy, and the legal and political issues surrounding them. See also - #ux, #accessibility.
+T 1668587538 29»22»	22Topic for #privacy set by matiss!~matiss@almalinux/web/matiss at Mon May 31 20:07:40 2021
+T 1668640723 28»18»	Disconnected ().
+T 1668641062 25»19»	19Now talking on #privacy
+T 1668641062 29»22»	22Topic for #privacy is: Information privacy is the relationship between the collection and dissemination of data, technology, the public expectation of privacy, and the legal and political issues surrounding them. See also - #ux, #accessibility.
+T 1668641062 29»22»	22Topic for #privacy set by matiss!~matiss@almalinux/web/matiss at Mon May 31 20:07:40 2021
+T 1668648613 28»18»	Disconnected ().
+T 1668648711 28»18»	Disconnected (Remote host closed socket).
+T 1668648771 28»18»	Disconnected (Remote host closed socket).
+T 1668648831 28»18»	Disconnected (Remote host closed socket).
+T 1668649169 25»19»	19Now talking on #privacy
+T 1668649169 29»22»	22Topic for #privacy is: Information privacy is the relationship between the collection and dissemination of data, technology, the public expectation of privacy, and the legal and political issues surrounding them. See also - #ux, #accessibility.
+T 1668649169 29»22»	22Topic for #privacy set by matiss!~matiss@almalinux/web/matiss at Mon May 31 20:07:40 2021
+T 1668666043 28»18»	Disconnected ().
+T 1668666090 28»18»	Disconnected (Remote host closed socket).
+T 1668666160 28»18»	Disconnected (Remote host closed socket).
+T 1668666230 28»18»	Disconnected (Remote host closed socket).
+T 1668666568 25»19»	19Now talking on #privacy
+T 1668666568 29»22»	22Topic for #privacy is: Information privacy is the relationship between the collection and dissemination of data, technology, the public expectation of privacy, and the legal and political issues surrounding them. See also - #ux, #accessibility.
+T 1668666568 29»22»	22Topic for #privacy set by matiss!~matiss@almalinux/web/matiss at Mon May 31 20:07:40 2021
+T 1668679064 28»18»	Disconnected ().
+T 1668679125 28»18»	Disconnected (Remote host closed socket).
+T 1668679189 28»18»	Disconnected (Remote host closed socket).
+T 1668679231 28»18»	Disconnected (Remote host closed socket).
+T 1668679284 28»18»	Disconnected (Remote host closed socket).
+T 1668679629 25»19»	19Now talking on #privacy
+T 1668679629 29»22»	22Topic for #privacy is: Information privacy is the relationship between the collection and dissemination of data, technology, the public expectation of privacy, and the legal and political issues surrounding them. See also - #ux, #accessibility.
+T 1668679629 29»22»	22Topic for #privacy set by matiss!~matiss@almalinux/web/matiss at Mon May 31 20:07:40 2021
+T 1668700814 28»18»	Disconnected ().
+T 1668700983 28»18»	Disconnected (Remote host closed socket).
+T 1668701040 28»18»	Disconnected (Remote host closed socket).
+T 1668701379 25»19»	19Now talking on #privacy
+T 1668701379 29»22»	22Topic for #privacy is: Information privacy is the relationship between the collection and dissemination of data, technology, the public expectation of privacy, and the legal and political issues surrounding them. See also - #ux, #accessibility.
+T 1668701379 29»22»	22Topic for #privacy set by matiss!~matiss@almalinux/web/matiss at Mon May 31 20:07:40 2021

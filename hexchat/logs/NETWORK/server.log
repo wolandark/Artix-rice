@@ -1,0 +1,2303 @@
+**** BEGIN LOGGING AT Sun Nov 13 21:58:57 2022
+
+Nov 13 21:58:57 FiSHLiM plugin loaded
+Nov 13 21:58:57 Python interface loaded
+Nov 13 21:58:57 Sysinfo plugin loaded
+Nov 13 21:58:57 Checksum plugin loaded
+Nov 13 21:58:57 Lua version 1.3/5.4 loaded.
+Nov 13 21:58:57 Perl interface loaded
+**** BEGIN LOGGING AT Sun Nov 13 22:05:37 2022
+
+Nov 13 22:05:37 FiSHLiM plugin loaded
+Nov 13 22:05:37 Python interface loaded
+Nov 13 22:05:37 Sysinfo plugin loaded
+Nov 13 22:05:37 Checksum plugin loaded
+Nov 13 22:05:37 Lua version 1.3/5.4 loaded.
+Nov 13 22:05:37 Perl interface loaded
+Nov 13 22:05:37 *	Looking up irc.libera.chat
+Nov 13 22:05:37 *	Connecting to irc.libera.chat (188.240.145.102:6697)
+Nov 13 22:05:40 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 13 22:05:40 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 13 22:05:40 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 13 22:05:40 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 13 22:05:40 *	* Subject: /CN=platinum.libera.chat
+Nov 13 22:05:40 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 13 22:05:40 *	* Certification info:
+Nov 13 22:05:40 *	  Subject:
+Nov 13 22:05:40 *	    CN=platinum.libera.chat
+Nov 13 22:05:40 *	  Issuer:
+Nov 13 22:05:40 *	    C=US
+Nov 13 22:05:40 *	    O=Let's Encrypt
+Nov 13 22:05:40 *	    CN=R3
+Nov 13 22:05:40 *	  Public key algorithm: rsaEncryption (4096 bits)
+Nov 13 22:05:40 *	  Sign algorithm sha256WithRSAEncryption
+Nov 13 22:05:40 *	  Valid since Nov  2 19:40:42 2022 GM to Jan 31 19:40:41 2023 GM
+Nov 13 22:05:40 *	* Cipher info:
+Nov 13 22:05:40 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 13 22:05:40 *	Connected. Now logging in.
+Nov 13 22:05:42 *	*** Checking Ident
+Nov 13 22:05:42 *	*** Looking up your hostname...
+Nov 13 22:05:42 *	*** No Ident response
+Nov 13 22:05:42 *	*** Found your hostname: static.247.176.55.162.clients.your-server.de
+Nov 13 22:05:42 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Nov 13 22:05:42 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix account-tag cap-notify server-time solanum.chat/identify-msg 
+Nov 13 22:05:42 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix account-tag cap-notify server-time solanum.chat/identify-msg
+**** ENDING LOGGING AT Sun Nov 13 22:05:43 2022
+
+**** BEGIN LOGGING AT Sun Nov 13 22:12:42 2022
+
+Nov 13 22:12:42 FiSHLiM plugin loaded
+Nov 13 22:12:42 Python interface loaded
+Nov 13 22:12:42 Sysinfo plugin loaded
+Nov 13 22:12:42 Checksum plugin loaded
+Nov 13 22:12:42 Lua version 1.3/5.4 loaded.
+Nov 13 22:12:42 Perl interface loaded
+Nov 13 22:12:42 *	Looking up irc.libera.chat
+Nov 13 22:12:43 *	Connecting to irc.libera.chat (188.240.145.100:6697)
+Nov 13 22:12:44 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 13 22:12:44 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 13 22:12:44 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 13 22:12:44 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 13 22:12:44 *	* Subject: /CN=iridium.libera.chat
+Nov 13 22:12:44 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 13 22:12:44 *	* Certification info:
+Nov 13 22:12:44 *	  Subject:
+Nov 13 22:12:44 *	    CN=iridium.libera.chat
+Nov 13 22:12:44 *	  Issuer:
+Nov 13 22:12:44 *	    C=US
+Nov 13 22:12:44 *	    O=Let's Encrypt
+Nov 13 22:12:44 *	    CN=R3
+Nov 13 22:12:44 *	  Public key algorithm: rsaEncryption (4096 bits)
+Nov 13 22:12:44 *	  Sign algorithm sha256WithRSAEncryption
+Nov 13 22:12:44 *	  Valid since Nov  2 19:34:51 2022 GM to Jan 31 19:34:50 2023 GM
+Nov 13 22:12:44 *	* Cipher info:
+Nov 13 22:12:44 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 13 22:12:44 *	Connected. Now logging in.
+Nov 13 22:12:44 *	*** Checking Ident
+Nov 13 22:12:44 *	*** Looking up your hostname...
+Nov 13 22:12:44 *	*** Found your hostname: static.247.176.55.162.clients.your-server.de
+Nov 13 22:12:44 *	*** No Ident response
+Nov 13 22:12:44 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Nov 13 22:12:44 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg 
+Nov 13 22:12:45 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg
+Nov 13 22:12:45 *	Authenticating via SASL as woland (PLAIN)
+Nov 13 22:12:45 *	You are now logged in as woland
+Nov 13 22:12:46 *	SASL authentication successful
+**** ENDING LOGGING AT Sun Nov 13 22:12:46 2022
+
+**** BEGIN LOGGING AT Sun Nov 13 22:27:35 2022
+
+Nov 13 22:27:35 FiSHLiM plugin loaded
+Nov 13 22:27:35 Python interface loaded
+Nov 13 22:27:35 Sysinfo plugin loaded
+Nov 13 22:27:35 Checksum plugin loaded
+Nov 13 22:27:35 Lua version 1.3/5.4 loaded.
+Nov 13 22:27:35 Perl interface loaded
+Nov 13 22:27:35 *	Looking up irc.libera.chat
+Nov 13 22:27:36 *	Connecting to irc.libera.chat (188.240.145.102:6697)
+Nov 13 22:27:38 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 13 22:27:38 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 13 22:27:38 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 13 22:27:38 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 13 22:27:38 *	* Subject: /CN=platinum.libera.chat
+Nov 13 22:27:38 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 13 22:27:38 *	* Certification info:
+Nov 13 22:27:38 *	  Subject:
+Nov 13 22:27:38 *	    CN=platinum.libera.chat
+Nov 13 22:27:38 *	  Issuer:
+Nov 13 22:27:38 *	    C=US
+Nov 13 22:27:38 *	    O=Let's Encrypt
+Nov 13 22:27:38 *	    CN=R3
+Nov 13 22:27:38 *	  Public key algorithm: rsaEncryption (4096 bits)
+Nov 13 22:27:38 *	  Sign algorithm sha256WithRSAEncryption
+Nov 13 22:27:38 *	  Valid since Nov  2 19:40:42 2022 GM to Jan 31 19:40:41 2023 GM
+Nov 13 22:27:38 *	* Cipher info:
+Nov 13 22:27:38 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 13 22:27:38 *	Connected. Now logging in.
+Nov 13 22:27:39 *	*** Checking Ident
+Nov 13 22:27:39 *	*** Looking up your hostname...
+Nov 13 22:27:39 *	*** Found your hostname: static.247.176.55.162.clients.your-server.de
+Nov 13 22:27:39 *	*** No Ident response
+Nov 13 22:27:40 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Nov 13 22:27:40 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg 
+Nov 13 22:27:40 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg
+Nov 13 22:27:41 *	Authenticating via SASL as woland (PLAIN)
+Nov 13 22:27:42 *	You are now logged in as woland
+Nov 13 22:27:42 *	SASL authentication successful
+**** ENDING LOGGING AT Sun Nov 13 22:27:44 2022
+
+**** BEGIN LOGGING AT Sun Nov 13 22:29:00 2022
+
+Nov 13 22:29:00 FiSHLiM plugin loaded
+Nov 13 22:29:00 Python interface loaded
+Nov 13 22:29:00 Sysinfo plugin loaded
+Nov 13 22:29:00 Checksum plugin loaded
+Nov 13 22:29:00 Lua version 1.3/5.4 loaded.
+Nov 13 22:29:00 Perl interface loaded
+Nov 13 22:29:00 *	Looking up irc.libera.chat
+Nov 13 22:29:01 *	Connecting to irc.libera.chat (130.185.232.126:6697)
+Nov 13 22:29:01 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 13 22:29:01 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 13 22:29:01 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 13 22:29:01 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 13 22:29:01 *	* Subject: /CN=copper.libera.chat
+Nov 13 22:29:01 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 13 22:29:01 *	* Certification info:
+Nov 13 22:29:01 *	  Subject:
+Nov 13 22:29:01 *	    CN=copper.libera.chat
+Nov 13 22:29:01 *	  Issuer:
+Nov 13 22:29:01 *	    C=US
+Nov 13 22:29:01 *	    O=Let's Encrypt
+Nov 13 22:29:01 *	    CN=R3
+Nov 13 22:29:01 *	  Public key algorithm: id-ecPublicKey (384 bits)
+Nov 13 22:29:01 *	  Sign algorithm sha256WithRSAEncryption
+Nov 13 22:29:01 *	  Valid since Nov  2 19:43:42 2022 GM to Jan 31 19:43:41 2023 GM
+Nov 13 22:29:01 *	* Cipher info:
+Nov 13 22:29:01 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 13 22:29:01 *	Connected. Now logging in.
+Nov 13 22:29:02 *	*** Checking Ident
+Nov 13 22:29:02 *	*** Looking up your hostname...
+Nov 13 22:29:02 *	*** No Ident response
+Nov 13 22:29:02 *	*** Found your hostname: static.247.176.55.162.clients.your-server.de
+Nov 13 22:29:02 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Nov 13 22:29:02 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg 
+Nov 13 22:29:02 *	woland is already in use. Retrying with ...
+Nov 13 22:29:02 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg
+Nov 13 22:29:02 *	No nickname given
+Nov 13 22:29:03 *	Authenticating via SASL as woland (PLAIN)
+Nov 13 22:29:04 *	You are now logged in as woland
+Nov 13 22:29:04 *	SASL authentication successful
+Nov 13 22:29:06 Perl interface unloaded
+Nov 13 22:29:06 Checksum plugin unloaded
+Nov 13 22:29:06 Sysinfo plugin unloaded
+Nov 13 22:29:06 FiSHLiM plugin unloaded
+**** ENDING LOGGING AT Sun Nov 13 22:29:06 2022
+
+**** BEGIN LOGGING AT Sun Nov 13 22:31:33 2022
+
+Nov 13 22:31:33 FiSHLiM plugin loaded
+Nov 13 22:31:33 Python interface loaded
+Nov 13 22:31:33 Sysinfo plugin loaded
+Nov 13 22:31:33 Checksum plugin loaded
+Nov 13 22:31:33 Lua version 1.3/5.4 loaded.
+Nov 13 22:31:33 Perl interface loaded
+Nov 13 22:31:33 »»	Looking up irc.libera.chat
+Nov 13 22:31:33 »»	Connecting to irc.libera.chat (188.240.145.100) port 6697...
+Nov 13 22:31:34 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 13 22:31:34 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 13 22:31:34 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 13 22:31:34 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 13 22:31:34 *	* Subject: /CN=iridium.libera.chat
+Nov 13 22:31:34 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 13 22:31:34 *	* Certification info:
+Nov 13 22:31:34 *	  Subject:
+Nov 13 22:31:34 *	    CN=iridium.libera.chat
+Nov 13 22:31:34 *	  Issuer:
+Nov 13 22:31:34 *	    C=US
+Nov 13 22:31:34 *	    O=Let's Encrypt
+Nov 13 22:31:34 *	    CN=R3
+Nov 13 22:31:34 *	  Public key algorithm: rsaEncryption (4096 bits)
+Nov 13 22:31:34 *	  Sign algorithm sha256WithRSAEncryption
+Nov 13 22:31:34 *	  Valid since Nov  2 19:34:51 2022 GM to Jan 31 19:34:50 2023 GM
+Nov 13 22:31:34 *	* Cipher info:
+Nov 13 22:31:34 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 13 22:31:34 »»	Connected. Now logging in...
+Nov 13 22:31:34 »»	*** Checking Ident
+Nov 13 22:31:34 »»	*** Looking up your hostname...
+Nov 13 22:31:34 »»	*** Found your hostname: static.247.176.55.162.clients.your-server.de
+Nov 13 22:31:34 »»	*** No Ident response
+Nov 13 22:31:35 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Nov 13 22:31:35 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg 
+Nov 13 22:31:35 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg
+Nov 13 22:31:35 *	Authenticating via SASL as woland (PLAIN)
+Nov 13 22:31:36 »»	You are now logged in as woland
+Nov 13 22:31:36 *	SASL authentication successful
+**** ENDING LOGGING AT Sun Nov 13 22:31:36 2022
+
+**** BEGIN LOGGING AT Sun Nov 13 22:33:08 2022
+
+Nov 13 22:33:08 FiSHLiM plugin loaded
+Nov 13 22:33:08 Python interface loaded
+Nov 13 22:33:08 Sysinfo plugin loaded
+Nov 13 22:33:08 Checksum plugin loaded
+Nov 13 22:33:08 Lua version 1.3/5.4 loaded.
+Nov 13 22:33:08 Perl interface loaded
+Nov 13 22:33:08 *	Looking up irc.libera.chat
+Nov 13 22:33:08 *	Connecting to irc.libera.chat (188.240.145.102) port 6697...
+Nov 13 22:33:10 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 13 22:33:10 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 13 22:33:10 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 13 22:33:10 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 13 22:33:10 *	* Subject: /CN=platinum.libera.chat
+Nov 13 22:33:10 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 13 22:33:10 *	* Certification info:
+Nov 13 22:33:10 *	  Subject:
+Nov 13 22:33:10 *	    CN=platinum.libera.chat
+Nov 13 22:33:10 *	  Issuer:
+Nov 13 22:33:10 *	    C=US
+Nov 13 22:33:10 *	    O=Let's Encrypt
+Nov 13 22:33:10 *	    CN=R3
+Nov 13 22:33:10 *	  Public key algorithm: rsaEncryption (4096 bits)
+Nov 13 22:33:10 *	  Sign algorithm sha256WithRSAEncryption
+Nov 13 22:33:10 *	  Valid since Nov  2 19:40:42 2022 GM to Jan 31 19:40:41 2023 GM
+Nov 13 22:33:10 *	* Cipher info:
+Nov 13 22:33:10 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 13 22:33:10 *	Connected. Now logging in...
+Nov 13 22:33:11 *	*** Checking Ident
+Nov 13 22:33:11 *	*** Looking up your hostname...
+Nov 13 22:33:11 *	*** Found your hostname: static.247.176.55.162.clients.your-server.de
+Nov 13 22:33:11 *	*** No Ident response
+Nov 13 22:33:11 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Nov 13 22:33:11 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg 
+Nov 13 22:33:11 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg
+Nov 13 22:33:11 *	Authenticating via SASL as woland (PLAIN)
+Nov 13 22:33:12 *	You are now logged in as woland
+Nov 13 22:33:12 *	SASL authentication successful
+**** ENDING LOGGING AT Sun Nov 13 22:33:12 2022
+
+**** BEGIN LOGGING AT Sun Nov 13 22:34:29 2022
+
+Nov 13 22:34:29 FiSHLiM plugin loaded
+Nov 13 22:34:29 Python interface loaded
+Nov 13 22:34:29 Sysinfo plugin loaded
+Nov 13 22:34:29 Checksum plugin loaded
+Nov 13 22:34:29 Lua version 1.3/5.4 loaded.
+Nov 13 22:34:29 Perl interface loaded
+Nov 13 22:34:29 »»	Looking up irc.libera.chat
+Nov 13 22:34:29 »»	Connecting to irc.libera.chat (188.240.145.102) port 6697...
+Nov 13 22:34:30 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 13 22:34:30 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 13 22:34:30 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 13 22:34:30 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 13 22:34:30 *	* Subject: /CN=platinum.libera.chat
+Nov 13 22:34:30 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 13 22:34:30 *	* Certification info:
+Nov 13 22:34:30 *	  Subject:
+Nov 13 22:34:30 *	    CN=platinum.libera.chat
+Nov 13 22:34:30 *	  Issuer:
+Nov 13 22:34:30 *	    C=US
+Nov 13 22:34:30 *	    O=Let's Encrypt
+Nov 13 22:34:30 *	    CN=R3
+Nov 13 22:34:30 *	  Public key algorithm: rsaEncryption (4096 bits)
+Nov 13 22:34:30 *	  Sign algorithm sha256WithRSAEncryption
+Nov 13 22:34:30 *	  Valid since Nov  2 19:40:42 2022 GM to Jan 31 19:40:41 2023 GM
+Nov 13 22:34:30 *	* Cipher info:
+Nov 13 22:34:30 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 13 22:34:30 »»	Connected. Now logging in...
+Nov 13 22:34:31 »»	*** Checking Ident
+Nov 13 22:34:31 »»	*** Looking up your hostname...
+Nov 13 22:34:31 »»	*** Found your hostname: static.247.176.55.162.clients.your-server.de
+Nov 13 22:34:31 »»	*** No Ident response
+Nov 13 22:34:31 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Nov 13 22:34:31 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg 
+Nov 13 22:34:31 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg
+Nov 13 22:34:32 *	Authenticating via SASL as woland (PLAIN)
+Nov 13 22:34:32 »»	You are now logged in as woland
+Nov 13 22:34:32 *	SASL authentication successful
+**** ENDING LOGGING AT Sun Nov 13 22:34:33 2022
+
+**** BEGIN LOGGING AT Sun Nov 13 22:34:59 2022
+
+Nov 13 22:34:59 FiSHLiM plugin loaded
+Nov 13 22:34:59 Python interface loaded
+Nov 13 22:34:59 Sysinfo plugin loaded
+Nov 13 22:34:59 Checksum plugin loaded
+Nov 13 22:34:59 Lua version 1.3/5.4 loaded.
+Nov 13 22:34:59 Perl interface loaded
+Nov 13 22:34:59 »»	Looking up irc.libera.chat
+Nov 13 22:34:59 »»	Connecting to irc.libera.chat (188.240.145.102) port 6697...
+Nov 13 22:35:01 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 13 22:35:01 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 13 22:35:01 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 13 22:35:01 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 13 22:35:01 *	* Subject: /CN=platinum.libera.chat
+Nov 13 22:35:01 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 13 22:35:01 *	* Certification info:
+Nov 13 22:35:01 *	  Subject:
+Nov 13 22:35:01 *	    CN=platinum.libera.chat
+Nov 13 22:35:01 *	  Issuer:
+Nov 13 22:35:01 *	    C=US
+Nov 13 22:35:01 *	    O=Let's Encrypt
+Nov 13 22:35:01 *	    CN=R3
+Nov 13 22:35:01 *	  Public key algorithm: rsaEncryption (4096 bits)
+Nov 13 22:35:01 *	  Sign algorithm sha256WithRSAEncryption
+Nov 13 22:35:01 *	  Valid since Nov  2 19:40:42 2022 GM to Jan 31 19:40:41 2023 GM
+Nov 13 22:35:01 *	* Cipher info:
+Nov 13 22:35:01 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 13 22:35:01 »»	Connected. Now logging in...
+Nov 13 22:35:03 »»	*** Checking Ident
+Nov 13 22:35:03 »»	*** Looking up your hostname...
+Nov 13 22:35:03 »»	*** Found your hostname: static.247.176.55.162.clients.your-server.de
+Nov 13 22:35:03 »»	*** No Ident response
+Nov 13 22:35:03 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Nov 13 22:35:03 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg 
+Nov 13 22:35:05 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg
+Nov 13 22:35:06 *	Authenticating via SASL as woland (PLAIN)
+Nov 13 22:35:06 »»	You are now logged in as woland
+Nov 13 22:35:07 *	SASL authentication successful
+**** ENDING LOGGING AT Sun Nov 13 22:35:08 2022
+
+**** BEGIN LOGGING AT Mon Nov 14 01:15:40 2022
+
+Nov 14 01:15:40 FiSHLiM plugin loaded
+Nov 14 01:15:40 Python interface loaded
+Nov 14 01:15:40 Sysinfo plugin loaded
+Nov 14 01:15:40 Checksum plugin loaded
+Nov 14 01:15:40 Lua version 1.3/5.4 loaded.
+Nov 14 01:15:40 Perl interface loaded
+Nov 14 01:15:40 »»	Looking up irc.libera.chat
+Nov 14 01:15:41 »»	Connecting to irc.libera.chat (188.240.145.102) port 6697...
+Nov 14 01:15:44 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 14 01:15:44 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 14 01:15:44 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 14 01:15:44 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 14 01:15:44 *	* Subject: /CN=platinum.libera.chat
+Nov 14 01:15:44 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 14 01:15:44 *	* Certification info:
+Nov 14 01:15:44 *	  Subject:
+Nov 14 01:15:44 *	    CN=platinum.libera.chat
+Nov 14 01:15:44 *	  Issuer:
+Nov 14 01:15:44 *	    C=US
+Nov 14 01:15:44 *	    O=Let's Encrypt
+Nov 14 01:15:44 *	    CN=R3
+Nov 14 01:15:44 *	  Public key algorithm: rsaEncryption (4096 bits)
+Nov 14 01:15:44 *	  Sign algorithm sha256WithRSAEncryption
+Nov 14 01:15:44 *	  Valid since Nov  2 19:40:42 2022 GM to Jan 31 19:40:41 2023 GM
+Nov 14 01:15:44 *	* Cipher info:
+Nov 14 01:15:44 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 14 01:15:44 »»	Connected. Now logging in...
+Nov 14 01:15:52 »»	*** Checking Ident
+Nov 14 01:15:52 »»	*** Looking up your hostname...
+Nov 14 01:15:52 »»	*** No Ident response
+Nov 14 01:15:52 »»	*** Found your hostname: static.45.214.12.49.clients.your-server.de
+Nov 14 01:15:57 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Nov 14 01:15:57 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg 
+Nov 14 01:15:57 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg
+Nov 14 01:15:57 *	Authenticating via SASL as woland (PLAIN)
+Nov 14 01:15:58 »»	You are now logged in as woland
+Nov 14 01:15:59 *	SASL authentication successful
+**** ENDING LOGGING AT Mon Nov 14 01:15:59 2022
+
+**** BEGIN LOGGING AT Mon Nov 14 14:16:43 2022
+
+Nov 14 14:16:43 FiSHLiM plugin loaded
+Nov 14 14:16:43 Python interface loaded
+Nov 14 14:16:43 Sysinfo plugin loaded
+Nov 14 14:16:43 Checksum plugin loaded
+Nov 14 14:16:43 Lua version 1.3/5.4 loaded.
+Nov 14 14:16:43 Perl interface loaded
+Nov 14 14:16:43 »»	Looking up irc.libera.chat
+Nov 14 14:16:45 »»	Connecting to irc.libera.chat (130.185.232.126) port 6697...
+Nov 14 14:16:52 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 14 14:16:52 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 14 14:16:52 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 14 14:16:52 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 14 14:16:52 *	* Subject: /CN=copper.libera.chat
+Nov 14 14:16:52 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 14 14:16:52 *	* Certification info:
+Nov 14 14:16:52 *	  Subject:
+Nov 14 14:16:52 *	    CN=copper.libera.chat
+Nov 14 14:16:52 *	  Issuer:
+Nov 14 14:16:52 *	    C=US
+Nov 14 14:16:52 *	    O=Let's Encrypt
+Nov 14 14:16:52 *	    CN=R3
+Nov 14 14:16:52 *	  Public key algorithm: id-ecPublicKey (384 bits)
+Nov 14 14:16:52 *	  Sign algorithm sha256WithRSAEncryption
+Nov 14 14:16:52 *	  Valid since Nov  2 19:43:42 2022 GM to Jan 31 19:43:41 2023 GM
+Nov 14 14:16:52 *	* Cipher info:
+Nov 14 14:16:52 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 14 14:16:52 »»	Connected. Now logging in...
+Nov 14 14:16:56 »»	*** Checking Ident
+Nov 14 14:16:56 »»	*** Looking up your hostname...
+Nov 14 14:16:56 »»	*** No Ident response
+Nov 14 14:16:56 »»	*** Found your hostname: static.247.176.55.162.clients.your-server.de
+Nov 14 14:16:58 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Nov 14 14:16:58 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg 
+Nov 14 14:17:00 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg
+Nov 14 14:17:02 *	Authenticating via SASL as woland (PLAIN)
+Nov 14 14:17:04 »»	You are now logged in as woland
+Nov 14 14:17:06 *	SASL authentication successful
+**** ENDING LOGGING AT Mon Nov 14 14:17:07 2022
+
+**** BEGIN LOGGING AT Tue Nov 15 00:46:58 2022
+
+Nov 15 00:46:58 FiSHLiM plugin loaded
+Nov 15 00:46:58 Python interface loaded
+Nov 15 00:46:58 Sysinfo plugin loaded
+Nov 15 00:46:58 Checksum plugin loaded
+Nov 15 00:46:58 Lua version 1.3/5.4 loaded.
+Nov 15 00:46:58 Perl interface loaded
+Nov 15 00:46:58 »»	Looking up irc.libera.chat
+Nov 15 00:47:00 »»	Connecting to irc.libera.chat (188.240.145.102) port 6697...
+Nov 15 00:47:02 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 15 00:47:02 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 15 00:47:02 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 15 00:47:02 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 15 00:47:02 *	* Subject: /CN=platinum.libera.chat
+Nov 15 00:47:02 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 15 00:47:02 *	* Certification info:
+Nov 15 00:47:02 *	  Subject:
+Nov 15 00:47:02 *	    CN=platinum.libera.chat
+Nov 15 00:47:02 *	  Issuer:
+Nov 15 00:47:02 *	    C=US
+Nov 15 00:47:02 *	    O=Let's Encrypt
+Nov 15 00:47:02 *	    CN=R3
+Nov 15 00:47:02 *	  Public key algorithm: rsaEncryption (4096 bits)
+Nov 15 00:47:02 *	  Sign algorithm sha256WithRSAEncryption
+Nov 15 00:47:02 *	  Valid since Nov  2 19:40:42 2022 GM to Jan 31 19:40:41 2023 GM
+Nov 15 00:47:02 *	* Cipher info:
+Nov 15 00:47:02 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 15 00:47:02 »»	Connected. Now logging in...
+Nov 15 00:47:03 »»	*** Checking Ident
+Nov 15 00:47:03 »»	*** Looking up your hostname...
+Nov 15 00:47:03 »»	*** No Ident response
+Nov 15 00:47:03 »»	*** Found your hostname: static.247.176.55.162.clients.your-server.de
+Nov 15 00:47:04 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Nov 15 00:47:04 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg 
+Nov 15 00:47:05 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg
+Nov 15 00:47:05 *	Authenticating via SASL as woland (PLAIN)
+Nov 15 00:47:07 »»	You are now logged in as woland
+Nov 15 00:47:08 *	SASL authentication successful
+**** ENDING LOGGING AT Tue Nov 15 00:47:09 2022
+
+**** BEGIN LOGGING AT Tue Nov 15 00:54:28 2022
+
+Nov 15 00:54:28 FiSHLiM plugin loaded
+Nov 15 00:54:28 Python interface loaded
+Nov 15 00:54:28 Sysinfo plugin loaded
+Nov 15 00:54:28 Checksum plugin loaded
+Nov 15 00:54:28 Lua version 1.3/5.4 loaded.
+Nov 15 00:54:28 Perl interface loaded
+Nov 15 00:54:28 »»	Looking up irc.libera.chat
+Nov 15 00:54:30 »»	Connecting to irc.libera.chat (130.185.232.126) port 6697...
+Nov 15 00:54:33 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 15 00:54:33 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 15 00:54:33 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 15 00:54:33 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 15 00:54:33 *	* Subject: /CN=copper.libera.chat
+Nov 15 00:54:33 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 15 00:54:33 *	* Certification info:
+Nov 15 00:54:33 *	  Subject:
+Nov 15 00:54:33 *	    CN=copper.libera.chat
+Nov 15 00:54:33 *	  Issuer:
+Nov 15 00:54:33 *	    C=US
+Nov 15 00:54:33 *	    O=Let's Encrypt
+Nov 15 00:54:33 *	    CN=R3
+Nov 15 00:54:33 *	  Public key algorithm: id-ecPublicKey (384 bits)
+Nov 15 00:54:33 *	  Sign algorithm sha256WithRSAEncryption
+Nov 15 00:54:33 *	  Valid since Nov  2 19:43:42 2022 GM to Jan 31 19:43:41 2023 GM
+Nov 15 00:54:33 *	* Cipher info:
+Nov 15 00:54:33 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 15 00:54:33 »»	Connected. Now logging in...
+Nov 15 00:54:34 »»	*** Checking Ident
+Nov 15 00:54:34 »»	*** Looking up your hostname...
+Nov 15 00:54:34 »»	*** No Ident response
+Nov 15 00:54:34 »»	*** Found your hostname: static.247.176.55.162.clients.your-server.de
+Nov 15 00:54:36 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Nov 15 00:54:36 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg 
+Nov 15 00:54:37 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg
+Nov 15 00:54:38 *	Authenticating via SASL as woland (PLAIN)
+Nov 15 00:54:39 »»	You are now logged in as woland
+Nov 15 00:54:40 *	SASL authentication successful
+**** ENDING LOGGING AT Tue Nov 15 00:54:41 2022
+
+**** BEGIN LOGGING AT Tue Nov 15 15:52:46 2022
+
+Nov 15 15:52:46 FiSHLiM plugin loaded
+Nov 15 15:52:46 Python interface loaded
+Nov 15 15:52:46 Sysinfo plugin loaded
+Nov 15 15:52:47 Checksum plugin loaded
+Nov 15 15:52:47 Lua version 1.3/5.4 loaded.
+Nov 15 15:52:47 Perl interface loaded
+Nov 15 15:52:47 »»	Looking up irc.libera.chat
+Nov 15 15:52:47 »»	Connecting to irc.libera.chat (188.240.145.100) port 6697...
+Nov 15 15:52:48 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 15 15:52:48 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 15 15:52:48 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 15 15:52:48 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 15 15:52:48 *	* Subject: /CN=iridium.libera.chat
+Nov 15 15:52:48 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 15 15:52:48 *	* Certification info:
+Nov 15 15:52:48 *	  Subject:
+Nov 15 15:52:48 *	    CN=iridium.libera.chat
+Nov 15 15:52:48 *	  Issuer:
+Nov 15 15:52:48 *	    C=US
+Nov 15 15:52:48 *	    O=Let's Encrypt
+Nov 15 15:52:48 *	    CN=R3
+Nov 15 15:52:48 *	  Public key algorithm: rsaEncryption (4096 bits)
+Nov 15 15:52:48 *	  Sign algorithm sha256WithRSAEncryption
+Nov 15 15:52:48 *	  Valid since Nov  2 19:34:51 2022 GM to Jan 31 19:34:50 2023 GM
+Nov 15 15:52:48 *	* Cipher info:
+Nov 15 15:52:48 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 15 15:52:48 »»	Connected. Now logging in...
+Nov 15 15:52:48 »»	*** Checking Ident
+Nov 15 15:52:48 »»	*** Looking up your hostname...
+Nov 15 15:52:48 »»	*** No Ident response
+Nov 15 15:52:48 »»	*** Found your hostname: static.247.176.55.162.clients.your-server.de
+Nov 15 15:52:49 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Nov 15 15:52:49 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg 
+Nov 15 15:52:49 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg
+Nov 15 15:52:49 *	Authenticating via SASL as woland (PLAIN)
+Nov 15 15:52:50 »»	You are now logged in as woland
+Nov 15 15:52:50 *	SASL authentication successful
+**** ENDING LOGGING AT Tue Nov 15 15:52:50 2022
+
+**** BEGIN LOGGING AT Tue Nov 15 15:56:41 2022
+
+Nov 15 15:56:41 FiSHLiM plugin loaded
+Nov 15 15:56:41 Python interface loaded
+Nov 15 15:56:41 Sysinfo plugin loaded
+Nov 15 15:56:41 Checksum plugin loaded
+Nov 15 15:56:41 Lua version 1.3/5.4 loaded.
+Nov 15 15:56:41 Perl interface loaded
+Nov 15 15:56:41 »»	Looking up irc.libera.chat
+Nov 15 15:56:41 »»	Connecting to irc.libera.chat (188.240.145.102) port 6697...
+Nov 15 15:56:42 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 15 15:56:42 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 15 15:56:42 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 15 15:56:42 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 15 15:56:42 *	* Subject: /CN=platinum.libera.chat
+Nov 15 15:56:42 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 15 15:56:42 *	* Certification info:
+Nov 15 15:56:42 *	  Subject:
+Nov 15 15:56:42 *	    CN=platinum.libera.chat
+Nov 15 15:56:42 *	  Issuer:
+Nov 15 15:56:42 *	    C=US
+Nov 15 15:56:42 *	    O=Let's Encrypt
+Nov 15 15:56:42 *	    CN=R3
+Nov 15 15:56:42 *	  Public key algorithm: rsaEncryption (4096 bits)
+Nov 15 15:56:42 *	  Sign algorithm sha256WithRSAEncryption
+Nov 15 15:56:42 *	  Valid since Nov  2 19:40:42 2022 GM to Jan 31 19:40:41 2023 GM
+Nov 15 15:56:42 *	* Cipher info:
+Nov 15 15:56:42 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 15 15:56:42 »»	Connected. Now logging in...
+Nov 15 15:56:42 »»	*** Checking Ident
+Nov 15 15:56:42 »»	*** Looking up your hostname...
+Nov 15 15:56:42 »»	*** No Ident response
+Nov 15 15:56:43 »»	*** Found your hostname: static.247.176.55.162.clients.your-server.de
+Nov 15 15:56:43 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Nov 15 15:56:43 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg 
+Nov 15 15:56:43 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg
+Nov 15 15:56:43 *	Authenticating via SASL as woland (PLAIN)
+Nov 15 15:56:44 »»	You are now logged in as woland
+Nov 15 15:56:44 *	SASL authentication successful
+**** ENDING LOGGING AT Tue Nov 15 15:56:44 2022
+
+**** BEGIN LOGGING AT Tue Nov 15 15:58:33 2022
+
+Nov 15 15:58:33 FiSHLiM plugin loaded
+Nov 15 15:58:34 Python interface loaded
+Nov 15 15:58:34 Sysinfo plugin loaded
+Nov 15 15:58:34 Checksum plugin loaded
+Nov 15 15:58:34 Lua version 1.3/5.4 loaded.
+Nov 15 15:58:34 Perl interface loaded
+Nov 15 15:58:34 »»	Looking up irc.libera.chat
+Nov 15 15:58:34 »»	Connecting to irc.libera.chat (188.240.145.102) port 6697...
+Nov 15 15:58:35 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 15 15:58:35 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 15 15:58:35 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 15 15:58:35 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 15 15:58:35 *	* Subject: /CN=platinum.libera.chat
+Nov 15 15:58:35 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 15 15:58:35 *	* Certification info:
+Nov 15 15:58:35 *	  Subject:
+Nov 15 15:58:35 *	    CN=platinum.libera.chat
+Nov 15 15:58:35 *	  Issuer:
+Nov 15 15:58:35 *	    C=US
+Nov 15 15:58:35 *	    O=Let's Encrypt
+Nov 15 15:58:35 *	    CN=R3
+Nov 15 15:58:35 *	  Public key algorithm: rsaEncryption (4096 bits)
+Nov 15 15:58:35 *	  Sign algorithm sha256WithRSAEncryption
+Nov 15 15:58:35 *	  Valid since Nov  2 19:40:42 2022 GM to Jan 31 19:40:41 2023 GM
+Nov 15 15:58:35 *	* Cipher info:
+Nov 15 15:58:35 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 15 15:58:35 »»	Connected. Now logging in...
+Nov 15 15:58:35 »»	*** Checking Ident
+Nov 15 15:58:35 »»	*** Looking up your hostname...
+Nov 15 15:58:35 »»	*** No Ident response
+Nov 15 15:58:35 »»	*** Found your hostname: static.247.176.55.162.clients.your-server.de
+Nov 15 15:58:35 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Nov 15 15:58:35 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg 
+Nov 15 15:58:35 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg
+Nov 15 15:58:36 *	Authenticating via SASL as woland (PLAIN)
+Nov 15 15:58:36 »»	You are now logged in as woland
+Nov 15 15:58:37 *	SASL authentication successful
+**** ENDING LOGGING AT Tue Nov 15 15:58:37 2022
+
+**** BEGIN LOGGING AT Tue Nov 15 16:01:27 2022
+
+Nov 15 16:01:27 FiSHLiM plugin loaded
+Nov 15 16:01:27 Python interface loaded
+Nov 15 16:01:27 Sysinfo plugin loaded
+Nov 15 16:01:27 Checksum plugin loaded
+Nov 15 16:01:27 Lua version 1.3/5.4 loaded.
+Nov 15 16:01:27 Perl interface loaded
+Nov 15 16:01:27 »»	Looking up irc.libera.chat
+Nov 15 16:01:28 »»	Connecting to irc.libera.chat (188.240.145.102) port 6697...
+Nov 15 16:01:29 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 15 16:01:29 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 15 16:01:29 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 15 16:01:29 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 15 16:01:29 *	* Subject: /CN=platinum.libera.chat
+Nov 15 16:01:29 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 15 16:01:29 *	* Certification info:
+Nov 15 16:01:29 *	  Subject:
+Nov 15 16:01:29 *	    CN=platinum.libera.chat
+Nov 15 16:01:29 *	  Issuer:
+Nov 15 16:01:29 *	    C=US
+Nov 15 16:01:29 *	    O=Let's Encrypt
+Nov 15 16:01:29 *	    CN=R3
+Nov 15 16:01:29 *	  Public key algorithm: rsaEncryption (4096 bits)
+Nov 15 16:01:29 *	  Sign algorithm sha256WithRSAEncryption
+Nov 15 16:01:29 *	  Valid since Nov  2 19:40:42 2022 GM to Jan 31 19:40:41 2023 GM
+Nov 15 16:01:29 *	* Cipher info:
+Nov 15 16:01:29 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 15 16:01:29 »»	Connected. Now logging in...
+Nov 15 16:01:29 »»	*** Checking Ident
+Nov 15 16:01:29 »»	*** Looking up your hostname...
+Nov 15 16:01:29 »»	*** No Ident response
+Nov 15 16:01:29 »»	*** Found your hostname: static.247.176.55.162.clients.your-server.de
+Nov 15 16:01:29 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Nov 15 16:01:29 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg 
+Nov 15 16:01:30 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg
+Nov 15 16:01:30 *	Authenticating via SASL as woland (PLAIN)
+Nov 15 16:01:30 »»	You are now logged in as woland
+Nov 15 16:01:30 *	SASL authentication successful
+**** ENDING LOGGING AT Tue Nov 15 16:01:31 2022
+
+**** BEGIN LOGGING AT Tue Nov 15 23:03:35 2022
+
+Nov 15 23:03:35 FiSHLiM plugin loaded
+Nov 15 23:03:35 Python interface loaded
+Nov 15 23:03:35 Sysinfo plugin loaded
+Nov 15 23:03:35 Checksum plugin loaded
+Nov 15 23:03:35 Lua version 1.3/5.4 loaded.
+Nov 15 23:03:35 Perl interface loaded
+Nov 15 23:03:35 »»	Looking up irc.libera.chat
+Nov 15 23:03:36 »»	Connecting to irc.libera.chat (188.240.145.102) port 6697...
+Nov 15 23:03:36 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 15 23:03:36 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 15 23:03:36 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 15 23:03:36 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 15 23:03:36 *	* Subject: /CN=platinum.libera.chat
+Nov 15 23:03:36 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 15 23:03:36 *	* Certification info:
+Nov 15 23:03:36 *	  Subject:
+Nov 15 23:03:36 *	    CN=platinum.libera.chat
+Nov 15 23:03:36 *	  Issuer:
+Nov 15 23:03:36 *	    C=US
+Nov 15 23:03:36 *	    O=Let's Encrypt
+Nov 15 23:03:36 *	    CN=R3
+Nov 15 23:03:36 *	  Public key algorithm: rsaEncryption (4096 bits)
+Nov 15 23:03:36 *	  Sign algorithm sha256WithRSAEncryption
+Nov 15 23:03:36 *	  Valid since Nov  2 19:40:42 2022 GM to Jan 31 19:40:41 2023 GM
+Nov 15 23:03:36 *	* Cipher info:
+Nov 15 23:03:36 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 15 23:03:36 »»	Connected. Now logging in...
+Nov 15 23:03:37 »»	*** Checking Ident
+Nov 15 23:03:37 »»	*** Looking up your hostname...
+Nov 15 23:03:37 »»	*** No Ident response
+Nov 15 23:03:37 »»	*** Found your hostname: static.247.176.55.162.clients.your-server.de
+Nov 15 23:03:37 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Nov 15 23:03:37 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg 
+Nov 15 23:03:37 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg
+Nov 15 23:03:37 *	Authenticating via SASL as woland (PLAIN)
+Nov 15 23:03:38 »»	You are now logged in as woland
+Nov 15 23:03:38 *	SASL authentication successful
+**** ENDING LOGGING AT Tue Nov 15 23:03:38 2022
+
+**** BEGIN LOGGING AT Tue Nov 15 23:12:43 2022
+
+Nov 15 23:12:43 FiSHLiM plugin loaded
+Nov 15 23:12:43 Python interface loaded
+Nov 15 23:12:43 Sysinfo plugin loaded
+Nov 15 23:12:43 Checksum plugin loaded
+Nov 15 23:12:43 Lua version 1.3/5.4 loaded.
+Nov 15 23:12:43 Perl interface loaded
+Nov 15 23:12:43 »»	Looking up irc.libera.chat
+Nov 15 23:12:43 »»	Connecting to irc.libera.chat (188.240.145.102) port 6697...
+Nov 15 23:12:44 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 15 23:12:44 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 15 23:12:44 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 15 23:12:44 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 15 23:12:44 *	* Subject: /CN=platinum.libera.chat
+Nov 15 23:12:44 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 15 23:12:44 *	* Certification info:
+Nov 15 23:12:44 *	  Subject:
+Nov 15 23:12:44 *	    CN=platinum.libera.chat
+Nov 15 23:12:44 *	  Issuer:
+Nov 15 23:12:44 *	    C=US
+Nov 15 23:12:44 *	    O=Let's Encrypt
+Nov 15 23:12:44 *	    CN=R3
+Nov 15 23:12:44 *	  Public key algorithm: rsaEncryption (4096 bits)
+Nov 15 23:12:44 *	  Sign algorithm sha256WithRSAEncryption
+Nov 15 23:12:44 *	  Valid since Nov  2 19:40:42 2022 GM to Jan 31 19:40:41 2023 GM
+Nov 15 23:12:44 *	* Cipher info:
+Nov 15 23:12:44 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 15 23:12:44 »»	Connected. Now logging in...
+Nov 15 23:12:45 »»	*** Checking Ident
+Nov 15 23:12:45 »»	*** Looking up your hostname...
+Nov 15 23:12:45 »»	*** No Ident response
+Nov 15 23:12:45 »»	*** Found your hostname: static.247.176.55.162.clients.your-server.de
+Nov 15 23:12:45 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Nov 15 23:12:45 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg 
+Nov 15 23:12:45 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg
+Nov 15 23:12:45 *	Authenticating via SASL as woland (PLAIN)
+Nov 15 23:12:46 »»	You are now logged in as woland
+Nov 15 23:12:46 *	SASL authentication successful
+**** ENDING LOGGING AT Tue Nov 15 23:12:46 2022
+
+**** BEGIN LOGGING AT Wed Nov 16 01:25:02 2022
+
+Nov 16 01:25:02 FiSHLiM plugin loaded
+Nov 16 01:25:02 Python interface loaded
+Nov 16 01:25:02 Sysinfo plugin loaded
+Nov 16 01:25:02 Checksum plugin loaded
+Nov 16 01:25:02 Lua version 1.3/5.4 loaded.
+Nov 16 01:25:02 Perl interface loaded
+Nov 16 01:25:02 »»	Looking up irc.libera.chat
+Nov 16 01:25:02 »»	Connecting to irc.libera.chat (93.158.237.2) port 6697...
+Nov 16 01:25:03 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 16 01:25:03 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 16 01:25:03 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 16 01:25:03 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 16 01:25:03 *	* Subject: /CN=tantalum.libera.chat
+Nov 16 01:25:03 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 16 01:25:03 *	* Certification info:
+Nov 16 01:25:03 *	  Subject:
+Nov 16 01:25:03 *	    CN=tantalum.libera.chat
+Nov 16 01:25:03 *	  Issuer:
+Nov 16 01:25:03 *	    C=US
+Nov 16 01:25:03 *	    O=Let's Encrypt
+Nov 16 01:25:03 *	    CN=R3
+Nov 16 01:25:03 *	  Public key algorithm: rsaEncryption (4096 bits)
+Nov 16 01:25:03 *	  Sign algorithm sha256WithRSAEncryption
+Nov 16 01:25:03 *	  Valid since Nov  2 19:35:26 2022 GM to Jan 31 19:35:25 2023 GM
+Nov 16 01:25:03 *	* Cipher info:
+Nov 16 01:25:03 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 16 01:25:03 »»	Connected. Now logging in...
+Nov 16 01:25:04 »»	*** Checking Ident
+Nov 16 01:25:04 »»	*** Looking up your hostname...
+Nov 16 01:25:04 »»	*** No Ident response
+Nov 16 01:25:04 »»	*** Found your hostname: static.247.176.55.162.clients.your-server.de
+Nov 16 01:25:04 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Nov 16 01:25:04 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg 
+Nov 16 01:25:04 »»	woland already in use. Retrying with ...
+Nov 16 01:25:04 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg
+Nov 16 01:25:04 »»	No nickname given
+Nov 16 01:25:05 *	Authenticating via SASL as woland (PLAIN)
+Nov 16 01:25:06 »»	You are now logged in as woland
+Nov 16 01:25:06 *	SASL authentication successful
+Nov 16 01:26:07 »»	Closing Link: static.247.176.55.162.clients.your-server.de (Connection timed out)
+Nov 16 01:26:07 »»	Disconnected (Remote host closed socket).
+Nov 16 01:26:17 Cycling to next server in libera...
+Nov 16 01:26:17 »»	Disconnected ().
+Nov 16 01:26:17 »»	Looking up irc.libera.chat
+Nov 16 01:26:18 »»	Connecting to irc.libera.chat (130.185.232.126) port 6697...
+Nov 16 01:26:19 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 16 01:26:19 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 16 01:26:19 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 16 01:26:19 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 16 01:26:19 *	* Subject: /CN=copper.libera.chat
+Nov 16 01:26:19 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 16 01:26:19 *	* Certification info:
+Nov 16 01:26:19 *	  Subject:
+Nov 16 01:26:19 *	    CN=copper.libera.chat
+Nov 16 01:26:19 *	  Issuer:
+Nov 16 01:26:19 *	    C=US
+Nov 16 01:26:19 *	    O=Let's Encrypt
+Nov 16 01:26:19 *	    CN=R3
+Nov 16 01:26:19 *	  Public key algorithm: id-ecPublicKey (384 bits)
+Nov 16 01:26:19 *	  Sign algorithm sha256WithRSAEncryption
+Nov 16 01:26:19 *	  Valid since Nov  2 19:43:42 2022 GM to Jan 31 19:43:41 2023 GM
+Nov 16 01:26:19 *	* Cipher info:
+Nov 16 01:26:19 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 16 01:26:19 »»	Connected. Now logging in...
+Nov 16 01:26:19 »»	*** Checking Ident
+Nov 16 01:26:19 »»	*** Looking up your hostname...
+Nov 16 01:26:19 »»	*** No Ident response
+Nov 16 01:26:19 »»	*** Found your hostname: static.247.176.55.162.clients.your-server.de
+Nov 16 01:26:19 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Nov 16 01:26:19 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg 
+Nov 16 01:26:19 »»	woland already in use. Retrying with ...
+Nov 16 01:26:19 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg
+Nov 16 01:26:20 »»	No nickname given
+Nov 16 01:26:20 *	Authenticating via SASL as woland (PLAIN)
+Nov 16 01:26:21 »»	You are now logged in as woland
+Nov 16 01:26:21 *	SASL authentication successful
+Nov 16 01:27:21 »»	Closing Link: static.247.176.55.162.clients.your-server.de (Connection timed out)
+Nov 16 01:27:21 »»	Disconnected (Remote host closed socket).
+Nov 16 01:27:31 Cycling to next server in libera...
+Nov 16 01:27:31 »»	Disconnected ().
+Nov 16 01:27:31 »»	Looking up irc.libera.chat
+Nov 16 01:27:31 »»	Connecting to irc.libera.chat (188.240.145.102) port 6697...
+Nov 16 01:27:32 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 16 01:27:32 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 16 01:27:32 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 16 01:27:32 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 16 01:27:32 *	* Subject: /CN=platinum.libera.chat
+Nov 16 01:27:32 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 16 01:27:32 *	* Certification info:
+Nov 16 01:27:32 *	  Subject:
+Nov 16 01:27:32 *	    CN=platinum.libera.chat
+Nov 16 01:27:32 *	  Issuer:
+Nov 16 01:27:32 *	    C=US
+Nov 16 01:27:32 *	    O=Let's Encrypt
+Nov 16 01:27:32 *	    CN=R3
+Nov 16 01:27:32 *	  Public key algorithm: rsaEncryption (4096 bits)
+Nov 16 01:27:32 *	  Sign algorithm sha256WithRSAEncryption
+Nov 16 01:27:32 *	  Valid since Nov  2 19:40:42 2022 GM to Jan 31 19:40:41 2023 GM
+Nov 16 01:27:32 *	* Cipher info:
+Nov 16 01:27:32 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 16 01:27:32 »»	Connected. Now logging in...
+Nov 16 01:27:32 »»	*** Checking Ident
+Nov 16 01:27:32 »»	*** Looking up your hostname...
+Nov 16 01:27:32 »»	*** No Ident response
+Nov 16 01:27:32 »»	*** Found your hostname: static.247.176.55.162.clients.your-server.de
+Nov 16 01:27:32 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Nov 16 01:27:32 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg 
+Nov 16 01:27:32 »»	woland already in use. Retrying with ...
+Nov 16 01:27:33 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg
+Nov 16 01:27:33 »»	No nickname given
+Nov 16 01:27:33 *	Authenticating via SASL as woland (PLAIN)
+Nov 16 01:27:34 »»	You are now logged in as woland
+Nov 16 01:27:34 *	SASL authentication successful
+Nov 16 01:28:10 »»	Closing Link: static.247.176.55.162.clients.your-server.de (Connection timed out)
+Nov 16 01:28:10 »»	Disconnected (Remote host closed socket).
+Nov 16 01:28:20 Cycling to next server in libera...
+Nov 16 01:28:20 »»	Disconnected ().
+Nov 16 01:28:20 »»	Looking up irc.libera.chat
+Nov 16 01:28:21 »»	Connecting to irc.libera.chat (130.185.232.126) port 6697...
+Nov 16 01:28:21 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 16 01:28:21 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 16 01:28:21 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 16 01:28:21 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 16 01:28:21 *	* Subject: /CN=copper.libera.chat
+Nov 16 01:28:21 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 16 01:28:21 *	* Certification info:
+Nov 16 01:28:21 *	  Subject:
+Nov 16 01:28:21 *	    CN=copper.libera.chat
+Nov 16 01:28:21 *	  Issuer:
+Nov 16 01:28:21 *	    C=US
+Nov 16 01:28:21 *	    O=Let's Encrypt
+Nov 16 01:28:21 *	    CN=R3
+Nov 16 01:28:21 *	  Public key algorithm: id-ecPublicKey (384 bits)
+Nov 16 01:28:21 *	  Sign algorithm sha256WithRSAEncryption
+Nov 16 01:28:21 *	  Valid since Nov  2 19:43:42 2022 GM to Jan 31 19:43:41 2023 GM
+Nov 16 01:28:21 *	* Cipher info:
+Nov 16 01:28:21 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 16 01:28:21 »»	Connected. Now logging in...
+Nov 16 01:28:22 »»	*** Checking Ident
+Nov 16 01:28:22 »»	*** Looking up your hostname...
+Nov 16 01:28:22 »»	*** No Ident response
+Nov 16 01:28:22 »»	*** Found your hostname: static.247.176.55.162.clients.your-server.de
+Nov 16 01:28:22 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Nov 16 01:28:22 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg 
+Nov 16 01:28:22 »»	woland already in use. Retrying with ...
+Nov 16 01:28:22 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg
+Nov 16 01:28:23 »»	No nickname given
+Nov 16 01:28:23 *	Authenticating via SASL as woland (PLAIN)
+Nov 16 01:28:24 »»	You are now logged in as woland
+Nov 16 01:28:24 *	SASL authentication successful
+Nov 16 01:29:12 »»	Closing Link: static.247.176.55.162.clients.your-server.de (Connection timed out)
+Nov 16 01:29:12 »»	Disconnected (Remote host closed socket).
+Nov 16 01:29:22 Cycling to next server in libera...
+Nov 16 01:29:22 »»	Disconnected ().
+Nov 16 01:29:22 »»	Looking up irc.libera.chat
+Nov 16 01:29:22 »»	Connecting to irc.libera.chat (93.158.237.2) port 6697...
+Nov 16 01:29:23 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 16 01:29:23 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 16 01:29:23 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 16 01:29:23 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 16 01:29:23 *	* Subject: /CN=tantalum.libera.chat
+Nov 16 01:29:23 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 16 01:29:23 *	* Certification info:
+Nov 16 01:29:23 *	  Subject:
+Nov 16 01:29:23 *	    CN=tantalum.libera.chat
+Nov 16 01:29:23 *	  Issuer:
+Nov 16 01:29:23 *	    C=US
+Nov 16 01:29:23 *	    O=Let's Encrypt
+Nov 16 01:29:23 *	    CN=R3
+Nov 16 01:29:23 *	  Public key algorithm: rsaEncryption (4096 bits)
+Nov 16 01:29:23 *	  Sign algorithm sha256WithRSAEncryption
+Nov 16 01:29:23 *	  Valid since Nov  2 19:35:26 2022 GM to Jan 31 19:35:25 2023 GM
+Nov 16 01:29:23 *	* Cipher info:
+Nov 16 01:29:23 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 16 01:29:23 »»	Connected. Now logging in...
+Nov 16 01:29:24 »»	*** Checking Ident
+Nov 16 01:29:24 »»	*** Looking up your hostname...
+Nov 16 01:29:24 »»	*** Found your hostname: static.247.176.55.162.clients.your-server.de
+Nov 16 01:29:24 »»	*** No Ident response
+Nov 16 01:29:24 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Nov 16 01:29:24 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg 
+Nov 16 01:29:24 »»	woland already in use. Retrying with ...
+Nov 16 01:29:24 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg
+Nov 16 01:29:24 »»	No nickname given
+Nov 16 01:29:25 *	Authenticating via SASL as woland (PLAIN)
+Nov 16 01:29:26 »»	You are now logged in as woland
+Nov 16 01:29:26 *	SASL authentication successful
+Nov 16 01:30:12 »»	Closing Link: static.247.176.55.162.clients.your-server.de (Connection timed out)
+Nov 16 01:30:12 »»	Disconnected (Remote host closed socket).
+Nov 16 01:30:22 Cycling to next server in libera...
+Nov 16 01:30:22 »»	Disconnected ().
+Nov 16 01:30:22 »»	Looking up irc.libera.chat
+Nov 16 01:30:23 »»	Connecting to irc.libera.chat (93.158.237.2) port 6697...
+Nov 16 01:30:24 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 16 01:30:24 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 16 01:30:24 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 16 01:30:24 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 16 01:30:24 *	* Subject: /CN=tantalum.libera.chat
+Nov 16 01:30:24 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 16 01:30:24 *	* Certification info:
+Nov 16 01:30:24 *	  Subject:
+Nov 16 01:30:24 *	    CN=tantalum.libera.chat
+Nov 16 01:30:24 *	  Issuer:
+Nov 16 01:30:24 *	    C=US
+Nov 16 01:30:24 *	    O=Let's Encrypt
+Nov 16 01:30:24 *	    CN=R3
+Nov 16 01:30:24 *	  Public key algorithm: rsaEncryption (4096 bits)
+Nov 16 01:30:24 *	  Sign algorithm sha256WithRSAEncryption
+Nov 16 01:30:24 *	  Valid since Nov  2 19:35:26 2022 GM to Jan 31 19:35:25 2023 GM
+Nov 16 01:30:24 *	* Cipher info:
+Nov 16 01:30:24 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 16 01:30:24 »»	Connected. Now logging in...
+Nov 16 01:30:24 »»	*** Checking Ident
+Nov 16 01:30:24 »»	*** Looking up your hostname...
+Nov 16 01:30:24 »»	*** No Ident response
+Nov 16 01:30:24 »»	*** Found your hostname: static.247.176.55.162.clients.your-server.de
+Nov 16 01:30:24 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Nov 16 01:30:24 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg 
+Nov 16 01:30:24 »»	woland already in use. Retrying with ...
+Nov 16 01:30:25 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg
+Nov 16 01:30:25 »»	No nickname given
+Nov 16 01:30:25 *	Authenticating via SASL as woland (PLAIN)
+Nov 16 01:30:26 »»	You are now logged in as woland
+Nov 16 01:30:26 *	SASL authentication successful
+Nov 16 01:31:22 »»	Closing Link: static.247.176.55.162.clients.your-server.de (Connection timed out)
+Nov 16 01:31:22 »»	Disconnected (Remote host closed socket).
+Nov 16 01:31:32 Cycling to next server in libera...
+Nov 16 01:31:32 »»	Disconnected ().
+Nov 16 01:31:32 »»	Looking up irc.libera.chat
+Nov 16 01:31:33 »»	Connecting to irc.libera.chat (93.158.237.2) port 6697...
+Nov 16 01:31:34 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 16 01:31:34 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 16 01:31:34 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 16 01:31:34 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 16 01:31:34 *	* Subject: /CN=tantalum.libera.chat
+Nov 16 01:31:34 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 16 01:31:34 *	* Certification info:
+Nov 16 01:31:34 *	  Subject:
+Nov 16 01:31:34 *	    CN=tantalum.libera.chat
+Nov 16 01:31:34 *	  Issuer:
+Nov 16 01:31:34 *	    C=US
+Nov 16 01:31:34 *	    O=Let's Encrypt
+Nov 16 01:31:34 *	    CN=R3
+Nov 16 01:31:34 *	  Public key algorithm: rsaEncryption (4096 bits)
+Nov 16 01:31:34 *	  Sign algorithm sha256WithRSAEncryption
+Nov 16 01:31:34 *	  Valid since Nov  2 19:35:26 2022 GM to Jan 31 19:35:25 2023 GM
+Nov 16 01:31:34 *	* Cipher info:
+Nov 16 01:31:34 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 16 01:31:34 »»	Connected. Now logging in...
+Nov 16 01:31:34 »»	*** Checking Ident
+Nov 16 01:31:34 »»	*** Looking up your hostname...
+Nov 16 01:31:34 »»	*** Found your hostname: static.247.176.55.162.clients.your-server.de
+Nov 16 01:31:34 »»	*** No Ident response
+Nov 16 01:31:34 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Nov 16 01:31:34 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg 
+Nov 16 01:31:34 »»	woland already in use. Retrying with ...
+Nov 16 01:31:34 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg
+Nov 16 01:31:35 »»	No nickname given
+Nov 16 01:31:35 *	Authenticating via SASL as woland (PLAIN)
+Nov 16 01:31:36 »»	You are now logged in as woland
+Nov 16 01:31:36 *	SASL authentication successful
+Nov 16 01:32:32 »»	Closing Link: static.247.176.55.162.clients.your-server.de (Connection timed out)
+Nov 16 01:32:32 »»	Disconnected (Remote host closed socket).
+Nov 16 01:32:42 Cycling to next server in libera...
+Nov 16 01:32:42 »»	Disconnected ().
+Nov 16 01:32:42 »»	Looking up irc.libera.chat
+Nov 16 01:32:43 »»	Connecting to irc.libera.chat (130.185.232.126) port 6697...
+Nov 16 01:32:43 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 16 01:32:43 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 16 01:32:43 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 16 01:32:43 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 16 01:32:43 *	* Subject: /CN=copper.libera.chat
+Nov 16 01:32:43 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 16 01:32:43 *	* Certification info:
+Nov 16 01:32:43 *	  Subject:
+Nov 16 01:32:43 *	    CN=copper.libera.chat
+Nov 16 01:32:43 *	  Issuer:
+Nov 16 01:32:43 *	    C=US
+Nov 16 01:32:43 *	    O=Let's Encrypt
+Nov 16 01:32:43 *	    CN=R3
+Nov 16 01:32:43 *	  Public key algorithm: id-ecPublicKey (384 bits)
+Nov 16 01:32:43 *	  Sign algorithm sha256WithRSAEncryption
+Nov 16 01:32:43 *	  Valid since Nov  2 19:43:42 2022 GM to Jan 31 19:43:41 2023 GM
+Nov 16 01:32:43 *	* Cipher info:
+Nov 16 01:32:43 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 16 01:32:43 »»	Connected. Now logging in...
+Nov 16 01:32:44 »»	*** Checking Ident
+Nov 16 01:32:44 »»	*** Looking up your hostname...
+Nov 16 01:32:44 »»	*** No Ident response
+Nov 16 01:32:44 »»	*** Found your hostname: static.247.176.55.162.clients.your-server.de
+Nov 16 01:32:44 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Nov 16 01:32:44 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg 
+Nov 16 01:32:44 »»	woland already in use. Retrying with ...
+Nov 16 01:32:44 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg
+Nov 16 01:32:44 »»	No nickname given
+Nov 16 01:32:45 *	Authenticating via SASL as woland (PLAIN)
+Nov 16 01:32:46 »»	You are now logged in as woland
+Nov 16 01:32:46 *	SASL authentication successful
+Nov 16 01:33:31 »»	Closing Link: static.247.176.55.162.clients.your-server.de (Connection timed out)
+Nov 16 01:33:31 »»	Disconnected (Remote host closed socket).
+Nov 16 01:33:41 Cycling to next server in libera...
+Nov 16 01:33:41 »»	Disconnected ().
+Nov 16 01:33:41 »»	Looking up irc.libera.chat
+Nov 16 01:33:41 »»	Connecting to irc.libera.chat (130.185.232.126) port 6697...
+Nov 16 01:33:43 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 16 01:33:43 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 16 01:33:43 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 16 01:33:43 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 16 01:33:43 *	* Subject: /CN=copper.libera.chat
+Nov 16 01:33:43 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 16 01:33:43 *	* Certification info:
+Nov 16 01:33:43 *	  Subject:
+Nov 16 01:33:43 *	    CN=copper.libera.chat
+Nov 16 01:33:43 *	  Issuer:
+Nov 16 01:33:43 *	    C=US
+Nov 16 01:33:43 *	    O=Let's Encrypt
+Nov 16 01:33:43 *	    CN=R3
+Nov 16 01:33:43 *	  Public key algorithm: id-ecPublicKey (384 bits)
+Nov 16 01:33:43 *	  Sign algorithm sha256WithRSAEncryption
+Nov 16 01:33:43 *	  Valid since Nov  2 19:43:42 2022 GM to Jan 31 19:43:41 2023 GM
+Nov 16 01:33:43 *	* Cipher info:
+Nov 16 01:33:43 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 16 01:33:43 »»	Connected. Now logging in...
+Nov 16 01:33:46 »»	*** Checking Ident
+Nov 16 01:33:46 »»	*** Looking up your hostname...
+Nov 16 01:33:46 »»	*** No Ident response
+Nov 16 01:33:46 »»	*** Found your hostname: static.247.176.55.162.clients.your-server.de
+Nov 16 01:33:46 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Nov 16 01:33:46 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg 
+Nov 16 01:33:46 »»	woland already in use. Retrying with ...
+Nov 16 01:33:46 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg
+Nov 16 01:33:46 »»	No nickname given
+Nov 16 01:33:47 *	Authenticating via SASL as woland (PLAIN)
+Nov 16 01:33:47 »»	You are now logged in as woland
+Nov 16 01:33:47 *	SASL authentication successful
+Nov 16 01:34:45 »»	Closing Link: static.247.176.55.162.clients.your-server.de (Connection timed out)
+Nov 16 01:34:45 »»	Disconnected (Remote host closed socket).
+Nov 16 01:34:55 Cycling to next server in libera...
+Nov 16 01:34:55 »»	Disconnected ().
+Nov 16 01:34:55 »»	Looking up irc.libera.chat
+Nov 16 01:34:55 »»	Connecting to irc.libera.chat (130.185.232.126) port 6697...
+Nov 16 01:34:56 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 16 01:34:56 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 16 01:34:56 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 16 01:34:56 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 16 01:34:56 *	* Subject: /CN=copper.libera.chat
+Nov 16 01:34:56 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 16 01:34:56 *	* Certification info:
+Nov 16 01:34:56 *	  Subject:
+Nov 16 01:34:56 *	    CN=copper.libera.chat
+Nov 16 01:34:56 *	  Issuer:
+Nov 16 01:34:56 *	    C=US
+Nov 16 01:34:56 *	    O=Let's Encrypt
+Nov 16 01:34:56 *	    CN=R3
+Nov 16 01:34:56 *	  Public key algorithm: id-ecPublicKey (384 bits)
+Nov 16 01:34:56 *	  Sign algorithm sha256WithRSAEncryption
+Nov 16 01:34:56 *	  Valid since Nov  2 19:43:42 2022 GM to Jan 31 19:43:41 2023 GM
+Nov 16 01:34:56 *	* Cipher info:
+Nov 16 01:34:56 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 16 01:34:56 »»	Connected. Now logging in...
+Nov 16 01:34:56 »»	*** Checking Ident
+Nov 16 01:34:56 »»	*** Looking up your hostname...
+Nov 16 01:34:56 »»	*** No Ident response
+Nov 16 01:34:56 »»	*** Found your hostname: static.247.176.55.162.clients.your-server.de
+Nov 16 01:34:57 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Nov 16 01:34:57 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg 
+Nov 16 01:34:57 »»	woland already in use. Retrying with ...
+Nov 16 01:34:57 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg
+Nov 16 01:34:57 »»	No nickname given
+Nov 16 01:34:57 *	Authenticating via SASL as woland (PLAIN)
+Nov 16 01:34:58 »»	You are now logged in as woland
+Nov 16 01:34:58 *	SASL authentication successful
+Nov 16 01:35:59 »»	Closing Link: static.247.176.55.162.clients.your-server.de (Connection timed out)
+Nov 16 01:35:59 »»	Disconnected (Remote host closed socket).
+Nov 16 01:36:09 Cycling to next server in libera...
+Nov 16 01:36:09 »»	Disconnected ().
+Nov 16 01:36:09 »»	Looking up irc.libera.chat
+Nov 16 01:36:09 »»	Connecting to irc.libera.chat (130.185.232.126) port 6697...
+Nov 16 01:36:10 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 16 01:36:10 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 16 01:36:10 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 16 01:36:10 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 16 01:36:10 *	* Subject: /CN=copper.libera.chat
+Nov 16 01:36:10 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 16 01:36:10 *	* Certification info:
+Nov 16 01:36:10 *	  Subject:
+Nov 16 01:36:10 *	    CN=copper.libera.chat
+Nov 16 01:36:10 *	  Issuer:
+Nov 16 01:36:10 *	    C=US
+Nov 16 01:36:10 *	    O=Let's Encrypt
+Nov 16 01:36:10 *	    CN=R3
+Nov 16 01:36:10 *	  Public key algorithm: id-ecPublicKey (384 bits)
+Nov 16 01:36:10 *	  Sign algorithm sha256WithRSAEncryption
+Nov 16 01:36:10 *	  Valid since Nov  2 19:43:42 2022 GM to Jan 31 19:43:41 2023 GM
+Nov 16 01:36:10 *	* Cipher info:
+Nov 16 01:36:10 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 16 01:36:10 »»	Connected. Now logging in...
+Nov 16 01:36:10 »»	*** Checking Ident
+Nov 16 01:36:10 »»	*** Looking up your hostname...
+Nov 16 01:36:10 »»	*** No Ident response
+Nov 16 01:36:10 »»	*** Found your hostname: static.247.176.55.162.clients.your-server.de
+Nov 16 01:36:10 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Nov 16 01:36:10 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg 
+Nov 16 01:36:10 »»	woland already in use. Retrying with ...
+Nov 16 01:36:11 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg
+Nov 16 01:36:11 »»	No nickname given
+Nov 16 01:36:11 *	Authenticating via SASL as woland (PLAIN)
+Nov 16 01:36:12 »»	You are now logged in as woland
+Nov 16 01:36:13 *	SASL authentication successful
+Nov 16 01:37:13 »»	Closing Link: static.247.176.55.162.clients.your-server.de (Connection timed out)
+Nov 16 01:37:13 »»	Disconnected (Remote host closed socket).
+Nov 16 01:37:23 Cycling to next server in libera...
+Nov 16 01:37:23 »»	Disconnected ().
+Nov 16 01:37:23 »»	Looking up irc.libera.chat
+Nov 16 01:37:23 »»	Connecting to irc.libera.chat (82.96.96.60) port 6697...
+Nov 16 01:37:24 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 16 01:37:24 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 16 01:37:24 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 16 01:37:24 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 16 01:37:24 *	* Subject: /CN=erbium.libera.chat
+Nov 16 01:37:24 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 16 01:37:24 *	* Certification info:
+Nov 16 01:37:24 *	  Subject:
+Nov 16 01:37:24 *	    CN=erbium.libera.chat
+Nov 16 01:37:24 *	  Issuer:
+Nov 16 01:37:24 *	    C=US
+Nov 16 01:37:24 *	    O=Let's Encrypt
+Nov 16 01:37:24 *	    CN=R3
+Nov 16 01:37:24 *	  Public key algorithm: rsaEncryption (4096 bits)
+Nov 16 01:37:24 *	  Sign algorithm sha256WithRSAEncryption
+Nov 16 01:37:24 *	  Valid since Nov  2 19:41:16 2022 GM to Jan 31 19:41:15 2023 GM
+Nov 16 01:37:24 *	* Cipher info:
+Nov 16 01:37:24 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 16 01:37:24 »»	Connected. Now logging in...
+Nov 16 01:37:24 »»	*** Checking Ident
+Nov 16 01:37:24 »»	*** Looking up your hostname...
+Nov 16 01:37:24 »»	*** Found your hostname: static.247.176.55.162.clients.your-server.de
+Nov 16 01:37:24 »»	*** No Ident response
+Nov 16 01:37:24 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Nov 16 01:37:24 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg 
+Nov 16 01:37:24 »»	woland already in use. Retrying with ...
+Nov 16 01:37:25 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg
+Nov 16 01:37:25 »»	No nickname given
+Nov 16 01:37:25 *	Authenticating via SASL as woland (PLAIN)
+Nov 16 01:37:26 »»	You are now logged in as woland
+Nov 16 01:37:26 *	SASL authentication successful
+Nov 16 01:38:14 »»	Closing Link: static.247.176.55.162.clients.your-server.de (Connection timed out)
+Nov 16 01:38:14 »»	Disconnected (Remote host closed socket).
+Nov 16 01:38:24 Cycling to next server in libera...
+Nov 16 01:38:24 »»	Disconnected ().
+Nov 16 01:38:24 »»	Looking up irc.libera.chat
+Nov 16 01:38:24 »»	Connecting to irc.libera.chat (82.96.96.60) port 6697...
+Nov 16 01:38:25 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 16 01:38:25 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 16 01:38:25 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 16 01:38:25 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 16 01:38:25 *	* Subject: /CN=erbium.libera.chat
+Nov 16 01:38:25 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 16 01:38:25 *	* Certification info:
+Nov 16 01:38:25 *	  Subject:
+Nov 16 01:38:25 *	    CN=erbium.libera.chat
+Nov 16 01:38:25 *	  Issuer:
+Nov 16 01:38:25 *	    C=US
+Nov 16 01:38:25 *	    O=Let's Encrypt
+Nov 16 01:38:25 *	    CN=R3
+Nov 16 01:38:25 *	  Public key algorithm: rsaEncryption (4096 bits)
+Nov 16 01:38:25 *	  Sign algorithm sha256WithRSAEncryption
+Nov 16 01:38:25 *	  Valid since Nov  2 19:41:16 2022 GM to Jan 31 19:41:15 2023 GM
+Nov 16 01:38:25 *	* Cipher info:
+Nov 16 01:38:25 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 16 01:38:25 »»	Connected. Now logging in...
+Nov 16 01:38:25 »»	*** Checking Ident
+Nov 16 01:38:25 »»	*** Looking up your hostname...
+Nov 16 01:38:25 »»	*** Found your hostname: static.247.176.55.162.clients.your-server.de
+Nov 16 01:38:25 »»	*** No Ident response
+Nov 16 01:38:25 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Nov 16 01:38:25 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg 
+Nov 16 01:38:25 »»	woland already in use. Retrying with ...
+Nov 16 01:38:25 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg
+Nov 16 01:38:26 »»	No nickname given
+Nov 16 01:38:26 *	Authenticating via SASL as woland (PLAIN)
+Nov 16 01:38:27 »»	You are now logged in as woland
+Nov 16 01:38:27 *	SASL authentication successful
+Nov 16 01:39:14 »»	Closing Link: static.247.176.55.162.clients.your-server.de (Connection timed out)
+Nov 16 01:39:14 »»	Disconnected (Remote host closed socket).
+Nov 16 01:39:24 Cycling to next server in libera...
+Nov 16 01:39:24 »»	Disconnected ().
+Nov 16 01:39:24 »»	Looking up irc.libera.chat
+Nov 16 01:39:24 »»	Connecting to irc.libera.chat (188.240.145.100) port 6697...
+Nov 16 01:39:25 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 16 01:39:25 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 16 01:39:25 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 16 01:39:25 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 16 01:39:25 *	* Subject: /CN=iridium.libera.chat
+Nov 16 01:39:25 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 16 01:39:25 *	* Certification info:
+Nov 16 01:39:25 *	  Subject:
+Nov 16 01:39:25 *	    CN=iridium.libera.chat
+Nov 16 01:39:25 *	  Issuer:
+Nov 16 01:39:25 *	    C=US
+Nov 16 01:39:25 *	    O=Let's Encrypt
+Nov 16 01:39:25 *	    CN=R3
+Nov 16 01:39:25 *	  Public key algorithm: rsaEncryption (4096 bits)
+Nov 16 01:39:25 *	  Sign algorithm sha256WithRSAEncryption
+Nov 16 01:39:25 *	  Valid since Nov  2 19:34:51 2022 GM to Jan 31 19:34:50 2023 GM
+Nov 16 01:39:25 *	* Cipher info:
+Nov 16 01:39:25 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 16 01:39:25 »»	Connected. Now logging in...
+Nov 16 01:39:25 »»	*** Checking Ident
+Nov 16 01:39:25 »»	*** Looking up your hostname...
+Nov 16 01:39:25 »»	*** No Ident response
+Nov 16 01:39:25 »»	*** Found your hostname: static.247.176.55.162.clients.your-server.de
+Nov 16 01:39:26 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Nov 16 01:39:26 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg 
+Nov 16 01:39:26 »»	woland already in use. Retrying with ...
+Nov 16 01:39:26 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg
+Nov 16 01:39:26 »»	No nickname given
+Nov 16 01:39:26 *	Authenticating via SASL as woland (PLAIN)
+Nov 16 01:39:27 »»	You are now logged in as woland
+Nov 16 01:39:27 *	SASL authentication successful
+Nov 16 01:40:07 »»	Closing Link: static.247.176.55.162.clients.your-server.de (Connection timed out)
+Nov 16 01:40:07 »»	Disconnected (Remote host closed socket).
+Nov 16 01:40:17 Cycling to next server in libera...
+Nov 16 01:40:17 »»	Disconnected ().
+Nov 16 01:40:17 »»	Looking up irc.libera.chat
+Nov 16 01:40:17 »»	Connecting to irc.libera.chat (188.240.145.100) port 6697...
+Nov 16 01:40:18 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 16 01:40:18 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 16 01:40:18 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 16 01:40:18 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 16 01:40:18 *	* Subject: /CN=iridium.libera.chat
+Nov 16 01:40:18 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 16 01:40:18 *	* Certification info:
+Nov 16 01:40:18 *	  Subject:
+Nov 16 01:40:18 *	    CN=iridium.libera.chat
+Nov 16 01:40:18 *	  Issuer:
+Nov 16 01:40:18 *	    C=US
+Nov 16 01:40:18 *	    O=Let's Encrypt
+Nov 16 01:40:18 *	    CN=R3
+Nov 16 01:40:18 *	  Public key algorithm: rsaEncryption (4096 bits)
+Nov 16 01:40:18 *	  Sign algorithm sha256WithRSAEncryption
+Nov 16 01:40:18 *	  Valid since Nov  2 19:34:51 2022 GM to Jan 31 19:34:50 2023 GM
+Nov 16 01:40:18 *	* Cipher info:
+Nov 16 01:40:18 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 16 01:40:18 »»	Connected. Now logging in...
+Nov 16 01:40:19 »»	*** Checking Ident
+Nov 16 01:40:19 »»	*** Looking up your hostname...
+Nov 16 01:40:19 »»	*** No Ident response
+Nov 16 01:40:19 »»	*** Found your hostname: static.247.176.55.162.clients.your-server.de
+Nov 16 01:40:19 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Nov 16 01:40:19 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg 
+Nov 16 01:40:19 »»	woland already in use. Retrying with ...
+Nov 16 01:40:19 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg
+Nov 16 01:40:19 »»	No nickname given
+Nov 16 01:40:20 *	Authenticating via SASL as woland (PLAIN)
+Nov 16 01:40:20 »»	You are now logged in as woland
+Nov 16 01:40:20 *	SASL authentication successful
+Nov 16 01:40:42 Perl interface unloaded
+Nov 16 01:40:42 Checksum plugin unloaded
+Nov 16 01:40:42 Sysinfo plugin unloaded
+**** ENDING LOGGING AT Wed Nov 16 01:40:42 2022
+
+**** BEGIN LOGGING AT Wed Nov 16 11:28:12 2022
+
+Nov 16 11:28:12 FiSHLiM plugin loaded
+Nov 16 11:28:12 Python interface loaded
+Nov 16 11:28:12 Sysinfo plugin loaded
+Nov 16 11:28:12 Checksum plugin loaded
+Nov 16 11:28:12 Lua version 1.3/5.4 loaded.
+Nov 16 11:28:12 Perl interface loaded
+Nov 16 11:28:12 »»	Looking up irc.libera.chat
+Nov 16 11:28:12 »»	Connecting to irc.libera.chat (188.240.145.102) port 6697...
+Nov 16 11:28:13 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 16 11:28:13 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 16 11:28:13 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 16 11:28:13 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 16 11:28:13 *	* Subject: /CN=platinum.libera.chat
+Nov 16 11:28:13 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 16 11:28:13 *	* Certification info:
+Nov 16 11:28:13 *	  Subject:
+Nov 16 11:28:13 *	    CN=platinum.libera.chat
+Nov 16 11:28:13 *	  Issuer:
+Nov 16 11:28:13 *	    C=US
+Nov 16 11:28:13 *	    O=Let's Encrypt
+Nov 16 11:28:13 *	    CN=R3
+Nov 16 11:28:13 *	  Public key algorithm: rsaEncryption (4096 bits)
+Nov 16 11:28:13 *	  Sign algorithm sha256WithRSAEncryption
+Nov 16 11:28:13 *	  Valid since Nov  2 19:40:42 2022 GM to Jan 31 19:40:41 2023 GM
+Nov 16 11:28:13 *	* Cipher info:
+Nov 16 11:28:13 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 16 11:28:13 »»	Connected. Now logging in...
+Nov 16 11:28:14 »»	*** Checking Ident
+Nov 16 11:28:14 »»	*** Looking up your hostname...
+Nov 16 11:28:14 »»	*** No Ident response
+Nov 16 11:28:14 »»	*** Found your hostname: static.247.176.55.162.clients.your-server.de
+Nov 16 11:28:14 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Nov 16 11:28:14 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg 
+Nov 16 11:28:14 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg
+Nov 16 11:28:14 *	Authenticating via SASL as woland (PLAIN)
+Nov 16 11:28:15 »»	You are now logged in as woland
+Nov 16 11:28:15 *	SASL authentication successful
+**** ENDING LOGGING AT Wed Nov 16 11:28:15 2022
+
+**** BEGIN LOGGING AT Wed Nov 16 11:28:45 2022
+
+Nov 16 11:28:45 FiSHLiM plugin loaded
+Nov 16 11:28:45 Python interface loaded
+Nov 16 11:28:45 Sysinfo plugin loaded
+Nov 16 11:28:45 Checksum plugin loaded
+Nov 16 11:28:45 Lua version 1.3/5.4 loaded.
+Nov 16 11:28:45 Perl interface loaded
+Nov 16 11:28:45 »»	Looking up irc.libera.chat
+Nov 16 11:28:45 »»	Connecting to irc.libera.chat (188.240.145.102) port 6697...
+Nov 16 11:28:46 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 16 11:28:46 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 16 11:28:46 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 16 11:28:46 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 16 11:28:46 *	* Subject: /CN=platinum.libera.chat
+Nov 16 11:28:46 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 16 11:28:46 *	* Certification info:
+Nov 16 11:28:46 *	  Subject:
+Nov 16 11:28:46 *	    CN=platinum.libera.chat
+Nov 16 11:28:46 *	  Issuer:
+Nov 16 11:28:46 *	    C=US
+Nov 16 11:28:46 *	    O=Let's Encrypt
+Nov 16 11:28:46 *	    CN=R3
+Nov 16 11:28:46 *	  Public key algorithm: rsaEncryption (4096 bits)
+Nov 16 11:28:46 *	  Sign algorithm sha256WithRSAEncryption
+Nov 16 11:28:46 *	  Valid since Nov  2 19:40:42 2022 GM to Jan 31 19:40:41 2023 GM
+Nov 16 11:28:46 *	* Cipher info:
+Nov 16 11:28:46 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 16 11:28:46 »»	Connected. Now logging in...
+Nov 16 11:28:46 »»	*** Checking Ident
+Nov 16 11:28:46 »»	*** Looking up your hostname...
+Nov 16 11:28:46 »»	*** No Ident response
+Nov 16 11:28:46 »»	*** Found your hostname: static.247.176.55.162.clients.your-server.de
+Nov 16 11:28:47 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Nov 16 11:28:47 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg 
+Nov 16 11:28:47 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg
+Nov 16 11:28:47 *	Authenticating via SASL as woland (PLAIN)
+Nov 16 11:28:48 »»	You are now logged in as woland
+Nov 16 11:28:48 *	SASL authentication successful
+**** ENDING LOGGING AT Wed Nov 16 11:28:48 2022
+
+**** BEGIN LOGGING AT Wed Nov 16 11:28:57 2022
+
+Nov 16 11:28:57 FiSHLiM plugin loaded
+Nov 16 11:28:57 Python interface loaded
+Nov 16 11:28:57 Sysinfo plugin loaded
+Nov 16 11:28:57 Checksum plugin loaded
+Nov 16 11:28:57 Lua version 1.3/5.4 loaded.
+Nov 16 11:28:57 Perl interface loaded
+Nov 16 11:28:57 »»	Looking up irc.libera.chat
+Nov 16 11:28:57 »»	Connecting to irc.libera.chat (188.240.145.102) port 6697...
+Nov 16 11:28:58 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 16 11:28:58 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 16 11:28:58 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 16 11:28:58 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 16 11:28:58 *	* Subject: /CN=platinum.libera.chat
+Nov 16 11:28:58 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 16 11:28:58 *	* Certification info:
+Nov 16 11:28:58 *	  Subject:
+Nov 16 11:28:58 *	    CN=platinum.libera.chat
+Nov 16 11:28:58 *	  Issuer:
+Nov 16 11:28:58 *	    C=US
+Nov 16 11:28:58 *	    O=Let's Encrypt
+Nov 16 11:28:58 *	    CN=R3
+Nov 16 11:28:58 *	  Public key algorithm: rsaEncryption (4096 bits)
+Nov 16 11:28:58 *	  Sign algorithm sha256WithRSAEncryption
+Nov 16 11:28:58 *	  Valid since Nov  2 19:40:42 2022 GM to Jan 31 19:40:41 2023 GM
+Nov 16 11:28:58 *	* Cipher info:
+Nov 16 11:28:58 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 16 11:28:58 »»	Connected. Now logging in...
+Nov 16 11:28:58 »»	*** Checking Ident
+Nov 16 11:28:58 »»	*** Looking up your hostname...
+Nov 16 11:28:58 »»	*** Found your hostname: static.247.176.55.162.clients.your-server.de
+Nov 16 11:28:58 »»	*** No Ident response
+Nov 16 11:28:59 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Nov 16 11:28:59 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg 
+Nov 16 11:28:59 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg
+Nov 16 11:28:59 *	Authenticating via SASL as woland (PLAIN)
+Nov 16 11:28:59 »»	You are now logged in as woland
+Nov 16 11:28:59 *	SASL authentication successful
+**** ENDING LOGGING AT Wed Nov 16 11:29:00 2022
+
+**** BEGIN LOGGING AT Wed Nov 16 11:30:35 2022
+
+Nov 16 11:30:35 FiSHLiM plugin loaded
+Nov 16 11:30:35 Python interface loaded
+Nov 16 11:30:35 Sysinfo plugin loaded
+Nov 16 11:30:35 Checksum plugin loaded
+Nov 16 11:30:35 Lua version 1.3/5.4 loaded.
+Nov 16 11:30:35 Perl interface loaded
+Nov 16 11:30:35 »»	Looking up irc.libera.chat
+Nov 16 11:30:35 »»	Connecting to irc.libera.chat (130.185.232.126) port 6697...
+Nov 16 11:30:37 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 16 11:30:37 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 16 11:30:37 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 16 11:30:37 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 16 11:30:37 *	* Subject: /CN=copper.libera.chat
+Nov 16 11:30:37 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 16 11:30:37 *	* Certification info:
+Nov 16 11:30:37 *	  Subject:
+Nov 16 11:30:37 *	    CN=copper.libera.chat
+Nov 16 11:30:37 *	  Issuer:
+Nov 16 11:30:37 *	    C=US
+Nov 16 11:30:37 *	    O=Let's Encrypt
+Nov 16 11:30:37 *	    CN=R3
+Nov 16 11:30:37 *	  Public key algorithm: id-ecPublicKey (384 bits)
+Nov 16 11:30:37 *	  Sign algorithm sha256WithRSAEncryption
+Nov 16 11:30:37 *	  Valid since Nov  2 19:43:42 2022 GM to Jan 31 19:43:41 2023 GM
+Nov 16 11:30:37 *	* Cipher info:
+Nov 16 11:30:37 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 16 11:30:37 »»	Connected. Now logging in...
+Nov 16 11:30:37 »»	*** Checking Ident
+Nov 16 11:30:37 »»	*** Looking up your hostname...
+Nov 16 11:30:37 »»	*** No Ident response
+Nov 16 11:30:37 »»	*** Found your hostname: static.247.176.55.162.clients.your-server.de
+Nov 16 11:30:37 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Nov 16 11:30:37 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg 
+Nov 16 11:30:38 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg
+Nov 16 11:30:38 *	Authenticating via SASL as woland (PLAIN)
+Nov 16 11:30:38 »»	You are now logged in as woland
+Nov 16 11:30:39 *	SASL authentication successful
+**** ENDING LOGGING AT Wed Nov 16 11:30:39 2022
+
+**** BEGIN LOGGING AT Wed Nov 16 11:37:13 2022
+
+Nov 16 11:37:13 FiSHLiM plugin loaded
+Nov 16 11:37:13 Python interface loaded
+Nov 16 11:37:13 Sysinfo plugin loaded
+Nov 16 11:37:13 Checksum plugin loaded
+Nov 16 11:37:13 Lua version 1.3/5.4 loaded.
+Nov 16 11:37:13 Perl interface loaded
+Nov 16 11:37:13 »»	Looking up irc.libera.chat
+Nov 16 11:37:13 »»	Connecting to irc.libera.chat (64.86.243.186) port 6697...
+Nov 16 11:37:14 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 16 11:37:14 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 16 11:37:14 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 16 11:37:14 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 16 11:37:14 *	* Subject: /CN=calcium.libera.chat
+Nov 16 11:37:14 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 16 11:37:14 *	* Certification info:
+Nov 16 11:37:14 *	  Subject:
+Nov 16 11:37:14 *	    CN=calcium.libera.chat
+Nov 16 11:37:14 *	  Issuer:
+Nov 16 11:37:14 *	    C=US
+Nov 16 11:37:14 *	    O=Let's Encrypt
+Nov 16 11:37:14 *	    CN=R3
+Nov 16 11:37:14 *	  Public key algorithm: rsaEncryption (4096 bits)
+Nov 16 11:37:14 *	  Sign algorithm sha256WithRSAEncryption
+Nov 16 11:37:14 *	  Valid since Nov  2 19:27:09 2022 GM to Jan 31 19:27:08 2023 GM
+Nov 16 11:37:14 *	* Cipher info:
+Nov 16 11:37:14 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 16 11:37:14 »»	Connected. Now logging in...
+Nov 16 11:37:14 »»	*** Checking Ident
+Nov 16 11:37:14 »»	*** Looking up your hostname...
+Nov 16 11:37:14 »»	*** No Ident response
+Nov 16 11:37:17 »»	*** Found your hostname: static.247.176.55.162.clients.your-server.de
+Nov 16 11:37:17 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Nov 16 11:37:17 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg 
+Nov 16 11:37:18 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg
+Nov 16 11:37:18 *	Authenticating via SASL as woland (PLAIN)
+Nov 16 11:37:19 »»	You are now logged in as woland
+Nov 16 11:37:19 *	SASL authentication successful
+**** ENDING LOGGING AT Wed Nov 16 11:37:19 2022
+
+**** BEGIN LOGGING AT Thu Nov 17 22:10:14 2022
+
+Nov 17 22:10:14 FiSHLiM plugin loaded
+Nov 17 22:10:15 Python interface loaded
+Nov 17 22:10:15 Sysinfo plugin loaded
+Nov 17 22:10:15 Checksum plugin loaded
+Nov 17 22:10:15 Lua version 1.3/5.4 loaded.
+Nov 17 22:10:15 Perl interface loaded
+Nov 17 22:10:15 »»	Looking up irc.libera.chat
+Nov 17 22:10:17 »»	Connecting to irc.libera.chat (82.96.96.60) port 6697...
+Nov 17 22:10:23 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 17 22:10:23 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 17 22:10:23 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 17 22:10:23 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 17 22:10:23 *	* Subject: /CN=erbium.libera.chat
+Nov 17 22:10:23 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 17 22:10:23 *	* Certification info:
+Nov 17 22:10:23 *	  Subject:
+Nov 17 22:10:23 *	    CN=erbium.libera.chat
+Nov 17 22:10:23 *	  Issuer:
+Nov 17 22:10:23 *	    C=US
+Nov 17 22:10:23 *	    O=Let's Encrypt
+Nov 17 22:10:23 *	    CN=R3
+Nov 17 22:10:23 *	  Public key algorithm: rsaEncryption (4096 bits)
+Nov 17 22:10:23 *	  Sign algorithm sha256WithRSAEncryption
+Nov 17 22:10:23 *	  Valid since Nov  2 19:41:16 2022 GM to Jan 31 19:41:15 2023 GM
+Nov 17 22:10:23 *	* Cipher info:
+Nov 17 22:10:23 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 17 22:10:23 »»	Connected. Now logging in...
+Nov 17 22:10:25 »»	*** Checking Ident
+Nov 17 22:10:25 »»	*** Looking up your hostname...
+Nov 17 22:10:25 »»	*** No Ident response
+Nov 17 22:10:25 »»	*** Found your hostname: ip217.ip-151-80-125.eu
+Nov 17 22:10:25 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Nov 17 22:10:25 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg 
+Nov 17 22:10:26 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg
+Nov 17 22:10:27 *	Authenticating via SASL as woland (PLAIN)
+Nov 17 22:10:29 »»	You are now logged in as woland
+Nov 17 22:10:29 *	SASL authentication successful
+**** ENDING LOGGING AT Thu Nov 17 22:10:30 2022
+
+**** BEGIN LOGGING AT Fri Nov 18 12:05:32 2022
+
+Nov 18 12:05:32 FiSHLiM plugin loaded
+Nov 18 12:05:32 Python interface loaded
+Nov 18 12:05:32 Sysinfo plugin loaded
+Nov 18 12:05:32 Checksum plugin loaded
+Nov 18 12:05:32 Lua version 1.3/5.4 loaded.
+Nov 18 12:05:32 Perl interface loaded
+Nov 18 12:05:32 »»	Looking up irc.libera.chat
+Nov 18 12:05:33 »»	Connecting to irc.libera.chat (130.185.232.126) port 6697...
+Nov 18 12:05:33 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 18 12:05:33 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 18 12:05:33 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 18 12:05:33 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 18 12:05:33 *	* Subject: /CN=copper.libera.chat
+Nov 18 12:05:33 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 18 12:05:33 *	* Certification info:
+Nov 18 12:05:33 *	  Subject:
+Nov 18 12:05:33 *	    CN=copper.libera.chat
+Nov 18 12:05:33 *	  Issuer:
+Nov 18 12:05:33 *	    C=US
+Nov 18 12:05:33 *	    O=Let's Encrypt
+Nov 18 12:05:33 *	    CN=R3
+Nov 18 12:05:33 *	  Public key algorithm: id-ecPublicKey (384 bits)
+Nov 18 12:05:33 *	  Sign algorithm sha256WithRSAEncryption
+Nov 18 12:05:33 *	  Valid since Nov  2 19:43:42 2022 GM to Jan 31 19:43:41 2023 GM
+Nov 18 12:05:33 *	* Cipher info:
+Nov 18 12:05:33 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 18 12:05:33 »»	Connected. Now logging in...
+Nov 18 12:05:34 »»	*** Checking Ident
+Nov 18 12:05:34 »»	*** Looking up your hostname...
+Nov 18 12:05:34 »»	*** No Ident response
+Nov 18 12:05:34 »»	*** Found your hostname: static.247.176.55.162.clients.your-server.de
+Nov 18 12:05:34 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Nov 18 12:05:34 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg 
+Nov 18 12:05:34 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg
+Nov 18 12:05:34 *	Authenticating via SASL as woland (PLAIN)
+Nov 18 12:05:35 »»	You are now logged in as woland
+Nov 18 12:05:35 *	SASL authentication successful
+**** ENDING LOGGING AT Fri Nov 18 12:05:36 2022
+
+**** BEGIN LOGGING AT Sun Nov 20 16:23:41 2022
+
+Nov 20 16:23:41 FiSHLiM plugin loaded
+Nov 20 16:23:42 Python interface loaded
+Nov 20 16:23:42 Sysinfo plugin loaded
+Nov 20 16:23:42 Checksum plugin loaded
+Nov 20 16:23:42 Lua version 1.3/5.4 loaded.
+Nov 20 16:23:42 Perl interface loaded
+Nov 20 16:23:42 »»	Looking up irc.oftc.net
+Nov 20 16:23:42 »»	Connecting to irc.geo.oftc.net (109.169.7.194) port 6697...
+Nov 20 16:23:43 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 20 16:23:43 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 20 16:23:43 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 20 16:23:43 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 20 16:23:43 *	* Subject: /CN=kinetic.oftc.net
+Nov 20 16:23:43 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 20 16:23:43 *	* Certification info:
+Nov 20 16:23:43 *	  Subject:
+Nov 20 16:23:43 *	    CN=kinetic.oftc.net
+Nov 20 16:23:43 *	  Issuer:
+Nov 20 16:23:43 *	    C=US
+Nov 20 16:23:43 *	    O=Let's Encrypt
+Nov 20 16:23:43 *	    CN=R3
+Nov 20 16:23:43 *	  Public key algorithm: rsaEncryption (2048 bits)
+Nov 20 16:23:43 *	  Sign algorithm sha256WithRSAEncryption
+Nov 20 16:23:43 *	  Valid since Oct 18 23:23:25 2022 GM to Jan 16 23:23:24 2023 GM
+Nov 20 16:23:43 *	* Cipher info:
+Nov 20 16:23:43 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 20 16:23:43 »»	Connected. Now logging in...
+Nov 20 16:23:44 »»	*** Looking up your hostname...
+Nov 20 16:23:44 »»	*** Checking Ident
+Nov 20 16:23:44 »»	*** No Ident response
+Nov 20 16:23:44 »»	*** Found your hostname
+Nov 20 16:23:44 *	Capabilities supported: multi-prefix
+Nov 20 16:23:44 *	Capabilities requested: multi-prefix 
+Nov 20 16:23:44 *	Capabilities acknowledged: multi-prefix
+Nov 20 16:23:44 »»	*** Connected securely via TLSv1.3 TLS_AES_256_GCM_SHA384-256
+**** ENDING LOGGING AT Sun Nov 20 16:23:44 2022
+
+**** BEGIN LOGGING AT Mon Nov 21 22:21:00 2022
+
+Nov 21 22:21:00 FiSHLiM plugin loaded
+Nov 21 22:21:00 Python interface loaded
+Nov 21 22:21:00 Sysinfo plugin loaded
+Nov 21 22:21:00 Checksum plugin loaded
+Nov 21 22:21:00 Lua version 1.3/5.4 loaded.
+Nov 21 22:21:00 Perl interface loaded
+Nov 21 22:21:00 »»	Looking up irc.oftc.net
+Nov 21 22:21:00 »»	Connecting to irc.geo.oftc.net (188.240.145.40) port 6697...
+Nov 21 22:21:02 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 21 22:21:02 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 21 22:21:02 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 21 22:21:02 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 21 22:21:02 *	* Subject: /CN=liquid.oftc.net
+Nov 21 22:21:02 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 21 22:21:02 *	* Certification info:
+Nov 21 22:21:02 *	  Subject:
+Nov 21 22:21:02 *	    CN=liquid.oftc.net
+Nov 21 22:21:02 *	  Issuer:
+Nov 21 22:21:02 *	    C=US
+Nov 21 22:21:02 *	    O=Let's Encrypt
+Nov 21 22:21:02 *	    CN=R3
+Nov 21 22:21:02 *	  Public key algorithm: rsaEncryption (2048 bits)
+Nov 21 22:21:02 *	  Sign algorithm sha256WithRSAEncryption
+Nov 21 22:21:02 *	  Valid since Oct 18 23:24:46 2022 GM to Jan 16 23:24:45 2023 GM
+Nov 21 22:21:02 *	* Cipher info:
+Nov 21 22:21:02 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 21 22:21:02 »»	Connected. Now logging in...
+Nov 21 22:21:02 »»	*** Looking up your hostname...
+Nov 21 22:21:02 »»	*** Checking Ident
+Nov 21 22:21:02 »»	*** No Ident response
+Nov 21 22:21:02 »»	*** Found your hostname
+Nov 21 22:21:02 *	Capabilities supported: multi-prefix
+Nov 21 22:21:02 *	Capabilities requested: multi-prefix 
+Nov 21 22:21:02 *	Capabilities acknowledged: multi-prefix
+Nov 21 22:21:02 »»	*** Connected securely via TLSv1.3 TLS_AES_256_GCM_SHA384-256
+**** ENDING LOGGING AT Mon Nov 21 22:21:02 2022
+
+**** BEGIN LOGGING AT Tue Nov 22 01:10:01 2022
+
+Nov 22 01:10:01 FiSHLiM plugin loaded
+Nov 22 01:10:02 Python interface loaded
+Nov 22 01:10:02 Sysinfo plugin loaded
+Nov 22 01:10:02 Checksum plugin loaded
+Nov 22 01:10:02 Lua version 1.3/5.4 loaded.
+Nov 22 01:10:02 Perl interface loaded
+Nov 22 01:10:02 »»	Looking up irc.oftc.net
+Nov 22 01:10:02 »»	Connecting to irc.geo.oftc.net (109.169.7.194) port 6697...
+Nov 22 01:10:03 »»	Stopped previous connection attempt (pid=5239)
+Nov 22 01:10:03 »»	Looking up irc.oftc.net
+Nov 22 01:10:03 »»	Connecting to irc.geo.oftc.net (109.169.7.194) port 6697...
+Nov 22 01:10:04 »»	Connection failed. Error: (167772454) error:0A000126:SSL routines::unexpected eof while reading
+Nov 22 01:11:08 »»	Looking up irc.oftc.net
+Nov 22 01:11:08 »»	Connecting to irc.geo.oftc.net (130.239.18.116) port 6697...
+Nov 22 01:11:09 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 22 01:11:09 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 22 01:11:09 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 22 01:11:09 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 22 01:11:09 *	* Subject: /CN=helix.oftc.net
+Nov 22 01:11:09 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 22 01:11:09 *	* Certification info:
+Nov 22 01:11:09 *	  Subject:
+Nov 22 01:11:09 *	    CN=helix.oftc.net
+Nov 22 01:11:09 *	  Issuer:
+Nov 22 01:11:09 *	    C=US
+Nov 22 01:11:09 *	    O=Let's Encrypt
+Nov 22 01:11:09 *	    CN=R3
+Nov 22 01:11:09 *	  Public key algorithm: rsaEncryption (2048 bits)
+Nov 22 01:11:09 *	  Sign algorithm sha256WithRSAEncryption
+Nov 22 01:11:09 *	  Valid since Oct 18 23:24:05 2022 GM to Jan 16 23:24:04 2023 GM
+Nov 22 01:11:09 *	* Cipher info:
+Nov 22 01:11:09 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 22 01:11:09 »»	Connected. Now logging in...
+Nov 22 01:11:09 »»	*** Looking up your hostname...
+Nov 22 01:11:09 »»	*** Checking Ident
+Nov 22 01:11:09 »»	*** No Ident response
+Nov 22 01:11:09 »»	*** Found your hostname
+Nov 22 01:11:09 *	Capabilities supported: multi-prefix
+Nov 22 01:11:09 *	Capabilities requested: multi-prefix 
+Nov 22 01:11:10 *	Capabilities acknowledged: multi-prefix
+Nov 22 01:11:10 »»	*** Connected securely via TLSv1.3 TLS_AES_256_GCM_SHA384-256
+**** ENDING LOGGING AT Tue Nov 22 01:11:10 2022
+
+**** BEGIN LOGGING AT Sat Nov 26 02:05:02 2022
+
+Nov 26 02:05:02 FiSHLiM plugin loaded
+Nov 26 02:05:02 Python interface loaded
+Nov 26 02:05:02 Sysinfo plugin loaded
+Nov 26 02:05:02 Checksum plugin loaded
+Nov 26 02:05:02 Lua version 1.3/5.4 loaded.
+Nov 26 02:05:02 Perl interface loaded
+Nov 26 02:05:02 »»	Looking up irc.oftc.net
+Nov 26 02:05:02 »»	Connecting to irc.geo.oftc.net (109.74.200.93) port 6697...
+Nov 26 02:05:03 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 26 02:05:03 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 26 02:05:03 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 26 02:05:03 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 26 02:05:03 *	* Subject: /CN=coulomb.oftc.net
+Nov 26 02:05:03 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 26 02:05:03 *	* Certification info:
+Nov 26 02:05:03 *	  Subject:
+Nov 26 02:05:03 *	    CN=coulomb.oftc.net
+Nov 26 02:05:03 *	  Issuer:
+Nov 26 02:05:03 *	    C=US
+Nov 26 02:05:03 *	    O=Let's Encrypt
+Nov 26 02:05:03 *	    CN=R3
+Nov 26 02:05:03 *	  Public key algorithm: rsaEncryption (2048 bits)
+Nov 26 02:05:03 *	  Sign algorithm sha256WithRSAEncryption
+Nov 26 02:05:03 *	  Valid since Oct 18 23:24:27 2022 GM to Jan 16 23:24:26 2023 GM
+Nov 26 02:05:03 *	* Cipher info:
+Nov 26 02:05:03 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 26 02:05:03 »»	Connected. Now logging in...
+Nov 26 02:05:04 »»	*** Looking up your hostname...
+Nov 26 02:05:04 »»	*** Checking Ident
+Nov 26 02:05:04 »»	*** No Ident response
+Nov 26 02:05:04 »»	*** Found your hostname
+Nov 26 02:05:04 *	Capabilities supported: multi-prefix
+Nov 26 02:05:04 *	Capabilities requested: multi-prefix 
+Nov 26 02:05:04 *	Capabilities acknowledged: multi-prefix
+Nov 26 02:05:04 »»	*** Connected securely via TLSv1.3 TLS_AES_256_GCM_SHA384-256
+**** ENDING LOGGING AT Sat Nov 26 02:05:04 2022
+
+**** BEGIN LOGGING AT Sat Nov 26 04:55:06 2022
+
+Nov 26 04:55:06 FiSHLiM plugin loaded
+Nov 26 04:55:06 Python interface loaded
+Nov 26 04:55:06 Sysinfo plugin loaded
+Nov 26 04:55:06 Checksum plugin loaded
+Nov 26 04:55:06 Lua version 1.3/5.4 loaded.
+Nov 26 04:55:06 Perl interface loaded
+Nov 26 04:55:07 »»	Looking up irc.oftc.net
+Nov 26 04:55:07 »»	Connecting to irc.geo.oftc.net (188.240.145.40) port 6697...
+Nov 26 04:55:08 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 26 04:55:08 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 26 04:55:08 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 26 04:55:08 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 26 04:55:08 *	* Subject: /CN=liquid.oftc.net
+Nov 26 04:55:08 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 26 04:55:08 *	* Certification info:
+Nov 26 04:55:08 *	  Subject:
+Nov 26 04:55:08 *	    CN=liquid.oftc.net
+Nov 26 04:55:08 *	  Issuer:
+Nov 26 04:55:08 *	    C=US
+Nov 26 04:55:08 *	    O=Let's Encrypt
+Nov 26 04:55:08 *	    CN=R3
+Nov 26 04:55:08 *	  Public key algorithm: rsaEncryption (2048 bits)
+Nov 26 04:55:08 *	  Sign algorithm sha256WithRSAEncryption
+Nov 26 04:55:08 *	  Valid since Oct 18 23:24:46 2022 GM to Jan 16 23:24:45 2023 GM
+Nov 26 04:55:08 *	* Cipher info:
+Nov 26 04:55:08 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 26 04:55:08 »»	Connected. Now logging in...
+Nov 26 04:55:08 »»	*** Looking up your hostname...
+Nov 26 04:55:08 »»	*** Checking Ident
+Nov 26 04:55:08 »»	*** No Ident response
+Nov 26 04:55:08 »»	*** Found your hostname
+Nov 26 04:55:08 *	Capabilities supported: multi-prefix
+Nov 26 04:55:08 *	Capabilities requested: multi-prefix 
+Nov 26 04:55:09 *	Capabilities acknowledged: multi-prefix
+Nov 26 04:55:09 »»	*** Connected securely via TLSv1.3 TLS_AES_256_GCM_SHA384-256
+**** ENDING LOGGING AT Sat Nov 26 04:55:09 2022
+
+**** BEGIN LOGGING AT Wed Nov 30 04:50:10 2022
+
+Nov 30 04:50:10 FiSHLiM plugin loaded
+Nov 30 04:50:10 Python interface loaded
+Nov 30 04:50:10 Sysinfo plugin loaded
+Nov 30 04:50:11 Checksum plugin loaded
+Nov 30 04:50:11 Lua version 1.3/5.4 loaded.
+Nov 30 04:50:11 Perl interface loaded
+Nov 30 04:50:11 »»	Looking up irc.oftc.net
+Nov 30 04:50:11 »»	Connecting to irc.geo.oftc.net (130.239.18.116) port 6697...
+Nov 30 04:50:13 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 30 04:50:13 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 30 04:50:13 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 30 04:50:13 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 30 04:50:13 *	* Subject: /CN=helix.oftc.net
+Nov 30 04:50:13 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 30 04:50:13 *	* Certification info:
+Nov 30 04:50:13 *	  Subject:
+Nov 30 04:50:13 *	    CN=helix.oftc.net
+Nov 30 04:50:13 *	  Issuer:
+Nov 30 04:50:13 *	    C=US
+Nov 30 04:50:13 *	    O=Let's Encrypt
+Nov 30 04:50:13 *	    CN=R3
+Nov 30 04:50:13 *	  Public key algorithm: rsaEncryption (2048 bits)
+Nov 30 04:50:13 *	  Sign algorithm sha256WithRSAEncryption
+Nov 30 04:50:13 *	  Valid since Oct 18 23:24:05 2022 GM to Jan 16 23:24:04 2023 GM
+Nov 30 04:50:13 *	* Cipher info:
+Nov 30 04:50:13 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 30 04:50:13 »»	Connected. Now logging in...
+Nov 30 04:50:13 »»	*** Looking up your hostname...
+Nov 30 04:50:13 »»	*** Checking Ident
+Nov 30 04:50:13 »»	*** No Ident response
+Nov 30 04:50:14 »»	*** Found your hostname
+Nov 30 04:50:14 *	Capabilities supported: multi-prefix
+Nov 30 04:50:14 *	Capabilities requested: multi-prefix 
+Nov 30 04:50:15 *	Capabilities acknowledged: multi-prefix
+Nov 30 04:50:15 »»	*** Connected securely via TLSv1.3 TLS_AES_256_GCM_SHA384-256
+**** ENDING LOGGING AT Wed Nov 30 04:50:15 2022
+
+**** BEGIN LOGGING AT Fri Dec  2 02:45:03 2022
+
+Dec 02 02:45:03 FiSHLiM plugin loaded
+Dec 02 02:45:03 Python interface loaded
+Dec 02 02:45:03 Sysinfo plugin loaded
+Dec 02 02:45:03 Checksum plugin loaded
+Dec 02 02:45:03 Lua version 1.3/5.4 loaded.
+Dec 02 02:45:03 Perl interface loaded
+Dec 02 02:45:03 »»	Looking up irc.oftc.net
+Dec 02 02:45:03 »»	Connecting to irc.geo.oftc.net (203.30.57.35) port 6697...
+Dec 02 02:45:05 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Dec 02 02:45:05 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Dec 02 02:45:05 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Dec 02 02:45:05 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Dec 02 02:45:05 *	* Subject: /CN=nucleus.oftc.net
+Dec 02 02:45:05 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Dec 02 02:45:05 *	* Certification info:
+Dec 02 02:45:05 *	  Subject:
+Dec 02 02:45:05 *	    CN=nucleus.oftc.net
+Dec 02 02:45:05 *	  Issuer:
+Dec 02 02:45:05 *	    C=US
+Dec 02 02:45:05 *	    O=Let's Encrypt
+Dec 02 02:45:05 *	    CN=R3
+Dec 02 02:45:05 *	  Public key algorithm: rsaEncryption (2048 bits)
+Dec 02 02:45:05 *	  Sign algorithm sha256WithRSAEncryption
+Dec 02 02:45:05 *	  Valid since Oct 18 23:28:39 2022 GM to Jan 16 23:28:38 2023 GM
+Dec 02 02:45:05 *	* Cipher info:
+Dec 02 02:45:05 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Dec 02 02:45:05 »»	Connected. Now logging in...
+Dec 02 02:45:06 »»	*** Looking up your hostname...
+Dec 02 02:45:06 »»	*** Checking Ident
+Dec 02 02:45:06 »»	*** No Ident response
+Dec 02 02:45:06 »»	*** Found your hostname
+Dec 02 02:45:06 *	Capabilities supported: multi-prefix
+Dec 02 02:45:06 *	Capabilities requested: multi-prefix 
+Dec 02 02:45:07 *	Capabilities acknowledged: multi-prefix
+Dec 02 02:45:07 »»	*** Connected securely via TLSv1.3 TLS_AES_256_GCM_SHA384-256
+**** ENDING LOGGING AT Fri Dec  2 02:45:07 2022
+
+**** BEGIN LOGGING AT Fri Dec  2 02:58:34 2022
+
+Dec 02 02:58:34 FiSHLiM plugin loaded
+Dec 02 02:58:34 Python interface loaded
+Dec 02 02:58:34 Sysinfo plugin loaded
+Dec 02 02:58:34 Checksum plugin loaded
+Dec 02 02:58:34 Lua version 1.3/5.4 loaded.
+Dec 02 02:58:34 Perl interface loaded
+Dec 02 02:58:34 »»	Looking up irc.oftc.net
+Dec 02 02:58:34 »»	Connecting to irc.geo.oftc.net (130.239.18.116) port 6697...
+Dec 02 02:58:35 »»	Connection failed. Error: (167772454) error:0A000126:SSL routines::unexpected eof while reading
+Dec 02 03:00:13 Checksum plugin unloaded
+Dec 02 03:00:13 Sysinfo plugin unloaded
+**** ENDING LOGGING AT Fri Dec  2 03:00:13 2022
+
+**** BEGIN LOGGING AT Fri Dec  2 03:00:16 2022
+
+Dec 02 03:00:16 FiSHLiM plugin loaded
+Dec 02 03:00:16 Python interface loaded
+Dec 02 03:00:16 Sysinfo plugin loaded
+Dec 02 03:00:16 Checksum plugin loaded
+Dec 02 03:00:16 Lua version 1.3/5.4 loaded.
+Dec 02 03:00:16 Perl interface loaded
+Dec 02 03:00:16 »»	Looking up irc.oftc.net
+Dec 02 03:00:16 »»	Connecting to irc.geo.oftc.net (130.239.18.116) port 6697...
+Dec 02 03:00:17 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Dec 02 03:00:17 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Dec 02 03:00:17 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Dec 02 03:00:17 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Dec 02 03:00:17 *	* Subject: /CN=helix.oftc.net
+Dec 02 03:00:17 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Dec 02 03:00:17 *	* Certification info:
+Dec 02 03:00:17 *	  Subject:
+Dec 02 03:00:17 *	    CN=helix.oftc.net
+Dec 02 03:00:17 *	  Issuer:
+Dec 02 03:00:17 *	    C=US
+Dec 02 03:00:17 *	    O=Let's Encrypt
+Dec 02 03:00:17 *	    CN=R3
+Dec 02 03:00:17 *	  Public key algorithm: rsaEncryption (2048 bits)
+Dec 02 03:00:17 *	  Sign algorithm sha256WithRSAEncryption
+Dec 02 03:00:17 *	  Valid since Oct 18 23:24:05 2022 GM to Jan 16 23:24:04 2023 GM
+Dec 02 03:00:17 *	* Cipher info:
+Dec 02 03:00:17 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Dec 02 03:00:17 »»	Connected. Now logging in...
+Dec 02 03:00:17 »»	*** Looking up your hostname...
+Dec 02 03:00:17 »»	*** Checking Ident
+Dec 02 03:00:17 »»	*** Found your hostname
+Dec 02 03:00:17 »»	*** No Ident response
+Dec 02 03:00:18 *	Capabilities supported: multi-prefix
+Dec 02 03:00:18 *	Capabilities requested: multi-prefix 
+Dec 02 03:00:18 »»	woland already in use. Retrying with ...
+Dec 02 03:00:18 *	Capabilities acknowledged: multi-prefix
+Dec 02 03:00:18 »»	No nickname given
+Dec 02 03:00:51 »»	Closing Link: ip217.ip-151-80-125.eu (Registration timed out)
+Dec 02 03:00:51 »»	Disconnected (Remote host closed socket).
+Dec 02 03:00:56 Checksum plugin unloaded
+Dec 02 03:00:56 Sysinfo plugin unloaded
+**** ENDING LOGGING AT Fri Dec  2 03:00:56 2022
+
+**** BEGIN LOGGING AT Fri Dec  2 03:04:58 2022
+
+Dec 02 03:04:58 FiSHLiM plugin loaded
+Dec 02 03:04:58 Python interface loaded
+Dec 02 03:04:58 Sysinfo plugin loaded
+Dec 02 03:04:58 Checksum plugin loaded
+Dec 02 03:04:58 Lua version 1.3/5.4 loaded.
+Dec 02 03:04:58 Perl interface loaded
+Dec 02 03:04:58 »»	Looking up irc.oftc.net
+Dec 02 03:04:58 »»	Connecting to irc.geo.oftc.net (130.239.18.116) port 6697...
+Dec 02 03:04:59 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Dec 02 03:04:59 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Dec 02 03:04:59 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Dec 02 03:04:59 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Dec 02 03:04:59 *	* Subject: /CN=helix.oftc.net
+Dec 02 03:04:59 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Dec 02 03:04:59 *	* Certification info:
+Dec 02 03:04:59 *	  Subject:
+Dec 02 03:04:59 *	    CN=helix.oftc.net
+Dec 02 03:04:59 *	  Issuer:
+Dec 02 03:04:59 *	    C=US
+Dec 02 03:04:59 *	    O=Let's Encrypt
+Dec 02 03:04:59 *	    CN=R3
+Dec 02 03:04:59 *	  Public key algorithm: rsaEncryption (2048 bits)
+Dec 02 03:04:59 *	  Sign algorithm sha256WithRSAEncryption
+Dec 02 03:04:59 *	  Valid since Oct 18 23:24:05 2022 GM to Jan 16 23:24:04 2023 GM
+Dec 02 03:04:59 *	* Cipher info:
+Dec 02 03:04:59 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Dec 02 03:04:59 »»	Connected. Now logging in...
+Dec 02 03:04:59 »»	*** Looking up your hostname...
+Dec 02 03:04:59 »»	*** Checking Ident
+Dec 02 03:04:59 »»	*** No Ident response
+Dec 02 03:05:00 »»	*** Found your hostname
+Dec 02 03:05:00 *	Capabilities supported: multi-prefix
+Dec 02 03:05:00 *	Capabilities requested: multi-prefix 
+Dec 02 03:05:00 *	Capabilities acknowledged: multi-prefix
+Dec 02 03:05:00 »»	*** Connected securely via TLSv1.3 TLS_AES_256_GCM_SHA384-256
+**** ENDING LOGGING AT Fri Dec  2 03:05:00 2022
+
+**** BEGIN LOGGING AT Fri Dec  2 19:34:43 2022
+
+Dec 02 19:34:43 FiSHLiM plugin loaded
+Dec 02 19:34:44 Python interface loaded
+Dec 02 19:34:44 Sysinfo plugin loaded
+Dec 02 19:34:44 Checksum plugin loaded
+Dec 02 19:34:44 Lua version 1.3/5.4 loaded.
+Dec 02 19:34:44 Perl interface loaded
+Dec 02 19:34:44 »»	Looking up irc.oftc.net
+Dec 02 19:34:54 »»	Unknown host. Maybe you misspelled it?
+Dec 02 19:35:04 Cycling to next server in OFTC...
+Dec 02 19:35:04 »»	Disconnected ().
+**** ENDING LOGGING AT Fri Dec  2 19:35:04 2022
+
+**** BEGIN LOGGING AT Fri Dec  2 19:36:48 2022
+
+Dec 02 19:36:48 FiSHLiM plugin loaded
+Dec 02 19:36:48 Python interface loaded
+Dec 02 19:36:48 Sysinfo plugin loaded
+Dec 02 19:36:48 Checksum plugin loaded
+Dec 02 19:36:48 Lua version 1.3/5.4 loaded.
+Dec 02 19:36:48 Perl interface loaded
+Dec 02 19:36:48 »»	Looking up irc.oftc.net
+Dec 02 19:36:48 »»	Connecting to irc.geo.oftc.net (109.74.200.93) port 6697...
+Dec 02 19:36:49 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Dec 02 19:36:49 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Dec 02 19:36:49 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Dec 02 19:36:49 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Dec 02 19:36:49 *	* Subject: /CN=coulomb.oftc.net
+Dec 02 19:36:49 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Dec 02 19:36:49 *	* Certification info:
+Dec 02 19:36:49 *	  Subject:
+Dec 02 19:36:49 *	    CN=coulomb.oftc.net
+Dec 02 19:36:49 *	  Issuer:
+Dec 02 19:36:49 *	    C=US
+Dec 02 19:36:49 *	    O=Let's Encrypt
+Dec 02 19:36:49 *	    CN=R3
+Dec 02 19:36:49 *	  Public key algorithm: rsaEncryption (2048 bits)
+Dec 02 19:36:49 *	  Sign algorithm sha256WithRSAEncryption
+Dec 02 19:36:49 *	  Valid since Oct 18 23:24:27 2022 GM to Jan 16 23:24:26 2023 GM
+Dec 02 19:36:49 *	* Cipher info:
+Dec 02 19:36:49 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Dec 02 19:36:49 »»	Connected. Now logging in...
+Dec 02 19:36:49 »»	*** Looking up your hostname...
+Dec 02 19:36:49 »»	*** Checking Ident
+Dec 02 19:36:49 »»	*** No Ident response
+Dec 02 19:36:49 »»	*** Found your hostname
+Dec 02 19:36:49 *	Capabilities supported: multi-prefix
+Dec 02 19:36:49 *	Capabilities requested: multi-prefix 
+Dec 02 19:36:50 *	Capabilities acknowledged: multi-prefix
+Dec 02 19:36:50 »»	*** Connected securely via TLSv1.3 TLS_AES_256_GCM_SHA384-256
+**** ENDING LOGGING AT Fri Dec  2 19:36:50 2022
+
+**** BEGIN LOGGING AT Wed Dec  7 04:44:47 2022
+
+Dec 07 04:44:47 FiSHLiM plugin loaded
+Dec 07 04:44:47 Python interface loaded
+Dec 07 04:44:47 Sysinfo plugin loaded
+Dec 07 04:44:47 Checksum plugin loaded
+Dec 07 04:44:47 Lua version 1.3/5.4 loaded.
+Dec 07 04:44:47 Perl interface loaded
+Dec 07 04:44:47 »»	Looking up irc.oftc.net
+Dec 07 04:44:47 »»	Connecting to irc.geo.oftc.net (130.239.18.116) port 6697...
+Dec 07 04:44:48 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Dec 07 04:44:48 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Dec 07 04:44:48 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Dec 07 04:44:48 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Dec 07 04:44:48 *	* Subject: /CN=helix.oftc.net
+Dec 07 04:44:48 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Dec 07 04:44:48 *	* Certification info:
+Dec 07 04:44:48 *	  Subject:
+Dec 07 04:44:48 *	    CN=helix.oftc.net
+Dec 07 04:44:48 *	  Issuer:
+Dec 07 04:44:48 *	    C=US
+Dec 07 04:44:48 *	    O=Let's Encrypt
+Dec 07 04:44:48 *	    CN=R3
+Dec 07 04:44:48 *	  Public key algorithm: rsaEncryption (2048 bits)
+Dec 07 04:44:48 *	  Sign algorithm sha256WithRSAEncryption
+Dec 07 04:44:48 *	  Valid since Oct 18 23:24:05 2022 GM to Jan 16 23:24:04 2023 GM
+Dec 07 04:44:48 *	* Cipher info:
+Dec 07 04:44:48 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Dec 07 04:44:48 »»	Connected. Now logging in...
+Dec 07 04:44:48 »»	*** Looking up your hostname...
+Dec 07 04:44:48 »»	*** Checking Ident
+Dec 07 04:44:48 »»	*** No Ident response
+Dec 07 04:44:49 »»	*** Found your hostname
+Dec 07 04:44:49 *	Capabilities supported: multi-prefix
+Dec 07 04:44:49 *	Capabilities requested: multi-prefix 
+Dec 07 04:44:49 *	Capabilities acknowledged: multi-prefix
+Dec 07 04:44:49 »»	*** Connected securely via TLSv1.3 TLS_AES_256_GCM_SHA384-256
+**** ENDING LOGGING AT Wed Dec  7 04:44:49 2022
+
+**** BEGIN LOGGING AT Wed Dec  7 04:55:26 2022
+
+Dec 07 04:55:26 FiSHLiM plugin loaded
+Dec 07 04:55:26 Python interface loaded
+Dec 07 04:55:26 Sysinfo plugin loaded
+Dec 07 04:55:26 Checksum plugin loaded
+Dec 07 04:55:26 Lua version 1.3/5.4 loaded.
+Dec 07 04:55:26 Perl interface loaded
+Dec 07 04:55:26 »»	Looking up irc.oftc.net
+Dec 07 04:55:26 »»	Connecting to irc.geo.oftc.net (109.74.200.93) port 6697...
+Dec 07 04:55:28 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Dec 07 04:55:28 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Dec 07 04:55:28 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Dec 07 04:55:28 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Dec 07 04:55:28 *	* Subject: /CN=coulomb.oftc.net
+Dec 07 04:55:28 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Dec 07 04:55:28 *	* Certification info:
+Dec 07 04:55:28 *	  Subject:
+Dec 07 04:55:28 *	    CN=coulomb.oftc.net
+Dec 07 04:55:28 *	  Issuer:
+Dec 07 04:55:28 *	    C=US
+Dec 07 04:55:28 *	    O=Let's Encrypt
+Dec 07 04:55:28 *	    CN=R3
+Dec 07 04:55:28 *	  Public key algorithm: rsaEncryption (2048 bits)
+Dec 07 04:55:28 *	  Sign algorithm sha256WithRSAEncryption
+Dec 07 04:55:28 *	  Valid since Oct 18 23:24:27 2022 GM to Jan 16 23:24:26 2023 GM
+Dec 07 04:55:28 *	* Cipher info:
+Dec 07 04:55:28 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Dec 07 04:55:28 »»	Connected. Now logging in...
+Dec 07 04:55:28 »»	*** Looking up your hostname...
+Dec 07 04:55:28 »»	*** Checking Ident
+Dec 07 04:55:28 »»	*** No Ident response
+Dec 07 04:55:28 »»	*** Found your hostname
+Dec 07 04:55:28 *	Capabilities supported: multi-prefix
+Dec 07 04:55:28 *	Capabilities requested: multi-prefix 
+Dec 07 04:55:28 *	Capabilities acknowledged: multi-prefix
+Dec 07 04:55:28 »»	*** Connected securely via TLSv1.3 TLS_AES_256_GCM_SHA384-256
+**** ENDING LOGGING AT Wed Dec  7 04:55:28 2022
+
+**** BEGIN LOGGING AT Wed Dec  7 05:00:21 2022
+
+Dec 07 05:00:21 FiSHLiM plugin loaded
+Dec 07 05:00:21 Python interface loaded
+Dec 07 05:00:21 Sysinfo plugin loaded
+Dec 07 05:00:21 Checksum plugin loaded
+Dec 07 05:00:21 Lua version 1.3/5.4 loaded.
+Dec 07 05:00:21 Perl interface loaded
+Dec 07 05:00:21 »»	Looking up irc.oftc.net
+Dec 07 05:00:22 »»	Connecting to irc.geo.oftc.net (109.169.7.194) port 6697...
+Dec 07 05:00:23 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Dec 07 05:00:23 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Dec 07 05:00:23 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Dec 07 05:00:23 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Dec 07 05:00:23 *	* Subject: /CN=kinetic.oftc.net
+Dec 07 05:00:23 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Dec 07 05:00:23 *	* Certification info:
+Dec 07 05:00:23 *	  Subject:
+Dec 07 05:00:23 *	    CN=kinetic.oftc.net
+Dec 07 05:00:23 *	  Issuer:
+Dec 07 05:00:23 *	    C=US
+Dec 07 05:00:23 *	    O=Let's Encrypt
+Dec 07 05:00:23 *	    CN=R3
+Dec 07 05:00:23 *	  Public key algorithm: rsaEncryption (2048 bits)
+Dec 07 05:00:23 *	  Sign algorithm sha256WithRSAEncryption
+Dec 07 05:00:23 *	  Valid since Oct 18 23:23:25 2022 GM to Jan 16 23:23:24 2023 GM
+Dec 07 05:00:23 *	* Cipher info:
+Dec 07 05:00:23 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Dec 07 05:00:23 »»	Connected. Now logging in...
+Dec 07 05:00:23 »»	*** Looking up your hostname...
+Dec 07 05:00:23 »»	*** Checking Ident
+Dec 07 05:00:23 »»	*** No Ident response
+Dec 07 05:00:23 »»	*** Found your hostname
+Dec 07 05:00:23 *	Capabilities supported: multi-prefix
+Dec 07 05:00:23 *	Capabilities requested: multi-prefix 
+Dec 07 05:00:23 *	Capabilities acknowledged: multi-prefix
+Dec 07 05:00:23 »»	*** Connected securely via TLSv1.3 TLS_AES_256_GCM_SHA384-256
+**** ENDING LOGGING AT Wed Dec  7 05:00:23 2022
+
+**** BEGIN LOGGING AT Wed Dec  7 23:37:32 2022
+
+Dec 07 23:37:32 FiSHLiM plugin loaded
+Dec 07 23:37:32 Python interface loaded
+Dec 07 23:37:32 Sysinfo plugin loaded
+Dec 07 23:37:32 Checksum plugin loaded
+Dec 07 23:37:32 Lua version 1.3/5.4 loaded.
+Dec 07 23:37:32 Perl interface loaded
+Dec 07 23:37:32 »»	Looking up irc.oftc.net
+Dec 07 23:37:32 »»	Connecting to irc.geo.oftc.net (130.239.18.116) port 6697...
+Dec 07 23:37:33 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Dec 07 23:37:33 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Dec 07 23:37:33 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Dec 07 23:37:33 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Dec 07 23:37:33 *	* Subject: /CN=helix.oftc.net
+Dec 07 23:37:33 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Dec 07 23:37:33 *	* Certification info:
+Dec 07 23:37:33 *	  Subject:
+Dec 07 23:37:33 *	    CN=helix.oftc.net
+Dec 07 23:37:33 *	  Issuer:
+Dec 07 23:37:33 *	    C=US
+Dec 07 23:37:33 *	    O=Let's Encrypt
+Dec 07 23:37:33 *	    CN=R3
+Dec 07 23:37:33 *	  Public key algorithm: rsaEncryption (2048 bits)
+Dec 07 23:37:33 *	  Sign algorithm sha256WithRSAEncryption
+Dec 07 23:37:33 *	  Valid since Oct 18 23:24:05 2022 GM to Jan 16 23:24:04 2023 GM
+Dec 07 23:37:33 *	* Cipher info:
+Dec 07 23:37:33 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Dec 07 23:37:33 »»	Connected. Now logging in...
+Dec 07 23:37:34 »»	*** Looking up your hostname...
+Dec 07 23:37:34 »»	*** Checking Ident
+Dec 07 23:37:34 »»	*** No Ident response
+Dec 07 23:37:34 »»	*** Found your hostname
+Dec 07 23:37:34 *	Capabilities supported: multi-prefix
+Dec 07 23:37:34 *	Capabilities requested: multi-prefix 
+Dec 07 23:37:34 *	Capabilities acknowledged: multi-prefix
+Dec 07 23:37:34 »»	*** Connected securely via TLSv1.3 TLS_AES_256_GCM_SHA384-256
+**** ENDING LOGGING AT Wed Dec  7 23:37:34 2022
+
+**** BEGIN LOGGING AT Thu Dec  8 17:18:13 2022
+
+Dec 08 17:18:13 FiSHLiM plugin loaded
+Dec 08 17:18:13 Python interface loaded
+Dec 08 17:18:13 Sysinfo plugin loaded
+Dec 08 17:18:13 Checksum plugin loaded
+Dec 08 17:18:13 Lua version 1.3/5.4 loaded.
+Dec 08 17:18:13 Perl interface loaded
+Dec 08 17:18:13 »»	Looking up irc.oftc.net
+Dec 08 17:18:13 »»	Connecting to irc.geo.oftc.net (130.239.18.116) port 6697...
+Dec 08 17:18:14 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Dec 08 17:18:14 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Dec 08 17:18:14 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Dec 08 17:18:14 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Dec 08 17:18:14 *	* Subject: /CN=helix.oftc.net
+Dec 08 17:18:14 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Dec 08 17:18:14 *	* Certification info:
+Dec 08 17:18:14 *	  Subject:
+Dec 08 17:18:14 *	    CN=helix.oftc.net
+Dec 08 17:18:14 *	  Issuer:
+Dec 08 17:18:14 *	    C=US
+Dec 08 17:18:14 *	    O=Let's Encrypt
+Dec 08 17:18:14 *	    CN=R3
+Dec 08 17:18:14 *	  Public key algorithm: rsaEncryption (2048 bits)
+Dec 08 17:18:14 *	  Sign algorithm sha256WithRSAEncryption
+Dec 08 17:18:14 *	  Valid since Oct 18 23:24:05 2022 GM to Jan 16 23:24:04 2023 GM
+Dec 08 17:18:14 *	* Cipher info:
+Dec 08 17:18:14 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Dec 08 17:18:14 »»	Connected. Now logging in...
+Dec 08 17:18:14 »»	*** Looking up your hostname...
+Dec 08 17:18:14 »»	*** Checking Ident
+Dec 08 17:18:14 »»	*** No Ident response
+Dec 08 17:18:15 »»	*** Found your hostname
+Dec 08 17:18:15 *	Capabilities supported: multi-prefix
+Dec 08 17:18:15 *	Capabilities requested: multi-prefix 
+Dec 08 17:18:15 *	Capabilities acknowledged: multi-prefix
+Dec 08 17:18:15 »»	*** Connected securely via TLSv1.3 TLS_AES_256_GCM_SHA384-256
+**** ENDING LOGGING AT Thu Dec  8 17:18:15 2022
+
+**** BEGIN LOGGING AT Thu Dec  8 17:38:39 2022
+
+Dec 08 17:38:39 FiSHLiM plugin loaded
+Dec 08 17:38:39 Python interface loaded
+Dec 08 17:38:39 Sysinfo plugin loaded
+Dec 08 17:38:39 Checksum plugin loaded
+Dec 08 17:38:39 Lua version 1.3/5.4 loaded.
+Dec 08 17:38:39 Perl interface loaded
+Dec 08 17:38:39 »»	Looking up irc.oftc.net
+Dec 08 17:38:39 »»	Connecting to irc.geo.oftc.net (109.169.7.194) port 6697...
+Dec 08 17:38:41 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Dec 08 17:38:41 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Dec 08 17:38:41 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Dec 08 17:38:41 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Dec 08 17:38:41 *	* Subject: /CN=kinetic.oftc.net
+Dec 08 17:38:41 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Dec 08 17:38:41 *	* Certification info:
+Dec 08 17:38:41 *	  Subject:
+Dec 08 17:38:41 *	    CN=kinetic.oftc.net
+Dec 08 17:38:41 *	  Issuer:
+Dec 08 17:38:41 *	    C=US
+Dec 08 17:38:41 *	    O=Let's Encrypt
+Dec 08 17:38:41 *	    CN=R3
+Dec 08 17:38:41 *	  Public key algorithm: rsaEncryption (2048 bits)
+Dec 08 17:38:41 *	  Sign algorithm sha256WithRSAEncryption
+Dec 08 17:38:41 *	  Valid since Oct 18 23:23:25 2022 GM to Jan 16 23:23:24 2023 GM
+Dec 08 17:38:41 *	* Cipher info:
+Dec 08 17:38:41 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Dec 08 17:38:41 »»	Connected. Now logging in...
+Dec 08 17:38:41 »»	*** Looking up your hostname...
+Dec 08 17:38:41 »»	*** Checking Ident
+Dec 08 17:38:41 »»	*** No Ident response
+Dec 08 17:38:41 »»	*** Found your hostname
+Dec 08 17:38:41 *	Capabilities supported: multi-prefix
+Dec 08 17:38:41 *	Capabilities requested: multi-prefix 
+Dec 08 17:38:41 *	Capabilities acknowledged: multi-prefix
+Dec 08 17:38:41 »»	*** Connected securely via TLSv1.3 TLS_AES_256_GCM_SHA384-256
+**** ENDING LOGGING AT Thu Dec  8 17:38:41 2022
+
+**** BEGIN LOGGING AT Fri Dec  9 05:41:26 2022
+
+Dec 09 05:41:26 FiSHLiM plugin loaded
+Dec 09 05:41:26 Python interface loaded
+Dec 09 05:41:26 Sysinfo plugin loaded
+Dec 09 05:41:26 Checksum plugin loaded
+Dec 09 05:41:26 Lua version 1.3/5.4 loaded.
+Dec 09 05:41:26 Perl interface loaded
+Dec 09 05:41:26 »»	Looking up irc.oftc.net
+Dec 09 05:41:28 »»	Connecting to irc.geo.oftc.net (172.104.164.108) port 6697...
+Dec 09 05:41:29 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Dec 09 05:41:29 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Dec 09 05:41:29 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Dec 09 05:41:29 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Dec 09 05:41:29 *	* Subject: /CN=singleton.oftc.net
+Dec 09 05:41:29 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Dec 09 05:41:29 *	* Certification info:
+Dec 09 05:41:29 *	  Subject:
+Dec 09 05:41:29 *	    CN=singleton.oftc.net
+Dec 09 05:41:29 *	  Issuer:
+Dec 09 05:41:29 *	    C=US
+Dec 09 05:41:29 *	    O=Let's Encrypt
+Dec 09 05:41:29 *	    CN=R3
+Dec 09 05:41:29 *	  Public key algorithm: rsaEncryption (2048 bits)
+Dec 09 05:41:29 *	  Sign algorithm sha256WithRSAEncryption
+Dec 09 05:41:29 *	  Valid since Oct 18 23:28:18 2022 GM to Jan 16 23:28:17 2023 GM
+Dec 09 05:41:29 *	* Cipher info:
+Dec 09 05:41:29 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Dec 09 05:41:29 »»	Connected. Now logging in...
+Dec 09 05:41:29 »»	*** Looking up your hostname...
+Dec 09 05:41:29 »»	*** Checking Ident
+Dec 09 05:41:29 »»	*** Couldn't look up your hostname
+Dec 09 05:41:30 »»	*** No Ident response
+Dec 09 05:41:30 *	Capabilities supported: multi-prefix
+Dec 09 05:41:30 *	Capabilities requested: multi-prefix 
+Dec 09 05:41:30 *	Capabilities acknowledged: multi-prefix
+Dec 09 05:41:30 »»	*** Connected securely via TLSv1.3 TLS_AES_256_GCM_SHA384-256
+**** ENDING LOGGING AT Fri Dec  9 05:41:30 2022
+

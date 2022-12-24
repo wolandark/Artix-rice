@@ -1,0 +1,948 @@
+**** BEGIN LOGGING AT Sun Nov 13 22:12:54 2022
+
+Nov 13 22:18:04 *	Now talking on #vim
+Nov 13 22:18:04 *	Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+Nov 13 22:18:04 *	Topic for #vim set by phy1729 (Tue Jun 28 19:48:55 2022)
+Nov 13 22:18:59 *	terminalpusher has quit (Remote host closed the connection)
+**** ENDING LOGGING AT Sun Nov 13 22:14:52 2022
+
+**** BEGIN LOGGING AT Sun Nov 13 22:14:52 2022
+
+Nov 13 22:20:59 *	Lyude has quit (Read error: Connection reset by peer)
+**** ENDING LOGGING AT Sun Nov 13 22:15:55 2022
+
+**** BEGIN LOGGING AT Sun Nov 13 22:15:55 2022
+
+Nov 13 22:22:01 *	i0e has quit (Quit: WeeChat 3.6)
+Nov 13 22:22:53 *	kuri22 has quit (Ping timeout: 268 seconds)
+Nov 13 22:23:19 *	kuri22 (~quassel@101.87.152.181) has joined
+Nov 13 22:24:08 *	rsl1337 has quit (Quit: WeeChat 3.7.1)
+Nov 13 22:24:23 *	rsl1337 (~rsl@111-163-191-90.dyn.estpak.ee) has joined
+Nov 13 22:24:57 *	rsl1337 is now known as rsl_
+Nov 13 22:31:30 *	habamax has quit (Ping timeout: 240 seconds)
+Nov 13 22:27:23 *	Disconnected ()
+**** ENDING LOGGING AT Sun Nov 13 22:27:23 2022
+
+**** BEGIN LOGGING AT Sun Nov 13 22:27:49 2022
+
+Nov 13 22:33:01 *	Now talking on #vim
+Nov 13 22:33:01 *	Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+Nov 13 22:33:01 *	Topic for #vim set by phy1729 (Tue Jun 28 19:48:55 2022)
+Nov 13 22:33:27 *	phinxy (~Phinxy@user/phinxy) has joined
+Nov 13 22:33:53 *	habamax (~habamax@user/habamax) has joined
+**** ENDING LOGGING AT Sun Nov 13 22:31:30 2022
+
+**** BEGIN LOGGING AT Sun Nov 13 22:31:50 2022
+
+Nov 13 22:36:55 »»	Now talking on #vim
+Nov 13 22:36:55 »»	Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+Nov 13 22:36:55 »»	Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+Nov 13 22:37:20 ---»	qq44[m] (~qq44matri@2001:470:69fc:105::2:2ab2) has Joined #vim
+Nov 13 22:38:08 ---»	jkwnki (~jkwnki@p2e579b27.dip0.t-ipconnect.de) has Joined #vim
+Nov 13 22:38:15 ---»	Lyude (~lyudess@2600:4040:5c6c:9200:22c9:6274:5673:172a) has Joined #vim
+**** ENDING LOGGING AT Sun Nov 13 22:33:05 2022
+
+**** BEGIN LOGGING AT Sun Nov 13 22:33:19 2022
+
+Nov 13 22:38:31 *	Now talking on #vim
+Nov 13 22:38:31 *	Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+Nov 13 22:38:31 *	Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+**** ENDING LOGGING AT Sun Nov 13 22:33:20 2022
+
+**** BEGIN LOGGING AT Sun Nov 13 22:35:15 2022
+
+Nov 13 22:40:26 »»	Now talking on #vim
+Nov 13 22:40:26 »»	Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+Nov 13 22:40:26 »»	Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+Nov 13 22:43:57 «---	rindolf (~shlomif@inkscape/dev/shlomif) has Quit (Read error: Connection reset by peer)
+Nov 13 22:47:09 ---»	aborazmeh (~aborazmeh@88.246.196.100) has Joined #vim
+Nov 13 22:47:47 «---	mattf1n (~matthewf@c-73-193-122-149.hsd1.wa.comcast.net) has Quit (Ping timeout: 260 seconds)
+Nov 13 22:50:15 «---	igemnace (~ian@user/igemnace) has Quit (Remote host closed the connection)
+Nov 13 22:50:45 ---»	e8v92golf (~e8v92golf@75-35-193-117.lightspeed.nsvltn.sbcglobal.net) has Joined #vim
+Nov 13 22:52:00 ---»	mattf1n (~matthewf@c-73-193-122-149.hsd1.wa.comcast.net) has Joined #vim
+Nov 13 22:53:34 «---	Elodin (~elodin@user/elodin) has Quit (Read error: Connection reset by peer)
+Nov 13 22:57:15 «---	jkwnki (~jkwnki@p2e579b27.dip0.t-ipconnect.de) has Quit (Ping timeout: 256 seconds)
+Nov 13 22:58:42 «---	catman (~catman@user/catman) has Quit (Remote host closed the connection)
+Nov 13 22:59:08 ---»	Elodin (~elodin@user/elodin) has Joined #vim
+Nov 13 22:59:23 ---»	catman (~catman@user/catman) has Joined #vim
+Nov 13 23:01:17 ---»	rindolf (~shlomif@inkscape/dev/shlomif) has Joined #vim
+Nov 13 23:01:19 «---	e8v92golf (~e8v92golf@75-35-193-117.lightspeed.nsvltn.sbcglobal.net) has Quit (Ping timeout: 260 seconds)
+Nov 13 23:05:05 ---»	jazzy (~jaziz@user/jaziz) has Joined #vim
+Nov 13 23:07:54 «---	kuri22_ (~quassel@101.87.152.181) has Quit (Ping timeout: 268 seconds)
+Nov 13 23:08:09 ---»	kuri22 (~quassel@101.87.152.181) has Joined #vim
+Nov 13 23:09:35 ---»	zer0bitz_ (~zer0bitz@196.244.192.54) has Joined #vim
+Nov 13 23:10:51 «---	zer0bitz (~zer0bitz@196.244.192.56) has Quit (Ping timeout: 256 seconds)
+Nov 13 23:19:35 ---»	jkwnki (~jkwnki@p2e579b27.dip0.t-ipconnect.de) has Joined #vim
+Nov 13 23:23:38 «---	cvmn (~caveman@gateway/tor-sasl/caveman) has Quit (Quit: cvmn)
+Nov 13 23:24:28 ---»	caveman (~caveman@gateway/tor-sasl/caveman) has Joined #vim
+Nov 13 23:24:35 «---	coot (~coot@2a02:a310:e241:1b00:ec1a:e9df:79ac:66ba) has Quit (Quit: coot)
+Nov 13 23:26:40 ---»	scan (~scan@host159.181-4-174.telecom.net.ar) has Joined #vim
+Nov 13 23:27:13 ---»	werneta (~werneta@70-142-214-115.lightspeed.irvnca.sbcglobal.net) has Joined #vim
+Nov 13 23:30:04 ---»	zeenk (~zeenk@188.25.233.172) has Joined #vim
+Nov 13 23:31:33 «---	user_____ (~user_____@199-17-95-178.pool.ukrtel.net) has Quit (Ping timeout: 260 seconds)
+Nov 13 23:33:01 «---	caveman (~caveman@gateway/tor-sasl/caveman) has Quit (Remote host closed the connection)
+Nov 13 23:34:05 «---	habamax (~habamax@user/habamax) has Quit (Ping timeout: 256 seconds)
+Nov 13 23:34:52 «---	jetchisel (~jetchisel@user/jetchisel) has Quit (Quit: Unfortunately time is always against us -- [Morpheus])
+Nov 13 23:35:00 «---	zeenk (~zeenk@188.25.233.172) has Quit (Ping timeout: 268 seconds)
+Nov 13 23:36:21 ---»	caveman (~caveman@gateway/tor-sasl/caveman) has Joined #vim
+Nov 13 23:37:47 ---»	theoceaniscool (~theoceani@207.188.139.45) has Joined #vim
+Nov 13 23:41:16 ---»	goldfish (~goldfish@user/goldfish) has Joined #vim
+Nov 13 23:42:18 ---»	jetchisel (~jetchisel@user/jetchisel) has Joined #vim
+Nov 13 23:43:01 «---	jkwnki (~jkwnki@p2e579b27.dip0.t-ipconnect.de) has Quit (Ping timeout: 268 seconds)
+Nov 13 23:48:49 «---	mattf1n (~matthewf@c-73-193-122-149.hsd1.wa.comcast.net) has Quit (Ping timeout: 256 seconds)
+Nov 13 23:50:31 «---	impulse (~impulse@cpea84e3fe992d3-cma84e3fe992d0.sdns.net.rogers.com) has Quit (Ping timeout: 256 seconds)
+Nov 13 23:50:46 ---»	impulse (~impulse@cpea84e3fe992d3-cma84e3fe992d0.sdns.net.rogers.com) has Joined #vim
+Nov 13 23:55:15 ---»	mattf1n (~matthewf@c-73-193-122-149.hsd1.wa.comcast.net) has Joined #vim
+Nov 13 23:57:53 «---	f_ (~f@fases/developer/vitali64) has Quit (Ping timeout: 256 seconds)
+Nov 14 00:00:06 «---	aJJa__ (~aJJa@2a0a:e340:1001:300::8:3) has Quit (Quit: Leaving)
+Nov 14 00:02:26 ---»	jkwnki (~jkwnki@p2e579b27.dip0.t-ipconnect.de) has Joined #vim
+Nov 14 00:05:50 «---	Enitin (Enitin@gateway/vpn/protonvpn/enitin) has Quit (Ping timeout: 268 seconds)
+Nov 14 00:06:27 «---	mattf1n (~matthewf@c-73-193-122-149.hsd1.wa.comcast.net) has Quit (Ping timeout: 268 seconds)
+Nov 14 00:08:30 ---»	Enitin (Enitin@gateway/vpn/protonvpn/enitin) has Joined #vim
+Nov 14 00:10:50 «---	randm (~randm@user/randm) has Quit (Remote host closed the connection)
+Nov 14 00:10:51 «---	grobi (~grobi@user/grobi) has Quit (Ping timeout: 260 seconds)
+Nov 14 00:11:25 ---»	randm (~randm@user/randm) has Joined #vim
+Nov 14 01:07:28 »»	Disconnected ().
+**** ENDING LOGGING AT Mon Nov 14 01:07:28 2022
+
+**** BEGIN LOGGING AT Mon Nov 14 01:10:38 2022
+
+Nov 14 01:15:50 »»	Now talking on #vim
+Nov 14 01:15:50 »»	Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+Nov 14 01:15:50 »»	Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+**** ENDING LOGGING AT Mon Nov 14 01:15:34 2022
+
+**** BEGIN LOGGING AT Mon Nov 14 01:16:06 2022
+
+Nov 14 01:21:18 »»	Now talking on #vim
+Nov 14 01:21:18 »»	Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+Nov 14 01:21:18 »»	Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+Nov 14 01:24:10 »»	Disconnected ().
+**** ENDING LOGGING AT Mon Nov 14 01:24:10 2022
+
+**** BEGIN LOGGING AT Mon Nov 14 01:28:12 2022
+
+Nov 14 01:33:24 »»	Now talking on #vim
+Nov 14 01:33:24 »»	Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+Nov 14 01:33:24 »»	Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+Nov 14 01:39:49 .:Kaedenn:.	is it possible to have different colors for different colorcolumns?
+Nov 14 01:40:36 .:romainl:.	no, there is only one highlight group
+Nov 14 01:41:18 .:Kaedenn:.	kk thanks
+Nov 14 01:55:06 »»	nstrs5 is now known as nstrs
+Nov 14 02:49:10 »»	Disconnected ().
+**** ENDING LOGGING AT Mon Nov 14 02:49:10 2022
+
+**** BEGIN LOGGING AT Mon Nov 14 02:53:45 2022
+
+Nov 14 02:58:58 »»	Now talking on #vim
+Nov 14 02:58:58 »»	Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+Nov 14 02:58:58 »»	Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+Nov 14 02:58:10 »»	Disconnected ().
+**** ENDING LOGGING AT Mon Nov 14 02:58:10 2022
+
+**** BEGIN LOGGING AT Mon Nov 14 03:01:27 2022
+
+Nov 14 03:06:39 »»	Now talking on #vim
+Nov 14 03:06:39 »»	Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+Nov 14 03:06:39 »»	Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+**** ENDING LOGGING AT Mon Nov 14 03:47:09 2022
+
+**** BEGIN LOGGING AT Mon Nov 14 14:17:18 2022
+
+Nov 14 14:22:27 »»	Now talking on #vim
+Nov 14 14:22:27 »»	Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+Nov 14 14:22:27 »»	Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+Nov 14 14:28:34 .:woland:.	is there a way to justify text without par or fmt ?
+Nov 14 14:29:04 .:woland:.	like in emacs you can do M-3 M-x fill-paragragh 
+Nov 14 14:34:32 .:lopid:.	do you mean "is there a built in way?"?
+Nov 14 14:29:37 .:woland:.	or an external command that is not par or fmt
+Nov 14 15:09:43 »»	Disconnected ().
+**** ENDING LOGGING AT Mon Nov 14 15:09:43 2022
+
+**** BEGIN LOGGING AT Mon Nov 14 15:14:15 2022
+
+Nov 14 15:19:24 »»	Now talking on #vim
+Nov 14 15:19:24 »»	Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+Nov 14 15:19:24 »»	Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+Nov 14 15:16:11 FiSHLiM plugin unloaded
+**** ENDING LOGGING AT Mon Nov 14 15:16:11 2022
+
+**** BEGIN LOGGING AT Tue Nov 15 00:47:17 2022
+
+Nov 15 00:52:29 »»	Now talking on #vim
+Nov 15 00:52:29 »»	Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+Nov 15 00:52:29 »»	Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+**** ENDING LOGGING AT Tue Nov 15 00:54:01 2022
+
+**** BEGIN LOGGING AT Tue Nov 15 00:54:01 2022
+
+**** ENDING LOGGING AT Tue Nov 15 00:54:23 2022
+
+**** BEGIN LOGGING AT Tue Nov 15 00:54:49 2022
+
+Nov 15 01:00:01 »»	Now talking on #vim
+Nov 15 01:00:01 »»	Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+Nov 15 01:00:01 »»	Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+Nov 15 01:12:59 .:lopid:.	i (lopid) visually select a big block of text, larger than the windows size. i want to do a :s/foo/bar on it whilst viewing the top of the block, but as soon as i type ":", the view jumps to the bottom of the block, even when i purposefully had put the cursor at the top. howto?
+Nov 15 01:44:37 .:jmcantrell:.	lopid: i don't see that behavior. i tried visually selecting starting at the top and bottom
+Nov 15 01:40:06 .:woland:.	I think you need to scroll way up while selecting a text from bottom to the top
+Nov 15 01:47:03 .:lopid:.	oh, right. it may be a side effect of traces.vim
+Nov 15 01:44:50 .:woland:.	yes traces would do that
+Nov 15 02:06:00 .:NorrinRadd:.	https://www.youtube.com/watch?v=3TX3kV3TICU
+Nov 15 02:04:31 .:woland:.	Ah I remember this
+Nov 15 02:48:58 »»	Disconnected ().
+**** ENDING LOGGING AT Tue Nov 15 02:48:58 2022
+
+**** BEGIN LOGGING AT Tue Nov 15 02:49:19 2022
+
+Nov 15 02:54:33 »»	Now talking on #vim
+Nov 15 02:54:33 »»	Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+Nov 15 02:54:33 »»	Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+Nov 15 03:30:58 »»	Disconnected ().
+**** ENDING LOGGING AT Tue Nov 15 03:30:58 2022
+
+**** BEGIN LOGGING AT Tue Nov 15 15:52:57 2022
+
+Nov 15 15:58:12 »»	Now talking on #vim
+Nov 15 15:58:12 »»	Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+Nov 15 15:58:12 »»	Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+**** ENDING LOGGING AT Tue Nov 15 15:53:49 2022
+
+**** BEGIN LOGGING AT Tue Nov 15 15:53:49 2022
+
+**** ENDING LOGGING AT Tue Nov 15 15:54:14 2022
+
+**** BEGIN LOGGING AT Tue Nov 15 15:54:14 2022
+
+**** ENDING LOGGING AT Tue Nov 15 15:55:40 2022
+
+**** BEGIN LOGGING AT Tue Nov 15 15:55:40 2022
+
+**** ENDING LOGGING AT Tue Nov 15 15:56:19 2022
+
+**** BEGIN LOGGING AT Tue Nov 15 15:56:19 2022
+
+**** ENDING LOGGING AT Tue Nov 15 15:56:39 2022
+
+**** BEGIN LOGGING AT Tue Nov 15 15:56:51 2022
+
+Nov 15 16:02:06 »»	Now talking on #vim
+Nov 15 16:02:06 »»	Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+Nov 15 16:02:06 »»	Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+**** ENDING LOGGING AT Tue Nov 15 15:58:25 2022
+
+**** BEGIN LOGGING AT Tue Nov 15 15:58:25 2022
+
+**** ENDING LOGGING AT Tue Nov 15 15:58:31 2022
+
+**** BEGIN LOGGING AT Tue Nov 15 15:58:43 2022
+
+Nov 15 16:03:58 »»	Now talking on #vim
+Nov 15 16:03:58 »»	Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+Nov 15 16:03:58 »»	Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+**** ENDING LOGGING AT Tue Nov 15 16:01:25 2022
+
+**** BEGIN LOGGING AT Tue Nov 15 16:01:37 2022
+
+Nov 15 16:06:53 »»	Now talking on #vim
+Nov 15 16:06:53 »»	Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+Nov 15 16:06:53 »»	Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+Nov 15 16:22:01 .:BluesBoy:.	check with the hex editor what those chars are
+Nov 15 17:11:49 .:otisolsen70:.	BluesBoy, so can I have vim search for a specific byte specified in hex?
+Nov 15 17:12:10 .:mgedmin:.	no, because vim deals with characters
+Nov 15 17:13:41 .:otisolsen70:.	So not sure why finding the bytes in a hexeditor would help.
+Nov 15 17:13:44 .:mgedmin:.	you can search for a specific character using \%x12, or \%u1234, or \%U12345678
+Nov 15 17:14:18 .:otisolsen70:.	mgedmin, \%xNN isnt that exactly what I asked for? If not, whats the difference?
+Nov 15 17:14:23 .:mgedmin:.	you can use ga on top of a character in vim to discover its code
+Nov 15 17:14:53 .:otisolsen70:.	So it says: <<94>> 148, Hex 0094, Oct 224, Digr CC
+Nov 15 17:15:06 .:otisolsen70:.	So does this mean I should be able to find it on \%x94 ?
+Nov 15 17:15:18 .:mgedmin:.	the difference is 0x85 might be in the UTF-8 representation of a particular character 'ą', but searching for /\%x85 will not let you find ą in Vim
+Nov 15 17:15:19 .:otisolsen70:.	Seems like it
+Nov 15 17:15:57 .:otisolsen70:.	Ah. I see. So in UTF8 a character might be several bytes. And specifying the byte might only match part of a char?
+Nov 15 17:16:23 .:mgedmin:.	vim can't do partial matches on a single character
+Nov 15 17:16:45 .:mgedmin:.	tl;dr a hex editor is useless if you want to find specific weird characters in vim
+Nov 15 17:16:54 .:mgedmin:.	I'm not sure why people suggested it
+Nov 15 17:21:09 .:BluesBoy:.	so he can see what exactly is in the file, he can use sed or something elese to replace the chars if he's unable to replace them in vim
+Nov 15 17:22:08 .:mgedmin:.	I'm not sure sed is going to be easier tbh
+Nov 15 17:22:36 .:mgedmin:.	line drawing becoming triplets of high chars is a sign you have UTF-8 misinterpreted as some 8-bit encoding (latin1 traditioally)
+Nov 15 17:23:46 .:mgedmin:.	this is the point where I'd start debugging vim's idea of &fileencoding (and maybe &encoding and &termencoding, just to safely make sure they're both utf-8)
+Nov 15 17:24:37 .:mgedmin:.	vim usually detects UTF-8 very nicely, but it might refuse to do that if you have a file with an ill-formed (e.g. truncated) UTF-8 character
+Nov 15 17:27:55 .:otisolsen70:.	I think there are other ill-formed chars in this file.
+Nov 15 17:28:09 .:otisolsen70:.	Problem is this file has been edited on several versions of Windows, Linux and MacOS.
+Nov 15 17:28:34 .:mgedmin:.	I think you can fix just the tree line art sections by filtering them through iconv
+Nov 15 17:23:23 FiSHLiM plugin unloaded
+**** ENDING LOGGING AT Tue Nov 15 17:23:23 2022
+
+**** BEGIN LOGGING AT Tue Nov 15 23:03:45 2022
+
+Nov 15 23:09:01 »»	Now talking on #vim
+Nov 15 23:09:01 »»	Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+Nov 15 23:09:01 »»	Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+**** ENDING LOGGING AT Tue Nov 15 23:08:37 2022
+
+**** BEGIN LOGGING AT Tue Nov 15 23:08:37 2022
+
+**** ENDING LOGGING AT Tue Nov 15 23:12:39 2022
+
+**** BEGIN LOGGING AT Tue Nov 15 23:12:39 2022
+
+**** ENDING LOGGING AT Tue Nov 15 23:12:41 2022
+
+**** BEGIN LOGGING AT Tue Nov 15 23:12:53 2022
+
+Nov 15 23:18:09 »»	Now talking on #vim
+Nov 15 23:18:09 »»	Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+Nov 15 23:18:09 »»	Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+Nov 16 00:13:42 .:mags:.	does vim use ncurses?
+Nov 16 00:14:37 .:LeoNerd:.	I don't believe so; I think it does its own thing
+Nov 16 00:14:41 .:derjanni:.	Good evening! I am currently editing a Macintosh System 7 Think C source file (just plain C). The file has the line breaks with ^M shown in vi. How do I properly switch?
+Nov 16 00:23:43 .:tirnanog:.	probably easier to use the tr(1) utility from the shell. tr '\r' '\n' < infile > outfile
+Nov 16 00:26:16 .:derjanni:.	tirnanog: I want to retain the file format and just be able to properly display it in vi and on Macintosh System 7. I'm using Think C 5.0 from 1991 to write the code and would like to be able to view the files in vi as well :)
+Nov 16 00:26:37 .:derjanni:.	If I would change the file format I could no longer compile it with Think C :)
+Nov 16 00:27:29 .:NorrinRadd:.	make a copy first so you do not accidentally overwrite it? 
+Nov 16 00:27:38 .:NorrinRadd:.	then you can do whatever you want with the copy 
+Nov 16 00:28:32 .:derjanni:.	Did that already. But do I need to convert the file whenever I transfer it between my macOS Ventura (2022) and my Macintosh System 7 (1989)?
+Nov 16 00:30:11 .:NorrinRadd:.	only thhe s7 modifies it?
+Nov 16 00:30:19 .:nickspoon:.	Are you sure that the ^M is displayed on _every_ line? Vim is normally pretty good at working out the fileformat, if you're seeing the ^M characters it often means that the line endings are inconsistent, some lines end in /n and some in /r/n
+Nov 16 00:30:35 .:tirnanog:.	you can incorporate mac into fileformats or do something like :edit ++ff=mac
+Nov 16 00:30:39 .:NorrinRadd:.	if so, the "transfer" would only happen in one direction 
+Nov 16 00:30:54 .:NorrinRadd:.	so yeah, you'd have to convert after the transfer 
+Nov 16 00:30:55 .:derjanni:.	It's on every line.
+Nov 16 00:31:07 .:tirnanog:.	nickspoon: yeah, but mac isn't defined by fileformats by default. this is a classic mac file, where the line endings are just \r.
+Nov 16 00:31:41 .:nickspoon:.	ah ok, I'll shush :D
+Nov 16 00:32:02 .:derjanni:.	Here's a screenshot of it: https://imgur.com/a/VGhtzNb
+Nov 16 00:32:18 .:tirnanog:.	yeah, I know what it is.
+Nov 16 00:32:58 .:tirnanog:.	as noted, mac is not in the fileformats list by default. that's why vim's auto-detection fails.
+Nov 16 00:33:29 .:derjanni:.	Here's the file on Macintosh System 7 with Think C: https://imgur.com/a/9tBScxn
+Nov 16 00:33:30 .:tirnanog:.	and yes, macos Ventura is OSX. that's "unix".
+Nov 16 00:33:35 .:tirnanog:.	instead of "mac".
+Nov 16 00:34:31 .:tirnanog:.	ye, there is no need to clarify the file format any further. classic macs use \r and macOS (the OS formerly known as OS X) use \n, unix style.
+Nov 16 00:35:06 .:derjanni:.	Any chance to get vim to switch to \r ?
+Nov 16 00:35:26 .:tirnanog:.	by scrolling up and re-reading?
+Nov 16 00:35:46 .:tirnanog:.	"you can incorporate mac into fileformats or do something like :edit ++ff=mac"
+Nov 16 00:36:24 .:tirnanog:.	the :edit method should be fine if you just want to do it for the current buffer on an ad-hoc basis.
+Nov 16 00:36:52 .:tirnanog:.	whereas adding it to ff in your .vimrc should make the auto-detection work (hopefully).
+Nov 16 00:37:28 .:derjanni:.	tirnanog: awesome thanks. 
+Nov 16 00:37:53 .:derjanni:.	tirnanog: what's the £ at the beginning of the file?
+Nov 16 00:37:53 .:tirnanog:.	I suppose you could also use an autocommand if the mac-format files are in a particular location.
+Nov 16 00:38:20 .:tirnanog:.	I don't know. what does the head of it look like if you run it through od -a?
+Nov 16 00:39:16 .:derjanni:.	0000000       #   d   e   f   i   n   e  ht   k   B   a   s   e   R   e
+Nov 16 00:39:24 .:tirnanog:.	hmm.
+Nov 16 00:39:42 .:tirnanog:.	I don't understand. it begins with an ascii hash/pound.
+Nov 16 00:40:23 .:tirnanog:.	truly, I have no idea.
+Nov 16 00:40:54 .:derjanni:.	any board/forum/tracker I got post this to?
+Nov 16 00:40:58 .:derjanni:.	*could*
+Nov 16 00:41:35 .:tirnanog:.	are you able to share this file in its raw form? something like termbin.com would be good.
+Nov 16 00:43:01 .:tirnanog:.	or, indeed, any file that results in the £ being shown.
+Nov 16 00:43:05 .:derjanni:.	Here it is: https://termbin.com/qtuu
+Nov 16 00:43:45 .:tirnanog:.	how curious. it happens here also.
+Nov 16 00:43:56 .:tirnanog:.	ah.
+Nov 16 00:44:04 .:nickspoon:.	is it a BOM?
+Nov 16 00:44:14 .:tirnanog:.	I don't know why but your od dump wasn't correct.
+Nov 16 00:45:41 .:derjanni:.	just did a "od -a TalkinTosh.c"
+Nov 16 00:45:56 .:derjanni:.	and then a "cat TalkinTosh.c | nc termbin.com 9999"
+Nov 16 00:46:56 .:tirnanog:.	it starts with 0xA3, according to my dump of your termbin.com paste. that's the pound sterling in iso-8859-1, among others.
+Nov 16 00:49:09 .:tirnanog:.	the genuine encoding of the file might be MacRoman, as it was known.
+Nov 16 00:49:31 .:tirnanog:.	but, even in MacRoman, 0xA3 would the pound sterling. I can't say why it's present in your source file.
+Nov 16 00:49:44 .:tirnanog:.	could even be an accident.
+Nov 16 00:51:16 .:tirnanog:.	sorry, I should have suggested something other than -a. -a strips the high bit, which wasn't helpful.
+Nov 16 00:51:28 .:nickspoon:.	It doesn't show up in on the mac though. But perhaps that's just the mac ignoring non-ascii characters?
+Nov 16 00:52:59 .:tirnanog:.	when you say mac, are you testing it yourself? you'd need something older than OS X to determine such.
+Nov 16 00:53:05 .:nickspoon:.	I'm not
+Nov 16 00:53:10 .:nickspoon:.	Just looking at the screenshots
+Nov 16 00:53:22 .:tirnanog:.	oh. I missed it. let's see.
+Nov 16 00:54:29 .:tirnanog:.	I can't see anything other than this one, which is a screenshot of vim running in macOS: https://imgur.com/a/VGhtzNb. was there another?
+Nov 16 00:54:50 .:nickspoon:.	https://imgur.com/a/9tBScxn
+Nov 16 00:54:56 .:tirnanog:.	aha. thanks.
+Nov 16 00:56:04 .:tirnanog:.	it's curious, to be sure. I wonder what it would look like if opened in TextEdit (or whatever the editor is called in System 7).
+Nov 16 00:57:09 .:tirnanog:.	assuming that's not it. I can't tell what application that is.
+Nov 16 00:57:14 .:derjanni:.	tirnanog: I think the pound sign dropped in during a conversion.
+Nov 16 00:57:26 .:tirnanog:.	ah. well, that would certainly clarify the matter.
+Nov 16 00:57:28 .:derjanni:.	Just did a fresh transfer from System7 to OSX and the GBP is gone now
+Nov 16 00:57:44 .:tirnanog:.	that makes a good deal more sense.
+Nov 16 00:57:50 .:nickspoon:.	Ah well. It was a fun mystery while it lasted.
+Nov 16 00:58:04 .:tirnanog:.	I think that it would also have shown up as a pound, if present.
+Nov 16 00:58:52 .:tirnanog:.	this begets an interesting question, though. will vim need to be told to use MacRoman? can it, even? the 'high' characters are not the same as iso-8859-1.
+Nov 16 00:59:28 .:tirnanog:.	(hoping for an actual vim wizard to step in at this point)
+Nov 16 00:59:49 .:romainl:.	:h encoding-values
+Nov 16 00:59:50 .:digmbot:.	:help encoding-values -> http://vimhelp.appspot.com/mbyte.txt.html#encoding-values
+Nov 16 01:00:12 .:tirnanog:.	it's supported then. good.
+Nov 16 01:01:00 .:derjanni:.	I just added a comment like /* this was written with vim */ into the C source file, transfered it to the Unix fileshare, opened it on System7 with Think C and the machine shutsdown with a critical fault *lol*
+Nov 16 01:01:12 .:derjanni:.	It still can be opened in SimpleText though :D
+Nov 16 01:01:35 .:derjanni:.	How on earth did Macintosh System7 programmers get their stuff properly onto Unix machines in 1989?
+Nov 16 01:01:41 -Notice-	{from SaslServ} woland_!~woland@static.247.176.55.162.clients.your-server.de has just authenticated as you (woland)
+Nov 16 01:01:55 .:romainl:.	they didn't care
+Nov 16 01:03:31 .:derjanni:.	Probably one of the thousands of reasons they killed the Macintosh System and replaced it with BSD OSX
+Nov 16 01:03:33 .:romainl:.	no one did
+Nov 16 01:04:34 .:tirnanog:.	there's no memory protection, which doesn't help matters.
+Nov 16 01:04:50 .:tirnanog:.	even windows 3.1 had better memory management.
+Nov 16 01:05:18 .:romainl:.	and yet it was very successful
+Nov 16 01:05:30 .:romainl:.	not in every market, of course
+Nov 16 01:06:52 .:derjanni:.	I know it sounds silly and this is from a vintage programming enthusiast: how do we maintain old Macintosh code bases?
+Nov 16 01:07:16 .:romainl:.	the system still works
+Nov 16 01:07:18 .:derjanni:.	I committed the stuff into a Git repository and it's essentially a oneliner :D
+Nov 16 01:07:21 .:romainl:.	the apps still work
+Nov 16 01:07:58 .:derjanni:.	So if I write new "old apps" like I do at the moment, I would probably have to convert them with a pre-commit hook
+Nov 16 01:08:55 -Notice-	{from SaslServ} woland1!~woland@static.247.176.55.162.clients.your-server.de has just authenticated as you (woland)
+Nov 16 01:09:02 .:romainl:.	If I were to write apps for system 7 I would use the hardware and the software of the era
+Nov 16 01:10:02 .:romainl:.	and also the programming paradigms, etc.
+Nov 16 01:10:08 .:derjanni:.	I have the hw and sw of that era and programming works fine in Basilisk II (68k emu) on my macOS Ventura host system. But I would like to be able to share it with the outside world :)
+Nov 16 01:10:36 .:romainl:.	do it like in the old days
+Nov 16 01:10:46 .:derjanni:.	Plus, although I have a lot of love for vintage machines, I refuse to version my code with v1_final_final_final file patterns ;)
+Nov 16 01:10:49 .:nickspoon:.	inb4 romainl suggests mailing floppies...
+Nov 16 01:11:16 .:derjanni:.	nickspoon: people could also dial in to my machine with their modem ;)
+Nov 16 01:11:36 .:derjanni:.	But they need to ensure that their VoIP provider allows modem/fax which only a few do.
+**** ENDING LOGGING AT Wed Nov 16 01:07:14 2022
+
+**** BEGIN LOGGING AT Wed Nov 16 01:33:28 2022
+
+Nov 16 01:38:44 »»	Now talking on #vim
+Nov 16 01:38:44 »»	Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+Nov 16 01:38:44 »»	Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+Nov 16 01:40:53 .:mehwork:.	in the case of fugitive i'm not seeing a difference between using :bw or :bd but :q can be annoying if i'm in a location list or something
+Nov 16 01:41:37 .:nickspoon:.	mehwork: the difference is that after :bd the buffer will still show up in  :ls!
+Nov 16 01:44:42 .:mehwork:.	ah, i usually use :ls without the ! 
+Nov 16 01:44:53 .:nickspoon:.	Yeah that's the idea
+Nov 16 01:45:08 .:nickspoon:.	But deleted buffers which haven't been wiped can still be found with ls!
+Nov 16 01:45:18 .:mehwork:.	i see
+**** ENDING LOGGING AT Wed Nov 16 01:40:42 2022
+
+**** BEGIN LOGGING AT Wed Nov 16 11:28:22 2022
+
+Nov 16 11:33:39 »»	Now talking on #vim
+Nov 16 11:33:39 »»	Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+Nov 16 11:33:39 »»	Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+**** ENDING LOGGING AT Wed Nov 16 11:28:40 2022
+
+**** BEGIN LOGGING AT Wed Nov 16 11:29:07 2022
+
+Nov 16 11:34:24 »»	Now talking on #vim
+Nov 16 11:34:24 »»	Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+Nov 16 11:34:24 »»	Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+**** ENDING LOGGING AT Wed Nov 16 11:30:33 2022
+
+**** BEGIN LOGGING AT Wed Nov 16 11:30:46 2022
+
+Nov 16 11:36:02 »»	Now talking on #vim
+Nov 16 11:36:02 »»	Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+Nov 16 11:36:02 »»	Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+**** ENDING LOGGING AT Wed Nov 16 11:37:11 2022
+
+**** BEGIN LOGGING AT Wed Nov 16 11:37:25 2022
+
+Nov 16 11:42:42 »»	Now talking on #vim
+Nov 16 11:42:42 »»	Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+Nov 16 11:42:42 »»	Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+**** ENDING LOGGING AT Wed Nov 16 12:54:31 2022
+
+**** BEGIN LOGGING AT Wed Nov 16 12:54:31 2022
+
+**** ENDING LOGGING AT Wed Nov 16 12:55:12 2022
+
+**** BEGIN LOGGING AT Wed Nov 16 12:55:12 2022
+
+**** ENDING LOGGING AT Wed Nov 16 12:55:26 2022
+
+**** BEGIN LOGGING AT Wed Nov 16 12:55:26 2022
+
+**** ENDING LOGGING AT Wed Nov 16 12:55:46 2022
+
+**** BEGIN LOGGING AT Wed Nov 16 12:55:46 2022
+
+**** ENDING LOGGING AT Wed Nov 16 12:55:57 2022
+
+**** BEGIN LOGGING AT Wed Nov 16 12:55:57 2022
+
+Nov 16 13:38:22 .:moshe:.	habamax: romainl: hey can one of you guys look something up for me ? using quiet on files that don't have a syntax file, the terminal's fg color bleeds through until [insert even that forces vim to repaint part or all of the screen]. I'm seeing this with both xterm and urxvt. Doesn't happen with tmux in between.
+Nov 16 13:43:39 .:habamax:.	exact steps to do?
+Nov 16 13:46:28 .:habamax:.	moshe: I don't get it, works just fine in st and gnome-terminal and xterm
+Nov 16 13:49:00 .:habamax:.	I can see urxvt is bad with termguicolors where light background is half-painted
+Nov 16 14:05:12 .:moshe:.	habamax: xterm -fg red then open up a random file
+Nov 16 14:05:35 .:moshe:.	vim reports t_Co=256 in both cases
+Nov 16 14:06:51 .:habamax:.	http://0x0.st/oIe_.png
+Nov 16 14:07:46 .:habamax:.	works fine
+Nov 16 14:08:11 .:habamax:.	what I do: vim -Nu NONE, start typing -- see it red
+Nov 16 14:08:25 .:habamax:.	then do :colo quiet and it turns white
+Nov 16 14:13:05 .:habamax:.	also works fine with vim -Nu NONE +"colo quiet" somefile
+Nov 16 14:14:30 .:moshe:.	vim -u NONE file = foreground color leaks through
+Nov 16 14:14:36 .:moshe:.	let me check in xterm
+Nov 16 14:15:01 .:moshe:.	same
+Nov 16 14:15:50 .:habamax:.	with default colorscheme -- it is for sure
+Nov 16 14:16:00 .:moshe:.	yeah not sure if that's right tho, but probably is
+Nov 16 14:16:14 .:habamax:.	it has Normal defined as ctermfg=NONE ctermbg=NONE
+Nov 16 14:16:30 .:moshe:.	thanks OBrama
+Nov 16 14:16:36 .:romainl:.	hehe
+Nov 16 14:17:12 .:moshe:.	I'm on 9.0.887 btw
+Nov 16 14:17:31 .:habamax:.	same
+Nov 16 14:18:03 .:habamax:.	quiet works as expected, default works as expected too :)
+Nov 16 14:18:37 .:moshe:.	time to crawul my .vimrc, I already checked scriptnames
+Nov 16 14:19:39 .:habamax:.	moshe: check your colors override
+Nov 16 14:21:22 .:moshe:.	String, Special, helpHyperTextJump
+Nov 16 14:23:19 .:moshe:.	literally everything is commented out except colorscheme quiet, still doing it
+Nov 16 14:28:31 .:habamax:.	moshe: https://i.imgur.com/2sKsk6n.mp4
+Nov 16 14:42:13 .:jmosco:.	darn it, kept getting dissed all night and dont have history
+Nov 16 14:46:53 .:moshe:.	habamax: only happens on files that already exist
+Nov 16 14:47:31 .:moshe:.	and doesn't happen loading quiet manually
+Nov 16 14:48:50 .:habamax:.	moshe: I did it with existing file
+Nov 16 14:50:11 .:jmosco:.	is there a way to extend gf to add a prefix to the file that I want to open ?  I asked last night but don't know if there were any responses since I got booted all night :(
+Nov 16 14:50:34 .:romainl:.	see :h includeexpr
+Nov 16 14:50:34 .:digmbot:.	:help includeexpr -> http://vimhelp.appspot.com/options.txt.html#%27includeexpr%27
+Nov 16 14:54:59 .:jmosco:.	ah nice!  Ok, this is a good start.  I need to have a way to take a var, say $var, and expand that to a path and add it to the file to be opened
+Nov 16 15:37:40 .:jmosco:.	im trying to do a substitute, but no matter where I am in the project, it needs to add a directory that is at the top level
+Nov 16 15:37:46 .:jmosco:.	E116: Invalid arguments for function substitute(substitute(v:fname,‘^$var: ’,’value’,‘’)
+Nov 16 15:37:46 .:jmosco:.	E447: Can’t find file “/cloud/data/test.yml” in path
+Nov 16 15:38:10 .:jmosco:.	the line looks like this: $var: /cloud/data/test.yml
+Nov 16 15:39:28 .:jmosco:.	trying to get gf to open the file starting at the root of the project, ex: prepend value to the file to create value/cloud/data/test.yml
+Nov 16 15:39:32 .:jmosco:.	seems tricky
+Nov 16 15:56:58 .:osse:.	jmosco: :h includeexpr
+Nov 16 15:56:58 .:digmbot:.	:help includeexpr -> http://vimhelp.appspot.com/options.txt.html#%27includeexpr%27
+Nov 16 15:58:10 .:jmosco:.	trying that, just confusing when trying to start at the root of the project im working in
+Nov 16 15:58:56 .:osse:.	what is confusing?
+Nov 16 16:00:00 .:jmosco:.	well, when I need the expression to substitute to the root of the project, how would that look?  Sometimes its a few dirs in, so '../../value' would not work, so it would have to start at the project root
+Nov 16 16:04:35 .:jmosco:.	hopefully I am explaining this correctly
+Nov 16 16:10:32 .:osse:.	jmosco: includeexpr doesn't have to be just a substitute(). It can be your own function where can look for files, cd up, search, whatever. 
+Nov 16 16:10:43 .:osse:.	*where you can
+Nov 16 16:11:04 .:osse:.	you can even return the correct file name as an absolute path, AFAIK
+Nov 16 16:13:13 .:jmosco:.	ok, I think I follow.  I have 2 places where I need to look that are defined by a variable, so $var1 would need to expand to the project root, and $var2 would be another repo/project to look in
+Nov 16 16:13:19 .:jmosco:.	sounds like a function I guess
+Nov 16 16:44:18 .:moshe:.	habamax: still working on figuring the  exact conditions, but it could be similar to the bg thing we reported a while ago
+Nov 16 17:18:52 .:woland:.	is there an advantage in select-mode vs visual-mode ? Im reading the :h select-mode and dont see what the point is
+Nov 16 17:24:10 .:digmbot:.	:help select-mode -> http://vimhelp.appspot.com/visual.txt.html#Select-mode
+Nov 16 17:27:02 .:LeoNerd:.	It's to simulate what Windows apps tend to do with selected text
+Nov 16 17:23:39 .:woland:.	LeoNerd: they behave the same tho, you can also use S-arrow keys to select test in visual-mode
+Nov 16 17:23:55 .:woland:.	text*
+Nov 16 17:29:14 .:LeoNerd:.	Try typing over the text
+Nov 16 17:24:38 .:woland:.	ah ok so it replaces the highlighted text
+Nov 16 17:29:04 .:woland:.	on another note, can someone tell me what is that gibberish I see after #! in my shell scripts in vim?
+Nov 16 17:29:06 .:woland:.	https://0x0.st/oI_-.png
+Nov 16 17:39:51 <moshe>	woland: escape sequences related to 24bit colors.
+Nov 16 17:36:26 .:woland:.	moshe: is there a way to make them go away?
+Nov 16 17:36:47 .:woland:.	is it because of my terminal or vim's colorscheme?
+Nov 16 17:42:51 .:m_ben:.	does it show up when you open the file with vim --clean?
+Nov 16 17:42:57 <m_ben>	woland: ^
+Nov 16 17:38:07 .:woland:.	m_ben: no it doesn't 
+Nov 16 17:44:29 .:m_ben:.	have you set termguicolors in your vimrc? does your terminal even support true colors? which one do you use? do you run vim inside tmux?
+Nov 16 17:43:30 .:woland:.	m_ben: I have this bit in my vimrc https://0x0.st/oI_N.txt
+Nov 16 17:43:40 .:woland:.	using xterm 
+Nov 16 17:43:42 .:woland:.	no tmux
+Nov 16 17:44:02 .:woland:.	its the same in xfce terminal
+Nov 16 17:44:46 .:woland:.	but its ok in konsole, ig because its truecolor 
+Nov 16 17:53:33 .:moshe:.	assuming truecolor is going to work because TERM contains 256color is dumb
+Nov 16 17:55:09 .:moshe:.	both because it's just dumb in and of itself, and because you basically can't trust half of the emulators out there to report themselves properly anyway
+Nov 16 17:50:28 .:woland:.	moshe: I took this bit from a vim conference, I didn't write it. 
+Nov 16 17:55:50 .:moshe:.	xterm doesn't do truecolor, konsole seems to.
+Nov 16 17:56:01 <moshe>	that was my assumption woland 
+Nov 16 17:56:19 .:LeoNerd:.	xterm doesn't actually do 24bit colour but I think recent ones will parse the SGR sequence anyway and try to pick the closest match in the palette
+Nov 16 17:51:07 .:woland:.	how can I work around this tho? cause without it the colors become weird
+Nov 16 17:59:31 .:moshe:.	either use a terminal emulator that can actually deal with 24 bit colors, or rip this out of your .vimrc and get used to 256c
+Nov 16 18:00:20 .:moshe:.	I did the latter a few years ago myself
+Nov 16 17:55:19 .:woland:.	or ignore escape sequence :} 
+Nov 16 18:00:48 .:moshe:.	that is not a possibility
+Nov 16 18:01:11 .:moshe:.	this is eventually going to spam your display in random places
+Nov 16 17:56:13 .:woland:.	alacritty seems to display it alright too. 
+Nov 16 17:56:55 .:woland:.	moshe: yea all my shell scripts have this garbage all around them now that I checked 
+Nov 16 18:19:44 <m_ben>	woland: you could add a check if $COLORTERM is set to 'truecolor' before enabling 'termguicolors'. both xfce4-terminal and alacritty set COLORTERM
+Nov 16 18:21:06 .:m_ben:.	LeoNerd: what happened to pangoterm, is it still being developed?
+Nov 16 18:28:56 .:woland:.	m_ben: thanks
+Nov 16 18:40:35 .:LeoNerd:.	m_ben: nothing "happened" to it.. it's exactly where it's always been. it's current, yes.
+Nov 16 18:46:20 .:m_ben:.	LeoNerd: any chance you will switch to git in the future? my distro's package manager doesn't even provide bazaar anymore
+Nov 16 18:58:26 .:woland:.	right! adding this XTerm.termName: xterm-truecolor to .Xresources solved the problem
+Nov 16 18:58:39 .:woland:.	no more gibberish 
+Nov 16 20:01:16 .:LeoNerd:.	(bah m_ben has disappeared so I can't reply)
+Nov 16 20:02:07 .:igemnace:.	argh. was gonna ask what distro as well, breezy looks to be fairly active still
+Nov 16 20:04:28 .:mehwork:.	a plugin i use says you should disable netrw, but if i do it breaks fugitive's :GBrowse. Are there common workarounds. Why does :GBrowse even care about netrw?
+Nov 16 20:08:17 .:dza:.	mehwork: which plugin? mby it overrides url patterns, it is possible to override patterns in netrw by redefining the BufRead autocmd events, but its not straight-forward and you need to create regex exclusion
+Nov 16 22:22:27 .:mangoman:.	How can I bind 'K' to open a manual page for the word under the cursor in a vertical split?  At the moment it opens it up in a horizontal split.  I've been trying to map 'K' to `:vert Man <manual>` but I'm not sure how to get the text under the cursor via the command-line thingy
+Nov 16 22:24:17 .:dza:.	mangoman: :h cword
+Nov 16 22:24:17 .:digmbot:.	:help cword -> http://vimhelp.appspot.com/cmdline.txt.html#%3Ccword%3E
+Nov 16 22:25:17 .:dza:.	:vs | :h works
+Nov 16 22:25:17 .:digmbot:.	:help works -> http://vimhelp.appspot.com/workshop.txt.html#workshop
+Nov 16 22:25:57 .:mangoman:.	dza: I saw cword, but I'm not sure how to use it.  I tried the following but I'm not really familiar with vim command stuff: `:vert Man =expand('<cword>')`
+Nov 16 22:26:33 .:dza:.	:vs | :h expand('<cword>')
+Nov 16 22:32:05 .:mangoman:.	I'm not quite sure what you're getting at.  Maybe I'm not reading it properly but the help page isn't really helping me
+Nov 16 22:32:26 .:mangoman:.	I know I can use expand() to get the word under the cursor, but I'm not familiar with the syntax enough to know how to pass it as an argument to Man
+Nov 16 22:51:39 .:dza:.	you can press <c-r> and use =expand but as I understood you wanted to create a mapping?
+Nov 16 23:11:25 .:jmosco:.	trying to get gf to work opening a file from a file that has '$var: /path/to/file', so I tried this: set includeexpr=substitute(v:fname,'\$var:\ ','info','')
+Nov 16 23:11:42 .:jmosco:.	hoping it would create: info/path/to/file
+Nov 16 23:17:46 .:igemnace:.	jmosco: look into :h 'isfname
+Nov 16 23:17:46 .:digmbot:.	:help 'isfname -> http://vimhelp.appspot.com/options.txt.html#%27isfname%27
+Nov 16 23:18:02 .:igemnace:.	have to go, good luck
+Nov 16 23:25:37 .:jmosco:.	ok, thanks
+Nov 17 02:48:43 »»	Disconnected ().
+**** ENDING LOGGING AT Thu Nov 17 02:48:43 2022
+
+**** BEGIN LOGGING AT Thu Nov 17 02:49:03 2022
+
+Nov 17 02:54:22 »»	Now talking on #vim
+Nov 17 02:54:22 »»	Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+Nov 17 02:54:22 »»	Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+Nov 17 02:55:09 .:Kaedenn:.	I'm trying to write a script that'll fold Lua functions, which begin with `\(local \)\?function[ ]\?(.*)` and end with `end`. Unfortunately, several other statements end with `end`. However! The `end` I'm after has the `luaFunction` highlight group. How do I fold based on a highlight group?
+Nov 17 02:56:04 .:Kaedenn:.	Basically, find every instance of `\<function\>` and fold until the matching instance of `\<end\>` with highlight group `luaFunction`
+Nov 17 02:56:29 .:Kaedenn:.	Functions _can_ be nested, but I never deal with code that leverages that.
+Nov 17 02:57:32 .:Kaedenn:.	The syntax file does not define proper { } regions for these functions though
+Nov 17 02:58:27 .:Kaedenn:.	...I mean % support, not { and } support, sorry
+Nov 17 03:17:16 .:Kaedenn:.	...I just had to add `fold` to some of the regions
+Nov 17 03:17:44 .:Kaedenn:.	Does `syn region luaFunction fold` add folding to an existing region, or can regions not be modified?
+Nov 17 03:18:25 .:Kaedenn:.	That gives me "not enough arguments"; is there a way to add an attribute to an existing region?
+Nov 17 03:26:33 .:nickspoon:.	Kaedenn: set foldmethod=syntax
+Nov 17 03:26:51 .:Kaedenn:.	yeah I added `fold` to the regions I care about in lua.vim and set that
+Nov 17 05:00:13 »»	Disconnected ().
+**** ENDING LOGGING AT Thu Nov 17 05:00:13 2022
+
+**** BEGIN LOGGING AT Thu Nov 17 05:04:10 2022
+
+Nov 17 05:09:29 »»	Now talking on #vim
+Nov 17 05:09:29 »»	Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+Nov 17 05:09:29 »»	Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+Nov 17 06:08:12 .:mehwork:.	Any idea why this has a delay before switching windows:  nnoremap <Leader>w <C-w>w
+Nov 17 06:09:56 .:mehwork:.	oh probably because i had one other map that did  <Leader>wz  and having to characters waits
+Nov 17 06:10:42 .:nickspoon:.	yeah
+Nov 17 06:10:51 .:mehwork:.	yeah that's why. It's fine if i change it to <Leader>W but i don't wanna :[ hmm
+Nov 17 06:11:11 .:mehwork:.	guess this is a good case for that secondary , mapping we talked about yesterday
+Nov 17 06:11:16 .:nickspoon:.	You can generally find out by running  :nmap <Leader>   or   :nmap <Leader>w   in a vim session to see what mappings start with that
+Nov 17 06:12:45 .:nickspoon:.	I have a few mappings "namespaces" I use for different things. Like all language server mappings (go to implementation, hover, format etc) all start with <space>l and all highlighting mappings start with <space>h
+Nov 17 06:17:25 .:mehwork:.	what do you mean by (go to implementation, hover, format etc)?
+Nov 17 07:18:35 .:nickspoon:.	mehwork: I just meant various functionality that language services give you. go-to-definition, find-usages, code-actions/fixes, that kind of thing
+Nov 17 07:28:33 .:boey89:.	:help
+Nov 17 08:50:18 .:moldorcoder7:.	hi what does this regex mean i vim : \v<\d%(_?\d)*
+Nov 17 08:50:28 .:moldorcoder7:.	i dont undrestand this super magic part : \v
+Nov 17 09:00:56 .:emanuele6:.	moldorcoder7: it means that all characters after it except '0'-'9', 'a'-'z', 'A'-'Z' and '_' have special meaning ... VERY MAGIC!
+Nov 17 09:01:18 .:emanuele6:.	in other words, it is equivalent to  \<\d\%\(_\?\d\)*
+Nov 17 09:02:13 .:habamax:.	matches digits like 9 or 9_9 or 9999_99 etc
+Nov 17 09:03:06 .:emanuele6:.	and it is probably missing a > at the end
+Nov 17 09:04:13 .:moldorcoder7:.	emanuele6, the < and % becomes something special right  in vim syntax when using \v
+Nov 17 09:05:23 .:emanuele6:.	say you have a regex like    foo_\(bar\|zab\)    that is a vim regex that matches either foo_bar or foo_zab
+Nov 17 09:05:42 .:emanuele6:.	using \v, you can write it as   \vfoo_(bar|zab)
+Nov 17 09:06:42 .:moldorcoder7:.	yes i understood that part , but < and % still mean only < and % or something special ala vim 
+Nov 17 09:07:08 .:emanuele6:.	% doesn't, i added that backslash by mistake
+Nov 17 09:07:24 .:habamax:.	% is to not capture the ()
+Nov 17 09:07:24 .:emanuele6:.	in vim regexp, \< indicates the start of a word
+Nov 17 09:07:44 .:moldorcoder7:.	habamax, ha ok :)
+Nov 17 09:07:53 .:moldorcoder7:.	im used to (?:
+Nov 17 09:07:56 .:emanuele6:.	oh, nevermind \% is special in vim yes
+Nov 17 09:07:59 .:moldorcoder7:.	ok thanks a lot  
+Nov 17 09:08:15 .:habamax:.	moldorcoder7: that's python, here it is vim :)
+Nov 17 09:09:40 .:moldorcoder7:.	yeah :)
+Nov 17 09:10:18 .:emanuele6:.	so it is equivalent to \<\d\%(_\?\d\)*   (which you would write in python/perl regexps as  \b\d(?:_?\d)*  )
+Nov 17 09:10:38 .:moldorcoder7:.	yes got it thanks 
+Nov 17 09:12:01 .:moldorcoder7:.	dunno how i missed that vim had so much custom regexp for so long :)
+Nov 17 09:24:42 .:Nintendo:.	Anyone know how long bash has been a filetype?  It always used to be sh... so is it OK to put ft=bash in a modeline?  (It's not distro-specific, for example, right?)
+Nov 17 09:25:52 .:no_gravity:.	Is there a way to colorize all css values? So that in "display: flex" and "padding: 10px" the color of "flex" and "10px" is both orange?
+Nov 17 09:29:40 .:emanuele6:.	Nintendo: that is a weird question. the sh syntax file is used for many shells (generic POSIX sh shell, bash shell, ksh shell). the bash, and ksh filetypes are wrappers around the sh syntax file that set a configuration that tells the sh syntax file it should highlight bash extensions, etc (same for the ksh file). here is the bash syntax file for example http://0x0.st/oIJh.txt
+Nov 17 09:30:22 .:emanuele6:.	i am quite sure that the bash syntax file is not a new addition, and the sh syntax files have been factored this way for a long time
+Nov 17 09:30:42 .:Nintendo:.	Good.  Thank you!
+Nov 17 09:31:19 .:habamax:.	no_gravity, https://github.com/vim/colorschemes/wiki/How-to-override-a-colorscheme%3F
+Nov 17 09:33:04 .:no_gravity:.	habamax: I know how to override a single one. Like ":hi cssValueLength ctermfg=254". But there are trilllions of these css value types. I wonder if I set them *all* to orange in one go.
+Nov 17 09:33:23 .:habamax:.	https://asciinema.org/a/BxzmuXDdvvlQ3YubBanYfQsP4
+Nov 17 09:33:39 .:Nintendo:.	no_gravity, it actually already looks that way on 9.0 for me.
+Nov 17 09:34:13 .:no_gravity:.	Nintendo: Well, I want to change the color. My values are all magentaish which looks ugly.
+Nov 17 09:35:00 .:Nintendo:.	Ahh, then what habamax said.  Start by running :hi to see the groups.
+Nov 17 09:35:08 .:no_gravity:.	habamax: Cool video! Yes, I did the same. But it would take ages to do it for all types of values.
+Nov 17 09:35:26 .:no_gravity:.	Nintendo: But there are an insane number of these value types. It would take ages.
+Nov 17 09:36:06 .:Nintendo:.	More than 300?
+Nov 17 09:36:07 .:habamax:.	no_gravity: I have changed all of them in the end of the vid
+Nov 17 09:36:18 .:no_gravity:.	habamax: Oh, let me check ...
+Nov 17 09:36:23 .:habamax:.	they seem to be linked to a Constant
+Nov 17 09:38:08 .:no_gravity:.	habamax: Nice. I wonder if that will have side effects in other languages?
+Nov 17 09:38:45 .:habamax:.	all constants would be of that color you will define
+Nov 17 09:38:52 .:habamax:.	"constants"
+Nov 17 09:40:34 .:no_gravity:.	habamax: Yes, turns out it colorizes PHP_VERSION in PHP :) Which is good, because it also was magenta befre.
+Nov 17 09:40:37 .:no_gravity:.	before
+Nov 17 09:40:43 .:no_gravity:.	habamax: Thanks a lot! Very cool!
+Nov 17 09:42:04 .:no_gravity:.	habamax: How did you find out it is "constant"?
+Nov 17 09:42:16 .:habamax:.	that is in the vid
+Nov 17 09:42:38 .:Nintendo:.	Lol, if you don't like your magenta, change it in terminal settings.
+Nov 17 09:43:10 .:habamax:.	just did :hi css
+Nov 17 09:43:15 .:habamax:.	:hi cssColor
+Nov 17 09:44:03 .:no_gravity:.	habamax: I see. Thanks!
+Nov 17 09:46:25 .:no_gravity:.	I have the feeling I will colorize it the same as "Statement".
+Nov 17 09:46:48 .:no_gravity:.	Both signalling to me "The language recognizes this thing"
+Nov 17 09:50:43 »»	Disconnected ().
+**** ENDING LOGGING AT Thu Nov 17 09:50:43 2022
+
+**** BEGIN LOGGING AT Thu Nov 17 09:54:10 2022
+
+Nov 17 09:59:28 »»	Now talking on #vim
+Nov 17 09:59:28 »»	Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+Nov 17 09:59:28 »»	Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+Nov 17 13:27:44 »»	Disconnected ().
+**** ENDING LOGGING AT Thu Nov 17 13:27:44 2022
+
+**** BEGIN LOGGING AT Thu Nov 17 13:31:50 2022
+
+Nov 17 13:37:09 »»	Now talking on #vim
+Nov 17 13:37:09 »»	Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+Nov 17 13:37:09 »»	Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+Nov 17 15:45:25 .:woland:.	compiling vim, cant find "CONF_OPT_PYTHON3 = --enable-python3interp" in the Makefile
+Nov 17 16:26:27 .:romainl:.	habamax: do you still have access to a windows machine with windows terminal?
+Nov 17 19:30:14 »»	Disconnected ().
+**** ENDING LOGGING AT Thu Nov 17 19:30:14 2022
+
+**** BEGIN LOGGING AT Thu Nov 17 19:34:20 2022
+
+Nov 17 19:39:39 »»	Now talking on #vim
+Nov 17 19:39:39 »»	Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+Nov 17 19:39:39 »»	Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+**** ENDING LOGGING AT Thu Nov 17 19:59:54 2022
+
+**** BEGIN LOGGING AT Thu Nov 17 22:10:36 2022
+
+Nov 17 22:15:55 »»	Now talking on #vim
+Nov 17 22:15:55 »»	Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+Nov 17 22:15:55 »»	Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+Nov 17 23:02:05 .:nickspoon:.	dza: hey are you about?
+Nov 17 23:03:30 .:nickspoon:.	https://github.com/vim/vim/pull/11562  <-  Should this translation be  "patchet af"  or  "patched af"?
+Nov 17 23:23:17 .:dza:.	nickspoon: sure
+Nov 17 23:24:56 .:dza:.	patched would definetily be what danes opt for .. lol @scooterpig username
+Nov 17 23:25:13 .:nickspoon:.	Ah OK good to know, cheers
+Nov 17 23:25:49 .:nickspoon:.	Yeah scootergrisen was in here discussing it when they went through a couple of years ago and added all the translations
+Nov 17 23:22:44 »»	Disconnected ().
+**** ENDING LOGGING AT Thu Nov 17 23:22:44 2022
+
+**** BEGIN LOGGING AT Fri Nov 18 12:05:42 2022
+
+Nov 18 12:11:03 »»	Now talking on #vim
+Nov 18 12:11:03 »»	Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+Nov 18 12:11:03 »»	Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+Nov 18 12:27:21 .:habamax:.	romainl: I have windows, but you already know it :-)
+Nov 18 12:28:09 .:romainl:.	yeah, wasn't sure if the switch to some linux distro was a "no turning back" thing or not
+Nov 18 12:28:50 .:habamax:.	the switch is on my own laptop, corp is on win
+Nov 18 12:29:06 .:romainl:.	OK
+Nov 18 12:30:34 .:habamax:.	I wonder where those gvim came from -- it didn't show patchlevel in :version
+Nov 18 12:32:19 .:romainl:.	hmm there is a compiled by string IIRC
+Nov 18 12:33:48 .:romainl:.	but it was the same as yours
+Nov 18 12:34:07 .:romainl:.	no idea
+**** BEGIN LOGGING AT Sun Nov 20 16:23:52 2022
+
+Nov 20 16:29:16 »»	Now talking on #vim
+Nov 20 16:29:16 »»	Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+Nov 20 16:29:16 »»	Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+**** ENDING LOGGING AT Sun Nov 20 17:52:19 2022
+
+**** BEGIN LOGGING AT Mon Nov 21 22:21:10 2022
+
+Nov 21 22:26:36 »»	Now talking on #vim
+Nov 21 22:26:36 »»	Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+Nov 21 22:26:36 »»	Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+**** ENDING LOGGING AT Mon Nov 21 22:33:07 2022
+
+**** BEGIN LOGGING AT Tue Nov 22 01:10:12 2022
+
+Nov 22 01:15:38 »»	Now talking on #vim
+Nov 22 01:15:38 »»	Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+Nov 22 01:15:38 »»	Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+**** ENDING LOGGING AT Tue Nov 22 02:17:11 2022
+
+**** BEGIN LOGGING AT Sat Nov 26 02:05:12 2022
+
+Nov 26 02:10:41 »»	Now talking on #vim
+Nov 26 02:10:41 »»	Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+Nov 26 02:10:41 »»	Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+**** ENDING LOGGING AT Sat Nov 26 02:20:36 2022
+
+**** BEGIN LOGGING AT Sat Nov 26 04:55:17 2022
+
+Nov 26 05:00:46 »»	Now talking on #vim
+Nov 26 05:00:46 »»	Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+Nov 26 05:00:46 »»	Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+**** ENDING LOGGING AT Sat Nov 26 05:38:25 2022
+
+**** BEGIN LOGGING AT Wed Nov 30 04:50:23 2022
+
+Nov 30 04:55:56 »»	Now talking on #vim
+Nov 30 04:55:56 »»	Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+Nov 30 04:55:56 »»	Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+**** ENDING LOGGING AT Wed Nov 30 05:06:07 2022
+
+**** BEGIN LOGGING AT Fri Dec  2 02:45:13 2022
+
+Dec 02 02:50:50 »»	Now talking on #vim
+Dec 02 02:50:50 »»	Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+Dec 02 02:50:50 »»	Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+Dec 02 02:48:33 »»	Disconnected ().
+**** ENDING LOGGING AT Fri Dec  2 02:48:33 2022
+
+**** BEGIN LOGGING AT Fri Dec  2 02:48:53 2022
+
+Dec 02 02:54:31 »»	Now talking on #vim
+Dec 02 02:54:31 »»	Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+Dec 02 02:54:31 »»	Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+Dec 02 02:57:33 »»	Disconnected ().
+**** ENDING LOGGING AT Fri Dec  2 02:57:33 2022
+
+**** BEGIN LOGGING AT Fri Dec  2 03:05:08 2022
+
+Dec 02 03:10:46 »»	Now talking on #vim
+Dec 02 03:10:46 »»	Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+Dec 02 03:10:46 »»	Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+**** ENDING LOGGING AT Fri Dec  2 03:25:13 2022
+
+**** BEGIN LOGGING AT Fri Dec  2 19:34:58 2022
+
+Dec 02 19:40:36 »»	Now talking on #vim
+Dec 02 19:40:36 »»	Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+Dec 02 19:40:36 »»	Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+**** ENDING LOGGING AT Fri Dec  2 19:36:22 2022
+
+**** BEGIN LOGGING AT Fri Dec  2 19:36:57 2022
+
+Dec 02 19:42:35 »»	Now talking on #vim
+Dec 02 19:42:35 »»	Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+Dec 02 19:42:35 »»	Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+Dec 02 20:07:41 .:choice112:.	Hello I am using nvim with omnisharp-vim and I am not getting warned on some errors such as not returning a value in a non-void func or setting a string value in an int variable. how can I fix this?
+Dec 02 20:08:16 .:lopid:.	#neovim
+**** ENDING LOGGING AT Fri Dec  2 20:03:02 2022
+
+**** BEGIN LOGGING AT Wed Dec  7 04:44:58 2022
+
+Dec 07 04:50:43 »»	Now talking on #vim
+Dec 07 04:50:43 »»	Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+Dec 07 04:50:43 »»	Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+Dec 07 04:46:17 »»	Disconnected ().
+**** ENDING LOGGING AT Wed Dec  7 04:46:17 2022
+
+**** BEGIN LOGGING AT Wed Dec  7 04:46:23 2022
+
+Dec 07 04:52:09 »»	Now talking on #vim
+Dec 07 04:52:09 »»	Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+Dec 07 04:52:09 »»	Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+**** ENDING LOGGING AT Wed Dec  7 04:48:54 2022
+
+**** BEGIN LOGGING AT Wed Dec  7 05:00:33 2022
+
+Dec 07 05:06:19 »»	Now talking on #vim
+Dec 07 05:06:19 »»	Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+Dec 07 05:06:19 »»	Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+Dec 07 05:01:34 .:woland:.	is there a way to make highlighted text persistent after quit when using something like [match Search /\%'.line('.').'l/] ?
+**** ENDING LOGGING AT Wed Dec  7 06:21:57 2022
+
+**** BEGIN LOGGING AT Wed Dec  7 23:37:44 2022
+
+Dec 07 23:43:30 »»	Now talking on #vim
+Dec 07 23:43:30 »»	Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+Dec 07 23:43:30 »»	Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+Dec 07 23:48:27 .:Silenced:.	Hi, can someone suggest me how to make copy and paste accross terminals in vim ? 
+Dec 07 23:48:55 .:romainl:.	do :echo has('clipboard')
+Dec 07 23:48:59 .:romainl:.	0 or 1
+Dec 07 23:49:12 .:Silenced:.	romainl: 0
+Dec 07 23:49:37 .:romainl:.	next step, install a Vim built with clipboard support
+Dec 07 23:49:42 .:romainl:.	what OS?
+Dec 07 23:49:57 .:Silenced:.	romainl: Archlinux 
+Dec 07 23:50:43 .:romainl:.	what "vim" packages can you install?
+Dec 07 23:53:16 .:nickspoon:.	On arch (as with various others) afair the simplest is just to install gvim. That also gets you a fully-featured terminal vim.
+Dec 07 23:53:22 .:romainl:.	apparently $ pacman -Ss '^vim-'
+Dec 07 23:53:56 .:romainl:.	that's what I was getting at, nickspoon, just wanted the actual package name
+Dec 07 23:54:09 .:Silenced:.	But they say that I can't use vim in my terminal 
+Dec 07 23:54:11 .:nickspoon:.	right. It's "gvim" in this case
+Dec 07 23:54:29 .:romainl:.	"they say"?
+Dec 07 23:54:32 .:nickspoon:.	?
+Dec 07 23:54:38 .:Silenced:.	Does installing gvim let me use vim in my terminal ?
+Dec 07 23:54:42 .:nickspoon:.	yes
+Dec 07 23:54:44 .:Silenced:.	ok 
+Dec 07 23:54:48 .:Silenced:.	let me try that out 
+Dec 07 23:55:21 .:nickspoon:.	the arch "gvim" package includes both the gvim gtk app, and the fully featured vim terminal app
+Dec 07 23:56:13 .:romainl:.	on executable as in debian or two as in (fedora I think)?
+Dec 07 23:56:37 .:Silenced:.	Yeah got it working 
+Dec 07 23:56:41 .:Silenced:.	Thanks 
+Dec 07 23:56:57 .:Silenced:.	Any way to seperate only vim based clipboard operations ?
+Dec 07 23:56:59 .:nickspoon:.	romainl: I think it's 2 - how does that work with one executable in debian?
+Dec 07 23:57:14 .:romainl:.	vim -g or gvim -v
+Dec 07 23:51:29 .:woland:.	Silenced:  you can use vim-system-copy plugin, it uses xsel and doesnt require you to install gvim which you probably will never use
+Dec 07 23:57:36 .:romainl:.	already installed :-)
+Dec 07 23:58:00 .:romainl:.	what do you mean by "Any way to seperate only vim based clipboard operations ?" Silenced
+Dec 07 23:58:18 .:moshe:.	romainl: register-like behaviour outsode vim
+Dec 07 23:58:38 .:Silenced:.	Ok what do I do now ? Should I go back to vim and install vim-system-copy or Is there any work around that ?
+Dec 07 23:58:46 .:romainl:.	moshe: not clearer
+Dec 07 23:58:59 .:moshe:.	long answer : probably no, I don't think vim can address fancy system clipboard with that much granularity
+Dec 07 23:59:11 .:romainl:.	Silenced: you have installed the gvim package? now you have clipboard support
+Dec 07 23:59:21 .:moshe:.	Silenced: actually, if you run X you can target either the x11 selection or the system clipboard independtely
+Dec 07 23:59:29 .:romainl:.	use "+y and "+p
+Dec 07 23:59:33 .:moshe:.	so that *could*  work if your needs are basic
+Dec 07 23:59:40 .:romainl:.	or "*y and "*p
+Dec 08 00:00:06 .:romainl:.	Silenced: ^
+Dec 08 00:00:46 .:Silenced:.	romainl: those are keystrokes for yank and paste between vim windows only ? 
+Dec 08 00:01:08 .:moshe:.	no
+Dec 08 00:01:15 .:romainl:.	just try, we'll explain later
+Dec 08 00:01:45 .:romainl:.	do "+y in one Vim/terminal and "+p in another vim/terminal
+Dec 08 00:04:33 .:Silenced:.	Works for my usecase. But too complex of a keystroke. 
+Dec 08 00:04:45 .:romainl:.	:h 'clipboard
+Dec 08 00:04:45 .:digmbot:.	:help 'clipboard -> http://vimhelp.appspot.com/options.txt.html#%27clipboard%27
+Dec 08 00:05:47 .:nickspoon:.	Silenced: so map it
+Dec 08 00:06:20 .:nickspoon:.	http://vpaste.net/dzD6s  for example
+Dec 08 00:06:43 .:moshe:.	or learn about registers and realize it's an idiom and not a shortcut, but I guess I'm going to be told I'm being a grumpy old man
+Dec 08 00:07:43 .:romainl:.	:-)
+Dec 08 00:09:33 .:Silenced:.	moshe: Noted ! Will read about it 
+Dec 08 00:09:50 .:Silenced:.	nickspoon: thanks 
+Dec 08 00:09:59 .:Silenced:.	romainl: Thanks a lot ! 
+Dec 08 00:24:15 .:hackinghorn:.	uh oh, you need to build your own vim too have clipboard
+Dec 08 00:24:23 .:romainl:.	no
+Dec 08 00:24:44 .:hackinghorn:.	oh, I mean, build from source
+Dec 08 00:24:50 .:romainl:.	no
+Dec 08 00:25:07 .:hackinghorn:.	oh what is the case?
+Dec 08 00:25:24 .:romainl:.	what case?
+Dec 08 00:26:02 .:hackinghorn:.	I mean, how do you get clipboard working?
+Dec 08 00:26:24 .:romainl:.	by getting a proper build
+Dec 08 00:26:33 .:hackinghorn:.	ah, got it!
+Dec 08 00:26:51 .:romainl:.	did you?
+Dec 08 00:27:08 .:hackinghorn:.	I didn't but I don't need them so its okay!
+Dec 08 00:27:20 .:hackinghorn:.	there is a command that show what features you get +clipboard or -clipboard but I forgot
+Dec 08 00:27:32 .:romainl:.	:version
+Dec 08 00:27:56 .:hackinghorn:.	ha correct, thanks! romainl 
+Dec 08 00:32:19 .:hackinghorn:.	sometimes I do "q:" and vim tells me "You discovered the command-line window! You can close it with ":q"." but sometimes it doesn't. why is that?
+Dec 08 00:32:42 .:romainl:.	to keep you on your toes
+Dec 08 00:32:53 .:romainl:.	routine is a trap
+Dec 08 00:33:12 .:hackinghorn:.	ha, nice!
+Dec 08 01:02:07 .:mags:.	jj/1
+**** ENDING LOGGING AT Thu Dec  8 01:21:47 2022
+
+**** BEGIN LOGGING AT Thu Dec  8 17:18:25 2022
+
+Dec 08 17:24:12 »»	Now talking on #vim
+Dec 08 17:24:12 »»	Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+Dec 08 17:24:12 »»	Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+**** BEGIN LOGGING AT Thu Dec  8 17:38:50 2022
+
+Dec 08 17:44:37 »»	Now talking on #vim
+Dec 08 17:44:37 »»	Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+Dec 08 17:44:37 »»	Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+**** ENDING LOGGING AT Thu Dec  8 19:17:34 2022
+
+**** BEGIN LOGGING AT Fri Dec  9 05:41:36 2022
+
+Dec 09 05:47:24 »»	Now talking on #vim
+Dec 09 05:47:24 »»	Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+Dec 09 05:47:24 »»	Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+Dec 09 05:49:26 »»	Disconnected ().
+**** ENDING LOGGING AT Fri Dec  9 05:49:26 2022
+
+**** BEGIN LOGGING AT Fri Dec  9 05:53:03 2022
+
+Dec 09 05:58:48 »»	Now talking on #vim
+Dec 09 05:58:48 »»	Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+Dec 09 05:58:48 »»	Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+Dec 09 05:54:26 »»	Disconnected ().
+**** ENDING LOGGING AT Fri Dec  9 05:54:26 2022
+
+**** BEGIN LOGGING AT Fri Dec  9 05:54:46 2022
+
+Dec 09 06:00:34 »»	Now talking on #vim
+Dec 09 06:00:34 »»	Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+Dec 09 06:00:34 »»	Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+Dec 09 06:43:26 »»	Disconnected ().
+**** ENDING LOGGING AT Fri Dec  9 06:43:26 2022
+
+**** BEGIN LOGGING AT Fri Dec  9 06:47:10 2022
+
+Dec 09 06:52:58 »»	Now talking on #vim
+Dec 09 06:52:58 »»	Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+Dec 09 06:52:58 »»	Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+Dec 09 06:50:56 »»	Disconnected ().
+**** ENDING LOGGING AT Fri Dec  9 06:50:56 2022
+
+**** BEGIN LOGGING AT Fri Dec  9 06:59:49 2022
+
+Dec 09 07:05:37 »»	Now talking on #vim
+Dec 09 07:05:37 »»	Topic for #vim is: Can't talk? Register https://libera.chat/guides/registration | Vim 9.0 http://www.vim.org | Don't ask to ask! | Use :help and :helpgrep | WIKI: http://vim.wikia.com | PASTE: http://vpaste.net/?ft=vim | https://www.vi-improved.org
+Dec 09 07:05:37 »»	Topic for #vim set by phy1729 at Tue Jun 28 19:48:55 2022
+**** ENDING LOGGING AT Fri Dec  9 08:17:29 2022
+

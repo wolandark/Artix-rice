@@ -1,0 +1,145 @@
+**** BEGIN LOGGING AT Tue Nov 15 00:48:20 2022
+
+Nov 15 00:53:33 »»	Now talking on #team
+Nov 15 00:53:33 »»	Topic for #team is: tilde.team stuff: https://tilde.team/wiki ~ https://tildegit.org/team ~ read/follow the https://tilde.team/wiki/code-of-conduct & UPDATED 2022-07-06 https://tilde.chat/wiki/etiquette ~ no politics, rms talk, covid, or cryptocurrency ~ PSA disk quotas will now be enforced 1gb soft / 3gb hard
+Nov 15 00:53:33 »»	Topic for #team set by demure!demure@demu.red at Tue Aug  9 09:14:36 2022
+**** ENDING LOGGING AT Tue Nov 15 00:54:01 2022
+
+**** BEGIN LOGGING AT Tue Nov 15 00:54:01 2022
+
+**** ENDING LOGGING AT Tue Nov 15 00:54:23 2022
+
+**** BEGIN LOGGING AT Tue Nov 15 16:09:39 2022
+
+Nov 15 16:14:54 »»	Now talking on #team
+Nov 15 16:14:54 »»	Topic for #team is: tilde.team stuff: https://tilde.team/wiki ~ https://tildegit.org/team ~ read/follow the https://tilde.team/wiki/code-of-conduct & UPDATED 2022-07-06 https://tilde.chat/wiki/etiquette ~ no politics, rms talk, covid, or cryptocurrency ~ PSA disk quotas will now be enforced 1gb soft / 3gb hard
+Nov 15 16:14:54 »»	Topic for #team set by demure!demure@demu.red at Tue Aug  9 09:14:36 2022
+Nov 15 16:28:46 .:Dr-WaSabi:.	your traverse city 5 day forcast --> https://ttm.sh/0Zw.png
+Nov 15 16:28:51 .:Dr-WaSabi:.	yucky
+Nov 15 16:29:38 .:Dr-WaSabi:.	but at least the coffee is good
+Nov 15 16:57:39 .:@cmccabe:.	can't go wrong with coffee
+Nov 15 17:00:59 .:hackintech:.	Dr-WaSabi: its literally snowing right now
+Nov 15 17:23:15 »»	Dr-WaSabi leaves the FLSA Exempt vs. Non-Exempt - computer profesionals section on his screen when his boss walks in
+Nov 15 17:25:09 .:Dr-WaSabi:.	hackintech: same her
+**** ENDING LOGGING AT Tue Nov 15 17:23:23 2022
+
+**** BEGIN LOGGING AT Wed Nov 16 11:37:24 2022
+
+Nov 16 11:42:41 »»	Now talking on #team
+Nov 16 11:42:41 »»	Topic for #team is: tilde.team stuff: https://tilde.team/wiki ~ https://tildegit.org/team ~ read/follow the https://tilde.team/wiki/code-of-conduct & UPDATED 2022-07-06 https://tilde.chat/wiki/etiquette ~ no politics, rms talk, covid, or cryptocurrency ~ PSA disk quotas will now be enforced 1gb soft / 3gb hard
+Nov 16 11:42:41 »»	Topic for #team set by demure!demure@demu.red at Tue Aug  9 09:14:36 2022
+**** ENDING LOGGING AT Wed Nov 16 12:54:31 2022
+
+**** BEGIN LOGGING AT Wed Nov 16 12:54:31 2022
+
+**** ENDING LOGGING AT Wed Nov 16 12:55:12 2022
+
+**** BEGIN LOGGING AT Wed Nov 16 12:55:12 2022
+
+**** ENDING LOGGING AT Wed Nov 16 12:55:26 2022
+
+**** BEGIN LOGGING AT Wed Nov 16 12:55:26 2022
+
+**** ENDING LOGGING AT Wed Nov 16 12:55:46 2022
+
+**** BEGIN LOGGING AT Wed Nov 16 12:55:46 2022
+
+**** ENDING LOGGING AT Wed Nov 16 12:55:57 2022
+
+**** BEGIN LOGGING AT Wed Nov 16 12:55:57 2022
+
+Nov 16 17:19:29 .:puffbar:.	does anyone have any tips for good data/file tree organization
+Nov 16 17:21:03 .:xwindows:.	For (which kind of work)?
+Nov 16 17:24:41 .:tomasino:.	hash table
+Nov 16 17:24:46 .:tomasino:.	without any context. :)
+Nov 16 17:26:01 .:puffbar:.	for personal data
+Nov 16 17:28:02 .:xwindows:.	Well, there are many kinds of personal data (composed document, photos, finance, classified infos, etc).
+Nov 16 17:28:58 .:xwindows:.	And I use different scheme for storing them [for quick retreival] with minimal software requirement.
+Nov 16 17:29:45 .:xwindows:.	I'll leave that for others to answer, I have to run now.
+Nov 16 18:38:37 »»	Dr-WaSabi snickers  --> https://ttm.sh/0LT.png
+Nov 16 19:03:44 .:brendo:.	wait, it's over already!?
+Nov 16 19:03:50 »»	brendo has graduated
+Nov 16 19:09:12 .:desertmouse:.	umm.. I started using vimwiki for notes recently? The format is simple and although I'm still exploring it, seems better than the notes apps I have tried till now (Joplin, Notable, Obsidian)
+Nov 16 19:11:59 .:tomasino:.	are you using the default format or markdown?
+Nov 16 19:12:03 .:tomasino:.	i use it via markdown
+Nov 16 19:13:40 .:desertmouse:.	tomasino: I'm using the default one for now. The formats can be used interchangeably right? Or do I have to enable markdown? 
+Nov 16 19:15:36 .:desertmouse:.	btw, everyone, what's your favorite sci-fi tech asthetic if you have one? I really like the one from Oblivion.
+Nov 16 19:35:32 .:konomo:.	bbj, or old-school bbs menus in general
+Nov 16 20:08:47 .:tomasino:.	sorry, meetings called
+Nov 16 20:08:54 .:tomasino:.	I think you have to enable markdown
+Nov 16 20:08:57 .:tomasino:.	or at least I did
+Nov 16 20:09:50 .:tomasino:.	https://github.com/jamestomasino/dotfiles-minimal/blob/master/.config/vim/vimrc#L287-L292
+Nov 16 20:10:22 .:tomasino:.	my most recent fav aesthetic is solarpunk, but that's probably because i'm living and breathing it every minute of the day with the podcast
+Nov 16 20:11:13 .:tomasino:.	i like realistic future aesthetics, where things are worn and smudged, a little reused... but not decrepit and trashed. the way they've been handling the vibe in Andor has been great
+Nov 16 22:31:44 .:Dr-WaSabi:.	ugh.. hackintech can't you keep this weather over on your side of the lake? https://ttm.sh/0LC.png
+Nov 16 22:31:52 .:hackintech:.	no
+Nov 17 00:06:51 .:@cmccabe:.	i'll take some of that snow, hackintech. send it this way
+Nov 17 02:48:43 »»	Disconnected ().
+**** ENDING LOGGING AT Thu Nov 17 02:48:43 2022
+
+**** BEGIN LOGGING AT Thu Nov 17 02:50:38 2022
+
+Nov 17 02:55:57 »»	Now talking on #team
+Nov 17 02:55:57 »»	Topic for #team is: tilde.team stuff: https://tilde.team/wiki ~ https://tildegit.org/team ~ read/follow the https://tilde.team/wiki/code-of-conduct & UPDATED 2022-07-06 https://tilde.chat/wiki/etiquette ~ no politics, rms talk, covid, or cryptocurrency ~ PSA disk quotas will now be enforced 1gb soft / 3gb hard
+Nov 17 02:55:57 »»	Topic for #team set by demure!demure@demu.red at Tue Aug  9 09:14:36 2022
+Nov 17 05:00:13 »»	Disconnected ().
+**** ENDING LOGGING AT Thu Nov 17 05:00:13 2022
+
+**** BEGIN LOGGING AT Thu Nov 17 05:02:50 2022
+
+Nov 17 05:08:09 »»	Now talking on #team
+Nov 17 05:08:09 »»	Topic for #team is: tilde.team stuff: https://tilde.team/wiki ~ https://tildegit.org/team ~ read/follow the https://tilde.team/wiki/code-of-conduct & UPDATED 2022-07-06 https://tilde.chat/wiki/etiquette ~ no politics, rms talk, covid, or cryptocurrency ~ PSA disk quotas will now be enforced 1gb soft / 3gb hard
+Nov 17 05:08:09 »»	Topic for #team set by demure!demure@demu.red at Tue Aug  9 09:14:36 2022
+Nov 17 06:40:19 .:ideclon:.	Hi!
+Nov 17 08:35:10 .:xwindows:.	Lo|
+Nov 17 09:50:43 »»	Disconnected ().
+**** ENDING LOGGING AT Thu Nov 17 09:50:43 2022
+
+**** BEGIN LOGGING AT Thu Nov 17 09:54:21 2022
+
+Nov 17 09:59:40 »»	Now talking on #team
+Nov 17 09:59:40 »»	Topic for #team is: tilde.team stuff: https://tilde.team/wiki ~ https://tildegit.org/team ~ read/follow the https://tilde.team/wiki/code-of-conduct & UPDATED 2022-07-06 https://tilde.chat/wiki/etiquette ~ no politics, rms talk, covid, or cryptocurrency ~ PSA disk quotas will now be enforced 1gb soft / 3gb hard
+Nov 17 09:59:40 »»	Topic for #team set by demure!demure@demu.red at Tue Aug  9 09:14:36 2022
+Nov 17 13:31:36 .:DemolitionMan:.	hi
+Nov 17 13:27:43 »»	Disconnected ().
+**** ENDING LOGGING AT Thu Nov 17 13:27:43 2022
+
+**** BEGIN LOGGING AT Thu Nov 17 13:31:23 2022
+
+Nov 17 13:36:42 »»	Now talking on #team
+Nov 17 13:36:42 »»	Topic for #team is: tilde.team stuff: https://tilde.team/wiki ~ https://tildegit.org/team ~ read/follow the https://tilde.team/wiki/code-of-conduct & UPDATED 2022-07-06 https://tilde.chat/wiki/etiquette ~ no politics, rms talk, covid, or cryptocurrency ~ PSA disk quotas will now be enforced 1gb soft / 3gb hard
+Nov 17 13:36:42 »»	Topic for #team set by demure!demure@demu.red at Tue Aug  9 09:14:36 2022
+Nov 17 14:02:24 .:xwindows:.	"please help", about what? Finding where and who asked that?
+Nov 17 14:12:07 .:xwindows:.	Or is this about `wall`-ed message inside ~team? (Which I think first time someone mentioned it in here was around 2022-04-02T18:31Z)
+Nov 17 14:12:18 .:xwindows:.	In the latter case, I cannot help you.
+Nov 17 14:13:25 .:xwindows:.	You might try asking (b)en, of course.
+Nov 17 14:15:41 .:konomo:.	ahoi ideclon 
+Nov 17 14:21:14 .:@cmccabe:.	good morning
+Nov 17 14:21:26 .:@cmccabe:.	the word of the day is, nugatory
+Nov 17 14:56:51 .:ideclon:.	@cmccabe: that sounds nugatory
+Nov 17 14:57:01 .:ideclon:.	Hi konomo
+Nov 17 16:04:49 .:konomo:.	:3
+Nov 17 16:18:04 .:Dr-WaSabi:.	,w
+Nov 17 16:18:05 .:tildebot:.	[Weather] (Dr-WaSabi) Traverse City, Michigan, United States | -1C/29F/271K | Snow | Humidity: 94% | Wind: 7.4km/h/4.6mi/h
+Nov 17 16:19:12 .:Dr-WaSabi:.	yay... :(  Not
+Nov 17 16:19:17 .:Dr-WaSabi:.	...WINTER WEATHER ADVISORY REMAINS IN EFFECT FROM 7 AM THIS
+Nov 17 16:19:17 .:tildebot:.	Dr-WaSabi: ALSO THERE ARE PEOPLE ON TWITTER COMPLAINING ABOUT TTWITTER ALSO
+Nov 17 16:19:19 .:Dr-WaSabi:.	MORNING TO 7 AM EST FRIDAY...
+Nov 17 16:19:19 .:tildebot:.	Dr-WaSabi: xfnw: BBBBBBBBBBBBBBBBBBBBBBBB
+Nov 17 16:19:21 .:Dr-WaSabi:.	* WHAT...Lake effect snow expected. Total snow accumulations of 3
+Nov 17 16:19:23 .:Dr-WaSabi:.	  to 5 inches with locally higher amounts.
+Nov 17 16:21:05 .:Dr-WaSabi:.	got to love Michigan... supposed to be back in the 40's early next week
+Nov 17 19:00:47 .:hackintech:.	,w
+Nov 17 19:00:48 .:tildebot:.	[Weather] (hackintech) Madison, Wisconsin, United States | -3C/25F/269K | Overcast Clouds | Humidity: 85% | Wind: 22.2km/h/13.8mi/h
+Nov 17 19:00:53 .:hackintech:.	frick frack
+Nov 17 19:15:57 »»	ChanServ sets modes (#team +qo benharri :benharri)
+Nov 17 19:30:14 »»	Disconnected ().
+**** ENDING LOGGING AT Thu Nov 17 19:30:14 2022
+
+**** BEGIN LOGGING AT Thu Nov 17 19:34:02 2022
+
+Nov 17 19:39:22 »»	Now talking on #team
+Nov 17 19:39:22 »»	Topic for #team is: tilde.team stuff: https://tilde.team/wiki ~ https://tildegit.org/team ~ read/follow the https://tilde.team/wiki/code-of-conduct & UPDATED 2022-07-06 https://tilde.chat/wiki/etiquette ~ no politics, rms talk, covid, or cryptocurrency ~ PSA disk quotas will now be enforced 1gb soft / 3gb hard
+Nov 17 19:39:22 »»	Topic for #team set by demure!demure@demu.red at Tue Aug  9 09:14:36 2022
+**** ENDING LOGGING AT Thu Nov 17 19:59:54 2022
+

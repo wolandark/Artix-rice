@@ -1,0 +1,381 @@
+T 1668515812 25»19»	19Now talking on #i3
+T 1668515812 29»22»	22Topic for #i3 is: i3 v4.21.1 released | i3status 2.13 released | i3lock 2.14 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY | #i3-offtopic  
+T 1668515812 29»22»	22Topic for #i3 set by sECuRE!~sECuRE@2a02:168:4a00:0:dea6:32ff:fe02:ba14 at Mon Oct 24 23:08:37 2022
+T 1668540829 25»19»	19Now talking on #i3
+T 1668540829 29»22»	22Topic for #i3 is: i3 v4.21.1 released | i3status 2.13 released | i3lock 2.14 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY | #i3-offtopic  
+T 1668540829 29»22»	22Topic for #i3 set by sECuRE!~sECuRE@2a02:168:4a00:0:dea6:32ff:fe02:ba14 at Mon Oct 24 23:08:37 2022
+T 1668541415 25»19»	19Now talking on #i3
+T 1668541415 29»22»	22Topic for #i3 is: i3 v4.21.1 released | i3status 2.13 released | i3lock 2.14 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY | #i3-offtopic  
+T 1668541415 29»22»	22Topic for #i3 set by sECuRE!~sECuRE@2a02:168:4a00:0:dea6:32ff:fe02:ba14 at Mon Oct 24 23:08:37 2022
+T 1668549386 25»19»	19Now talking on #i3
+T 1668549386 29»22»	22Topic for #i3 is: i3 v4.21.1 released | i3status 2.13 released | i3lock 2.14 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY | #i3-offtopic  
+T 1668549386 29»22»	22Topic for #i3 set by sECuRE!~sECuRE@2a02:168:4a00:0:dea6:32ff:fe02:ba14 at Mon Oct 24 23:08:37 2022
+T 1668625174 25»19»	19Now talking on #i3
+T 1668625174 29»22»	22Topic for #i3 is: i3 v4.21.1 released | i3status 2.13 released | i3lock 2.14 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY | #i3-offtopic  
+T 1668625174 29»22»	22Topic for #i3 set by sECuRE!~sECuRE@2a02:168:4a00:0:dea6:32ff:fe02:ba14 at Mon Oct 24 23:08:37 2022
+T 1668627415 28.:192424jb127797628:.	Is there any point of having an external monitor for a laptop running i3 when i have 9 virtual desktops that can run whatever i want? just want to see the need for an external monitor. i would like one but i don't see if its even needed
+T 1668627825 28.:192428nimaje28:.	a second monitor would mean more screen space, so more you can see at once, if you have use for that is something you have to decide yourself and you can have as many workspaces as you want
+T 1668627883 28.:192428nimaje28:.	why do you ask basically the same question here and in #suckless?
+T 1668629573 28.:192428ForeverNoob[m]28:.	Hi, in my i3 config I have `bindsym $mod+w exec "rofi -show windowcd"` and `bindsym $mod+e exec "rofi -show window"` respectively. That was fine for rofi 1.5.0 but apparently not for the current rofi stable release. On the latest stable, `windowcd` has same behavior as `window` (meaning, in both cases I get to see windows across all workspaces). Initiating `rofi -show windowcd` via terminal works as expected though. Did anyone else have this
+T 1668629573 28.:192428ForeverNoob[m]28:.	issue?
+T 1668640723 28»18»	Disconnected ().
+T 1668640747 28»18»	woland already in use. Retrying with ...
+T 1668640782 28»18»	Disconnected (Remote host closed socket).
+T 1668640794 28»18»	woland already in use. Retrying with ...
+T 1668640827 28»18»	Disconnected (Remote host closed socket).
+T 1668640840 28»18»	woland already in use. Retrying with ...
+T 1668640871 28»18»	Disconnected (Remote host closed socket).
+T 1668640884 24»23»23	woland sets modes (woland :+i)
+T 1668640884 25»19»	19Now talking on #i3
+T 1668640884 29»22»	22Topic for #i3 is: i3 v4.21.1 released | i3status 2.13 released | i3lock 2.14 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY | #i3-offtopic  
+T 1668640884 29»22»	22Topic for #i3 set by sECuRE!~sECuRE@2a02:168:4a00:0:dea6:32ff:fe02:ba14 at Mon Oct 24 23:08:37 2022
+T 1668640884 28-21Notice28-	21{28from NickServ21} This nickname is registered and protected.  If it is your nickname, you may
+T 1668640884 28-21Notice28-	21{28from NickServ21} authenticate yourself to services with the IDENTIFY command.  You are
+T 1668640884 28-21Notice28-	21{28from NickServ21} getting this message because you are not on the access list for the
+T 1668640884 28-21Notice28-	21{28from NickServ21} woland nickname.
+T 1668640884 23»21»	Received a CTCP VERSION from CTCPServ
+T 1668648613 28»18»	Disconnected ().
+T 1668648672 28»18»	woland already in use. Retrying with ...
+T 1668648707 28»18»	Disconnected (Remote host closed socket).
+T 1668648719 28»18»	woland already in use. Retrying with ...
+T 1668648752 28»18»	Disconnected (Remote host closed socket).
+T 1668648763 28»18»	woland already in use. Retrying with ...
+T 1668648797 28»18»	Disconnected (Remote host closed socket).
+T 1668648809 24»23»23	woland sets modes (woland :+i)
+T 1668648809 25»19»	19Now talking on #i3
+T 1668648809 29»22»	22Topic for #i3 is: i3 v4.21.1 released | i3status 2.13 released | i3lock 2.14 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY | #i3-offtopic  
+T 1668648809 29»22»	22Topic for #i3 set by sECuRE!~sECuRE@2a02:168:4a00:0:dea6:32ff:fe02:ba14 at Mon Oct 24 23:08:37 2022
+T 1668648810 28-21Notice28-	21{28from NickServ21} This nickname is registered and protected.  If it is your nickname, you may
+T 1668648810 28-21Notice28-	21{28from NickServ21} authenticate yourself to services with the IDENTIFY command.  You are
+T 1668648810 28-21Notice28-	21{28from NickServ21} getting this message because you are not on the access list for the
+T 1668648810 28-21Notice28-	21{28from NickServ21} woland nickname.
+T 1668648810 23»21»	Received a CTCP VERSION from CTCPServ
+T 1668666043 28»18»	Disconnected ().
+T 1668666055 28»18»	woland already in use. Retrying with ...
+T 1668666087 28»18»	Disconnected (Remote host closed socket).
+T 1668666101 28»18»	woland already in use. Retrying with ...
+T 1668666132 28»18»	Disconnected (Remote host closed socket).
+T 1668666143 28»18»	woland already in use. Retrying with ...
+T 1668666177 28»18»	Disconnected (Remote host closed socket).
+T 1668666189 28»18»	woland already in use. Retrying with ...
+T 1668666220 28»18»	Disconnected (Remote host closed socket).
+T 1668666232 28»18»	woland already in use. Retrying with ...
+T 1668666262 28»18»	Disconnected (Remote host closed socket).
+T 1668666274 28»18»	woland already in use. Retrying with ...
+T 1668666307 28»18»	Disconnected (Remote host closed socket).
+T 1668666352 28»18»	Disconnected (Remote host closed socket).
+T 1668666396 28»18»	Disconnected (Remote host closed socket).
+T 1668666442 28»18»	Disconnected (Remote host closed socket).
+T 1668666454 25»19»	19Now talking on #i3
+T 1668666454 29»22»	22Topic for #i3 is: i3 v4.21.1 released | i3status 2.13 released | i3lock 2.14 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY | #i3-offtopic  
+T 1668666454 29»22»	22Topic for #i3 set by sECuRE!~sECuRE@2a02:168:4a00:0:dea6:32ff:fe02:ba14 at Mon Oct 24 23:08:37 2022
+T 1668668920 28.:192419okraits28:.	ForeverNoob[m]: Yes, I experience the same with rofi 1.7.3
+T 1668675400 28.:192420af28:.	Hi, I am trying to bind something to $mod+button3 but it never executes. I have verified with xev that button 3 is triggered. Instead, i3 just snaps the pointer to the nearest window edge whenever I hit $mod+button3. Any ideas?
+T 1668675454 28.:192420af28:.	(which by the way I think is a nice feature, but I still need my binding though)
+T 1668675726 28.:192419okraits28:.	af: Please post your exact config line
+T 1668675949 28.:192419okraits28:.	af: if you want it to work anywhere over a window, you need to specify '--border --whole-window'
+T 1668678188 28.:192419okraits28:.	 [3~[4~[4~[4~fff5~[6;5~5~5~5~
+T 1668678193 28.:192419okraits28:.	Sorry
+T 1668678509 28.:192420af28:.	okraits: Ahh, adding --border made it work. Thank you! I'll re-read the docs to understand this now.
+T 1668679034 28»18»	Disconnected (Connection reset by peer).
+T 1668679046 28»18»	woland already in use. Retrying with ...
+T 1668679077 28»18»	Disconnected (Remote host closed socket).
+T 1668679089 28»18»	woland already in use. Retrying with ...
+T 1668679122 28»18»	Disconnected (Remote host closed socket).
+T 1668679135 28»18»	woland already in use. Retrying with ...
+T 1668679167 28»18»	Disconnected (Remote host closed socket).
+T 1668679179 28»18»	woland already in use. Retrying with ...
+T 1668679212 28»18»	Disconnected (Remote host closed socket).
+T 1668679224 28»18»	woland already in use. Retrying with ...
+T 1668679257 28»18»	Disconnected (Remote host closed socket).
+T 1668679270 28»18»	woland already in use. Retrying with ...
+T 1668679302 28»18»	Disconnected (Remote host closed socket).
+T 1668679314 28»18»	woland already in use. Retrying with ...
+T 1668679347 28»18»	Disconnected (Remote host closed socket).
+T 1668679360 28»18»	woland already in use. Retrying with ...
+T 1668679391 28»18»	Disconnected (Remote host closed socket).
+T 1668679403 28»18»	woland already in use. Retrying with ...
+T 1668679437 28»18»	Disconnected (Remote host closed socket).
+T 1668679451 28»18»	woland already in use. Retrying with ...
+T 1668679481 28»18»	Disconnected (Remote host closed socket).
+T 1668679495 24»23»23	woland sets modes (woland :+i)
+T 1668679495 28-21Notice28-	21{28from NickServ21} This nickname is registered and protected.  If it is your nickname, you may
+T 1668679495 28-21Notice28-	21{28from NickServ21} authenticate yourself to services with the IDENTIFY command.  You are
+T 1668679495 28-21Notice28-	21{28from NickServ21} getting this message because you are not on the access list for the
+T 1668679495 28-21Notice28-	21{28from NickServ21} woland nickname.
+T 1668679495 23»21»	Received a CTCP VERSION from CTCPServ
+T 1668679496 25»19»	19Now talking on #i3
+T 1668679496 29»22»	22Topic for #i3 is: i3 v4.21.1 released | i3status 2.13 released | i3lock 2.14 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY | #i3-offtopic  
+T 1668679496 29»22»	22Topic for #i3 set by sECuRE!~sECuRE@2a02:168:4a00:0:dea6:32ff:fe02:ba14 at Mon Oct 24 23:08:37 2022
+T 1668680286 28.:192419okraits28:.	af: You're welcome :)
+T 1668680299 28.:192428ForeverNoob[m]28:.	@okraits: What version of i3 are you running it from? Check out a similar issue and what that user did to fix it: https://github.com/davatorium/rofi/issues/1539
+T 1668680327 28.:192428ForeverNoob[m]28:.	Also, to what key combo did you bind `rofi -show windowcd` to?
+T 1668680461 28.:192419okraits28:.	ForeverNoob[m]: $mod+x, 4.21-125-ga1e4b449
+T 1668680495 28.:192428ForeverNoob[m]28:.	So `bindsym $mod+x exec "rofi -show windowcd"` ?
+T 1668680543 28.:192419okraits28:.	ForeverNoob[m]: yes, but without the double quotes
+T 1668680556 28.:192428ForeverNoob[m]28:.	Ah ok.
+T 1668680579 28.:192419okraits28:.	it also shows windows from all workspaces if I run it from rofi itself. But it works if I run it from a terminal
+T 1668680610 28.:192428ForeverNoob[m]28:.	Yeah same here from terminal. Really weird. What distro are you on?
+T 1668680627 28.:192419okraits28:.	Debian Bullseye
+T 1668680645 28.:192428ForeverNoob[m]28:.	I'm on 22.04 (VM for now)
+T 1668680719 28.:192428ForeverNoob[m]28:.	I'm in #rofi:libera.chat right now trying to provide more info and hopefully narrow it down further.
+T 1668681016 28.:192419okraits28:.	Yeah, strange issue
+T 1668682523 19.:2823woland19:.	does rofi also take a few seconds to launch the first time for you too?
+T 1668682689 04<okraits04>04	woland: first time after boot or what do you mean?
+T 1668682744 19.:2823woland19:.	yes first time as in first time after boot
+T 1668682772 28.:192419okraits28:.	I don't know, I would have to reboot to try :)
+T 1668682797 19.:2823woland19:.	had to switch to albert just because of this issue 
+T 1668682798 28.:192428ForeverNoob[m]28:.	@okraits: Try adding `--no-startup-id` after exec.
+T 1668682807 19.:2823woland19:.	ForeverNoob[m]:  I have
+T 1668682831 04<okraits04>04	woland: which issue? startup time?
+T 1668682837 19.:2823woland19:.	yea
+T 1668682841 04<ForeverNoob[m]04>04	@woland: Was not referring to you :)
+T 1668682852 19.:2823woland19:.	ForeverNoob[m]: my bad
+T 1668682887 28.:192419okraits28:.	ForeverNoob[m]: to fix the windowcd mode?
+T 1668682915 28.:192428ForeverNoob[m]28:.	Yes
+T 1668682943 28.:192428ForeverNoob[m]28:.	Actual fix has just been added, so you might also test that: https://github.com/davatorium/rofi/commit/c82754307cd160e692b0892490849c11849f9ce4
+T 1668682969 28.:192419okraits28:.	ForeverNoob[m]: Oh nice :)
+T 1668682999 04<okraits04>04	woland: This guy uses fzf in a terminal as a replacement: https://www.youtube.com/watch?v=kw2mnwhptjw
+T 1668683058 28.:192428ForeverNoob[m]28:.	Maintainer says that it might not be a 100% fix lol, so I guess we'll have to see ¯\_(ツ)_/¯
+T 1668683070 28.:192428ForeverNoob[m]28:.	But I'm glad it got patched so quickly.
+T 1668683197 28.:192428ForeverNoob[m]28:.	@okraits: Re: fzf replacemtn. I've been working on that for quite a while now, but the fundamental roadblock is that i3 does not allow floating windows to spawn on top of fullscreen windows like rofi does atm: https://github.com/i3/i3/discussions/5263
+T 1668683235 28.:192428ForeverNoob[m]28:.	...and Alacritty is unable to handle input / etc when direct_override is applied to it.
+T 1668683251 28.:192419okraits28:.	ForeverNoob[m]: Ah, I remember that issue
+T 1668683262 28.:192419okraits28:.	ForeverNoob[m]: But do you have fullscreen windows so often?
+T 1668683309 28.:192428ForeverNoob[m]28:.	The main alacritty window I'm working in (running the main tmux session) is always fullscreen.
+T 1668683310 28.:192419okraits28:.	ForeverNoob[m]: Oh, I already posted the video link in the original issue...
+T 1668683318 28.:192428ForeverNoob[m]28:.	:D
+T 1668683338 19.:2823woland19:.	okraits: thats interesting
+T 1668683360 28.:192419okraits28:.	ForeverNoob[m]: And hiding window decorations and the bar is not an alternative to fullscreen?
+T 1668683393 19.:2823woland19:.	rofi -show windowcd launches immediately but only shows windows in the workspace in which its launched not all open windows
+T 1668683413 04<okraits04>04	woland: that's intended
+T 1668683436 19.:2823woland19:.	okraits: no work around then?
+T 1668683437 04<ForeverNoob[m]04>04	@woland: Use `rofi -show window` for that.
+T 1668683441 28.:192419okraits28:.	windowcd = window current desktop
+T 1668683465 19.:2823woland19:.	okraits: ah!
+T 1668683472 04<okraits04>04	woland: The issue was that it shows windows from all workspaces when launched by i3
+T 1668683483 19.:2823woland19:.	ForeverNoob[m]: Thanks 
+T 1668683522 28.:192428ForeverNoob[m]28:.	@okraits: That might be a solution for that main alacritty session, but not for other fullscreen windows that I occasionally have. Though I could try and replicate a faux-fullscreen (but then at that point it gets to be hacky really quickly)
+T 1668683588 28.:192419okraits28:.	ForeverNoob[m]: yeah, but it's an option at least
+T 1668683607 28.:192428ForeverNoob[m]28:.	Yeah I suppose.
+T 1668683664 28.:192419okraits28:.	Or maybe it's possible to disable fullscreen, start your launcher, enable fullscreen again
+T 1668683733 28.:192419okraits28:.	or in reality: get the fullscreen state (enabled or disabled), start your launcher, restore the fullscreen state
+T 1668684364 28.:192419okraits28:.	Lunchtime
+T 1668685399 28.:192428nimaje28:.	how about using tabbed layout, ForeverNoob[m]?
+T 1668685481 19.:2823woland19:.	tabbed with font set to 0 is best
+T 1668695507 28.:192428ForeverNoob[m]28:.	@nimaje: Oh I'm using tabbed layout on a couple of workspaces already, it's just that for some windows I prefer fullscreen. Especially for apps that maximize all the available screen real estate (in my case that being Bitwig Studio to name one from the top of my head). And with a resolution of 1366 x 768, screen real estate is definitely an asset :p
+T 1668695923 19.:2823woland19:.	ForeverNoob[m]: this is how I use reaper DAW in i3
+T 1668695926 19.:2823woland19:.	for_window [class="REAPER" instance="REAPER"] floating enable , border normal 2
+T 1668695947 19.:2823woland19:.	maybe its useful to you
+T 1668695977 28.:192428ForeverNoob[m]28:.	How do you manage its x/y placement though, manually?
+T 1668696017 19.:2823woland19:.	it just spawns the dialogues (like eq or something) in the middle of the screen in floating mode
+T 1668696026 19.:2823woland19:.	I can drag them around ofcourse
+T 1668696051 19.:2823woland19:.	and if they spawn in the wrong display you can also specify an output for its class
+T 1668696139 28.:192428ForeverNoob[m]28:.	What about spawning the main window though? Because if I make some windows floating, I have to manually resize them to my liking.
+T 1668696173 19.:2823woland19:.	the main window spawns full screen for me by default 
+T 1668696187 28.:192428ForeverNoob[m]28:.	Ah I see.
+T 1668696204 19.:2823woland19:.	you specify size tho in i3 config
+T 1668696215 19.:2823woland19:.	like this "resize set 1904 400, move position 1929px 681px"
+T 1668696242 19.:2823woland19:.	you can use this syntax after the launch command or the class command
+T 1668696299 28.:192428ForeverNoob[m]28:.	Yeah I have a special resize mode where I hit a key and it applies the size and x/y to windows. I could try making such customization for Bitwig Studio.
+T 1668696330 19.:2823woland19:.	certainly 
+T 1668697603 28.:192419okraits28:.	I wouldn't use floating windows for long existing windows
+T 1668697638 28.:192419okraits28:.	Rather use tabbed layout and remove borders or even titles by setting the font size to 0 if needed
+T 1668700814 28»18»	Disconnected ().
+T 1668700943 28»18»	woland already in use. Retrying with ...
+T 1668700977 28»18»	Disconnected (Remote host closed socket).
+T 1668700989 28»18»	woland already in use. Retrying with ...
+T 1668701022 28»18»	Disconnected (Remote host closed socket).
+T 1668701034 28»18»	woland already in use. Retrying with ...
+T 1668701066 28»18»	Disconnected (Remote host closed socket).
+T 1668701077 28»18»	woland already in use. Retrying with ...
+T 1668701111 28»18»	Disconnected (Remote host closed socket).
+T 1668701133 28»18»	woland already in use. Retrying with ...
+T 1668701162 28»18»	Disconnected (Remote host closed socket).
+T 1668701174 28»18»	woland already in use. Retrying with ...
+T 1668701207 28»18»	Disconnected (Remote host closed socket).
+T 1668701220 24»23»23	woland sets modes (woland :+i)
+T 1668701221 28-21Notice28-	21{28from NickServ21} This nickname is registered and protected.  If it is your nickname, you may
+T 1668701221 28-21Notice28-	21{28from NickServ21} authenticate yourself to services with the IDENTIFY command.  You are
+T 1668701221 28-21Notice28-	21{28from NickServ21} getting this message because you are not on the access list for the
+T 1668701221 28-21Notice28-	21{28from NickServ21} woland nickname.
+T 1668701221 23»21»	Received a CTCP VERSION from CTCPServ
+T 1668701221 25»19»	19Now talking on #i3
+T 1668701221 29»22»	22Topic for #i3 is: i3 v4.21.1 released | i3status 2.13 released | i3lock 2.14 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY | #i3-offtopic  
+T 1668701221 29»22»	22Topic for #i3 set by sECuRE!~sECuRE@2a02:168:4a00:0:dea6:32ff:fe02:ba14 at Mon Oct 24 23:08:37 2022
+T 1668710465 25»19»	19Now talking on #i3
+T 1668710465 29»22»	22Topic for #i3 is: i3 v4.21.1 released | i3status 2.13 released | i3lock 2.14 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY | #i3-offtopic  
+T 1668710465 29»22»	22Topic for #i3 set by sECuRE!~sECuRE@2a02:168:4a00:0:dea6:32ff:fe02:ba14 at Mon Oct 24 23:08:37 2022
+T 1668714764 28»18»	Disconnected ().
+T 1668714865 28»18»	Disconnected (Remote host closed socket).
+T 1668714911 28»18»	Disconnected (Remote host closed socket).
+T 1668769742 25»19»	19Now talking on #i3
+T 1668769742 29»22»	22Topic for #i3 is: i3 v4.21.1 released | i3status 2.13 released | i3lock 2.14 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY | #i3-offtopic  
+T 1668769742 29»22»	22Topic for #i3 set by sECuRE!~sECuRE@2a02:168:4a00:0:dea6:32ff:fe02:ba14 at Mon Oct 24 23:08:37 2022
+T 1668772838 28.:192422kuhilas[m]28:.	Is there a sleep command to run something in i3-msg?
+T 1668772880 28.:192422kuhilas[m]28:.	I want to run two instances of qutebrowser at startup but it's inconsistantly opening them in wrong workspaces. Maybe it's because they happen too quickly in succession
+T 1668773003 28.:192422kuhilas[m]28:.	exec_always --no-startup-id i3-msg 'workspace 2; exec qutebrowser; workspace 4; exec urxvt; workspace 3; exe    c qutebrowser;'
+T 1668773030 28.:192422kuhilas[m]28:.	exec*
+T 1668773044 19.:2823woland19:.	limit it to one workspace
+T 1668773081 19.:2823woland19:.	for_window [class="ProgramClass"] move to workspace $ws1
+T 1668773113 19.:2823woland19:.	then autostart with # exec --no-startup-id exec Program
+T 1668773119 28.:192422kuhilas[m]28:.	I mean I want first instance in workspace 2 and 2nd one in workspace 3
+T 1668773150 28.:192422kuhilas[m]28:.	but even if my i3-msg has me changing first to said workspace and then executing, it still executes them in wrong workspaces occasionally
+T 1668773164 19.:2823woland19:.	udk if qutebrowser accepts assigned classe 
+T 1668773171 19.:2823woland19:.	why use i3-msg?
+T 1668773176 19.:2823woland19:.	just exec in config
+T 1668773270 28.:192422kuhilas[m]28:.	exec --no-startup-id 'workspace 2; exec qutebrowser; workspace 3; exec qutebrowser;'
+T 1668773277 28.:192422kuhilas[m]28:.	You mean this should do the same thing?
+T 1668773281 28.:192422kuhilas[m]28:.	in config
+T 1668773289 19.:2823woland19:.	it should
+T 1668773307 19.:2823woland19:.	but move to workspace 2
+T 1668773312 19.:2823woland19:.	should be better
+T 1668773371 19.:2823woland19:.	I've never ran two instances of the same program tho. terminals that accept assigned class can do this easily but idk about qutebrowser. I auto start mine in ws1 and thats it for me
+T 1668773406 28.:192422kuhilas[m]28:.	it doesn't work without i3-msg for me
+T 1668773409 28.:192422kuhilas[m]28:.	just tried
+T 1668773428 19.:2823woland19:.	did you login?
+T 1668773432 28.:192422kuhilas[m]28:.	I have actually also assigned classes for qutebrowser too where the 2nd instance gets moved automatically
+T 1668773438 28.:192422kuhilas[m]28:.	I reloaded with ctrl-r
+T 1668773453 19.:2823woland19:.	you have to log out and log back in again to make sure
+T 1668773467 19.:2823woland19:.	or startx from another tty if you can
+T 1668773488 28.:192422kuhilas[m]28:.	hmm actually that old assigning messes things up a bit, I forgot I had that
+T 1668773634 19.:2823woland19:.	if you have classes assigned to qutebrowser just assign each class to a different workspace
+T 1668773657 19.:2823woland19:.	with for_window class syntax that I sent b4
+T 1668774415 28.:192422kuhilas[m]28:.	thanks got it working now
+T 1668775575 19.:2823woland19:.	kuhilas[m]: anytime
+T 1668948824 25»19»	19Now talking on #i3
+T 1668948824 29»22»	22Topic for #i3 is: i3 v4.21.1 released | i3status 2.13 released | i3lock 2.14 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY | #i3-offtopic  
+T 1668948824 29»22»	22Topic for #i3 set by sECuRE!~sECuRE@2a02:168:4a00:0:dea6:32ff:fe02:ba14 at Mon Oct 24 23:08:37 2022
+T 1669056663 25»19»	19Now talking on #i3
+T 1669056663 29»22»	22Topic for #i3 is: i3 v4.21.1 released | i3status 2.13 released | i3lock 2.14 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY | #i3-offtopic  
+T 1669056663 29»22»	22Topic for #i3 set by sECuRE!~sECuRE@2a02:168:4a00:0:dea6:32ff:fe02:ba14 at Mon Oct 24 23:08:37 2022
+T 1669066870 25»19»	19Now talking on #i3
+T 1669066870 29»22»	22Topic for #i3 is: i3 v4.21.1 released | i3status 2.13 released | i3lock 2.14 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY | #i3-offtopic  
+T 1669066870 29»22»	22Topic for #i3 set by sECuRE!~sECuRE@2a02:168:4a00:0:dea6:32ff:fe02:ba14 at Mon Oct 24 23:08:37 2022
+T 1669415704 25»19»	19Now talking on #i3
+T 1669415704 29»22»	22Topic for #i3 is: i3 v4.21.1 released | i3status 2.13 released | i3lock 2.14 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY | #i3-offtopic  
+T 1669415704 29»22»	22Topic for #i3 set by sECuRE!~sECuRE@2a02:168:4a00:0:dea6:32ff:fe02:ba14 at Mon Oct 24 23:08:37 2022
+T 1669415704 28-21Notice28-	21{28from NickServ21} This nickname is registered and protected.  If it is your nickname, you may
+T 1669415704 28-21Notice28-	21{28from NickServ21} authenticate yourself to services with the IDENTIFY command.  You are
+T 1669415704 28-21Notice28-	21{28from NickServ21} getting this message because you are not on the access list for the
+T 1669415704 28-21Notice28-	21{28from NickServ21} woland nickname.
+T 1669415704 23»21»	Received a CTCP VERSION from CTCPServ
+T 1669425909 25»19»	19Now talking on #i3
+T 1669425909 29»22»	22Topic for #i3 is: i3 v4.21.1 released | i3status 2.13 released | i3lock 2.14 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY | #i3-offtopic  
+T 1669425909 29»22»	22Topic for #i3 set by sECuRE!~sECuRE@2a02:168:4a00:0:dea6:32ff:fe02:ba14 at Mon Oct 24 23:08:37 2022
+T 1669425909 28-21Notice28-	21{28from NickServ21} This nickname is registered and protected.  If it is your nickname, you may
+T 1669425909 28-21Notice28-	21{28from NickServ21} authenticate yourself to services with the IDENTIFY command.  You are
+T 1669425909 28-21Notice28-	21{28from NickServ21} getting this message because you are not on the access list for the
+T 1669425909 28-21Notice28-	21{28from NickServ21} woland nickname.
+T 1669425909 23»21»	Received a CTCP VERSION from CTCPServ
+T 1669771216 25»19»	19Now talking on #i3
+T 1669771216 29»22»	22Topic for #i3 is: i3 v4.21.1 released | i3status 2.13 released | i3lock 2.14 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY | #i3-offtopic  
+T 1669771216 29»22»	22Topic for #i3 set by sECuRE!~sECuRE@2a02:168:4a00:0:dea6:32ff:fe02:ba14 at Mon Oct 24 23:08:37 2022
+T 1669936508 25»19»	19Now talking on #i3
+T 1669936508 29»22»	22Topic for #i3 is: i3 v4.21.1 released | i3status 2.13 released | i3lock 2.14 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY | #i3-offtopic  
+T 1669936508 29»22»	22Topic for #i3 set by sECuRE!~sECuRE@2a02:168:4a00:0:dea6:32ff:fe02:ba14 at Mon Oct 24 23:08:37 2022
+T 1669936508 28-21Notice28-	21{28from NickServ21} This nickname is registered and protected.  If it is your nickname, you may
+T 1669936508 28-21Notice28-	21{28from NickServ21} authenticate yourself to services with the IDENTIFY command.  You are
+T 1669936508 28-21Notice28-	21{28from NickServ21} getting this message because you are not on the access list for the
+T 1669936508 28-21Notice28-	21{28from NickServ21} woland nickname.
+T 1669936508 23»21»	Received a CTCP VERSION from CTCPServ
+T 1669936713 28»18»	Disconnected ().
+T 1669936738 28»18»	woland already in use. Retrying with ...
+T 1669936769 28»18»	Disconnected (Remote host closed socket).
+T 1669936782 28»18»	woland already in use. Retrying with ...
+T 1669936812 28»18»	Disconnected (Remote host closed socket).
+T 1669936825 28»18»	woland already in use. Retrying with ...
+T 1669936860 28»18»	Disconnected (Remote host closed socket).
+T 1669936874 24»23»23	woland sets modes (woland :+i)
+T 1669936874 25»19»	19Now talking on #i3
+T 1669936874 29»22»	22Topic for #i3 is: i3 v4.21.1 released | i3status 2.13 released | i3lock 2.14 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY | #i3-offtopic  
+T 1669936874 29»22»	22Topic for #i3 set by sECuRE!~sECuRE@2a02:168:4a00:0:dea6:32ff:fe02:ba14 at Mon Oct 24 23:08:37 2022
+T 1669936874 28-21Notice28-	21{28from NickServ21} This nickname is registered and protected.  If it is your nickname, you may
+T 1669936874 28-21Notice28-	21{28from NickServ21} authenticate yourself to services with the IDENTIFY command.  You are
+T 1669936874 28-21Notice28-	21{28from NickServ21} getting this message because you are not on the access list for the
+T 1669936874 28-21Notice28-	21{28from NickServ21} woland nickname.
+T 1669936874 23»21»	Received a CTCP VERSION from CTCPServ
+T 1669937253 28»18»	Disconnected ().
+T 1669937296 28»18»	Disconnected (Remote host closed socket).
+T 1669937307 28»18»	woland already in use. Retrying with ...
+T 1669937311 FiSHLiM plugin unloaded
+T 1669937700 25»19»	19Now talking on #i3
+T 1669937700 29»22»	22Topic for #i3 is: i3 v4.21.1 released | i3status 2.13 released | i3lock 2.14 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY | #i3-offtopic  
+T 1669937700 29»22»	22Topic for #i3 set by sECuRE!~sECuRE@2a02:168:4a00:0:dea6:32ff:fe02:ba14 at Mon Oct 24 23:08:37 2022
+T 1669997106 25»19»	19Now talking on #i3
+T 1669997106 29»22»	22Topic for #i3 is: i3 v4.21.1 released | i3status 2.13 released | i3lock 2.14 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY | #i3-offtopic  
+T 1669997106 29»22»	22Topic for #i3 set by sECuRE!~sECuRE@2a02:168:4a00:0:dea6:32ff:fe02:ba14 at Mon Oct 24 23:08:37 2022
+T 1669997210 25»19»	19Now talking on #i3
+T 1669997210 29»22»	22Topic for #i3 is: i3 v4.21.1 released | i3status 2.13 released | i3lock 2.14 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY | #i3-offtopic  
+T 1669997210 29»22»	22Topic for #i3 set by sECuRE!~sECuRE@2a02:168:4a00:0:dea6:32ff:fe02:ba14 at Mon Oct 24 23:08:37 2022
+T 1670375689 25»19»	19Now talking on #i3
+T 1670375689 29»22»	22Topic for #i3 is: i3 v4.21.1 released | i3status 2.13 released | i3lock 2.14 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY | #i3-offtopic  
+T 1670375689 29»22»	22Topic for #i3 set by sECuRE!~sECuRE@2a02:168:4a00:0:dea6:32ff:fe02:ba14 at Mon Oct 24 23:08:37 2022
+T 1670376329 25»19»	19Now talking on #i3
+T 1670376329 29»22»	22Topic for #i3 is: i3 v4.21.1 released | i3status 2.13 released | i3lock 2.14 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY | #i3-offtopic  
+T 1670376329 29»22»	22Topic for #i3 set by sECuRE!~sECuRE@2a02:168:4a00:0:dea6:32ff:fe02:ba14 at Mon Oct 24 23:08:37 2022
+T 1670376623 25»19»	19Now talking on #i3
+T 1670376623 29»22»	22Topic for #i3 is: i3 v4.21.1 released | i3status 2.13 released | i3lock 2.14 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY | #i3-offtopic  
+T 1670376623 29»22»	22Topic for #i3 set by sECuRE!~sECuRE@2a02:168:4a00:0:dea6:32ff:fe02:ba14 at Mon Oct 24 23:08:37 2022
+T 1670443655 25»19»	19Now talking on #i3
+T 1670443655 29»22»	22Topic for #i3 is: i3 v4.21.1 released | i3status 2.13 released | i3lock 2.14 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY | #i3-offtopic  
+T 1670443655 29»22»	22Topic for #i3 set by sECuRE!~sECuRE@2a02:168:4a00:0:dea6:32ff:fe02:ba14 at Mon Oct 24 23:08:37 2022
+T 1670444395 28.:192429merskot28:.	I have a weird problem with an external monitor I occasionally use with my laptop: after suspending and waking up, it still shows up in xrandr, but it remains dark. When I reboot, it works fine until I suspend again. I'm not absolutely sure that it is a problem with i3, but it works flawlessly with xfce. When the screen is just locked with i3lock, it works too, so it must be an issue with the suspend somehow. Does anyone have an idea, even just about which p
+T 1670444396 28.:192429merskot28:.	y system might be causing this?
+T 1670507296 25»19»	19Now talking on #i3
+T 1670507296 29»22»	22Topic for #i3 is: i3 v4.21.1 released | i3status 2.13 released | i3lock 2.14 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY | #i3-offtopic  
+T 1670507296 29»22»	22Topic for #i3 set by sECuRE!~sECuRE@2a02:168:4a00:0:dea6:32ff:fe02:ba14 at Mon Oct 24 23:08:37 2022
+T 1670508522 25»19»	19Now talking on #i3
+T 1670508522 29»22»	22Topic for #i3 is: i3 v4.21.1 released | i3status 2.13 released | i3lock 2.14 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY | #i3-offtopic  
+T 1670508522 29»22»	22Topic for #i3 set by sECuRE!~sECuRE@2a02:168:4a00:0:dea6:32ff:fe02:ba14 at Mon Oct 24 23:08:37 2022
+T 1670551891 25»19»	19Now talking on #i3
+T 1670551891 29»22»	22Topic for #i3 is: i3 v4.21.1 released | i3status 2.13 released | i3lock 2.14 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY | #i3-offtopic  
+T 1670551891 29»22»	22Topic for #i3 set by sECuRE!~sECuRE@2a02:168:4a00:0:dea6:32ff:fe02:ba14 at Mon Oct 24 23:08:37 2022
+T 1670552366 28»18»	Disconnected ().
+T 1670552412 28»18»	Disconnected (Remote host closed socket).
+T 1670552456 28»18»	Disconnected (Remote host closed socket).
+T 1670552500 28»18»	Disconnected (Remote host closed socket).
+T 1670552546 28»18»	Disconnected (Remote host closed socket).
+T 1670552592 28»18»	Disconnected (Remote host closed socket).
+T 1670552635 28»18»	Disconnected (Remote host closed socket).
+T 1670552677 28»18»	Disconnected (Remote host closed socket).
+T 1670552721 28»18»	Disconnected (Remote host closed socket).
+T 1670552733 28»18»	woland already in use. Retrying with ...
+T 1670552767 28»18»	Disconnected (Remote host closed socket).
+T 1670552780 24»23»23	woland sets modes (woland :+i)
+T 1670552780 28-21Notice28-	21{28from NickServ21} This nickname is registered and protected.  If it is your nickname, you may
+T 1670552780 28-21Notice28-	21{28from NickServ21} authenticate yourself to services with the IDENTIFY command.  You are
+T 1670552780 28-21Notice28-	21{28from NickServ21} getting this message because you are not on the access list for the
+T 1670552780 28-21Notice28-	21{28from NickServ21} woland nickname.
+T 1670552780 23»21»	Received a CTCP VERSION from CTCPServ
+T 1670552780 25»19»	19Now talking on #i3
+T 1670552780 29»22»	22Topic for #i3 is: i3 v4.21.1 released | i3status 2.13 released | i3lock 2.14 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY | #i3-offtopic  
+T 1670552780 29»22»	22Topic for #i3 set by sECuRE!~sECuRE@2a02:168:4a00:0:dea6:32ff:fe02:ba14 at Mon Oct 24 23:08:37 2022
+T 1670555606 28»18»	Disconnected ().
+T 1670555618 28»18»	woland already in use. Retrying with ...
+T 1670555651 28»18»	Disconnected (Remote host closed socket).
+T 1670555663 28»18»	woland already in use. Retrying with ...
+T 1670555696 28»18»	Disconnected (Remote host closed socket).
+T 1670555708 28»18»	woland already in use. Retrying with ...
+T 1670555741 28»18»	Disconnected (Remote host closed socket).
+T 1670555753 28»18»	woland already in use. Retrying with ...
+T 1670555786 28»18»	Disconnected (Remote host closed socket).
+T 1670555798 28»18»	woland already in use. Retrying with ...
+T 1670555830 28»18»	Disconnected (Remote host closed socket).
+T 1670555842 28»18»	woland already in use. Retrying with ...
+T 1670555876 28»18»	Disconnected (Remote host closed socket).
+T 1670555888 28»18»	woland already in use. Retrying with ...
+T 1670555922 28»18»	Disconnected (Remote host closed socket).
+T 1670555934 28»18»	woland already in use. Retrying with ...
+T 1670555966 28»18»	Disconnected (Remote host closed socket).
+T 1670555978 28»18»	woland already in use. Retrying with ...
+T 1670556011 28»18»	Disconnected (Remote host closed socket).
+T 1670556023 24»23»23	woland sets modes (woland :+i)
+T 1670556023 28-21Notice28-	21{28from NickServ21} This nickname is registered and protected.  If it is your nickname, you may
+T 1670556023 28-21Notice28-	21{28from NickServ21} authenticate yourself to services with the IDENTIFY command.  You are
+T 1670556023 28-21Notice28-	21{28from NickServ21} getting this message because you are not on the access list for the
+T 1670556023 28-21Notice28-	21{28from NickServ21} woland nickname.
+T 1670556023 23»21»	Received a CTCP VERSION from CTCPServ
+T 1670556024 25»19»	19Now talking on #i3
+T 1670556024 29»22»	22Topic for #i3 is: i3 v4.21.1 released | i3status 2.13 released | i3lock 2.14 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY | #i3-offtopic  
+T 1670556024 29»22»	22Topic for #i3 set by sECuRE!~sECuRE@2a02:168:4a00:0:dea6:32ff:fe02:ba14 at Mon Oct 24 23:08:37 2022
