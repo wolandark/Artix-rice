@@ -1,7 +1,0 @@
-T 1668710820 25»19»	19Now talking on #linux
-T 1668710820 29»22»	22Topic for #linux is: Get Linux help | Please be patient when asking | You'll need to authenticate to talk.
-T 1668710820 29»22»	22Topic for #linux set by ChanServ!services@services.oftc.net at Mon Aug 15 00:22:40 2022
-T 1668710820 28-21Notice28-	21{28from ChanServ21} [#linux] <Finn> Don't ask to ask. Just ask the question you want an answer to quickly and concisely, and if anyone knows, they'll reply. Make sure to stick around so your question can be seen and replied to.
-T 1668714764 28»18»	Disconnected ().
-T 1668714865 28»18»	Disconnected (Remote host closed socket).
-T 1668714911 28»18»	Disconnected (Remote host closed socket).

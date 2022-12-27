@@ -1,6 +1,0 @@
-T 1668710902 25»19»	19Now talking on #bash
-T 1668710902 29»22»	22Topic for #bash is: [B]ourne [A]gain [Sh]ell: http://bit.ly/1kpSKFc | Common mistakes (check here first): http://bit.ly/1CiXyEV | Execute Bash code online? http://bit.ly/1M7KFWa | Linting? https://bit.ly/2zq4xF6 | Tutorials - simple: http://bit.ly/1pQoefT - advanced: http://bit.ly/1j90IIh | Question about Perl, Python, PHP, JS, etc? Check out #scripting
-T 1668710902 29»22»	22Topic for #bash set by locsmif!~none@0001196d.user.oftc.net at Tue Oct 11 10:24:31 2022
-T 1668714764 28»18»	Disconnected ().
-T 1668714865 28»18»	Disconnected (Remote host closed socket).
-T 1668714911 28»18»	Disconnected (Remote host closed socket).

@@ -1,5 +1,0 @@
-T 1668710756 25»19»	19Now talking on #bibletime
-T 1668710756 29»22»	22Topic for #bibletime is: Development of BibleTime :: Stable 3.0.3 :: http://bibletime.info :: Please file bugs and ideas to https://github.com/bibletime/bibletime/issues
-T 1668710756 29»22»	22Topic for #bibletime set by ChanServ!services@services.oftc.net at Mon Aug 15 00:11:14 2022
-T 1668711562 19.:2823woland19:.	I have bible question 
-T 1668711803 29»22»22	woland strays to satan for no answer was given
