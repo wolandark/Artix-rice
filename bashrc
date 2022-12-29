@@ -133,9 +133,9 @@ alias page='/usr/share/vim/vim90/macros/less.sh'
 alias gtop='gotop --layout=minimal'
 alias pm='pulsemixer'
 
-alias c1='echo "924482" | doas openconnect c1.kmak.us:443 --user=km16236236 --passwd-on-stdin'
-alias c2='echo "924482" | doas openconnect c2.kmak.us:443 --user=km16236236 --passwd-on-stdin'
-alias c3='echo "924482" | doas openconnect c3.kmak.us:443 --user=km16236236 --passwd-on-stdin'
+alias c1='echo "" | doas openconnect c1.kmak.us:443 --user= --passwd-on-stdin'
+alias c2='echo "" | doas openconnect c2.kmak.us:443 --user= --passwd-on-stdin'
+alias c3='echo "" | doas openconnect c3.kmak.us:443 --user= --passwd-on-stdin'
 
 alias rip="expac --timefmt='%Y-%m-%d %T' '%l\t%n %v' | sort | tail -200 | nl"
 alias riplong="expac --timefmt='%Y-%m-%d %T' '%l\t%n %v' | sort | tail -3000 | nl"
