@@ -1,0 +1,61 @@
+# Exec
+# exec nitrogen --restore
+exec /usr/bin/rpws init 9 -k
+#exec /usr/share/ratpoison/sloppy
+
+# Meta Key
+escape Alt_L
+
+# Basic
+set winname title
+set wingravity center
+set transgravity center
+set border 5
+set barborder 5
+set barpadding 1 1
+set bargravity center
+rudeness 13
+
+# Font
+set font "Roboto:size=11"
+
+# Colors
+set bgcolor #282828
+set fgcolor #ffffff
+
+# Launch
+bind t exec xterm -sk
+bind M-Return exec termite
+bind b exec qutebrowser
+bind d exec dmenu_run
+
+# Focus
+bind <UP> focusup
+bind <DOWN> focusdown
+bind <RIGHT> focusright
+bind <LEFT> focusleft
+
+# Go to Workspace
+bind 1 exec rpws 1
+bind 2 exec rpws 2
+bind 3 exec rpws 3
+bind 4 exec rpws 4
+bind 5 exec rpws 5
+bind 6 exec rpws 6
+bind 7 exec rpws 7
+bind 8 exec rpws 8
+bind 9 exec rpws 9
+bind S-Right exec rpws next
+bind S-Left exec rpws prev
+
+# Send to Workspace
+bind M-1 rpwsm1
+bind M-2 rpwsm2
+bind M-3 rpwsm3
+bind M-4 rpwsm4
+bind M-5 rpwsm5
+bind M-6 rpwsm6
+bind M-7 rpwsm7
+bind M-8 rpwsm8
+bind M-9 rpwsm9
+bind M-q kill

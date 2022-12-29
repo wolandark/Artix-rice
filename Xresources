@@ -1,0 +1,370 @@
+! _       __      __                __
+!| |     / /___  / /___ _____  ____/ /
+!| | /| / / __ \/ / __ `/ __ \/ __  / 
+!| |/ |/ / /_/ / / /_/ / / / / /_/ /  
+!|__/|__/\____/_/\__,_/_/ /_/\__,_/   
+!                                     
+!   _  __                                               
+!  | |/ /________  _________  __  _______________  _____
+!  |   // ___/ _ \/ ___/ __ \/ / / / ___/ ___/ _ \/ ___/
+! /   |/ /  /  __(__  ) /_/ / /_/ / /  / /__/  __(__  ) 
+!/_/|_/_/   \___/____/\____/\__,_/_/   \___/\___/____/  
+!                                                       
+!=========
+!  Guide |
+!=========
+!
+!(ctrl+plus = increase ; ctrl+minus = decrease, ctrl+0 = default)
+! ctrl+shift+c  ; ctrl+shift+v 
+! - open url (clickable links)
+!   1) double click to highlight the full url
+!   2) Shift + click it to open it
+
+!select with mouth to copy to CLIPBOARD 
+!use Shift + middle mouse button to paste
+!
+!Scroll with mouse or Shift Pgup PgDn
+
+
+! Allow xterm to report the TERM variable correctly.
+! Do not set the TERM variable from your ~/.bashrc or ~/.bash_profile or similar file.
+! The terminal itself should report the correct TERM to the system so that the proper terminfo file will be used.
+! Two usable terminfo names are xterm and xterm-256color
+
+!===============================================================!
+!====================== Xterm Settings =========================!
+!===============================================================!
+
+/* XTerm.termName: xterm-truecolor */
+XTerm.termName: xterm-256color
+XTerm*transparent: true
+
+!-------[ Fonts ]-------
+
+XTerm*faceName: SauceCodePro Nerd Font
+XTerm*faceSize: 13
+
+! VT Font Menu: Unreadable
+xterm*faceSize1: 10
+! VT font menu: Tiny
+xterm*faceSize2: 11
+! VT font menu: Medium
+xterm*faceSize3: 14
+! VT font menu: Large
+xterm*faceSize4: 16
+! VT font menu: Huge
+xterm*faceSize5: 18
+xterm*faceSize6: 20
+xterm*faceSize7: 22
+xterm*faceSize8: 24
+xterm*faceSize9: 26
+
+! Locale must be UTF-8 
+XTerm.vt100.locale: true
+
+!---------- [ Cursor ] ------------------
+
+! pointer and cursor (blinking and color)
+XTerm*pointerColor: white
+XTerm*pointerColorBackground: black
+! XTerm*cursorColor: #EBD27D
+! XTerm*cursorColor: white
+XTerm*cursorBlink: false
+
+!! Selecting Text
+! Only select text
+XTerm*highlightSelection: true
+! Remove trailing spaces
+XTerm*trimSelection: true
+
+!!------------ [Scrolling ]---------------
+! Lines that you can scroll back 
+XTerm*saveLines: 16384
+
+! Turn the scrollbar on, and put it on the right
+! XTerm.vt100.scrollBar: true
+! XTerm.vt100.scrollbar.width: 8
+! xterm*scrollBar: true
+! xterm*rightScrollBar: true
+
+! Do not scroll when there is new input e.g. tail -f /var/syslog
+XTerm*scrollTtyOutput: false
+
+!!-------------------[ Keybinding ]-------------------
+XTerm.vt100.translations: #override \n\
+  Ctrl <Key> minus: smaller-vt-font() \n\
+  Ctrl <Key> plus: larger-vt-font() \n\
+  Ctrl <Key> 0: set-vt-font(d) \n\
+  Ctrl Shift <Key>C: copy-selection(CLIPBOARD) \n\
+  Ctrl Shift <Key>V: insert-selection(CLIPBOARD) \n\
+  Shift <Btn1Up>: exec-formatted("xdg-open '%t'", PRIMARY) \n\
+  <Btn1Up>: select-end(PRIMARY, CLIPBOARD, CUT_BUFFER0) \n\
+  <Btn2Up>: insert-selection(PRIMARY)
+
+! enable copy/paste hotkey to work (shift+insert = paste ; mouse highlight = copy)
+XTerm*selectToClipboard: true
+! disable fullscreen hotkey alt+enter (hotkey conflicts with weechat, midnight commander ...etc)
+XTerm*fullscreen: never
+! enable alt key to work
+XTerm*metaSendsEscape: true 
+! Fix the backspace key (for Emacs)
+XTerm.vt100.backarrowKey: false
+XTerm.ttyModes: erase ^?
+
+! double-click to select whole URLs 
+XTerm*charClass: 33:48,36-47:48,58-59:48,61:48,63-64:48,95:48,126:48
+
+! Tips: Left and right selection (text selection using left button for beginning and right button for end)
+! Tips: Triple Click ( 1 click = nothing, 2 click = select word, 3 click = select line )
+!
+! XTerm*on3Clicks: regex [[:alpha:]]+://([[:alnum:]!#+,./=?@_~-]|(%[[:xdigit:]][[:xdigit:]]))+
+XTerm*on3Clicks: regex ([[:alpha:]]+://)?([[:alnum:]!#+,./=?@_~-]|(%[[:xdigit:]][[:xdigit:]]))+
+
+XTerm*vt100.Translations: #override\
+  Shift <KeyPress> Home:  scroll-to(begin) \n\
+  Shift <KeyPress> End:   scroll-to(end) \n\
+
+!    Ctrl <Key>M: maximize() \n\
+!    Ctrl <Key>R: restore() \n\
+!                 Shift <KeyPress> Prior:scroll-back(1,halfpage) \n\
+!                  Shift <KeyPress> Next:scroll-forw(1,halfpage) \n\
+!                Shift <KeyPress> Select:select-cursor-start() \
+!                                        select-cursor-end(SELECT, CUT_BUFFER0) \n\
+!                Shift <KeyPress> Insert:insert-selection(SELECT, CUT_BUFFER0) \n\
+!                        Alt <Key>Return:fullscreen() \n\
+!               <KeyRelease> Scroll_Lock:scroll-lock() \n\
+!           Shift~Ctrl <KeyPress> KP_Add:larger-vt-font() \n\
+!           Shift Ctrl <KeyPress> KP_Add:smaller-vt-font() \n\
+!           Shift <KeyPress> KP_Subtract:smaller-vt-font() \n\
+!                       ~Meta <KeyPress>:insert-seven-bit() \n\
+!                        Meta <KeyPress>:insert-eight-bit() \n\
+!                       !Ctrl <Btn1Down>:popup-menu(mainMenu) \n\
+!                       ~Meta <Btn1Down>:select-start() \n\
+!                     ~Meta <Btn1Motion>:select-extend() \n\
+!                       !Ctrl <Btn2Down>:popup-menu(vtMenu) \n\
+!                 ~Ctrl ~Meta <Btn2Down>:ignore() \n\
+!                        Meta <Btn2Down>:clear-saved-lines() \n\
+!                   ~Ctrl ~Meta <Btn2Up>:insert-selection(SELECT, CUT_BUFFER0) \n\
+!                       !Ctrl <Btn3Down>:popup-menu(fontMenu) \n\
+!                 ~Ctrl ~Meta <Btn3Down>:start-extend() \n\
+!                     ~Meta <Btn3Motion>:select-extend() \n\
+!                        Ctrl <Btn4Down>:scroll-back(1,halfpage,m) \n\
+!                             <Btn4Down>:scroll-back(5,line,m)     \n\
+!                        Ctrl <Btn5Down>:scroll-forw(1,halfpage,m) \n\
+!                                <BtnUp>:select-end(SELECT, CUT_BUFFER0) \n\
+!                              <BtnDown>:ignore()
+
+!==========================================!
+!=================Themes===================!
+!==========================================!
+
+!=======================!
+!========Lunaperche=====!
+!=======================!
+! special
+*.foreground:   #ffffff
+*.background:   #000000
+*.cursorColor:  #fffff7
+
+! black
+*.color0:       #000000
+*.color8:       #767676
+
+! red
+*.color1:       #af5f5f
+*.color9:       #ff5f5f
+
+! green
+*.color2:       #5fd75f
+*.color10:      #5faf5f
+
+! yellow
+*.color3:       #ffd787
+*.color11:      #af875f
+
+! blue
+*.color4:       #5fb3f0
+*.color12:      #06b1ff
+
+! magenta
+*.color5:       #e85b92
+*.color13:      #bb5d79
+
+! cyan
+*.color6:       #5f87af
+*.color14:      #5fafff
+
+! white
+*.color7:       #c6c6c6
+*.color15:      #e2f1f6
+
+!=======================!
+!========Woland=========!
+!=======================!
+! special
+/* *.foreground:   #fffff7 */
+/* *.background:   #000000 */
+/* *.cursorColor:  #fffff7 */
+
+/* ! black */
+/* *.color0:       #151515 */
+/* *.color8:       #696969 */
+
+/* ! red */
+/* *.color1:       #ff8eaf */
+/* *.color9:       #ed4c7a */
+
+/* ! green */
+/* *.color2:       #a6e25f */
+/* *.color10:      #a6e179 */
+
+/* ! yellow */
+/* *.color3:       #f8e578 */
+/* *.color11:      #ffdf6b */
+
+/* ! blue */
+/* *.color4:       #a6b3f0 */
+/* *.color12:      #06b1ff */
+
+/* ! magenta */
+/* *.color5:       #e85b92 */
+/* *.color13:      #bb5d79 */
+
+/* ! cyan */
+/* *.color6:       #5f868f */
+/* *.color14:      #87a8af */
+
+/* ! white */
+/* *.color7:       #d5f1f2 */
+/* *.color15:      #e2f1f6 */
+
+!==================
+!---Gruvbox-dark---
+!==================
+! File: gruvbox-dark.xresources
+! Author: morhetz <morhetz@gmail.com>
+! Source: https://github.com/morhetz/gruvbox-generalized
+
+! hard contrast: *background: #1d2021
+/* *background: #282828 */
+! soft contrast: *background: #32302f
+/* *foreground: #ebdbb2 */
+! Black + DarkGrey
+/* *color0:  #282828 */
+/* *color8:  #928374 */
+! DarkRed + Red
+/* *color1:  #cc241d */
+/* *color9:  #fb4934 */
+! DarkGreen + Green
+/* *color2:  #98971a */
+/* *color10: #b8bb26 */
+! DarkYellow + Yellow
+/* *color3:  #d79921 */
+/* *color11: #fabd2f */
+! DarkBlue + Blue
+/* *color4:  #458588 */
+/* *color12: #83a598 */
+! DarkMagenta + Magenta
+/* *color5:  #b16286 */
+/* *color13: #d3869b */
+! DarkCyan + Cyan
+/* *color6:  #689d6a */
+/* *color14: #8ec07c */
+! LightGrey + White
+/* *color7:  #a89984 */
+/* *color15: #ebdbb2 */
+
+
+!====================
+!---Solarized-Dark---
+!====================
+!!Source http://github.com/altercation/solarized
+!
+! *background: #002b36
+! *foreground: #657b83
+! !!*fading: 40
+! *fadeColor: #002b36
+! ! *cursorColor: #93a1a1
+! *pointerColorBackground: #586e75
+! *pointerColorForeground: #93a1a1
+!
+! !! black dark/light
+! *color0: #073642
+! *color8: #002b36
+!
+! !! red dark/light
+! *color1: #dc322f
+! *color9: #cb4b16
+!
+! !! green dark/light
+! *color2: #859900
+! *color10: #586e75
+!
+! !! yellow dark/light
+! *color3: #b58900
+! *color11: #657b83
+!
+! !! blue dark/light
+! *color4: #268bd2
+! *color12: #839496
+!
+! !! magenta dark/light
+! *color5: #d33682
+! *color13: #6c71c4
+!
+! !! cyan dark/light
+! *color6: #2aa198
+! *color14: #93a1a1
+!
+! !! white dark/light
+! *color7: #eee8d5
+! *color15: #fdf6e3
+!
+
+!====================================
+!===============URXVT================
+!====================================
+
+URxvt.perl-ext-common: default,clipboard,url-select,keyboard-select,resize-font,bidi
+
+URxvt.bidi.LRE: \\\\[([]
+URxvt.bidi.PDF: \\\\[)\\]]
+urxvt-vimh.bidi.par: true
+urxvt-vimh.cursorUnderline: true
+urxvt-vimh.bidi.ParReset: ^\\s*$|^\\\\begin|^\\\\\\[
+urxvt-vimh.bidi.ParResetAfter: ^\\\\end|\\\\\\]$
+
+URxvt.keysym.M-Down: resize-font:smaller
+URxvt.keysym.M-Up:resize-font:bigger
+URxvt.keysym.M-u: perl:url-select:select_next
+URxvt.keysym.M-Escape: perl:keyboard-select:activate
+URxvt.keysym.M-s: perl:keyboard-select:search
+URxvt.keysym.M-c: perl:clipboard:copy
+URxvt.keysym.M-v: perl:clipboard:paste
+URxvt.keysym.C-Delete: perl:matcher:last
+URxvt.keysym.M-Delete: perl:matcher:list
+
+URxvt*scrollTtyOutput: false
+URxvt*scrollWithBuffer: true
+URxvt*scrollTtyKeypress: true
+URxvt.scrollBar: false
+
+
+URxvt.font: xft:liberation mono:size=14
+URxvt.letterSpace: -1
+
+URxvt.clipboard.autocopy: true
+
+URxvt.url-launcher: /usr/bin/xdg-open
+URxvt.matcher.button: 1
+
+
+URxvt.matcher.rend.0: Uline Bold fg5
+URxvt.colorUL: #4682B4
+
+
+URxvt.url-select.launcher:  qutebrowser
+URxvt.url-select.underline: true
+
+URxvt.depth: 32
+URxvt.background: [85]#282828

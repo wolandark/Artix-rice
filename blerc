@@ -1,0 +1,79 @@
+# blerc
+
+########################
+#Fix Uncalled Multiline#
+########################
+function ble/term/bracketed-paste-mode/enter { :; }
+function ble/term/bracketed-paste-mode/leave { :; }
+
+ble-bind -m vi_imap -f 'C-m' 'accept-line'
+ble-bind -m vi_imap -f 'RET' 'accept-line'
+ble-bind -m vi_nmap -f 'C-m' 'accept-line'
+ble-bind -m vi_nmap -f 'RET' 'accept-line'
+
+bleopt accept_line_threshold=-1
+bleopt editor=vim
+
+####################
+#Auto Complete Face#
+####################
+#Grayish Italic
+ble-face auto_complete='fg=242,italic'
+
+#Grayish with shadow auto_complete
+#ble-face auto_complete='fg=242,bg=235'
+
+#Blue auto_complete
+#ble-face auto_complete='fg=white,bg=69'
+
+# Grayish Italic auto_complete
+#ble-face auto_complete='fg=240,underline,italic'
+
+#Grayish
+#ble-face auto_complete='fg=gray'
+
+# Do not show mode line
+bleopt keymap_vi_mode_show:=
+# Define prompt sequence \q{my/vim-mode}
+function ble/prompt/backslash:my/vim-mode {
+  bleopt keymap_vi_mode_update_prompt:=1
+  case $_ble_decode_keymap in
+  (vi_[on]map) ble/prompt/print '(cmd)' ;;
+  (vi_imap) ble/prompt/print '(ins)' ;;
+  (vi_smap) ble/prompt/print '(sel)' ;;
+  (vi_xmap) ble/prompt/print '(vis)' ;;
+  esac
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
