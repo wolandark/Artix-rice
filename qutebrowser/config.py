@@ -665,3 +665,7 @@ config.bind('Z', 'hint links spawn st -e youtube-dl {hint-url}')
 config.bind('s', 'set-cmd-text -s :bookmark-load')
 config.bind('xb', 'config-cycle statusbar.show always never')
 config.bind('xt', 'config-cycle tabs.show always never')
+config.bind(',o', 'spawn --userscript dmenu_qutebrowser')
+config.bind(',d', 'spawn --userscript open_download')
+config.bind(',t', 'spawn --userscript translate')
+
