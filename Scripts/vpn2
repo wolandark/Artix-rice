@@ -16,5 +16,5 @@ min_rtt() {
 fastest="$(for host in ${servers[@]}; do min_rtt $host; done | sort -V | head -n1)"
 fastest_host="${fastest#* }"
 
-echo 924482 | doas openconnect $fastest_host:443 --user=km16236236 --passwd-on-stdin
+echo password | doas openconnect $fastest_host:443 --user= --passwd-on-stdin
 
